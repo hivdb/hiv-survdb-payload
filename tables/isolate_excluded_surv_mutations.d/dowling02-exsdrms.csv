@@ -1,0 +1,9 @@
+﻿ref_name,isolate_name,mutation,position,amino_acid
+Dowling02,KER2018,PR:G73S,73,S
+Dowling02,KSM4017,PR:G73S,73,S
+Dowling02,KER2018,RT:M184I,184,I
+Dowling02,KSM4017,RT:M184I,184,I
+Dowling02,KSM4023,RT:M184I,184,I
+Dowling02,KER2018,IN:E138K,138,K
+Dowling02,KISII5009,IN:G118R,118,R
+Dowling02,KSM4017,IN:E138K,138,K

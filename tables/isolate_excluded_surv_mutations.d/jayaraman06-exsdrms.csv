@@ -1,0 +1,15 @@
+﻿ref_name,isolate_name,mutation,position,amino_acid
+Jayaraman06,1-00-0025,PR:D30N,30,N
+Jayaraman06,1-00-0030,PR:D30N,30,N
+Jayaraman06,1-00-0030,PR:V32I,32,I
+Jayaraman06,1-00-0030,PR:M46I,46,I
+Jayaraman06,1-00-0030a,PR:V32I,32,I
+Jayaraman06,2-00-0551,PR:N88D,88,D
+Jayaraman06,2-01-0007,PR:M46I,46,I
+Jayaraman06,5-00-0082,PR:M46I,46,I
+Jayaraman06,5-00-0085,PR:M46I,46,I
+Jayaraman06,2-00-0583a,RT:V75A,75,A
+Jayaraman06,2-01-0036,RT:K101P,101,P
+Jayaraman06,2-01-0044,RT:T215F,215,F
+Jayaraman06,2-01-0044,RT:T215I,215,I
+Jayaraman06,2-01-0107p8,RT:D67N,67,N

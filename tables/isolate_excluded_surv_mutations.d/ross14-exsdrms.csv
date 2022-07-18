@@ -1,0 +1,9 @@
+﻿ref_name,isolate_name,mutation,position,amino_acid
+Ross14,1141,RT:T215I,215,I
+Ross14,1141,RT:T215S,215,S
+Ross14,7,RT:T215D,215,D
+Ross14,724,RT:M184I,184,I
+Ross14,75,RT:M41L,41,L
+Ross14,75,RT:L210W,210,W
+Ross14,941,RT:K219E,219,E
+Ross14,941,RT:K219N,219,N

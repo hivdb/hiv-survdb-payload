@@ -1,13 +1,10 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
 18938,7320,RT,1996-12-31,B + C,Plasma,Dideoxy,BRA,2000-10-05
-18939,7321,RT,1996-12-31,C,Plasma,Dideoxy,BRA,2000-10-05
 18940,7322,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-05
 18941,7323,RT,1996-12-31,F,Plasma,Dideoxy,BRA,2000-10-05
 18942,7324,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-05
 18943,7325,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-05
 18944,7326,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-05
-18945,7327,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-05
-18946,7328,RT,1996-12-31,F,Plasma,Dideoxy,BRA,2000-10-05
 18948,7329,RT,1996-12-31,F,Plasma,Dideoxy,BRA,2000-10-06
 18949,7330,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-06
 18950,7331,RT,1996-12-31,B,Plasma,Dideoxy,BRA,2000-10-06

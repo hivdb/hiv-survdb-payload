@@ -1,4 +1,2 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-71401,31661,IN,1999-01-01,CRF09_cpx,Plasma,Dideoxy,GRC,2006-12-14
 85512,31661,PR,1999-01-01,CRF02_AG,Plasma,Dideoxy,GRC,2007-08-02
-85513,31661,RT,1999-01-01,CRF45_cpx,Plasma,Dideoxy,GRC,2007-08-02

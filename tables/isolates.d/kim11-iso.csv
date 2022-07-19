@@ -1,6 +1,5 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
 233424,112469,IN,2007-01-04,B,Plasma,Dideoxy,KOR,2013-04-16
-233425,112470,IN,2007-08-20,B,Plasma,Dideoxy,KOR,2013-04-16
 233426,112471,IN,2007-03-13,B,Plasma,Dideoxy,KOR,2013-04-16
 233427,112472,IN,2007-02-21,B,Plasma,Dideoxy,KOR,2013-04-16
 233428,112473,IN,2007-02-09,B,Plasma,Dideoxy,KOR,2013-04-16

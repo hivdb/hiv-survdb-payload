@@ -1,7 +1,5 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
 557296,280312,PR,2009-03-16,B + F,Plasma,Dideoxy,BRA,2020-07-16
-557297,280312,RT,2009-03-16,B + F,Plasma,Dideoxy,BRA,2020-07-16
-557298,280312,IN,2009-03-16,B + F,Plasma,Dideoxy,BRA,2020-07-16
 557299,280313,PR,2008-10-21,B + F,Plasma,Dideoxy,BRA,2020-07-16
 557300,280313,RT,2008-10-21,B + F,Plasma,Dideoxy,BRA,2020-07-16
 557301,280313,IN,2008-10-21,B + F,Plasma,Dideoxy,BRA,2020-07-16

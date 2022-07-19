@@ -1,6 +1,5 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
 220853,105874,PR,2010-06-01,A,Plasma,Dideoxy,UGA,2013-03-05
-220854,105874,RT,2010-06-01,A,Plasma,Dideoxy,UGA,2013-03-05
 220855,105875,PR,2010-06-01,D,Plasma,Dideoxy,UGA,2013-03-05
 220856,105875,RT,2010-06-01,A,Plasma,Dideoxy,UGA,2013-03-05
 220857,105876,PR,2010-06-01,A,Plasma,Dideoxy,UGA,2013-03-05

@@ -1,6 +1,5 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
 368677,184386,PR,2007-06-01,B,Plasma,Dideoxy,ESP,2017-03-15
-368678,184386,RT,2007-06-01,B,Plasma,Dideoxy,ESP,2017-03-15
 368679,184387,PR,2005-06-01,B,Plasma,Dideoxy,ESP,2017-03-15
 368680,184387,RT,2005-06-01,B,Plasma,Dideoxy,ESP,2017-03-15
 368681,184388,PR,2008-06-01,B,Plasma,Dideoxy,ESP,2017-03-15

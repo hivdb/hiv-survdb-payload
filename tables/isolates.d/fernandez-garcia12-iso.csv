@@ -1,6 +1,5 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
 191446,90366,PR,2007-06-01,A,Plasma,Dideoxy,RUS,2012-03-13
-191447,90366,RT,2007-06-01,A,Plasma,Dideoxy,RUS,2012-03-13
 191448,90366,IN,2007-06-01,A,Plasma,Dideoxy,RUS,2012-03-13
 191449,90367,PR,2002-06-01,A,Plasma,Dideoxy,RUS,2012-03-13
 191450,90367,RT,2002-06-01,A,Plasma,Dideoxy,RUS,2012-03-13

@@ -1,5 +1,4 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-59999,25891,RT,2004-01-01,A,Plasma,Dideoxy,UGA,2005-12-20
 60000,25892,PR,2004-01-01,A,Plasma,Dideoxy,UGA,2005-12-20
 60001,25892,RT,2004-01-01,D,Plasma,Dideoxy,UGA,2005-12-20
 60002,25893,PR,2004-01-01,A,Plasma,Dideoxy,UGA,2005-12-20

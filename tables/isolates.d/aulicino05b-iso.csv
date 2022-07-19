@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-71596,31741,IN,2004-01-01,F,PBMC,Dideoxy,ARG,DQ189088,2007-01-31
-85558,31741,PR,2004-01-01,F,PBMC,Dideoxy,ARG,DQ189088,2007-08-02
-85559,31741,RT,2004-01-01,F,PBMC,Dideoxy,ARG,DQ189088,2007-08-02
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+71596,31741,IN,2004-01-01,F,PBMC,Dideoxy,ARG,DQ189088,NULL,2007-01-31
+85558,31741,PR,2004-01-01,F,PBMC,Dideoxy,ARG,DQ189088,NULL,2007-08-02
+85559,31741,RT,2004-01-01,F,PBMC,Dideoxy,ARG,DQ189088,NULL,2007-08-02

@@ -1,7 +1,7 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-275566,136501,PR,2009-06-01,C,Plasma,Dideoxy,CHN,KC870044,2014-10-03
-275567,136501,RT,2009-06-01,C,Plasma,Dideoxy,CHN,KC870044,2014-10-03
-275568,136501,IN,2009-06-01,C,Plasma,Dideoxy,CHN,KC870044,2014-10-03
-275569,136502,PR,2010-06-01,C,Plasma,Dideoxy,CHN,KF250400,2014-10-03
-275570,136502,RT,2010-06-01,C,Plasma,Dideoxy,CHN,KF250400,2014-10-03
-275571,136502,IN,2010-06-01,C,Plasma,Dideoxy,CHN,KF250400,2014-10-03
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+275566,136501,PR,2009-06-01,C,Plasma,Dideoxy,CHN,KC870044,NULL,2014-10-03
+275567,136501,RT,2009-06-01,C,Plasma,Dideoxy,CHN,KC870044,NULL,2014-10-03
+275568,136501,IN,2009-06-01,C,Plasma,Dideoxy,CHN,KC870044,NULL,2014-10-03
+275569,136502,PR,2010-06-01,C,Plasma,Dideoxy,CHN,KF250400,NULL,2014-10-03
+275570,136502,RT,2010-06-01,C,Plasma,Dideoxy,CHN,KF250400,NULL,2014-10-03
+275571,136502,IN,2010-06-01,C,Plasma,Dideoxy,CHN,KF250400,NULL,2014-10-03

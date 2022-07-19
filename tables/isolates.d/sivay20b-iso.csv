@@ -1,7 +1,7 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-590939,297379,PR,2015-10-05,C,Plasma,Dideoxy,ZAF,MT185328,2021-05-12
-590940,297379,RT,2015-10-05,C,Plasma,Dideoxy,ZAF,MT185328,2021-05-12
-590941,297380,PR,2016-03-02,C,Plasma,Dideoxy,ZAF,MT185329,2021-05-12
-590942,297380,RT,2016-03-02,C,Plasma,Dideoxy,ZAF,MT185329,2021-05-12
-590943,297381,PR,2016-05-09,C,Plasma,Dideoxy,ZAF,MT185332,2021-05-12
-590944,297381,RT,2016-05-09,C,Plasma,Dideoxy,ZAF,MT185332,2021-05-12
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+590939,297379,PR,2015-10-05,C,Plasma,Dideoxy,ZAF,MT185328,NULL,2021-05-12
+590940,297379,RT,2015-10-05,C,Plasma,Dideoxy,ZAF,MT185328,NULL,2021-05-12
+590941,297380,PR,2016-03-02,C,Plasma,Dideoxy,ZAF,MT185329,NULL,2021-05-12
+590942,297380,RT,2016-03-02,C,Plasma,Dideoxy,ZAF,MT185329,NULL,2021-05-12
+590943,297381,PR,2016-05-09,C,Plasma,Dideoxy,ZAF,MT185332,NULL,2021-05-12
+590944,297381,RT,2016-05-09,C,Plasma,Dideoxy,ZAF,MT185332,NULL,2021-05-12

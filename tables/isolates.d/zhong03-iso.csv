@@ -1,5 +1,5 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-41762,17765,PR,2000-06-01,CRF02_AG,Plasma,Dideoxy,CMR,AY371703,2004-02-05
-41763,17766,PR,2000-06-01,CRF18_cpx,Plasma,Dideoxy,CMR,AY371704,2004-02-05
-41764,17767,PR,2000-06-01,CRF45_cpx,Plasma,Dideoxy,CMR,AY371705,2004-02-05
-41765,17768,PR,2000-06-01,CRF45_cpx,Plasma,Dideoxy,CMR,AY371706,2004-02-05
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+41762,17765,PR,2000-06-01,CRF02_AG,Plasma,Dideoxy,CMR,AY371703,NULL,2004-02-05
+41763,17766,PR,2000-06-01,CRF18_cpx,Plasma,Dideoxy,CMR,AY371704,NULL,2004-02-05
+41764,17767,PR,2000-06-01,CRF45_cpx,Plasma,Dideoxy,CMR,AY371705,NULL,2004-02-05
+41765,17768,PR,2000-06-01,CRF45_cpx,Plasma,Dideoxy,CMR,AY371706,NULL,2004-02-05

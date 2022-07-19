@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-309,54,RT,1991-01-01,CRF02_AG,PBMC,Dideoxy,NGA,L39106,1999-04-23
-363,54,PR,1991-01-01,CRF02_AG,PBMC,Dideoxy,NGA,L39106,1999-04-23
-71283,54,IN,1991-01-01,CRF02_AG,PBMC,Dideoxy,NGA,L39106,2006-12-14
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+309,54,RT,1991-01-01,CRF02_AG,PBMC,Dideoxy,NGA,L39106,NULL,1999-04-23
+363,54,PR,1991-01-01,CRF02_AG,PBMC,Dideoxy,NGA,L39106,NULL,1999-04-23
+71283,54,IN,1991-01-01,CRF02_AG,PBMC,Dideoxy,NGA,L39106,NULL,2006-12-14

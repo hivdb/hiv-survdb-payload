@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-165490,77337,PR,2006-07-28,G,Plasma,Dideoxy,CMR,EU693240,2010-10-13
-165491,77337,RT,2006-07-28,CRF25_cpx,Plasma,Dideoxy,CMR,EU693240,2010-10-13
-165492,77337,IN,2006-07-28,Unknown,Plasma,Dideoxy,CMR,EU693240,2010-10-13
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+165490,77337,PR,2006-07-28,G,Plasma,Dideoxy,CMR,EU693240,NULL,2010-10-13
+165491,77337,RT,2006-07-28,CRF25_cpx,Plasma,Dideoxy,CMR,EU693240,NULL,2010-10-13
+165492,77337,IN,2006-07-28,Unknown,Plasma,Dideoxy,CMR,EU693240,NULL,2010-10-13

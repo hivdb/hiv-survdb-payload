@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-10091,656,PR,1992-01-01,C,PBMC,Dideoxy,BRA,U52953,1999-04-23
-10092,656,RT,1992-01-01,C,PBMC,Dideoxy,BRA,U52953,1999-04-23
-71329,656,IN,1992-01-01,C,PBMC,Dideoxy,BRA,U52953,2006-12-14
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+10091,656,PR,1992-01-01,C,PBMC,Dideoxy,BRA,U52953,NULL,1999-04-23
+10092,656,RT,1992-01-01,C,PBMC,Dideoxy,BRA,U52953,NULL,1999-04-23
+71329,656,IN,1992-01-01,C,PBMC,Dideoxy,BRA,U52953,NULL,2006-12-14

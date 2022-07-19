@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-35702,15078,PR,1997-06-01,H,PBMC,Dideoxy,COD,AJ404325,2003-04-07
-35703,15078,RT,1997-06-01,CRF27_cpx,PBMC,Dideoxy,COD,AJ404325,2003-04-07
-87870,15078,IN,1997-06-01,CRF27_cpx,PBMC,Dideoxy,COD,AJ404325,2007-10-18
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+35702,15078,PR,1997-06-01,H,PBMC,Dideoxy,COD,AJ404325,NULL,2003-04-07
+35703,15078,RT,1997-06-01,CRF27_cpx,PBMC,Dideoxy,COD,AJ404325,NULL,2003-04-07
+87870,15078,IN,1997-06-01,CRF27_cpx,PBMC,Dideoxy,COD,AJ404325,NULL,2007-10-18

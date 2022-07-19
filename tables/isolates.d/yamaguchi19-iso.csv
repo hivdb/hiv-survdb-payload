@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-533577,268023,PR,2001-05-15,B,Plasma,Dideoxy,COD,MN271384,2020-01-30
-533578,268023,RT,2001-05-15,B,Plasma,Dideoxy,COD,MN271384,2020-01-30
-533579,268023,IN,2001-05-15,B,Plasma,Dideoxy,COD,MN271384,2020-01-30
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+533577,268023,PR,2001-05-15,B,Plasma,Dideoxy,COD,MN271384,NULL,2020-01-30
+533578,268023,RT,2001-05-15,B,Plasma,Dideoxy,COD,MN271384,NULL,2020-01-30
+533579,268023,IN,2001-05-15,B,Plasma,Dideoxy,COD,MN271384,NULL,2020-01-30

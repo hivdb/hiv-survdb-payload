@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-8022,2215,RT,1996-01-01,CRF06_cpx,PBMC,Dideoxy,AUS,AF064699,1999-04-23
-8023,2215,PR,1996-01-01,G,PBMC,Dideoxy,AUS,AF064699,1999-04-23
-70939,2215,IN,1996-01-01,CRF06_cpx,PBMC,Dideoxy,AUS,AF064699,2006-11-28
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+8022,2215,RT,1996-01-01,CRF06_cpx,PBMC,Dideoxy,AUS,AF064699,NULL,1999-04-23
+8023,2215,PR,1996-01-01,G,PBMC,Dideoxy,AUS,AF064699,NULL,1999-04-23
+70939,2215,IN,1996-01-01,CRF06_cpx,PBMC,Dideoxy,AUS,AF064699,NULL,2006-11-28

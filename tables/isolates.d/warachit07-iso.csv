@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-168745,79086,PR,1997-01-01,CRF01_AE,Plasma,Dideoxy,THA,EF192591,2011-01-24
-168746,79086,RT,1997-01-01,CRF01_AE,Plasma,Dideoxy,THA,EF192591,2011-01-24
-168747,79086,IN,1997-01-01,B,Plasma,Dideoxy,THA,EF192591,2011-01-24
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+168745,79086,PR,1997-01-01,CRF01_AE,Plasma,Dideoxy,THA,EF192591,NULL,2011-01-24
+168746,79086,RT,1997-01-01,CRF01_AE,Plasma,Dideoxy,THA,EF192591,NULL,2011-01-24
+168747,79086,IN,1997-01-01,B,Plasma,Dideoxy,THA,EF192591,NULL,2011-01-24

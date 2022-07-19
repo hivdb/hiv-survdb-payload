@@ -1,5 +1,5 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
-70867,31293,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203329,2006-11-28
-70868,31294,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203330,2006-11-28
-70869,31295,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203331,2006-11-28
-70870,31296,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203332,2006-11-28
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+70867,31293,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203329,NULL,2006-11-28
+70868,31294,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203330,NULL,2006-11-28
+70869,31295,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203331,NULL,2006-11-28
+70870,31296,IN,1998-01-01,B,Plasma,Dideoxy,USA,AF203332,NULL,2006-11-28

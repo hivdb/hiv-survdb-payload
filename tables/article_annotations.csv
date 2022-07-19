@@ -1,0 +1,891 @@
+﻿ref_name,status,annotation,action
+Abecasis07,EX,<25 RTs (1 RTs),NULL
+Abongwa19,JIntAIDSSoc2020,,NULL
+Acharya19,EX,<25 PTs,NULL
+Adojaan05,EX,<25 RTs (4 RTs),NULL
+Aghokeng09,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Aghokeng11,PLOSMED2015,,NULL
+Agwale06,EX,<25 RTs (18 RTs),NULL
+Ajoge12,PLOSMED2015,,NULL
+Akrim12,EX,Excluded (Rx not described),NULL
+Alaoui18,EX,<25 RTs,NULL
+Albert94,EX,<25 RTs (23 RTs),NULL
+Alencar13,PLOSMED2015,6 pts ARV-exposed were removed from DB,NULL
+Alexiev15,EX,Previous ART exposed included; PMTCT (1.6%) included,NULL
+Alizon86,EX,<25 RTs (2 RTs),NULL
+Amogne16,EX,<25 RTs (CPR QA),NULL
+An12,PLOSMED2015,CRF01_AE clusters in MSMs living in Liaoning; two with M46I and one with L90M; The two with M46I are closed related phylogenetically;,NULL
+Anderson00,EX,<25 RTs (4 RTs),NULL
+Andersson99,EX,<25 RTs (7 RTs),NULL
+Andresen07,EX,<25 RTs (17 RTs),NULL
+Annaz11,PLOSMED2015,"Arabic, North Africa",NULL
+Antoniadou13,PLOSMED2015,Several transmission clusters,NULL
+Apetrei98,EX,<25 RTs (14 RTs),NULL
+Araújo19,JIntAIDSSoc2020,,NULL
+Arien05,EX,<25 RTs (23 RTs),NULL
+Ariffin14,JIntAIDSSoc2020,,NULL
+Arimide18,JIntAIDSSoc2020,,NULL
+Arora08,EX,Seq Leng: 75-229 ,NULL
+Arroyo04,EX,<25 RTs (20 RTs),NULL
+Arroyo05,EX,<25 RTs (14 RTs),NULL
+Arruda10,EX,<25 RTs,NULL
+Arruda10b,PLOSMED2015,,NULL
+Arruda18,JIntAIDSSoc2020,,NULL
+Aulicino05,EX,<25 RTs (1 RTs),NULL
+Aulicino05b,EX,<25 RTs (1 RTs),NULL
+Aulicino19,EX,Pediatric,NULL
+Auwanit09,EX,Cloned,NULL
+Avi09,PLOSMED2015,A Former Soviet Union;  Mainly CRF06_cpx,NULL
+Avi10,EX,<25 RTs,NULL
+Avi10b,PLOSMED2015,A Former Soviet Union; Mainly CRF06_cpx.,NULL
+Avi13,PLOSMED2015,,NULL
+Avila-Rios12,PLOSMED2015,,NULL
+Ay17,JIntAIDSSoc2020,,NULL
+Ay20,New,,NULL
+Ayouba09,PLOSMED2015,"WHO HIVDR-TS Survey; Overall TDR is 0.8% (266); 0% in Africa, 1.7% in Asia.",NULL
+Babic06,PLOSMED2015,,NULL
+Badreddine07,EX,<25 RTs,NULL
+Baker07,PLOSMED2015,Emailed to Author; Big discrepancy of SDRM between what has been described  (0% in the paper) and what has been submitted to GB (only 68 samples in the paper).,NULL
+Balakrishnan05,PLOSMED2015,Positions containing mutations rather than mutations themselves were studied.,NULL
+Baldrich-Rubio01,EX,<25 RTs (1 RTs),NULL
+Balode10,PLOSMED2015,A Former Soviet Union; SPREAD study,NULL
+Balotta00,PLOSMED2015,,NULL
+Bang08,PLOSMED2015,,NULL
+Bao08,PLOSMED2015,Isolates from sexually infected 46 ARV-naives were sequenced.,NULL
+Bao14,JIntAIDSSoc2020,,NULL
+Barreto06,EX,Seq Leng: 1-208 ,NULL
+Barrow13,EX,Previous ART exposed included; PMTCT included; Direct Submission to HIVDB,NULL
+Bartolo09,PLOSMED2015,TDR study,NULL
+Bartolo11,EX,<25 RTs (3 RTs),NULL
+Bartolo14,PLOSMED2015,,NULL
+Baudi17,JIntAIDSSoc2020,,NULL
+Baxter21,New,,NULL
+Becker-Pergola00,PLOSMED2015,Study of subtype and polymorphism.,NULL
+Bellocchi05,PLOSMED2015,The paper states that two samples were from a same patient so one sample was removed.,NULL
+Bernardin05,EX,<25 RTs (18 RTs),NULL
+Bessong05,EX,<25 RTs (13 RTs),NULL
+Bessong06,PLOSMED2015,,NULL
+Bessong13,EX,<25 RTs,NULL
+Bila13,PLOSMED2015,"Four surveys (two sites, two different years)",NULL
+Billings16,JIntAIDSSoc2020,,NULL
+Billings17,JIntAIDSSoc2020,,NULL
+Billings19,JIntAIDSSoc2020,Repondent-driven sampling; A half of participants with VL of >1000 were sequenced,NULL
+Billong13,PLOSMED2015,139 baseline and 7 follow-up sequences,NULL
+Boender15,New,,NULL
+Boerma16,EX,Pediatric,NULL
+Bontell11,PLOSMED2015,,NULL
+Bonura10,PLOSMED2015,,NULL
+Bouchard07,EX,<25 RTs (20 RTs),NULL
+Bracho14,JIntAIDSSoc2020,,NULL
+Bradley-Stewart17,EX,<25 RTs,NULL
+Brado18,EX,<25 RTs,NULL
+Brennan07,EX,<25 RTs,NULL
+Brennan08,EX,<25 RTs,NULL
+Brennan09,PLOSMED2015,The paper did not count T215Revertants.,NULL
+Brennan10,PLOSMED2015,,NULL
+Brigido07,PLOSMED2015,Study of subtype C and CB ,NULL
+Brindeiro03,PLOSMED2015,TDR study (HIV-BResNet); 357 Accessions in GB but only 198 Accessions include RT;,NULL
+Brindeiro99,EX,<25 RTs (18 RTs),NULL
+Brockman12,EX,<25 RTs,NULL
+Brooks13,PLOSMED2015,155 were submitted to GB with additional 119 from ARV-naïves used as backgound in the tree analysis.,NULL
+Brown00,PLOSMED2015,"Study of TDR by susceptibility; Sampling from 1989 to 1998; however, the paper says that 85% were since 1996.",NULL
+Brown04,EX,<25 RTs,NULL
+Brown05,EX,<25 RTs (21 RTs),NULL
+Brown09,PLOSMED2015,,NULL
+Brumme07,PLOSMED2015,Study of HLA and CTL,NULL
+Brumme09,PLOSMED2015,"Study of HLA and Epitopes; Combined study of 765 from HOMER, 230 from WAHCS, and 555 from ACTG5128; 230 WAHCS not entered because of sequence QA;",NULL
+Bruzzone15,JIntAIDSSoc2020,,NULL
+Budambula15,EX,<25 RTs,NULL
+Bussmann05,PLOSMED2015,,NULL
+Bussmann11,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Capel13,EX,<25 RTs,NULL
+Caplinskas13,JIntAIDSSoc2020,Sequences available since 2013,NULL
+Capoferri20,New,,NULL
+Cardoso09,PLOSMED2015,,NULL
+Caron08,EX,<25 RTs (19 RTs),NULL
+Caron12,PLOSMED2015,Sequences from 107 patients included but RT is available only for 97,NULL
+Carr01,EX,<25 RTs (7 RTs),NULL
+Carr01b,EX,<25 RTs (21 RTs),NULL
+Carr05,PLOSMED2015,Study of subtypes comparing subtype A sequences from Uzbekistan (a former Soviet Union) with Cameroon subtype A sequences.,NULL
+Carr05b,EX,<25 RTs (23 RTs),NULL
+Carr06,EX,<25 RTs (2 RTs),NULL
+Carr10,EX,<25 RTs (23 RTs),NULL
+Carr96,EX,<25 RTs (1 RTs),NULL
+Carr98,EX,<25 RTs (4 RTs),NULL
+Carrion03,EX,<25 RTs (2 RTs),NULL
+Carrion04,EX,<25 RTs (2 RTs),NULL
+Carvalho11,PLOSMED2015,,NULL
+Carvalho15,JIntAIDSSoc2020,,NULL
+Casado03,EX,<25 RTs (1 RTs),NULL
+Casado05,EX,<25 RTs (2 RTs),NULL
+Castelbranco10,PLOSMED2015,Previously presented in 18th HIVDR workshop as WHO HIVDR-TS study,NULL
+Castillo09,PLOSMED2015,"For TDR estimation, this study used 62/65 which were sequenced both PR and RT (did not analyze the 3 sequences missing PR).",NULL
+Castley16,EX,Cloned,NULL
+Castro10,PLOSMED2015,,NULL
+Caumont01,EX,<25 RTs (2 RTs),NULL
+Chaillon17,JIntAIDSSoc2020,,NULL
+Chaix03,PLOSMED2015,,NULL
+Chamberland12,PLOSMED2015,,NULL
+Chang08,PLOSMED2015,,NULL
+Chang18,JIntAIDSSoc2020,,NULL
+Chang20,New,,NULL
+Charpentier11,PLOSMED2015,"Sequences containing F77L, K219R, V75A, or K219N were not counted.",NULL
+Charurat12,EX,<25 Pts,NULL
+Chaturbhuj10,PLOSMED2015,,NULL
+Chehadeh15,JIntAIDSSoc2020,,NULL
+Chehadeh17,EX,<25 RTs,NULL
+Chen12,PLOSMED2015,,NULL
+Chen13,PLOSMED2015,the paper is in Chinese,NULL
+Chen14,JIntAIDSSoc2020,,NULL
+Chen14b,JIntAIDSSoc2020,,NULL
+Chen16,JIntAIDSSoc2020,,NULL
+Chen17,EX,<25 RTs,NULL
+Chen17b,JIntAIDSSoc2020,,NULL
+Chen18,JIntAIDSSoc2020,,NULL
+Chen18b,JIntAIDSSoc2020,,NULL
+Chen18c,New,,NULL
+Chen19,EX,<25 PTs,NULL
+Chen20,New,,NULL
+Cheng20,EX,<25 PTs,NULL
+Cheong14,EX,<25 Pts,NULL
+Cheong15,EX,<25 Pts,NULL
+Cheriro15,EX,NGS,NULL
+Chibo11,PLOSMED2015,Study of transmission clusters.,NULL
+Chikata14,EX,Population not described,NULL
+Chin06,PLOSMED2015,HIVdb resistance scores were reported.,NULL
+Chin10,PLOSMED2015,,NULL
+Chin15,JIntAIDSSoc2020,,NULL
+Choi08,PLOSMED2015,,NULL
+Choi97,EX,<25 Pts,NULL
+Chow12,EX,<25 RTs (3 RTs),NULL
+Chow14,EX,<25 Pts,NULL
+Chow16,JIntAIDSSoc2020,,NULL
+Chung14,EX,Biased samples; BL sequences from ART failures; NGS,NULL
+Church07,PLOSMED2015,Baseline sequences from Clinical trials HIVNET 012 and NVAZ (sdNVP in PMTCT); Study of the prevalence of K103N in baseline samples. ,NULL
+Ciccozzi05,EX,Excluded Previously (SampleYear),NULL
+Courtney16,JIntAIDSSoc2020,,NULL
+Couto-Fernandez06,EX,<25 Pts,NULL
+Crispim19,JIntAIDSSoc2020,,NULL
+Cuevas09,PLOSMED2015,,NULL
+Cuevas09b,EX,Seq Length: 1-214 ,NULL
+Cuevas15,EX,<25 Pts,NULL
+Dalai09,PLOSMED2015,Study of subtype C evolution,NULL
+Darcissac16,JIntAIDSSoc2020,,NULL
+Dauwe15,JIntAIDSSoc2020,,NULL
+DeGascun12,PLOSMED2015,,NULL
+Dean11,PLOSMED2015,,NULL
+Deho08,PLOSMED2015,,NULL
+Delatorre16,EX,<25 Pts,NULL
+Delatorre17,JIntAIDSSoc2020,,NULL
+Delgado08,EX,Rx Na•ve was not an inclusion criteria. Some were treated.,NULL
+Delgado15,JIntAIDSSoc2020,,NULL
+Delwart12,PLOSMED2015,,NULL
+Derache07,PLOSMED2015,,NULL
+Derache08,PLOSMED2015,,NULL
+Derache18,JIntAIDSSoc2020,NGS,NULL
+Descamps10,PLOSMED2015,The list of 466 GBs received from Diane Descamps; Contacted: diane descamps <diane.descamps@bch.aphp.fr>; There is no direct link between GB and a paper; 573 in GB but only 466 in the paper; GB contains only RT but the paper describes both PR and RT; Is this a correct paper?,NULL
+Deshpande04,PLOSMED2015,,NULL
+Deshpande11,PLOSMED2015,,NULL
+Dilernia07,PLOSMED2015,Study of Subtypes,NULL
+Diop-Ndiaye10,PLOSMED2015,This study includes 38 from Vergne00 (Ref853).,NULL
+Djoko10,PLOSMED2015,,NULL
+Djoko10b,PLOSMED2015,,NULL
+Dow17,EX,Pediatric,NULL
+Dowling02,PLOSMED2015,Study of recombinants,NULL
+Duc12,PLOSMED2015,Direct Genbank Submission; CDC study,NULL
+Dumans02,PLOSMED2015,,NULL
+Duque02,PLOSMED2015,Direct Genbank submission,NULL
+Edoul20,New,,NULL
+El-Badry20,EX,<25 PTs,NULL
+Ellenberger99,EX,<25 RTs (0 RTs),NULL
+Escoto-Delgadillo05,PLOSMED2015,Latin America,NULL
+Escoto-Delgadillo16,JIntAIDSSoc2020,,NULL
+Eshleman04,EX,Previously excluded; Not a representative study,NULL
+Eshleman05,EX,<25 Pts,NULL
+Eshleman07,PLOSMED2015,Most samples were from 2001 and 2002.,NULL
+Eshleman09,EX,<25 RTs,NULL
+Eshleman09b,PLOSMED2015,,NULL
+Espinosa04,EX,<25 RTs (21 RTs),NULL
+Eyzaguirre07,PLOSMED2015,"A Former Soviet Union, Central Asia; Study of subtypes",NULL
+Fabeni20,New,,NULL
+Fang04,EX,<25 RTs (7 RTs),NULL
+Fayssel16,JIntAIDSSoc2020,,NULL
+Feng14,EX,<25 Pts,NULL
+Feng16,EX,<25 Pts,NULL
+Feng16b,JIntAIDSSoc2020,,NULL
+Feng18,EX,<25 Pts,NULL
+Fernandez-Garcia12,EX,<25 RTs (10 RTs),NULL
+Ferreira08,PLOSMED2015,The 89 AccessionIDs in GB contains only 49 RT. ,NULL
+Ferreira11,PLOSMED2015,,NULL
+Ferreira13,PLOSMED2015,4 pts with MTCT were removed from DB ,NULL
+Fish10,EX,<25 RTs,NULL
+Florea11,PLOSMED2015,Contacted: Otelea (dotelea@mateibals.ro),NULL
+Fokam16,EX,Previous ART exposed included; ART reinitiators (8%) included,NULL
+Fokam20,New,,NULL
+Fonjungo02,EX,<25 RTs (0 RTs),NULL
+Foster14,EX,<25 Pts,NULL
+Frange12,PLOSMED2015,,NULL
+Frentz13,PLOSMED2015,Spread II (the analysis in the paper used 1630 + previous Spread study),NULL
+Fujisaki09,PLOSMED2015,About 400 were included from to Ibe08; Study of subtypes,NULL
+Gafarova10,EX,<25 RTs,NULL
+Galkin06,EX,<25 RTs (1 RTs),NULL
+Galkin06b,EX,<25 RTs (4 RTs),NULL
+Galluzzo07,PLOSMED2015,,NULL
+Gao01,EX,<25 RTs (1 RTs),NULL
+Gao96,EX,<25 RTs (3 RTs),NULL
+Gao96b,EX,<25 RTs (1 RTs),NULL
+Gao98,EX,<25 RTs (8 RTs),NULL
+Gao98b,EX,<25 RTs (1 RTs),NULL
+Garrido09,EX,<25 RTs,NULL
+Gashnikova15,EX,<25 RTs,NULL
+Gashnikova16,JIntAIDSSoc2020,,NULL
+Gaspareto12,PLOSMED2015,,NULL
+Gatanaga07,PLOSMED2015,Sequences are not in GB; Missing sequences in db;,NULL
+Ghafari17,JIntAIDSSoc2020,,NULL
+Gittens03,EX,<25 RTs (0 RTs),NULL
+Gonsalez07,PLOSMED2015,,NULL
+Gonzalez-Domenech18,EX,Outbreak,NULL
+Gonzalez-Domenech20,New,,NULL
+Gonzalez-Perez03,PLOSMED2015,Direct Genbank Submission,NULL
+Gonzalez10,PLOSMED2015,Several DR lists were used.,NULL
+Gordon03,PLOSMED2015,Study for Vaccine Developmemt,NULL
+Graf11,PLOSMED2015,,NULL
+Graf98,EX,<25 RTs (1 RTs),NULL
+Grgic13,JIntAIDSSoc2020,Sequences available since 2013,NULL
+Grossman05,PLOSMED2015,Middle East; SPREAD study,NULL
+Guan20,New,,NULL
+Gui15,EX,<25 Pts,NULL
+Guimar10,EX,<25 Pts,NULL
+Guimaraes15,JIntAIDSSoc2020,,NULL
+Guimaraes15b,JIntAIDSSoc2020,,NULL
+Gulick04,PLOSMED2015,Baseline of ACTG 5095,Use_Only_Untreated
+Guo15,EX,Seq Leng,NULL
+Gurtler94,EX,<25 RTs (1 RTs),NULL
+Hachiya17,JIntAIDSSoc2020,,NULL
+Hai-Long07,EX,<25 RTs (10 RTs),NULL
+Hamers10,EX,Bigger study Hamers 2011 (ref1973) ,NULL
+Hamers11,PLOSMED2015,The study includes 547 from Hamers10.,NULL
+Han07,PLOSMED2015,Only 72 RTs in GB sequences.,NULL
+Han10,PLOSMED2015,72 RTs and 91 PR linked to Ref1506 (Han 07 ARHR),NULL
+Han13,EX,Rx not stated,NULL
+Han13b,EX,<25 RTs (2 RTs),NULL
+Han13c,EX,<25 Pts,NULL
+Han13d,JIntAIDSSoc2020,Sequences available since 2014,NULL
+Handema02,PLOSMED2015,,NULL
+Hanke19,JIntAIDSSoc2020,,NULL
+Hanke20,New,,NULL
+Hanna03,PLOSMED2015,,NULL
+Hao17,JIntAIDSSoc2020,,NULL
+Harris03,EX,<25 RTs (6 RTs),NULL
+Harris05,EX,<25 RTs (1 RTs),NULL
+Hassan13,PLOSMED2015,,NULL
+Hassan18,JIntAIDSSoc2020,,NULL
+Hassan19,New,,NULL
+Hattori10,PLOSMED2015,Survey from 2003 to 2008; 2003 sequences were published under Gatanaga07 (refid1768),NULL
+Hattori16,JIntAIDSSoc2020,,NULL
+Hawke13,PLOSMED2015,,NULL
+Hebberecht20,New,,NULL
+Heipertz13,PLOSMED2015,Several clusters,NULL
+Heipertz16,EX,Rx not stated,NULL
+Hernandez-Sanchez18,JIntAIDSSoc2020,,NULL
+Herring01,EX,<25 Pts,NULL
+Hierholzer02,EX,<25 RTs (10 RTs),NULL
+Hierholzer02b,PLOSMED2015,"Arabic, North Africa; Study of subtypes",NULL
+Hightower13,JIntAIDSSoc2020,Sequences available since 2014,NULL
+Hingankar12,PLOSMED2015,"This study analyzed baseline sequences from 96 patients in Chennai and 96 patients in Mumbai who were starting 1-line regimen. The reported TDR was 5.2% in Chennai patients and 10.4% in Mumbai patients. In GB, only 96 from Chennai patients are available. Also the author noted that patients with previous ART exposure before initiating the 1-line were not excluded. This might have been the case for the Mumbai patients. Should we keep this study?",NULL
+Hoelscher01,EX,<25 RTs (9 RTs),NULL
+Hoenigl16,JIntAIDSSoc2020,,NULL
+Holguin00,EX,<25 RTs (13 RTs),NULL
+Holguin02,EX,<25 RTs (1 RTs),NULL
+Holguin04,EX,<25 RTs (0 RTs),NULL
+Holguin07,PLOSMED2015,,NULL
+Holguin08,PLOSMED2015,,NULL
+Holguin13,PLOSMED2015,Contacted: Holguin (aholguin.hciii@salud.madrid.org) for a paper; there seem to be multiple sequences from a same patient (look at CPR tree),NULL
+Holzmayer05,EX,<25 RTs (1 RTs),NULL
+Hora15,EX,Rx not stated,NULL
+Hosaka16,EX,<25 Pts,NULL
+Howard96,EX,<25 RTs (1 RTs),NULL
+Hsi12,EX,<25 Pts,NULL
+Huang03,EX,Not a representative study ,NULL
+Huang06,EX,<25 RTs (3 RTs),NULL
+Huang09,EX,<25 RTs (2 RTs),NULL
+Huang09b,JIntAIDSSoc2020,Sequences available since 2016,NULL
+Huik19,JIntAIDSSoc2020,,NULL
+Hunt03,EX,<25 RTs (3 RTs),NULL
+Hunt13,PLOSMED2015,Data from 9 WHO TS method surveys; 345 of the 354 were found in GB.,NULL
+Hunt17,JIntAIDSSoc2020,,NULL
+Huruy15,JIntAIDSSoc2020,,NULL
+Huruy18,EX,Overlap with ref 2232,NULL
+Iamarino12,EX,<25 RTs,NULL
+Ibe08,PLOSMED2015,Most of M46I found in subtype B.,NULL
+Ibe08b,EX,<25 RTs (12 RTs),NULL
+Imade13,PLOSMED2015,34 of 38 pregnant women were sequenced. Modified WHO method was used (no age limitation),NULL
+Inzaule18,EX,<25 RTs,NULL
+Iqbal09,PLOSMED2015,55 AccessionIDs available but some of them are too short.,NULL
+Irias19,JIntAIDSSoc2020,,NULL
+Isarangkura-Na-Ayuthaya10,EX,<25 RTs,NULL
+Ishizaki09,PLOSMED2015,,NULL
+Iweriebor12,PLOSMED2015,,NULL
+Jacobs08,PLOSMED2015,Only 91 RTs are in GB.,NULL
+Jagdagsuren17,JIntAIDSSoc2020,Only 3 sequences are by NGS MiSeq,NULL
+Jahanbakhsh12,PLOSMED2015,"96% were CRF35_AD; Samples from 47 of 50 naïve were sequenced; 94 Accessions in GB, PRRT and IN were submitted separately; Subtype for PRRT was changed to CRF35_AD and for IN was changed to A;",NULL
+Jahanbakhsh13,EX,<25 Pts,NULL
+Jayaraman06,PLOSMED2015,Not in GB; 715 in the paper; Only 399 in db.,NULL
+Jia19,JIntAIDSSoc2020,,NULL
+Jiamsakul15,EX,<25 RTs,NULL
+Joao20,New,,NULL
+Jonassen00,EX,<25 RTs (1 RTs),NULL
+Jonassen97,EX,<25 RTs (1 RTs),NULL
+Jorgensen03,PLOSMED2015,,NULL
+Junqueira20,EX,<25 PTs,NULL
+K'Aluoch05,PLOSMED2015,Direct Genbank Submission,NULL
+Kamoto08,PLOSMED2015,"WHO HIVDR-TS Survey; All 54 sequences were available from this study, however, all 54 were not used to estimate TDR. 34 samples were good enough according to WhO HIVDR-TS sampling methodology. The sequence containing M46I would have been in the remainer of 20 sequences. ",NULL
+Kandathil09,PLOSMED2015,The positions containing mutations rather than mutations themselves were counted.,NULL
+Kane01,EX,<25 RTs (3 RTs),NULL
+Kannangai15,JIntAIDSSoc2020,,NULL
+Kao11,PLOSMED2015,Study of epidemiology: Outbreak of CRF07_BC (38%); Mostly env genes.,NULL
+Karade16,EX,Previous ART exposed included; PMTCT included,NULL
+Karade19,EX,<25 RTs,NULL
+Karamov18,JIntAIDSSoc2020,,NULL
+Karim10,EX,PrEX,NULL
+Karlsson12,PLOSMED2015,Only 208 sequences are available in GB.,NULL
+Kasang11,PLOSMED2015,Drug trace was found in two; Drug trace was not done for NRTIs; The two NNRTI trace mutant were removed.,NULL
+Kassu07,PLOSMED2015,,NULL
+Keita20,EX,<25 PTs,NULL
+Kemal13,PLOSMED2015,143 GBs includes from plasma and PBMC of 30 women.,NULL
+Kiertiburanakul13,PLOSMED2015,"1,798 patients (458 recent + 1,340 chronic-preART)",NULL
+Kiguoya17,EX,<25 RTs,NULL
+Kijak01,PLOSMED2015,Only 57 RT available in GB.,NULL
+Kijak04,EX,Rx not stated,NULL
+Kijak13,PLOSMED2015,"R144 Vaccine Trial; the samples used were from the volunteers who wer deferred from vaccine trial enrollment because of preexisting HIV infection; for 42 samples, full genome sequencing was done and all submitted to GB;",NULL
+Kim11,EX,<25 RTs,NULL
+Kinloch16,EX,Previous ART exposed included; 95% Naïve,NULL
+Kinloch19,EX,<25 RTs,NULL
+Kinomoto05,EX,<25 RTs (0 RTs),NULL
+Kiptoo13,PLOSMED2015,,NULL
+Kirichenko20,EX,<25 RTs,NULL
+Kiros20,New,,NULL
+Kityo16,EX,Pediatric,NULL
+Koch01,EX,<25 RTs (18 RTs),NULL
+Koizumi06,EX,Cloned,NULL
+Kojima08,EX,<25 RTs,NULL
+Konings04,EX,<25 RTs (0 RTs),NULL
+Konings04b,EX,<25 RTs (12 RTs),NULL
+Konou16,JIntAIDSSoc2020,,NULL
+Kostaki18,JIntAIDSSoc2020,,NULL
+Kostaki19,EX,ARV status for the 2nd cohort is not available,NULL
+Kotaki13,EX,<25 RTs,NULL
+Kotaki15,JIntAIDSSoc2020,,NULL
+Koulinska01,EX,<25 RTs (3 RTs),NULL
+Koulinska02,EX,<25 RTs (4 RTs),NULL
+Kouri15,JIntAIDSSoc2020,,NULL
+Kousiappa09,PLOSMED2015,,NULL
+Kousiappa11,EX,Only 30% were treatment-naive; Rx should be corrected with the author; Emailed to the author (lkostrik@ucy.ac.cy);,NULL
+Kroon18,JIntAIDSSoc2020,,NULL
+Kumar14,EX,Pediatric,NULL
+Kusagawa15,EX,<25 Pts,NULL
+Laeyendecker05,EX,<25 RTs (0 RTs),NULL
+Lahuerta08,EX,<25 RTs (0 RTs),NULL
+Lall08,PLOSMED2015,"The author stated that ""It is possible that the relatively high rates (10%) of drug resistance observed in this study may be due to study participants who had previous exposure to ART unknowingly declaring themselves ART naive.""",NULL
+Lama06,PLOSMED2015,,Use_Only_Untreated
+Lan03,PLOSMED2015,Only 175 RTs in Genbank.,NULL
+Lan20,EX,<25 PTs,NULL
+Land08,EX,<25 RTs (10 RTs),NULL
+Lataillade07,EX,<25 RTs,NULL
+Lau07,EX,<25 Pts,NULL
+Lavu17,JIntAIDSSoc2020,,NULL
+Lawrence06,EX,SeqLength up to 203,NULL
+Lazaro11,PLOSMED2015,M46I was classified as a polymorphism.,NULL
+Lebedev17,EX,Rx not stated,NULL
+Lee09,PLOSMED2015,,NULL
+Lee14,EX,Previous ART exposed included; Previous PMTCT not known,NULL
+Lee16,EX,<25 Pts,NULL
+Leoz11,EX,<25 Pts,NULL
+Leoz13,EX,<25 RTs (3 RTs),NULL
+Li05,EX,Rx not stated,NULL
+Li07,EX,<25 RTs (18 RTs),NULL
+Li10,EX,<25 RTs (1 RTs),NULL
+Li11,EX,<25 Pts,NULL
+Li13,PLOSMED2015,MSMs in Beijing; All four (5.3%) had M46L and all closely related phylogentically;,NULL
+Li13b,EX,<25 RTs (3 RTs),NULL
+Li13c,PLOSMED2015,,NULL
+Li13d,PLOSMED2015,pol genes from 98 patients,NULL
+Li14,EX,<25 Pts,NULL
+Li15,JIntAIDSSoc2020,,NULL
+Li15b,JIntAIDSSoc2020,,NULL
+Li15c,JIntAIDSSoc2020,,NULL
+Li16,JIntAIDSSoc2020,,NULL
+Li16b,JIntAIDSSoc2020,,NULL
+Li18,JIntAIDSSoc2020,,NULL
+Liang20,New,,NULL
+Liao07,PLOSMED2015,,NULL
+Liao09,PLOSMED2015,Study of epidemiology,NULL
+Liegler14,EX,PrEX,NULL
+Lihana09,JIntAIDSSoc2020,Sequences available since 2016,NULL
+Liitsola00,EX,<25 RTs (3 RTs),NULL
+Lima16,JIntAIDSSoc2020,,NULL
+Lin07,EX,<25 RTs (4 RTs),NULL
+Lin13,JIntAIDSSoc2020,,NULL
+Lindstrom06,PLOSMED2015,,NULL
+Little02,PLOSMED2015,,NULL
+Little14,JIntAIDSSoc2020,,NULL
+Liu05,EX,<25 RTs (3 RTs),NULL
+Liu07,EX,<25 RTs (0 RTs),NULL
+Liu12,EX,<25 Pts,NULL
+Liu15,EX,<25 Pts,NULL
+Lloyd08,PLOSMED2015,"Central America; The author stated that 69% were confirmed as ""Na•ve""; ",NULL
+Lole99,EX,<25 RTs (5 RTs),NULL
+Loubet14,EX,Previous ART exposed included; PMTCT included,NULL
+Lu15,JIntAIDSSoc2020,,NULL
+Lu16,EX,<25 Pts,NULL
+Lu17,JIntAIDSSoc2020,,NULL
+Lu18,JIntAIDSSoc2020,,NULL
+Lu19,JIntAIDSSoc2020,,NULL
+Luk01,EX,<25 RTs (0 RTs),NULL
+Luk07,EX,<25 RTs (3 RTs),NULL
+Luk08,EX,<25 RTs (1 RTs),NULL
+Luk15,EX,Rx not stated,NULL
+Lunar13,PLOSMED2015,150 analyzed (120 new + 30 linked to ref1724 Spread) ,NULL
+Lunar15,JIntAIDSSoc2020,,NULL
+Lunar18,JIntAIDSSoc2020,,NULL
+Lunar19,EX,<25 Pts,NULL
+Lunar20,EX,<25 PTs,NULL
+Luu12,EX,<25 RTs,NULL
+Ly05,PLOSMED2015,,NULL
+Machado02,PLOSMED2015,Mostly from US. ,Set_Region_To: Europe (Eastern)
+Machado09,EX,<25 RTs (0 RTs),NULL
+Machado12,PLOSMED2015,"Some RTs were not up to 240, excluded from CPR analysis; Some SDRMs(L33F and M46L) not found in GB sequences.",NULL
+Machado19,JIntAIDSSoc2020,,NULL
+Macharia16,JIntAIDSSoc2020,,NULL
+Machnowska19,JIntAIDSSoc2020,,NULL
+Maljkovic03,PLOSMED2015,,NULL
+Mamadou03,EX,<25 RTs (3 RTs),NULL
+Manasa11,PLOSMED2015,,NULL
+Marechal06,PLOSMED2015,,NULL
+Margot19,EX,<25 RTs,NULL
+Maruapula20,New,,NULL
+Masharsky03,EX,<25 RTs (2 RTs),NULL
+Masimba13,PLOSMED2015,Only 226 in GB,NULL
+Masoud20,EX,<25 RTs,NULL
+Matthews08,JIntAIDSSoc2020,Sequences available since 2016,NULL
+Mazzuti20,New,,NULL
+Mbange18,JIntAIDSSoc2020,Only 85 sequences were submitted; Modified WHO TS method,NULL
+Mbisa20,New,,NULL
+McClutchan02,EX,<25 RTs (1 RTs),NULL
+McConnell08,PLOSMED2015,,NULL
+McCutchan04,EX,<25 RTs (4 RTs),NULL
+McIntosh91,EX,<25 RTs (1 RTs),NULL
+McLaughlin04,EX,<25 RTs (4 RTs),NULL
+McNulty07,EX,<25 Pts,NULL
+Megasari19,JIntAIDSSoc2020,,NULL
+Megede02,EX,<25 RTs (3 RTs),NULL
+Meixenberger14,JIntAIDSSoc2020,,NULL
+Meixenberger17,EX,<25 RTs,NULL
+Meloni04,EX,<25 RTs (5 RTs),NULL
+Memarnejadian15,JIntAIDSSoc2020,,NULL
+Memarnejadian18,JIntAIDSSoc2020,,NULL
+Meng13,EX,<25 Pts,NULL
+Mezei11,PLOSMED2015,,NULL
+Mikasi17,EX,<25 RTs,NULL
+Mikasi20,EX,<25 RTs,NULL
+Milne19,EX,Previous ART exposed included; PMTCT (40%) included,NULL
+Mintsa-Ndong09,EX,<25 RTs (15 RTs),NULL
+Miri11,EX,<25 RTs (0 RTs),NULL
+Misbah13,EX,<25 RTs,NULL
+Miura08,PLOSMED2015,IsolateYears were received from Pereyra; Contacted: Emailed to Pereyra(fpereyra@partners.org) JID 2008 for isolate years; 95 HIV-1 elite controller (long-term nonprogressors); 41 RT; Isolate Year not found,NULL
+Mokili02,EX,<25 RTs (1 RTs),NULL
+Monleau12,EX,<25 RTs,NULL
+Montavon02,EX,<25 RTs (2 RTs),NULL
+Montavon02b,EX,<25 RTs (3 RTs),NULL
+Montavon99,EX,<25 RTs (1 RTs),NULL
+Mor19,EX,<25 RTs,NULL
+Mosha10,PLOSMED2015,,NULL
+Moskaleychik15,EX,<25 Pts,NULL
+Moura15,JIntAIDSSoc2020,,NULL
+Moura15b,JIntAIDSSoc2020,,NULL
+Msimanga15,EX,<25 Pts,NULL
+Mulu13,PLOSMED2015,,NULL
+Mulu15,EX,<25 RTs,NULL
+Murillo12,PLOSMED2015,"Two out of 119 were not ARV-naïve so excluded from the TDR estimation in the paper but we don't know which are the two. Because the two had no DRMs, our TDR estimation is lower than what they had;",NULL
+Musyoki12,PLOSMED2015,Study for Vaccine.,NULL
+Nadai09,PLOSMED2015,,NULL
+Nanfack17,JIntAIDSSoc2020,,NULL
+Nazziwa12,PLOSMED2015,Each of 3 of 46 (6%) contains one NNRTI DRM,NULL
+Ndase12,JIntAIDSSoc2020,Sequences available since 2014,NULL
+Ndembi08,PLOSMED2015,79 sequences include group three O and 1 HIV2; Some of the mutations reported in the paper do not exist in the genbank sequences.,NULL
+Ndembi08b,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Ndembi11,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Ndongmo06,EX,<25 RTs (0 RTs),NULL
+Nduva20,New,,NULL
+Neilson99,EX,<25 RTs (2 RTs),NULL
+Neogi10,EX,<25 RTs (21 RTs),NULL
+Neogi11,EX,<25 RTs,NULL
+Neogi15,JIntAIDSSoc2020,,NULL
+Nesakumar19,JIntAIDSSoc2020,,NULL
+Ng11,EX,<25 RTs (0 RTs),NULL
+Ng11b,EX,<25 RTs (3 RTs),NULL
+Ngo-Giang-Huong-19,EX,Previous ART exposed included; ART-exposed (7%),NULL
+Nguyen08,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Niama09,EX,<25 RTs (4 RTs),NULL
+Niculescu14,JIntAIDSSoc2020,,NULL
+Njai06,PLOSMED2015,Study of subtypes,NULL
+Njouom03,EX,Excluded Previously (SampleYear),NULL
+Nkengasong00,EX,<25 RTs (0 RTs),NULL
+Nomura13,EX,<25 RTs,NULL
+Nouhin09,PLOSMED2015,,NULL
+Nouhin11,EX,<25 RTs,NULL
+Novitsky02,EX,Cloned; No statement of All Untreated,NULL
+Novitsky15,EX,Rx not stated; Included VS pts,NULL
+Novitsky99,EX,<25 RTs (8 RTs),NULL
+Novitsky99b,EX,<25 RTs (1 RTs),NULL
+Ntemgwa08,EX,<25 RTs (1 RTs),NULL
+Nwobegahay11,PLOSMED2015,,NULL
+Nwobegahay11b,PLOSMED2015,,NULL
+Nwobegahay12,PLOSMED2015,,NULL
+Nzeyimana10,EX,Previous ART exposed included,NULL
+Oelrichs98,EX,<25 RTs (1 RTs),NULL
+Oelrichs99,EX,<25 RTs (1 RTs),NULL
+Oette06,PLOSMED2015,Sequences are not in GB.,NULL
+Ojesina06,EX,Excluded Previously (SampleYear),NULL
+Ojwach18,JIntAIDSSoc2020,,NULL
+Oliveira12,EX,<25 RTs,NULL
+Ong13,PLOSMED2015,,NULL
+OnoriodeDigban19,EX,<25 RTs,NULL
+Onoro07,PLOSMED2015,The paper in Spanish; Sequences are not in GB; Samples from 2002 - 2005; No individual IsolateYear info available;,NULL
+Onsongo16,EX,<25 RTs,NULL
+Onywera17,JIntAIDSSoc2020,,NULL
+Oroz19,New,,NULL
+Otecko16,JIntAIDSSoc2020,,NULL
+Palacios08,PLOSMED2015,The paper in Spanish.,NULL
+Palm15,EX,<25 Pts,NULL
+Palma07,PLOSMED2015,SPREAD study,NULL
+Pandey16,EX,<25 Pts,NULL
+Pando06,EX,<25 RTs (10 RTs),NULL
+Pandrea01,EX,<25 RTs (6 RTs),NULL
+Pandrea02,PLOSMED2015,Study of recombinants,NULL
+Panichsillapakit16,JIntAIDSSoc2020,,NULL
+Paolucci14,EX,<25 RTs,NULL
+Papathanasopoulos02,EX,<25 RTs (4 RTs),NULL
+Papathanasopoulos03,EX,<25 RTs (2 RTs),NULL
+Papathanasopoulos10,PLOSMED2015,,NULL
+Paraschiv07,PLOSMED2015,Study of subtype F,NULL
+Paraschiv17,JIntAIDSSoc2020,,NULL
+Paraskevis00,EX,<25 RTs (1 RTs),NULL
+Paraskevis01,EX,<25 RTs (1 RTs),NULL
+Paraskevis05,PLOSMED2015,SPREAD study,NULL
+Parboosing11,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Parczewski14,JIntAIDSSoc2020,,NULL
+Parham11,New,,NULL
+Pariente04,EX,Excluded Previously (SampleYear),NULL
+Park03,PLOSMED2015,,NULL
+Parreira04,EX,<25 RTs (0 RTs),NULL
+Parreira06,PLOSMED2015,"131 naïve patients, 43 pol sequences",NULL
+Passaes09,EX,<25 RTs,NULL
+Patino-Galindo17,New,,NULL
+Perez-Parra16,JIntAIDSSoc2020,,NULL
+Perez-Parra17,New,,NULL
+Perno01,PLOSMED2015,Study of baseline mutations associated to outcomes,NULL
+Pessoa15,JIntAIDSSoc2020,,NULL
+Pessoa16,EX,NGS,NULL
+Pessôa14,EX,<25 RTs,NULL
+Petch05,EX,<25 RTs (21 RTs),NULL
+Petroni06,PLOSMED2015,,NULL
+Pham15,JIntAIDSSoc2020,,NULL
+Phan10,PLOSMED2015,,NULL
+Phung16,EX,Pediatric,NULL
+Pieniazek04,EX,<25 RTs (0 RTs),NULL
+Pieniazek98,EX,<25 RTs (0 RTs),NULL
+Pillay02,PLOSMED2015,NULL,NULL
+Pillay08,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Pires04,PLOSMED2015,,NULL
+Piyasirisilp00,EX,<25 RTs (5 RTs),NULL
+Plantier09,EX,<25 RTs (1 RTs),NULL
+Pollakis03,EX,<25 Pts,NULL
+Powell07,EX,<25 RTs (2 RTs),NULL
+Powell07b,EX,<25 RTs (1 RTs),NULL
+Price11,PLOSMED2015,The 280 extra sequences are included in the author's next paper. We need to separate them out when the new paper is published.,NULL
+Punzi05,EX,<25 RTs (2 RTs),NULL
+Qi13,EX,Seq Leng,NULL
+Qiu05,EX,<25 RTs (5 RTs),NULL
+Ragonnet-Cronin10,PLOSMED2015,Study of Cluster Dynamics.,NULL
+Ragonnet-Cronin12,PLOSMED2015,Study of a new method for estimating the time of infection; Study includes 535 new sequences and 776 from Ragonnet-Cronin10 (ref1791);,NULL
+Ragonnet-Cronin12b,PLOSMED2015,"Study of HLA Epitopes; According to the paper, this study includes 483 new sequences, 779 from Ragonnet-Cronin10 (Ref1791) and 535 from Ragonnet-Cronin12 (ref2021);",NULL
+Ragonnet-Cronin18,EX,<25 PTs,NULL
+Ramos03,EX,<25 RTs (4 RTs),NULL
+Rasmussen18,JIntAIDSSoc2020,,NULL
+Ravuri06,EX,Excluded Previously (Unpublished),NULL
+Razafindratsimandresy06,PLOSMED2015,,NULL
+Razafindratsimandresy07,PLOSMED2015,,NULL
+Reigadas13,EX,<25 RTs,NULL
+Reinke01,EX,<25 Pts,NULL
+Reis19,EX,<25 PTs,NULL
+Reynolds16,EX,<25 Pts,NULL
+Rhee15,PLOSMED2015,"Kaiser, 2003 to 2006",NULL
+Rhee19,JIntAIDSSoc2020,KP TDR 2007 to 2017,NULL
+Roberts15,JIntAIDSSoc2020,,NULL
+Rodgers17,EX,<25 Pts,NULL
+Rodgers20,EX,<25 RTs,NULL
+Rodrigues06,PLOSMED2015,,NULL
+Rodriguez06b,EX,<25 RTs (1 RTs),NULL
+Rolland11,PLOSMED2015,Step trial (vaccine); Mostly from N. America,NULL
+Rolland12,PLOSMED2015,R144 Vaccine Trial; the samples used were from 110 volunteers who got infected during the trial; 1359 GBs were from 121 pts according to GB annotation; ,NULL
+Romano00,PLOSMED2015,,NULL
+Ross14,JIntAIDSSoc2020,,NULL
+Roudinskii04,EX,<25 RTs (0 RTs),NULL
+Rousseau06,EX,Cloned,NULL
+Rudovick18,EX,Previous ART exposed included; PMTCT included,NULL
+Rutvisuttinunt12,EX,<25 Pts,NULL
+Sa-Filho07,EX,<25 RTs (12 RTs),NULL
+Saad05,EX,<25 RTs (19 RTs),NULL
+Saad06,PLOSMED2015,A Former Soviet Union,Use_Only_Untreated
+Saad06b,PLOSMED2015,A Former Soviet Union,NULL
+Sachithanandham16,EX,<25 RTs,NULL
+Sacks-Davis20,New,,NULL
+Saeng-Aroon16,JIntAIDSSoc2020,,NULL
+Sagoe07,PLOSMED2015,,NULL
+Sagoe12,EX,<25 Pts,NULL
+Sagoe16,EX,<25 Pts,NULL
+Sahbandar09,EX,<25 RTs (3 RTs),NULL
+Salminen96,EX,<25 RTs (1 RTs),NULL
+Salvana14,JIntAIDSSoc2020,,NULL
+Sanabani11,PLOSMED2015,Only 51 sequences are available in GB.,NULL
+Sanders-Buell07,EX,<25 RTs (4 RTs),NULL
+Sanders-Buell10,EX,<25 RTs (11 RTs),NULL
+Sandstrom05,EX,Cloned,NULL
+Santos11,PLOSMED2015,"DRMs in 3 prime RT subdomains; 341 GB from 204 naive patients in city of Rio Grande, southern Brazil; 88 RTs;",NULL
+Seatla19,EX,<25 RTs,NULL
+Sebastião19,New,,NULL
+Selimova10,PLOSMED2015,,NULL
+Seoighe07,PLOSMED2015,Baseline of sdNVP Pregnant women;Sstudy of selection by sdNVP,Use_Only_Untreated
+Serrano12,PLOSMED2015,Direct Genbank Submission; CDC study,NULL
+Servais01,EX,<25 RTs (0 RTs),NULL
+Servais04,PLOSMED2015,,NULL
+Shafer03,PLOSMED2015,Baseline sequences from ACTG 384 are included.,Use_Only_Untreated
+Shafer97,EX,<25 RTs (12 RTs),NULL
+Shafer99,EX,<25 RTs (0 RTs),NULL
+Shahid11,EX,<25 RTs (6 RTs),NULL
+Shi04,EX,<25 RTs (1 RTs),NULL
+Sigaloff12,PLOSMED2015,10 years after Roll-out began,NULL
+Silva16,JIntAIDSSoc2020,,NULL
+Silva20,New,,NULL
+Simon02,PLOSMED2015,,NULL
+Simonetti14,EX,<25 Pts,NULL
+Sinha12,PLOSMED2015,Only 31 sequences are available in GB.,NULL
+Sirivichayakul01,PLOSMED2015,Study of epidemiology; ART started in 1988 in Thailand; IDV was a the preferred PI in the early years (Sirvichayakul08).,NULL
+Sirivichayakul08,PLOSMED2015,WHO HIVDR-TS sampling,NULL
+Sivay20,New,,NULL
+Sivay20b,EX,<25 PTs,NULL
+Skinner98,EX,<25 Pts,NULL
+Smith09,PLOSMED2015,,NULL
+Smolen-Dzirba12,PLOSMED2015,One of 54 had many Apobec mutations,NULL
+Smolen-Dzirba17,JIntAIDSSoc2020,,NULL
+Soares03,PLOSMED2015,Study of Brazilian subtype C,NULL
+Soares10,PLOSMED2015,"Of 59, one is group O and 49 encode RT; 6% includes polymorphic mutations and RNaseH domain mutations.",NULL
+Soheilli09,EX,<25 RTs (8 RTs),NULL
+Somda12,PLOSMED2015,,NULL
+Somi08,PLOSMED2015,WHO HIVDR-TS Survey; M46L and F53Y were not included in SDRM2007 list. ,NULL
+Song16,EX,<25 Pts,NULL
+Song20,EX,<25 PTs,NULL
+Soria12,PLOSMED2015,,NULL
+Soria19,JIntAIDSSoc2020,,NULL
+Soto-Ramirez96,EX,<25 RTs (5 RTs),NULL
+Soundararajan07,EX,Pediatric,NULL
+Ssemwanga12,PLOSMED2015,Seroconverters identified in a prevalent case study for a rural area,NULL
+Ssemwanga12b,PLOSMED2015,40 of 42 were sequenced,NULL
+Stanojevic13,PLOSMED2015,Dr. Stanojevic sent us this for our surveillance study; She included these sequences in Siljic 2013 study with treated samples.,NULL
+Steegen16,JIntAIDSSoc2020,,NULL
+Stekler14,EX,<25 RTs,NULL
+Struck07,EX,<25 RTs (20 RTs),NULL
+Struck15,EX,<25 Pts,NULL
+Su03,EX,<25 RTs (3 RTs),NULL
+Su11,PLOSMED2015,,NULL
+Su16,EX,<25 Pts,NULL
+Sucupira07,JIntAIDSSoc2020,Sequences available since 2016,NULL
+Sun19,JIntAIDSSoc2020,,NULL
+Swanson03,EX,<25 RTs (1 RTs),NULL
+Tamalet18,JIntAIDSSoc2020,,NULL
+Tamalet18b,JIntAIDSSoc2020,,NULL
+Tanaka19,JIntAIDSSoc2020,,NULL
+Tanuma13,EX,Population not described,NULL
+Tanuri99,EX,<25 RTs (0 RTs),NULL
+Tatsumi06,EX,<25 RTs (6 RTs),NULL
+Tchiakpe20,New,,NULL
+Tchouwa18,EX,Previous ART exposed included; ART-exposed (10%),NULL
+Tebit02,EX,<25 RTs (1 RTs),NULL
+Tebit06,EX,<25 RTs (0 RTs),NULL
+Tebit09,PLOSMED2015,"The author stated that 'It is also worth noting that the present study was carried out in an urban setting, where more patients are under treatment or exposed to HIV drugs. Cases of patients sharing medications are observed in such settings hence prior ART use cannot be ruled out completely in this reportedly drug-naõve group.'",NULL
+Tee05,PLOSMED2015,Study of subtypes,NULL
+Tee05b,PLOSMED2015,Study of subtypes,NULL
+Tee06,EX,<25 RTs (8 RTs),NULL
+Tee09,EX,<25 Pts,NULL
+Tee17,EX,<25 Pts,NULL
+Teixeira06,PLOSMED2015,65 ARV-na•ves include 27 from pre-HAART era and 38 from post-HAART era; TDR rates were reported separately for each two groups for each drug class.,NULL
+Telan11,EX,<25 RTs (22 RTs),NULL
+Telan12,PLOSMED2015,Need ART rollout year; Contacted: skageyama@med.tottori-u.ac.jp,NULL
+Telele18,EX,Previous ART exposed included; did not state whether self-reported ART-exposed was excluded,NULL
+Temereanca12,PLOSMED2015,Contacted: Simona Ruta (simona@simonaruta.ro) for isolation year; the paper states that the 61 sequences were from 1997 to 2011; Only 50 in GB;,NULL
+Temereanca17,New,,NULL
+Thao12,JIntAIDSSoc2020,Sequences available since 2016,NULL
+Thomson02,EX,<25 RTs (8 RTs),NULL
+Thomson05,EX,<25 RTs (1 RTs),NULL
+Thorat11,PLOSMED2015,,NULL
+Tongo15,EX,<25 Pts,NULL
+Toni02,PLOSMED2015,,NULL
+Toni03,PLOSMED2015,96 RTs in GB; The study had more sequences and reported fewer mutations (ie. one K219Q and two K219N).,NULL
+Toni05,EX,<25 RTs (6 RTs),NULL
+Toni07,PLOSMED2015,Only 87 RTs in GB.,NULL
+Totmenin19,EX,<25 RTs,NULL
+Totmenin19b,EX,<25 RTs,NULL
+Tovanabutra01,EX,<25 RTs (1 RTs),NULL
+Tovanabutra03,EX,<25 RTs (3 RTs),NULL
+Tovanabutra04,PLOSMED2015,Study of epidemiology,NULL
+Tovanabutra05,EX,<25 RTs (12 RTs),NULL
+Tovanabutra07,EX,<25 RTs (3 RTs),NULL
+Tovanabutra10,EX,<25 RTs (21 RTs),NULL
+Tramuto13,EX,Previously excluded; Large overlap with Bonura10 (Ref 1780),NULL
+Tran12,PLOSMED2015,,NULL
+Trinh12,PLOSMED2015,"Children - sdNVP exclusion? PMPTC was not discussed in the paper, however, it says ""HIV-1 DRMs that were identified in the viruses from the infants and children in this study may have been primary or transmitted from mothers who had primary or transmitted DRMs or who acquired DRMs from unrecorded antiviral treatments.""; 4 RT sequences were excluded by CPR (APOBEC mutations)",NULL
+Triques00,EX,<25 RTs (4 RTs),NULL
+Truong06,EX,A bigger study refid 1959 ,NULL
+Truong11,PLOSMED2015,,NULL
+Tscherning-Casper00,EX,<25 RTs (0 RTs),NULL
+Tshabalala11,PLOSMED2015,The study includes 56 sequences from Dalai09 (Ref1714). ,NULL
+Tsuiji06,EX,<25 RTs (20 RTs),NULL
+Tu09,PLOSMED2015,,NULL
+Tully16,EX,NGS,NULL
+Tymchuk10,EX,<25 RTs (20 RTs),NULL
+Tzitzivacos09,EX,<25 Pts,NULL
+Ugbena12,PLOSMED2015,Baseline samples from 271 patients and 18 followup sequences; Only baseline sequences were in GB.,NULL
+Vahabpour17,JIntAIDSSoc2020,,NULL
+Valle-Bahena06,PLOSMED2015,,NULL
+Vallejo98,EX,<25 RTs (0 RTs),NULL
+VanLaethem08,EX,<25 RTs,NULL
+VanTran16,JIntAIDSSoc2020,,NULL
+Varella07,PLOSMED2015,Sequences are not in GB; Only 50 in db.,NULL
+Varghese10,EX,<25 RTs,NULL
+Vaughan03,PLOSMED2015,Caribbean; WHO's regional office study,Set_Region_To: North America (Caribbean)
+Vaz12,EX,Pediatric,NULL
+Vercauteren08,PLOSMED2015,SPREAD study,NULL
+Vercauteren09,PLOSMED2015,SPREAD study; 2198 in GB;,Set_Region_To: Europe
+Vergne00,PLOSMED2015,"142 sequences were analyzed: 62 from Cameroon, 38 from Senegal, 18 from DRC and 24 from France. Four  sequences were group O (114 group M). The study reported Major DRM containing sequences which include the four group O sequences and one from France containing V108I. There were one sequence containing M41L and T215D and another one containing M46I from France, however, these mutations were classified as Minor DRM in the study. ",NULL
+Vergne06,EX,<25 RTs (19 RTs),NULL
+Vergne06b,PLOSMED2015,,NULL
+Verhofstede17,EX,Naive not distinguishable,NULL
+Vessiere06,PLOSMED2015,,NULL
+Vessiere10,EX,<25 RTs (1 RTs),NULL
+Viani06,PLOSMED2015,Mostly from US (1/55 is from Pueto Rico).,Set_Region_To: North America
+Vicente01,EX,<25 RTs (0 RTs),NULL
+Vicenti07,PLOSMED2015,Study of PBMC vs Plasma,NULL
+Vidal00,EX,<25 RTs (1 RTs),NULL
+Vidal03,EX,<25 RTs (4 RTs),NULL
+Vidal06,PLOSMED2015,,NULL
+Vidal06b,EX,<25 RTs (3 RTs),NULL
+Vidal07,PLOSMED2015,,NULL
+Vidal08,EX,<25 RTs (2 RTs),NULL
+Vidal09,EX,<25 Pts,NULL
+Vignoles07,EX,Pediatric,NULL
+Vinogradova10,PLOSMED2015,A Former Soviet Union; Mainly subtype A.,NULL
+Viputtijul02,EX,<25 RTs (1 RTs),NULL
+Visawapoka06,EX,<25 RTs (4 RTs),NULL
+Vubil16,JIntAIDSSoc2020,,NULL
+Wahid16,JIntAIDSSoc2020,,NULL
+Wang08,PLOSMED2015,Study of subtypes,NULL
+Wang09,PLOSMED2015,98 pts in the paper but 91 GB;,NULL
+Wang15,EX,Rx not stated,NULL
+Wang15b,JIntAIDSSoc2020,,NULL
+Wang15c,EX,Rx not stated,NULL
+Wang18,JIntAIDSSoc2020,,NULL
+Wang18b,JIntAIDSSoc2020,,NULL
+Wang19,New,,NULL
+Warachit07,EX,<25 RTs (1 RTs),NULL
+Watanaveeradej03,EX,<25 RTs (1 RTs),NULL
+Watanaveeradej06,EX,Seq QA problem,NULL
+Wei13,EX,<25 Pts,NULL
+Wei14,EX,<25 Pts,NULL
+Wei14b,EX,<25 Pts,NULL
+Weng16,JIntAIDSSoc2020,,NULL
+Wilantho11,EX,<25 RTs,NULL
+Wilbe02,EX,<25 RTs (4 RTs),NULL
+Wilhelmson18,EX,Previous ART exposed included; Women with previous pregnancy (50%) included,NULL
+Willliamson03,EX,Excluded Previously (SampleYear),NULL
+Winslow95,EX,<25 RTs (0 RTs),NULL
+Witaningrum16,JIntAIDSSoc2020,,NULL
+Worobey16,EX,<25 Pts,NULL
+Wright10,EX,<25 RTs (0 RTs),NULL
+Wright11,EX,<25 RTs (0 RTs),NULL
+Wu13,PLOSMED2015,131 samples of 138 MSMs were sequenced; 133 in GB;,NULL
+Wu15,JIntAIDSSoc2020,,NULL
+Wu19,New,,NULL
+Wu20,New,,NULL
+Xie20,EX,<25 PTs,NULL
+Xu18,JIntAIDSSoc2020,,NULL
+Xuan18,JIntAIDSSoc2020,,NULL
+Yamaguchi03,EX,<25 RTs (15 RTs),NULL
+Yamaguchi09,EX,<25 RTs (5 RTs),NULL
+Yamaguchi10,EX,<25 RTs (1 RTs),NULL
+Yamaguchi19,EX,<25 PTs,NULL
+Yamaguchi95,EX,<25 RTs (0 RTs),NULL
+Yan15,JIntAIDSSoc2020,,NULL
+Yang00,EX,<25 RTs (0 RTs),NULL
+Yang02,PLOSMED2015,Study of subtypes,NULL
+Yang03,EX,<25 RTs (5 RTs),NULL
+Yang04,PLOSMED2015,Study of recombinants,NULL
+Yang11,PLOSMED2015,Direct Genbank Submission; CDC study,NULL
+Yang12,PLOSMED2015,,NULL
+Yang20,EX,<25 PTs,NULL
+Yao15,JIntAIDSSoc2020,,NULL
+Yao15b,EX,Rx not stated,NULL
+Yaotse09,PLOSMED2015,,NULL
+Yaqub19,EX,<25 PTs,NULL
+Ye11,PLOSMED2015,Study of BC recombinants,NULL
+Ye12,EX,Previous ART exposed included,NULL
+Ye14,JIntAIDSSoc2020,,NULL
+Ye20,New,,NULL
+Ye20b,New,,NULL
+Yebra09,PLOSMED2015,64 pol sequences in GB contains 60 RTs from 59 pts; Immigrants from SSA;,NULL
+Yebra10,PLOSMED2015,Only 223 sequences in GB;,NULL
+Yerly01,EX,Previously excluded; Not a representative study,NULL
+Yerly04,PLOSMED2015,phylogenetically closely related IVDUs,NULL
+Yin20,New,,NULL
+Youngpairoj12,PLOSMED2015,,NULL
+Yousef16,JIntAIDSSoc2020,,NULL
+Yu09,PLOSMED2015,Study of polymorphism,NULL
+Yu20,New,,NULL
+Yuan18,JIntAIDSSoc2020,,NULL
+Zain17,JIntAIDSSoc2020,,NULL
+Zaki20,New,,NULL
+Zarandia06,PLOSMED2015,A Former Soviet Union,NULL
+Zeh05,EX,<25 RTs (0 RTs),NULL
+Zeh16,JIntAIDSSoc2020,,NULL
+Zeng11,PLOSMED2015,,NULL
+Zeng12,PLOSMED2015,222 of 349 Accessions contain RT.,NULL
+Zeng13,PLOSMED2015,,NULL
+Zeng17,New,,NULL
+Zeng20,New,,NULL
+Zhang10,PLOSMED2015,WHO HIVDR-TS Survey,NULL
+Zhang15,JIntAIDSSoc2020,,NULL
+Zhang15b,JIntAIDSSoc2020,,NULL
+Zhang17,EX,Rx not stated,NULL
+Zhang19,EX,<25 PTs,NULL
+Zhao14,JIntAIDSSoc2020,,NULL
+Zhao16,JIntAIDSSoc2020,,NULL
+Zhao20,New,,NULL
+Zheng13,JIntAIDSSoc2020,Sequences available since 2013,NULL
+Zhong03,EX,<25 RTs (0 RTs),NULL
+Zhou08,EX,Rx not stated,NULL
+Zhou14,JIntAIDSSoc2020,,NULL
+Zhu95,EX,<25 Pts,NULL
+Zuckerman19,JIntAIDSSoc2020,,NULL
+daSilveira12,PLOSMED2015,Mato Grosso do Sul State (central western Brazil),NULL
+deCastro14,JIntAIDSSoc2020,,NULL
+deCoul00,EX,<25 RTs (14 RTs),NULL
+deMedeiros11,PLOSMED2015,,NULL
+deParga05,PLOSMED2015,A Former Soviet Union; Mainly subtype A; 7 patients with L23I alone; Phylogenetically closely related sequences,Set_Region_To: Europe (Eastern)
+deSaFilho02,EX,Excluded Previously (Unpublished),NULL
+deSaFilho06,EX,<25 RTs (10 RTs),NULL
+deSaFilho09,PLOSMED2015,Only 30 sequences are available in GB.,NULL
+deSilva11,EX,<25 RTs (3 RTs),NULL
+vanDerHoek07,EX,<25 RTs (4 RTs),NULL
+vanHal09,EX,<25 RTs,NULL
+vanHarmelen01,EX,<25 RTs (4 RTs),NULL
+vanZyl17,JIntAIDSSoc2020,,NULL

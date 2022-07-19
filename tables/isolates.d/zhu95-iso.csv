@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+334533,167617,PR,1959-09-01,B,Kidney,Dideoxy,GBR,2016-10-26
+334534,167617,RT,1959-09-01,B,Kidney,Dideoxy,GBR,2016-10-26
+334535,167617,IN,1959-09-01,B,Kidney,Dideoxy,GBR,2016-10-26

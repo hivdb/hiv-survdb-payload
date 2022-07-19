@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+166034,77643,PR,2004-01-01,J,Plasma,Dideoxy,CMR,2010-11-17
+166035,77643,RT,2004-01-01,J,Plasma,Dideoxy,CMR,2010-11-17
+166036,77643,IN,2004-01-01,J,Plasma,Dideoxy,CMR,2010-11-17

@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+334428,167581,PR,2013-06-01,CRF01_AE,PBMC,Dideoxy,CHN,2016-10-25
+334429,167581,RT,2013-06-01,B + CRF01_AE,PBMC,Dideoxy,CHN,2016-10-25
+334430,167581,IN,2013-06-01,C,PBMC,Dideoxy,CHN,2016-10-25

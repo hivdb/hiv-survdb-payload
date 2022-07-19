@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+8505,2335,RT,1996-01-01,G,Unknown,Dideoxy,COD,1999-04-23
+8506,2335,PR,1996-01-01,G,Unknown,Dideoxy,COD,1999-04-23
+70686,2335,IN,1996-01-01,G,Unknown,Dideoxy,COD,2006-11-28

@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+3497,1368,PR,1998-01-01,B,PBMC,Dideoxy,CHN,1999-04-23
+3498,1368,RT,1998-01-01,B,PBMC,Dideoxy,CHN,1999-04-23
+71262,1368,IN,1998-01-01,B,PBMC,Dideoxy,CHN,2006-12-14

@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+87620,38691,PR,2001-01-01,CRF01_AE,PBMC,Dideoxy,THA,2007-10-17
+87621,38691,RT,2001-01-01,CRF01_AE,PBMC,Dideoxy,THA,2007-10-17
+87622,38691,IN,2001-01-01,CRF01_AE,PBMC,Dideoxy,THA,2007-10-17

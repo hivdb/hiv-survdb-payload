@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+71375,31653,IN,1997-01-01,A,PBMC,Dideoxy,GRC,2006-12-14
+85506,31653,PR,1997-01-01,J,PBMC,Dideoxy,GRC,2007-08-02
+85507,31653,RT,1997-01-01,CRF11_cpx,PBMC,Dideoxy,GRC,2007-08-02

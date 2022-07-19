@@ -168,7 +168,7 @@ Courtney16,"Courtney, CR","Monitoring HIV-1 group M subtypes in Yaounde, Cameroo
 Couto-Fernandez06,"Couto-Fernandez, JC",Phylogenetic analysis of Brazilian HIV type 1 subtype D strains: Tracing the origin of this subtype in Brazil.,ARHR,2006
 Crispim19,"Crispim, MAE","Homogenous HIV-1 subtype B from the Brazilian Amazon with infrequent diverse BF1 recombinants, subtypes F1 and C among blood donors.",PLoS ONE,2019
 Cuevas09,"Cuevas, M","Incidence of non-B subtypes of HIV-1 in Galicia, Spain: High frequency and diversity of HIV-1 among men who have sex with men.",Euro Surveill,2009
-Cuevas09 ,"Cuevas, MT","HIV-1 transmission cluster with T215D revertant mutation among newly diagnosed patients from the Basque Country, Spain.",JAIDS,2009
+Cuevas09b,"Cuevas, MT","HIV-1 transmission cluster with T215D revertant mutation among newly diagnosed patients from the Basque Country, Spain.",JAIDS,2009
 Cuevas15,"Cuevas, JM",Extremely high mutation rate of HIV-1 in vivo.,PLoS Biol,2015
 Dalai09,"Dalai, SC",Evolution and molecular epidemiology of subtype C HIV-1 in Zimbabwe.,AIDS,2009
 Darcissac16,"Darcissac, E",HIV-1 pol gene polymorphism and antiretroviral resistance mutations in treatment-naive adult patients in French Guiana between 2006 and 2012.,ARHR,2016
@@ -266,7 +266,7 @@ Guo15,"Guo, H","Low prevalence of the transmitted HIV-1 drug resistance among ne
 Gurtler94,"Gurtler, LG",A new subtype of human immunodeficiency virus type 1 (MVP-5180) from Cameroon.,J Virol,1994
 Hachiya17,"Hachiya, A",Trends in transmitted drug-resistant HIV-1 and demographic characteristics of newly diagnosed patients: Nationwide surveillance from 2013 to 2015 in Japan.,Direct Genbank Submission,2017
 Hai-Long07,"Hai-Long, H","Genetic characterization of CRF01_AE full-length human immunodeficiency virus type 1 sequences from Fujian, China.",ARHR,2007
-Hamers10 ,"Hamers, RL","HIV-1 drug resistance mutations are present in six percent of persons initiating antiretroviral therapy in Lusaka, Zambia.",JAIDS,2010
+Hamers10,"Hamers, RL","HIV-1 drug resistance mutations are present in six percent of persons initiating antiretroviral therapy in Lusaka, Zambia.",JAIDS,2010
 Hamers11,"Hamers, RL",HIV-1 drug resistance in antiretroviral-naive individuals in sub-Saharan Africa after rollout of antiretroviral therapy: A multicentre observational study.,Lancet,2011
 Han07,"Han, X","Genotypic resistance mutations to antiretroviral drugs in treatment-naive HIV/AIDS patients living in Liaoning Province, China: Baseline prevalence and subtype-specific difference.",ARHR,2007
 Han10,"Han, X","Genetic and epidemiologic characterization of HIV-1 infection In Liaoning Province, China.",JAIDS,2010
@@ -396,7 +396,7 @@ Land08,"Land, AM","Full-length HIV type 1 proviral sequencing of 10 highly expos
 Lataillade07,"Lataillade, M",Natural polymorphism of the HIV-1 integrase gene and mutations associated with integrase inhibitor resistance.,Antivir Ther,2007
 Lau07,"Lau, KA","Near full-length sequence analysis of a unique CRF01_AE/B recombinant from Kuala Lumpur, Malaysia.",ARHR,2007
 Lavu17,"Lavu, E",High levels of transmitted HIV drug resistance in a study in Papua New Guinea.,PLoS ONE,2017
-Lawrence06 ,"Lawrence, P","Analysis of polymorphism in the protease and reverse transcriptase genes of HIV type 1 CRF02-AG subtypes from drug-naive patients from Saint-Etienne, France.",JAIDS,2006
+Lawrence06,"Lawrence, P","Analysis of polymorphism in the protease and reverse transcriptase genes of HIV type 1 CRF02-AG subtypes from drug-naive patients from Saint-Etienne, France.",JAIDS,2006
 Lazaro11,"Lazaro, E","Molecular characterization of HIV-1 CRF01_AE in Mekong Delta, Vietnam, and impact of T-cell epitope mutations on HLA recognition (ANRS 12159).",PLoS ONE,2011
 Lebedev17,"Lebedev, AV",Analysis of the env gene variability of the IDU-A HIV-1 variant in the outbreak of the HIV infection epidemic in Perm region of Russia (1996-2011).,Vopr Virusol.,2017
 Lee09,"Lee, CC",Primary drug resistance and transmission analysis of HIV-1 in acute and recent drug-naive seroconverters in Singapore.,HIV Med,2009
@@ -480,7 +480,7 @@ McConnell08,"McConnell, MJ",Molecular epidemiology of HIV type 1 in newly diagno
 McCutchan04,"McCutchan, FE","HIV type 1 circulating recombinant form CRF09_cpx from west Africa combines subtypes A, F, G, and may share ancestors with CRF02_AG and Z321.",ARHR,2004
 McIntosh91,"McIntosh, A",Complete genome sequence of a Cambridge isolate of human immunodeficiency virus type 1.,Direct Genbank Submission,1991
 McLaughlin04,"McLaughlin, S",Sequence diversity of HIV-1 genomes from the HIV vaccine trials network.,Direct Genbank Submission,2004
-McNulty07 ,"McNulty, A",Evaluation of dried blood spots for human immunodeficiency virus type 1 drug resistance testing.,J Clin Microbiol,2007
+McNulty07,"McNulty, A",Evaluation of dried blood spots for human immunodeficiency virus type 1 drug resistance testing.,J Clin Microbiol,2007
 Megasari19,"Megasari, NLA","The Emergence of HIV-1 Transmitted Drug Resistance Mutations Among Antiretroviral Therapy-naive Individuals in Buleleng, Bali, Indonesia.",Acta Med Indones,2019
 Megede02,"Megede, JZ","Novel evolutionary analyses of full-length HIV type 1 subtype C molecular clones from Cape Town, South Africa.",ARHR,2002
 Meixenberger14,"Meixenberger, K",Assessment of ambiguous base calls in HIV-1 pol population sequences as a biomarker for identification of recent infections in HIV-1 incidence studies.,J Clin Microbiol,2014
@@ -604,7 +604,7 @@ Pillay08,"Pillay, V","Antiretroviral drug resistance surveillance among drug-nai
 Pires04,"Pires, IL","Prevalence of human immunodeficiency virus drug resistance mutations and subtypes in drug-naive, infected individuals in the army health service of Rio de Janeiro, Brazil.",J Clin Microbiol,2004
 Piyasirisilp00,"Piyasirisilp, S","A recent outbreak of human immunodeficiency virus type 1 infection in southern China was initiated by two highly homogeneous, geographically separated strains, circulating recombinant form AE and a novel BC recombinant.",J Virol,2000
 Plantier09,"Plantier, JC",A new human immunodeficiency virus derived from gorillas.,Nat Med,2009
-Pollakis03 ,"Pollakis, G","Recombination of HIV type 1C (C'/C"") in Ethiopia: possible link of EthHIV-1C' to subtype C sequences from the high-prevalence epidemics in India and Southern Africa.",ARHR,2003
+Pollakis03,"Pollakis, G","Recombination of HIV type 1C (C'/C"") in Ethiopia: possible link of EthHIV-1C' to subtype C sequences from the high-prevalence epidemics in India and Southern Africa.",ARHR,2003
 Pouran Yousef16,"Pouran Yousef, K",Inferring HIV-1 transmission dynamics in Germany from recently transmitted viruses.,JAIDS,2016
 Powell07,"Powell, RL",Identification of a novel circulating recombinant form (CRF) 36_cpx in Cameroon that combines two CRFs (01_AE and 02_AG) with ancestral lineages of subtypes A and G.,ARHR,2007
 Powell07b,"Powell, RL","Circulating recombinant form (CRF) 37_cpx: an old strain in Cameroon composed of diverse, genetically distant lineages of subtypes A and G.",ARHR,2007
@@ -670,7 +670,7 @@ Shafer03,"Shafer, RW",Comparison of four-drug regimens and pairs of sequential t
 Shafer97,"Shafer, RW",Sequence and drug susceptibility of subtype C reverse transcriptase from human immunodeficiency virus type 1 seroconverters in Zimbabwe.,J Virol,1997
 Shafer99,"Shafer, RW",Sequence and drug susceptibility of HIV-1 type C protease from human immunodeficiency virus type 1 seroconverters in Zimbabwe.,ARHR,1999
 Shahid11,"Shahid, A",HIV-1 circulating recombinant form in Nepal.,J Virol,2011
-Shang07 ,"Shang, H",Genotypic resistance mutation to antiretroviral drugs in treatment-naive HIV/AIDS patients in the northeast of China.,ARHR,2007
+Shang07,"Shang, H",Genotypic resistance mutation to antiretroviral drugs in treatment-naive HIV/AIDS patients in the northeast of China.,ARHR,2007
 Shi04,"Shi, B",Construction of an infectious HIV type 1 molecular clone from an African patient with a subtype D/C recombinant virus.,ARHR,2004
 Sigaloff12,"Sigaloff, KC","High prevalence of transmitted antiretroviral drug resistance among newly HIV type 1 diagnosed adults in Mombasa, Kenya.",ARHR,2012
 Silva20,"Silva, AMC","HIV-1 prevalence, associated factors, genetic diversity and transmitted drug resistance mutations in a populations of men who have sex with men in Midwestern Brazil.",Direct Genbank Submission,2020
@@ -751,7 +751,7 @@ Tramuto13,"Tramuto, F",Dynamics and molecular evolution of HIV-1 strains in Sici
 Tran12,"Tran, VT",No increase of drug-resistant HIV type 1 prevalence among drug-naive individuals in northern Vietnam.,ARHR,2012
 Trinh12,"Trinh, QD",Short communication: Drug resistance mutations in the HIV type 1 protease and reverse transcriptase genes in antiretroviral-naive Vietnamese children.,ARHR,2012
 Triques00,"Triques, K",Near full length genome sequencing of divergent African HIV type 1 subtype F viruses leads to identification of a new HIV type 1 designated K.,ARHR,2000
-Truong06 ,"Truong, HH",Routine surveillance for the detection of acute and recent HIV infections and transmission of antiretroviral resistance.,AIDS,2006
+Truong06,"Truong, HH",Routine surveillance for the detection of acute and recent HIV infections and transmission of antiretroviral resistance.,AIDS,2006
 Truong11,"Truong, HH","Sentinel surveillance of HIV-1 transmitted drug resistance, acute infection and recent infection.",PLoS ONE,2011
 Tscherning-Casper00,"Tscherning-Casper, C",Evidence of the existence of a new circulating recombinant form of HIV type 1 subtype A/J in Cameroon. The European network on the study of in utero transmission of HIV-1.,ARHR,2000
 Tshabalala11,"Tshabalala, M","Surveillance of transmitted antiretroviral drug resistance among HIV-1 infected women attending antenatal clinics in Chitungwiza, Zimbabwe.",PLoS ONE,2011
@@ -805,7 +805,7 @@ Wang18b,"Wang, H","High HIV-1 prevalence and viral diversity among entry-exit po
 Wang19,"Wang, Z","Diversity of HIV-1 genotypes and high prevalence of pretreatment drug resistance in newly diagnosed HIV-infected patients in Shanghai, China.",BMC Infect Dis,2019
 Warachit07,"Warachit, J",Aberrant life cycle of human immunodeficiency virus type 1 CRF15_01B-like clinical isolates from Thailand in human CD4+ T-cell lines.,Microbes Infect,2007
 Watanaveeradej03,"Watanaveeradej, V",Subtype C/CRF01_AE recombinant HIV-1 found in Thailand.,AIDS,2003
-Watanaveeradej06 ,"Watanaveeradej, V",Molecular epidemiology of HIV type 1 in preparation for a phase III prime-boost vaccine trial in Thailand and a new approach to HIV type 1 genotyping.,ARHR,2006
+Watanaveeradej06,"Watanaveeradej, V",Molecular epidemiology of HIV type 1 in preparation for a phase III prime-boost vaccine trial in Thailand and a new approach to HIV type 1 genotyping.,ARHR,2006
 Wei13,"Wei, H","Near full-length genomic characterization of a novel HIV type 1 CRF07_ BC/01_AE recombinant in men who have sex with men from Sichuan, China.",ARHR,2013
 Wei14,"Wei, H","Genome sequence of a novel HIV-1 circulating recombinant form (CRF57_BC) identified from Yunnan, China.",ARHR,2014
 Wei14b,"Wei, H",Identification of a novel HIV-1 circulating recombinant form (CRF62_BC) in western Yunnan of China.,ARHR,2014
@@ -850,7 +850,7 @@ Ye20,"Ye, J",Transmitted HIV drug resistance among individuals with newly diagno
 Ye20b,"Ye, M",HIV-1 Drug Resistance in ART-Naive Individuals in Myanmar.,Infect Drug Resist,2020
 Yebra09,"Yebra, G",Clinical differences and viral diversity between newly HIV type 1-diagnosed African and non-African patients in Spain (2005-2007).,ARHR,2009
 Yebra10,"Yebra, G",HIV-1 non-B subtypes: high transmitted NNRTI-resistance in Spain and impaired genotypic resistance interpretation due to variability.,Antiviral Res,2010
-Yerly01 ,"Yerly, S",Nosocomial outbreak of multiple bloodborne viral infections.,J Infect Dis,2001
+Yerly01,"Yerly, S",Nosocomial outbreak of multiple bloodborne viral infections.,J Infect Dis,2001
 Yerly04,"Yerly, S",HIV-1 co/super-infection in intravenous drug users,AIDS,2004
 Yin20,"Yin, Y","Molecular Epidemiology of HIV-1 in Jiangsu Province, Southeast China: Genotypes and HIV-1 Transmission Networks Among Newly Diagnosed Men Having Sex with Men in 2017.",AIDS Res Hum Retroviruses,2020
 Youngpairoj12,"Youngpairoj, AS",Prevalence of drug resistance-related polymorphisms in treatment-naive individuals infected with nonsubtype B HIV type 1 in Cameroon.,ARHR,2012

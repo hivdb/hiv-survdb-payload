@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+70941,31341,IN,1999-01-01,C,PBMC,Dideoxy,CHN,2006-11-28
+85363,31341,PR,1999-01-01,B,PBMC,Dideoxy,CHN,2007-08-02
+85364,31341,RT,1999-01-01,CRF07_BC,PBMC,Dideoxy,CHN,2007-08-02

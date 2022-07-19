@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+257694,124590,PR,1997-06-01,J,Plasma,Dideoxy,COD,2014-02-10
+257695,124590,RT,1997-06-01,J,Plasma,Dideoxy,COD,2014-02-10
+257696,124590,IN,1997-06-01,J,Plasma,Dideoxy,COD,2014-02-10

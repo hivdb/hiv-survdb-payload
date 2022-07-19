@@ -1,0 +1,5 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+70867,31293,IN,1998-01-01,B,Plasma,Dideoxy,USA,2006-11-28
+70868,31294,IN,1998-01-01,B,Plasma,Dideoxy,USA,2006-11-28
+70869,31295,IN,1998-01-01,B,Plasma,Dideoxy,USA,2006-11-28
+70870,31296,IN,1998-01-01,B,Plasma,Dideoxy,USA,2006-11-28

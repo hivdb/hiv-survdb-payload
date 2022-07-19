@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+71308,31628,IN,2001-01-01,A,PBMC,Dideoxy,IND,2006-12-14
+85490,31628,PR,2001-01-01,A,PBMC,Dideoxy,IND,2007-08-02
+85491,31628,RT,2001-01-01,C,PBMC,Dideoxy,IND,2007-08-02

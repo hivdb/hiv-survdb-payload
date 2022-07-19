@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+334338,167551,PR,2007-06-01,B + CRF01_AE,Plasma,Dideoxy,CHN,2016-10-24
+334339,167551,RT,2007-06-01,B + C,Plasma,Dideoxy,CHN,2016-10-24
+334340,167551,IN,2007-06-01,CRF01_AE,Plasma,Dideoxy,CHN,2016-10-24

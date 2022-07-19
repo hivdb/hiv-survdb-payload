@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+43,14,RT,1983-01-01,B,PBMC,Dideoxy,GBR,1999-04-23
+374,14,PR,1983-01-01,B,PBMC,Dideoxy,GBR,1999-04-23
+70910,14,IN,1983-01-01,B,PBMC,Dideoxy,GBR,2006-11-28

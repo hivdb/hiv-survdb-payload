@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+35723,15089,PR,1990-06-01,CRF45_cpx,PBMC,Dideoxy,COD,2003-04-22
+35724,15089,RT,1990-06-01,H,PBMC,Dideoxy,COD,2003-04-22
+87731,15089,IN,1990-06-01,F,PBMC,Dideoxy,COD,2007-10-18

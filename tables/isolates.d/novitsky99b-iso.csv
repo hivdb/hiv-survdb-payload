@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+13847,5591,RT,1998-08-01,CRF49_cpx,PBMC,Dideoxy,BWA,2000-01-14
+13848,5591,PR,1998-08-01,CRF49_cpx,PBMC,Dideoxy,BWA,2000-01-14
+70937,5591,IN,1998-08-01,J,PBMC,Dideoxy,BWA,2006-11-28

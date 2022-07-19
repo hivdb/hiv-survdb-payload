@@ -1,0 +1,7 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+70674,31176,IN,2001-01-01,C,PBMC,Dideoxy,URY,2006-11-28
+70675,31177,IN,2001-01-01,C,PBMC,Dideoxy,ARG,2006-11-28
+85267,31176,PR,2001-01-01,C,PBMC,Dideoxy,URY,2007-08-02
+85268,31176,RT,2001-01-01,C,PBMC,Dideoxy,URY,2007-08-02
+85269,31177,PR,2001-01-01,C,PBMC,Dideoxy,ARG,2007-08-02
+85270,31177,RT,2001-01-01,C,PBMC,Dideoxy,ARG,2007-08-02

@@ -1,0 +1,7 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+70911,31321,IN,2003-01-01,Unknown,PBMC,Dideoxy,CMR,2006-11-28
+70912,31322,IN,2003-01-01,Unknown,PBMC,Dideoxy,CMR,2006-11-28
+85353,31321,PR,2003-01-01,G,PBMC,Dideoxy,CMR,2007-08-02
+85354,31321,RT,2003-01-01,CRF25_cpx,PBMC,Dideoxy,CMR,2007-08-02
+85355,31322,PR,2003-01-01,CRF02_AG,PBMC,Dideoxy,CMR,2007-08-02
+85356,31322,RT,2003-01-01,G + Unknown,PBMC,Dideoxy,CMR,2007-08-02

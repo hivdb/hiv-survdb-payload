@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+71380,31656,IN,1999-01-01,CRF05_DF,PBMC,Dideoxy,ESP,2006-12-14
+85508,31656,PR,1999-01-01,CRF05_DF,PBMC,Dideoxy,ESP,2007-08-02
+85509,31656,RT,1999-01-01,CRF05_DF,PBMC,Dideoxy,ESP,2007-08-02

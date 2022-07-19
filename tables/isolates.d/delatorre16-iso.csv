@@ -1,0 +1,7 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+334287,167533,PR,2007-06-01,A,Plasma,Dideoxy,BRA,2016-10-24
+334288,167533,RT,2007-06-01,B,Plasma,Dideoxy,BRA,2016-10-24
+334289,167534,PR,2005-06-01,CRF09_cpx,Plasma,Dideoxy,BRA,2016-10-24
+334290,167534,RT,2005-06-01,CRF45_cpx,Plasma,Dideoxy,BRA,2016-10-24
+334291,167535,PR,2008-06-01,A,Plasma,Dideoxy,BRA,2016-10-24
+334292,167535,RT,2008-06-01,CRF45_cpx,Plasma,Dideoxy,BRA,2016-10-24

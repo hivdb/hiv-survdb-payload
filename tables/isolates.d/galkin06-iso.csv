@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+71213,31569,IN,2005-02-01,CRF06_cpx,PBMC,Dideoxy,RUS,2006-12-14
+85437,31569,PR,2005-02-01,CRF06_cpx,PBMC,Dideoxy,RUS,2007-08-02
+85438,31569,RT,2005-02-01,CRF06_cpx,PBMC,Dideoxy,RUS,2007-08-02

@@ -1,0 +1,4 @@
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
+163865,76490,PR,2008-05-22,O,Plasma,Dideoxy,FRA,2010-09-17
+163866,76490,RT,2008-05-22,O,Plasma,Dideoxy,FRA,2010-09-17
+163867,76490,IN,2008-05-22,O,Plasma,Dideoxy,FRA,2010-09-17

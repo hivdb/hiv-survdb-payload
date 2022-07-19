@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-297618,149265,PR,2005-06-01,B,PBMC,Dideoxy,JPN,2015-11-19
-297619,149265,RT,2005-06-01,B,PBMC,Dideoxy,JPN,2015-11-19
-297620,149265,IN,2005-06-01,CRF69_01B,PBMC,Dideoxy,JPN,2015-11-19
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+297618,149265,PR,2005-06-01,B,PBMC,Dideoxy,JPN,LC027100,2015-11-19
+297619,149265,RT,2005-06-01,B,PBMC,Dideoxy,JPN,LC027100,2015-11-19
+297620,149265,IN,2005-06-01,CRF69_01B,PBMC,Dideoxy,JPN,LC027100,2015-11-19

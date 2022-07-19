@@ -1,3 +1,3 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-22131,8779,PR,2000-01-01,J,Plasma,Dideoxy,ESP,2001-08-28
-32470,13859,RT,2000-01-01,B,Plasma,Dideoxy,ESP,2002-12-11
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+22131,8779,PR,2000-01-01,J,Plasma,Dideoxy,ESP,AF394957,2001-08-28
+32470,13859,RT,2000-01-01,B,Plasma,Dideoxy,ESP,AY050184,2002-12-11

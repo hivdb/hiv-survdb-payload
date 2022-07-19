@@ -1,3 +1,3 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-87605,38686,PR,2000-06-01,G,Plasma,Dideoxy,CMR,2007-10-16
-87607,38686,IN,2000-06-01,CRF37_cpx,Plasma,Dideoxy,CMR,2007-10-16
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+87605,38686,PR,2000-06-01,G,Plasma,Dideoxy,CMR,EF116594,2007-10-16
+87607,38686,IN,2000-06-01,CRF37_cpx,Plasma,Dideoxy,CMR,EF116594,2007-10-16

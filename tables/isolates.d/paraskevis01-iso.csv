@@ -1,2 +1,2 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-85512,31661,PR,1999-01-01,CRF02_AG,Plasma,Dideoxy,GRC,2007-08-02
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+85512,31661,PR,1999-01-01,CRF02_AG,Plasma,Dideoxy,GRC,AY046058,2007-08-02

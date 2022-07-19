@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-523810,261947,PR,2008-06-01,CRF02_AG,Plasma,Dideoxy,CMR,2019-09-04
-523811,261947,RT,2008-06-01,CRF02_AG,Plasma,Dideoxy,CMR,2019-09-04
-523812,261947,IN,2008-06-01,CRF02_AG,Plasma,Dideoxy,CMR,2019-09-04
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+523810,261947,PR,2008-06-01,CRF02_AG,Plasma,Dideoxy,CMR,MH667256,2019-09-04
+523811,261947,RT,2008-06-01,CRF02_AG,Plasma,Dideoxy,CMR,MH667256,2019-09-04
+523812,261947,IN,2008-06-01,CRF02_AG,Plasma,Dideoxy,CMR,MH667256,2019-09-04

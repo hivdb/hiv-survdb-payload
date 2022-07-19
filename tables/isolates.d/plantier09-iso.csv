@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-153553,71093,PR,2006-11-27,P,Plasma,Dideoxy,FRA,2010-03-19
-153554,71093,RT,2006-11-27,P,Plasma,Dideoxy,FRA,2010-03-19
-153555,71093,IN,2006-11-27,P,Plasma,Dideoxy,FRA,2010-03-19
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+153553,71093,PR,2006-11-27,P,Plasma,Dideoxy,FRA,GQ328744,2010-03-19
+153554,71093,RT,2006-11-27,P,Plasma,Dideoxy,FRA,GQ328744,2010-03-19
+153555,71093,IN,2006-11-27,P,Plasma,Dideoxy,FRA,GQ328744,2010-03-19

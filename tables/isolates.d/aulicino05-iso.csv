@@ -1,3 +1,3 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-167762,31311,PR,2003-01-01,C,PBMC,Dideoxy,ARG,2011-01-05
-167763,31311,RT,2003-01-01,C,PBMC,Dideoxy,ARG,2011-01-05
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+167762,31311,PR,2003-01-01,C,PBMC,Dideoxy,ARG,AY968312,2011-01-05
+167763,31311,RT,2003-01-01,C,PBMC,Dideoxy,ARG,AY968312,2011-01-05

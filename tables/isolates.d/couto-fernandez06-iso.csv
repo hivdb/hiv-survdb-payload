@@ -1,6 +1,6 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-70665,31167,IN,2003-01-01,D,PBMC,Dideoxy,BRA,2006-11-28
-70666,31168,IN,2003-01-01,D,PBMC,Dideoxy,BRA,2006-11-28
-70667,31169,IN,2003-01-01,D,PBMC,Dideoxy,BRA,2006-11-28
-70668,31170,IN,1996-01-01,B,PBMC,Dideoxy,BRA,2006-11-28
-70669,31171,IN,2003-01-01,D,PBMC,Dideoxy,BRA,2006-11-28
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+70665,31167,IN,2003-01-01,D,PBMC,Dideoxy,BRA,DQ138974,2006-11-28
+70666,31168,IN,2003-01-01,D,PBMC,Dideoxy,BRA,DQ138975,2006-11-28
+70667,31169,IN,2003-01-01,D,PBMC,Dideoxy,BRA,DQ138976,2006-11-28
+70668,31170,IN,1996-01-01,B,PBMC,Dideoxy,BRA,DQ141204,2006-11-28
+70669,31171,IN,2003-01-01,D,PBMC,Dideoxy,BRA,DQ141207,2006-11-28

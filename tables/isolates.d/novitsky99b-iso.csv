@@ -1,3 +1,3 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-13847,5591,RT,1998-08-01,CRF49_cpx,PBMC,Dideoxy,BWA,2000-01-14
-70937,5591,IN,1998-08-01,J,PBMC,Dideoxy,BWA,2006-11-28
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+13847,5591,RT,1998-08-01,CRF49_cpx,PBMC,Dideoxy,BWA,AF192135,2000-01-14
+70937,5591,IN,1998-08-01,J,PBMC,Dideoxy,BWA,AF192135,2006-11-28

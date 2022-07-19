@@ -1,4 +1,4 @@
-﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,date_entered
-529264,264727,PR,2018-09-09,C,Plasma,Dideoxy,CHN,2019-09-05
-529265,264727,RT,2018-09-09,C,Plasma,Dideoxy,CHN,2019-09-05
-529266,264727,IN,2018-09-09,C,Plasma,Dideoxy,CHN,2019-09-05
+﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,date_entered
+529264,264727,PR,2018-09-09,C,Plasma,Dideoxy,CHN,MK564326,2019-09-05
+529265,264727,RT,2018-09-09,C,Plasma,Dideoxy,CHN,MK564326,2019-09-05
+529266,264727,IN,2018-09-09,C,Plasma,Dideoxy,CHN,MK564326,2019-09-05

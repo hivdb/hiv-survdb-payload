@@ -2,6 +2,7 @@
 local/
 *.swp
 *.swa
+~$*
 sequences/*.fas
 sequences/*.json
 !sequences/PRRT/

@@ -1,4 +1,4 @@
 ﻿isolate_id,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
-334260,167524,PR,1976-06-01,G,Plasma,Dideoxy,ZAR,U76035,NULL,2016-10-21
-334261,167524,RT,1976-06-01,G,Plasma,Dideoxy,ZAR,U76035,NULL,2016-10-21
-334262,167524,IN,1976-06-01,CRF02_AG,Plasma,Dideoxy,ZAR,U76035,NULL,2016-10-21
+334260,167524,PR,1976-06-01,G,Plasma,Dideoxy,ZAR,U76035,FALSE,2016-10-21
+334261,167524,RT,1976-06-01,G,Plasma,Dideoxy,ZAR,U76035,FALSE,2016-10-21
+334262,167524,IN,1976-06-01,CRF02_AG,Plasma,Dideoxy,ZAR,U76035,FALSE,2016-10-21

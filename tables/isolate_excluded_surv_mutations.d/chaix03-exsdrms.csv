@@ -1,5 +1,5 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Chaix03,CML_Pat145,RT:M184V,184,V
-Chaix03,CML_Pat150,RT:L74I,74,I
-Chaix03,CML_Pat150,RT:L74V,74,V
-Chaix03,CML_Pat87,RT:L210W,210,W
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Chaix03,CML_Pat145,RT,RT:M184V,184,V
+Chaix03,CML_Pat150,RT,RT:L74I,74,I
+Chaix03,CML_Pat150,RT,RT:L74V,74,V
+Chaix03,CML_Pat87,RT,RT:L210W,210,W

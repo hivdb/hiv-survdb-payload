@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Hamers11,300143,RT:L74I,74,I
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Hamers11,300143,RT,RT:L74I,74,I

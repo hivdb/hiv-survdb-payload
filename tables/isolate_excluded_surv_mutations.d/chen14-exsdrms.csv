@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Chen14,YN221,RT:M184I,184,I
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Chen14,YN221,RT,RT:M184I,184,I

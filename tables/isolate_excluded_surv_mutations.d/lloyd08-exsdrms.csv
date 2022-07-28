@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Lloyd08,TX078,PR:I47V,47,V
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Lloyd08,TX078,PR,PR:I47V,47,V

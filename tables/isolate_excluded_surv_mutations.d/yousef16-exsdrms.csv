@@ -1,6 +1,6 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Yousef16,3118,RT:T215D,215,D
-Yousef16,4042,RT:L210W,210,W
-Yousef16,4042,RT:T215D,215,D
-Yousef16,4346,RT:T215C,215,C
-Yousef16,4346,RT:T215S,215,S
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Yousef16,3118,RT,RT:T215D,215,D
+Yousef16,4042,RT,RT:L210W,210,W
+Yousef16,4042,RT,RT:T215D,215,D
+Yousef16,4346,RT,RT:T215C,215,C
+Yousef16,4346,RT,RT:T215S,215,S

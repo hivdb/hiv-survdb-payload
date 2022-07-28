@@ -1,5 +1,5 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Parczewski14,9_PN13,RT:L210W,210,W
-Parczewski14,A005_1,RT:T215I,215,I
-Parczewski14,A005_1,RT:T215V,215,V
-Parczewski14,A011_1,RT:M41L,41,L
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Parczewski14,9_PN13,RT,RT:L210W,210,W
+Parczewski14,A005_1,RT,RT:T215I,215,I
+Parczewski14,A005_1,RT,RT:T215V,215,V
+Parczewski14,A011_1,RT,RT:M41L,41,L

@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Ye14,BJ07365,RT:D67N,67,N
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Ye14,BJ07365,RT,RT:D67N,67,N

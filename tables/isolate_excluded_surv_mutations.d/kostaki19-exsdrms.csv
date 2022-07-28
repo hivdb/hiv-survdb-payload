@@ -1,6 +1,6 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Kostaki19,ES02_01075,RT:L210W,210,W
-Kostaki19,ES02_719600,RT:F116Y,116,Y
-Kostaki19,NDAB580427M,RT:L74I,74,I
-Kostaki19,NDAB580427M,RT:L74V,74,V
-Kostaki19,PEFE510415F,RT:K103N,103,N
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Kostaki19,ES02_01075,RT,RT:L210W,210,W
+Kostaki19,ES02_719600,RT,RT:F116Y,116,Y
+Kostaki19,NDAB580427M,RT,RT:L74I,74,I
+Kostaki19,NDAB580427M,RT,RT:L74V,74,V
+Kostaki19,PEFE510415F,RT,RT:K103N,103,N

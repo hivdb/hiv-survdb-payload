@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Somi08,KW-05-010,PR:M46L,46,L
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Somi08,KW-05-010,PR,PR:M46L,46,L

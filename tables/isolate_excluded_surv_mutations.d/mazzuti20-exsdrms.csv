@@ -1,8 +1,8 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Mazzuti20,BF_195_2015,PR:L24I,24,I
-Mazzuti20,CA_310_2010,PR:F53L,53,L
-Mazzuti20,BA_166_2013,RT:Y188H,188,H
-Mazzuti20,BC_83_2012,RT:K70R,70,R
-Mazzuti20,EF_99_2014,RT:V179F,179,F
-Mazzuti20,SE_26_2008,RT:D67E,67,E
-Mazzuti20,SE_26_2008,RT:D67G,67,G
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Mazzuti20,BF_195_2015,PR,PR:L24I,24,I
+Mazzuti20,CA_310_2010,PR,PR:F53L,53,L
+Mazzuti20,BA_166_2013,RT,RT:Y188H,188,H
+Mazzuti20,BC_83_2012,RT,RT:K70R,70,R
+Mazzuti20,EF_99_2014,RT,RT:V179F,179,F
+Mazzuti20,SE_26_2008,RT,RT:D67E,67,E
+Mazzuti20,SE_26_2008,RT,RT:D67G,67,G

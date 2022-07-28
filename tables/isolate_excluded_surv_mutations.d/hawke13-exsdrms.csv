@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Hawke13,5320834 H,RT:T215D,215,D
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Hawke13,5320834 H,RT,RT:T215D,215,D

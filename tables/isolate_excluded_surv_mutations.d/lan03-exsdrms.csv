@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Lan03,NTHvr189,RT:M184I,184,I
-Lan03,NTHvr191,RT:M184I,184,I
-Lan03,NTHvr197,RT:M184I,184,I
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Lan03,NTHvr189,RT,RT:M184I,184,I
+Lan03,NTHvr191,RT,RT:M184I,184,I
+Lan03,NTHvr197,RT,RT:M184I,184,I

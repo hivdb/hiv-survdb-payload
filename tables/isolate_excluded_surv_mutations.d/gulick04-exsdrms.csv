@@ -1,6 +1,6 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Gulick04,RG256,RT:T215I,215,I
-Gulick04,RG256,RT:T215S,215,S
-Gulick04,RG303,RT:T215C,215,C
-Gulick04,RG303,RT:T215D,215,D
-Gulick04,RG303,RT:T215Y,215,Y
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Gulick04,RG256,RT,RT:T215I,215,I
+Gulick04,RG256,RT,RT:T215S,215,S
+Gulick04,RG303,RT,RT:T215C,215,C
+Gulick04,RG303,RT,RT:T215D,215,D
+Gulick04,RG303,RT,RT:T215Y,215,Y

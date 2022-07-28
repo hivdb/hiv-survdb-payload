@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Hernandez-Sanchez18,MX-HIV-230,PR:G73S,73,S
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Hernandez-Sanchez18,MX-HIV-230,PR,PR:G73S,73,S

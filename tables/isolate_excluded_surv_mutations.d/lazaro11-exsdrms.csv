@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Lazaro11,DN-M3,RT:M230L,230,L
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Lazaro11,DN-M3,RT,RT:M230L,230,L

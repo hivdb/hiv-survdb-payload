@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Lindstrom06,SIIDC0286,RT:T215C,215,C
-Lindstrom06,SIIDC0286,RT:T215D,215,D
-Lindstrom06,SIIDC0286,RT:T215Y,215,Y
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Lindstrom06,SIIDC0286,RT,RT:T215C,215,C
+Lindstrom06,SIIDC0286,RT,RT:T215D,215,D
+Lindstrom06,SIIDC0286,RT,RT:T215Y,215,Y

@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Brooks13,CAN2013-215,RT:V179F,179,F
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Brooks13,CAN2013-215,RT,RT:V179F,179,F

@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Charpentier11,patco_48,RT:K103N,103,N
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Charpentier11,patco_48,RT,RT:K103N,103,N

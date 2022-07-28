@@ -1,7 +1,7 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Perno01,PCF_Pat183,RT:K219N,219,N
-Perno01,PCF_Pat183,RT:K219Q,219,Q
-Perno01,PCF_Pat25,RT:F77L,77,L
-Perno01,PCF_Pat93,RT:Y115F,115,F
-Perno01,PCF_Pat93,RT:K103N,103,N
-Perno01,PCF_Pat93,RT:K103S,103,S
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Perno01,PCF_Pat183,RT,RT:K219N,219,N
+Perno01,PCF_Pat183,RT,RT:K219Q,219,Q
+Perno01,PCF_Pat25,RT,RT:F77L,77,L
+Perno01,PCF_Pat93,RT,RT:Y115F,115,F
+Perno01,PCF_Pat93,RT,RT:K103N,103,N
+Perno01,PCF_Pat93,RT,RT:K103S,103,S

@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Brigido07,RS772,PR:I54L,54,L
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Brigido07,RS772,PR,PR:I54L,54,L

@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Hanke20,17-03520,RT:T215D,215,D
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Hanke20,17-03520,RT,RT:T215D,215,D

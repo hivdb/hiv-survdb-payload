@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Descamps10,46odyssee,RT:D67N,67,N
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Descamps10,46odyssee,RT,RT:D67N,67,N

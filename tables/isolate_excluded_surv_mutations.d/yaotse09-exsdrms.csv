@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Yaotse09,HT064,RT:F77L,77,L
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Yaotse09,HT064,RT,RT:F77L,77,L

@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Li16,1774,PR:I47V,47,V
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Li16,1774,PR,PR:I47V,47,V

@@ -1,5 +1,5 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Frange12,370101CYR,RT:V179F,179,F
-Frange12,370101CYR,RT:Y188C,188,C
-Frange12,370101CYR,RT:G190E,190,E
-Frange12,680111HMD,RT:D67G,67,G
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Frange12,370101CYR,RT,RT:V179F,179,F
+Frange12,370101CYR,RT,RT:Y188C,188,C
+Frange12,370101CYR,RT,RT:G190E,190,E
+Frange12,680111HMD,RT,RT:D67G,67,G

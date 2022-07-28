@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Youngpairoj12,cm1079,RT:G190E,190,E
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Youngpairoj12,cm1079,RT,RT:G190E,190,E

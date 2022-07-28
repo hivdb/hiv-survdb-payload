@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Kijak01,ARG27,PR:D30N,30,N
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Kijak01,ARG27,PR,PR:D30N,30,N

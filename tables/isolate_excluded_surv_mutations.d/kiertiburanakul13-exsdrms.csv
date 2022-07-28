@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,mutation,position,amino_acid
-Kiertiburanakul13,R51TS081,PR:L23I,23,I
-Kiertiburanakul13,R12186,RT:K219E,219,E
-Kiertiburanakul13,R12186,RT:K219R,219,R
+﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+Kiertiburanakul13,R51TS081,PR,PR:L23I,23,I
+Kiertiburanakul13,R12186,RT,RT:K219E,219,E
+Kiertiburanakul13,R12186,RT,RT:K219R,219,R

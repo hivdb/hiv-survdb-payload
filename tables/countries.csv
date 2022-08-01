@@ -30,7 +30,7 @@ BLM,Saint Barthélemy,South America
 BLR,Belarus,Europe
 BLZ,Belize,South America
 BMU,Bermuda,North America
-BOL,Bolivia (Plurinational State of),South America
+BOL,Bolivia,South America
 BRA,Brazil,South America
 BRB,Barbados,South America
 BRN,Brunei Darussalam,Asia
@@ -45,7 +45,7 @@ CHL,Chile,South America
 CHN,China,Asia
 CIV,Côte d'Ivoire,Africa
 CMR,Cameroon,Africa
-COD,"Congo, Democratic Republic of the",Africa
+COD,DRC,Africa
 COG,Congo,Africa
 COK,Cook Islands,Oceania
 COL,Colombia,South America
@@ -78,9 +78,9 @@ FJI,Fiji,Oceania
 FLK,Falkland Islands (Malvinas),South America
 FRA,France,Europe
 FRO,Faroe Islands,Europe
-FSM,Micronesia (Federated States of),Oceania
+FSM,Micronesia,Oceania
 GAB,Gabon,Africa
-GBR,United Kingdom of Great Britain and Northern Ireland,Europe
+GBR,UK,Europe
 GEO,Georgia,Asia
 GGY,Guernsey,Europe
 GHA,Ghana,Africa
@@ -108,7 +108,7 @@ IMN,Isle of Man,Europe
 IND,India,Asia
 IOT,British Indian Ocean Territory,Africa
 IRL,Ireland,Europe
-IRN,Iran (Islamic Republic of),Asia
+IRN,Iran,Asia
 IRQ,Iraq,Asia
 ISL,Iceland,Europe
 ISR,Israel,Asia
@@ -123,9 +123,9 @@ KGZ,Kyrgyzstan,Asia
 KHM,Cambodia,Asia
 KIR,Kiribati,Oceania
 KNA,Saint Kitts and Nevis,South America
-KOR,"Korea, Republic of",Asia
+KOR,South Korea,Asia
 KWT,Kuwait,Asia
-LAO,Lao People's Democratic Republic,Asia
+LAO,Laos,Asia
 LBN,Lebanon,Asia
 LBR,Liberia,Africa
 LBY,Libya,Africa
@@ -140,7 +140,7 @@ MAC,Macao,Asia
 MAF,Saint Martin (French part),South America
 MAR,Morocco,Africa
 MCO,Monaco,Europe
-MDA,"Moldova, Republic of",Europe
+MDA,Moldova,Europe
 MDG,Madagascar,Africa
 MDV,Maldives,Asia
 MEX,Mexico,South America
@@ -183,10 +183,10 @@ PLW,Palau,Oceania
 PNG,Papua New Guinea,Oceania
 POL,Poland,Europe
 PRI,Puerto Rico,South America
-PRK,Korea (Democratic People's Republic of),Asia
+PRK,North Korea,Asia
 PRT,Portugal,Europe
 PRY,Paraguay,South America
-PSE,"Palestine, State of",Asia
+PSE,Palestine,Asia
 PYF,French Polynesia,Oceania
 QAT,Qatar,Asia
 REU,Réunion,Africa
@@ -231,18 +231,18 @@ TTO,Trinidad and Tobago,South America
 TUN,Tunisia,Africa
 TUR,Turkey,Asia
 TUV,Tuvalu,Oceania
-TWN,"Taiwan, Province of China",Asia
-TZA,"Tanzania, United Republic of",Africa
+TWN,Taiwan,Asia
+TZA,Tanzania,Africa
 UGA,Uganda,Africa
 UKR,Ukraine,Europe
 UMI,United States Minor Outlying Islands,Oceania
 URY,Uruguay,South America
-USA,United States of America,North America
+USA,USA,North America
 UUU,Oceania,Oceania
 UZB,Uzbekistan,Asia
 VAT,Holy See,Europe
 VCT,Saint Vincent and the Grenadines,South America
-VEN,Venezuela (Bolivarian Republic of),South America
+VEN,Venezuela,South America
 VGB,Virgin Islands (British),South America
 VIR,Virgin Islands (U.S.),South America
 VNM,Viet Nam,Asia

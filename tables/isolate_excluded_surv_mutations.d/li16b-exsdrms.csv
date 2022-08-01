@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Li16b,CN-357,PR,PR:I54V,54,V
 Li16b,CN-039,RT,RT:L74I,74,I
 Li16b,CN-039,RT,RT:L74V,74,V

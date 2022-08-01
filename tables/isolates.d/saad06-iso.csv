@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Saad06,01UADN121,28350,PR,2001-01-01,A,PBMC,Dideoxy,UKR,DQ823358,FALSE,2017-01-24
 Saad06,01UADN121,28350,RT,2001-01-01,A,PBMC,Dideoxy,UKR,DQ823358,FALSE,2017-01-24
 Saad06,01UADN121,28350,IN,2001-01-01,A,PBMC,Dideoxy,UKR,DQ823358,FALSE,2006-11-28

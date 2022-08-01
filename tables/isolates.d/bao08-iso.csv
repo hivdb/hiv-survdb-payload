@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bao08,YUN01-01,116870,PR,2006-04-02,CRF01_AE,PBMC,Dideoxy,CHN,AM886178,FALSE,2013-07-23
 Bao08,YUN01-01,116870,RT,2006-04-02,CRF01_AE,PBMC,Dideoxy,CHN,AM886178,FALSE,2013-07-23
 Bao08,YUN01-02,116834,PR,2006-04-02,CRF01_AE,PBMC,Dideoxy,CHN,AM886179,FALSE,2013-07-23

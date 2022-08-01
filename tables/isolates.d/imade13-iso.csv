@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Imade13,ZZRJ001,121311,PR,2011-06-01,G,Plasma,Dideoxy,NGA,KC755236,FALSE,2014-01-09
 Imade13,ZZRJ001,121311,RT,2011-06-01,CRF06_cpx,Plasma,Dideoxy,NGA,KC755236,FALSE,2014-01-09
 Imade13,ZZRJ002,121289,PR,2011-06-01,CRF02_AG,Plasma,Dideoxy,NGA,KC755237,FALSE,2014-01-09

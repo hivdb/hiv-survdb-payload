@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yang11,KEN-11T,87030,PR,2007-06-01,D,Plasma,Dideoxy,KEN,NULL,FALSE,2012-01-30
 Yang11,KEN-11T,87030,RT,2007-06-01,D,Plasma,Dideoxy,KEN,NULL,FALSE,2012-01-30
 Yang11,KEN-32T,87029,PR,2007-06-01,D,Plasma,Dideoxy,KEN,NULL,FALSE,2012-01-30

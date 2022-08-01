@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Soria19,R1118_SGH43,240268,RT,2015-06-01,B,Plasma,Dideoxy,PER,MH935645,FALSE,2019-03-08
 Soria19,TR1001_SFK22_23,240196,RT,2014-06-01,B,PBMC,Dideoxy,PER,MH935646,FALSE,2019-03-08
 Soria19,TR1002_SFA63,240195,RT,2014-06-01,B,PBMC,Dideoxy,PER,MH935647,FALSE,2019-03-08

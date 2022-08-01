@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bontell11,Pat001,PR,PR:L10V,10,V,0
 Bontell11,Pat001,PR,PR:I13V,13,V,0
 Bontell11,Pat001,PR,PR:I15V,15,V,0

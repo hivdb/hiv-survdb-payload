@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Avi10b,004u,77763,PR,2008-06-01,G,Plasma,Dideoxy,EST,GQ926595,FALSE,2010-12-01
 Avi10b,004u,77763,RT,2008-06-01,CRF06_cpx,Plasma,Dideoxy,EST,GQ926595,FALSE,2010-12-01
 Avi10b,007u,77760,PR,2008-06-01,G,Plasma,Dideoxy,EST,GQ926592,FALSE,2010-12-01

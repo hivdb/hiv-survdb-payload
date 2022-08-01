@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yebra09,SP10-320351,PR,PR:Q7D,7,D,1
 Yebra09,SP10-320351,PR,PR:Q7E,7,E,1
 Yebra09,SP10-320351,PR,PR:I15V,15,V,0

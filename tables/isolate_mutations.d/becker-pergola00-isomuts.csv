@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Becker-Pergola00,108.448,PR,PR:I13V,13,V,0
 Becker-Pergola00,108.448,PR,PR:M36I,36,I,1
 Becker-Pergola00,108.448,PR,PR:R41K,41,K,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Jahanbakhsh12,KSH21,PR,PR:I13V,13,V,0
 Jahanbakhsh12,KSH21,PR,PR:L19Q,19,Q,1
 Jahanbakhsh12,KSH21,PR,PR:K20R,20,R,0

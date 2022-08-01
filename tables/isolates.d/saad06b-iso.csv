@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Saad06b,MDS_01AZ001,29046,PR,2001-01-01,A,PBMC,Dideoxy,AZE,DQ328519,FALSE,2006-09-20
 Saad06b,MDS_01AZ001,29046,RT,2001-01-01,A,PBMC,Dideoxy,AZE,DQ328519,FALSE,2006-09-20
 Saad06b,MDS_01AZ003,29047,PR,2001-01-01,A,PBMC,Dideoxy,AZE,DQ328520,FALSE,2006-09-20

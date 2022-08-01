@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lu15,BD213007,PR,PR:L19M,19,M,0
 Lu15,BD213007,PR,PR:K20R,20,R,0
 Lu15,BD213007,PR,PR:E35D,35,D,0

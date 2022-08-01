@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Salvana14,NIHA_1,PR,PR:K20R,20,R,0
 Salvana14,NIHA_1,PR,PR:M36I,36,I,0
 Salvana14,NIHA_1,PR,PR:R41K,41,K,0

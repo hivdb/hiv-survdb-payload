@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bussmann05,01BW025N,PR,PR:I15V,15,V,0
 Bussmann05,01BW025N,PR,PR:M36I,36,I,0
 Bussmann05,01BW025N,PR,PR:R41K,41,K,0

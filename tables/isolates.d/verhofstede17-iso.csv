@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Verhofstede17,0014,206817,PR,2014-04-01,CRF01_AE,Plasma,Dideoxy,BEL,MF754381,FALSE,2018-01-24
 Verhofstede17,0014,206817,RT,2014-04-01,CRF01_AE,Plasma,Dideoxy,BEL,MF754381,FALSE,2018-01-24
 Verhofstede17,0019,206816,PR,2013-02-01,B,Plasma,Dideoxy,BEL,MF754382,FALSE,2018-01-24

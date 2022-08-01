@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Ross14,1141,RT,RT:T215I,215,I
 Ross14,1141,RT,RT:T215S,215,S
 Ross14,7,RT,RT:T215D,215,D

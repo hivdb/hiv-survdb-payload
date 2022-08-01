@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Abongwa19,CM-NWR-B001,266941,PR,2016-02-01,CRF02_AG,Plasma,Dideoxy,CMR,MK061054,FALSE,2019-12-02
 Abongwa19,CM-NWR-B001,266941,RT,2016-02-01,CRF02_AG,Plasma,Dideoxy,CMR,MK061054,FALSE,2019-12-02
 Abongwa19,CM-NWR-B003,266977,RT,2016-02-01,CRF02_AG,Plasma,Dideoxy,CMR,MK061035,FALSE,2019-12-02

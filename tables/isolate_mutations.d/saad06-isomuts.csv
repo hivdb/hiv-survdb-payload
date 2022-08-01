@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Saad06,01UADN121,PR,PR:I13V,13,V,0
 Saad06,01UADN121,PR,PR:K14R,14,R,0
 Saad06,01UADN121,PR,PR:G16E,16,E,0

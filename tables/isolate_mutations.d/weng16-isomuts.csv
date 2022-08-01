@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Weng16,200701,PR,PR:L10I,10,I,1
 Weng16,200701,PR,PR:I15V,15,V,0
 Weng16,200701,PR,PR:N37D,37,D,1

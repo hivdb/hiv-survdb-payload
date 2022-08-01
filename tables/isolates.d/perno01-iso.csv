@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Perno01,PCF_Pat1,19796,PR,1997-06-01,B,Plasma,Dideoxy,ITA,AF376527,FALSE,2004-05-27
 Perno01,PCF_Pat1,19796,RT,1997-06-01,B,Plasma,Dideoxy,ITA,AF376527,FALSE,2004-05-27
 Perno01,PCF_Pat2,19797,PR,1997-06-01,B,Plasma,Dideoxy,ITA,AF376693,FALSE,2004-05-27

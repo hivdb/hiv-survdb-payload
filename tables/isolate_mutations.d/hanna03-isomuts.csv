@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Hanna03,HG001,PR,PR:W6L,6,L,1
 Hanna03,HG001,PR,PR:I15V,15,V,0
 Hanna03,HG001,PR,PR:M36I,36,I,1

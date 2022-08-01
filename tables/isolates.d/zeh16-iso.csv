@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zeh16,0004010_04,182553,PR,2004-06-01,B,PBMC,Dideoxy,KEN,KU248518,FALSE,2017-03-10
 Zeh16,0004010_04,182553,RT,2004-06-01,D,PBMC,Dideoxy,KEN,KU248518,FALSE,2017-03-10
 Zeh16,0005870_04,182395,PR,2004-06-01,C,PBMC,Dideoxy,KEN,KU248519,FALSE,2017-03-10

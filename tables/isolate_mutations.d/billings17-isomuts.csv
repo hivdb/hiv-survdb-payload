@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Billings17,CO0041V3,PR,PR:I15V,15,V,0
 Billings17,CO0041V3,PR,PR:L19I,19,I,0
 Billings17,CO0041V3,PR,PR:M36I,36,I,0

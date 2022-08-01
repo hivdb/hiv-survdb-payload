@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ndembi08b,IAEAM003,PR,PR:I13V,13,V,0
 Ndembi08b,IAEAM003,PR,PR:K14R,14,R,1
 Ndembi08b,IAEAM003,PR,PR:M36I,36,I,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 deSaFilho02,VT01,RT,RT:I135T,135,T,0
 deSaFilho02,VT01,RT,RT:I202V,202,V,0
 deSaFilho02,VT02,RT,RT:K49R,49,R,0

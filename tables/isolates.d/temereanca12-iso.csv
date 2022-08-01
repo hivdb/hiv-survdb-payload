@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Temereanca12,SR1,108574,PR,2009-06-01,F,Plasma,Dideoxy,ROU,JX966486,FALSE,2013-03-26
 Temereanca12,SR1,108574,RT,2009-06-01,F,Plasma,Dideoxy,ROU,JX966486,FALSE,2013-03-26
 Temereanca12,SR1init,108583,PR,2010-06-01,F,Plasma,Dideoxy,ROU,JX966495,FALSE,2013-03-26

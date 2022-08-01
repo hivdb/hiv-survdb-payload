@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Araújo19,z002,PR,PR:L33V,33,V,0
 Araújo19,z002,PR,PR:N37A,37,A,0
 Araújo19,z002,PR,PR:I64V,64,V,0

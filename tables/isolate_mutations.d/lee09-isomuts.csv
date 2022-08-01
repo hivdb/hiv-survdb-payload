@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lee09,S07001,PR,PR:T4S,4,S,0
 Lee09,S07001,PR,PR:E35D,35,D,0
 Lee09,S07001,PR,PR:L63P,63,P,0

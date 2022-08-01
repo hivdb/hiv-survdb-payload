@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Toni03,TTDDP16,17218,RT,2002-01-01,CRF09_cpx,Plasma,Dideoxy,CIV,AY207934,FALSE,2003-11-06
 Toni03,TTDDP17,17219,RT,2002-01-01,CRF02_AG,Plasma,Dideoxy,CIV,AY207935,FALSE,2003-11-06
 Toni03,TTDDP42,17220,RT,2002-01-01,CRF02_AG,Plasma,Dideoxy,CIV,AY207936,FALSE,2003-11-06

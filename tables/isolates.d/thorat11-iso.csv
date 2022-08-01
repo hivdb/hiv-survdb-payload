@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Thorat11,Pat002,82690,PR,2007-12-10,C,Plasma,Dideoxy,IND,HQ166841,FALSE,2011-08-22
 Thorat11,Pat002,82690,RT,2007-12-10,C,Plasma,Dideoxy,IND,HQ166841,FALSE,2011-08-22
 Thorat11,Pat004,82691,PR,2007-12-21,C,Plasma,Dideoxy,IND,HQ166842,FALSE,2011-08-22

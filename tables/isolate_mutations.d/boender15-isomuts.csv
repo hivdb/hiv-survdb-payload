@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Boender15,CP076300003,PR,PR:T12S,12,S,0
 Boender15,CP076300003,PR,PR:L19I,19,I,0
 Boender15,CP076300003,PR,PR:K20R,20,R,0

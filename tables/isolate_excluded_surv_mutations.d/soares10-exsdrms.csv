@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Soares10,CM04_043,PR,PR:D30N,30,N
 Soares10,CM04_043,PR,PR:M46I,46,I
 Soares10,CM04_043,PR,PR:G73S,73,S

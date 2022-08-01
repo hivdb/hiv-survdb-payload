@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Temereanca12,SR1,PR,PR:L10V,10,V,0
 Temereanca12,SR1,PR,PR:I15V,15,V,0
 Temereanca12,SR1,PR,PR:K20R,20,R,0

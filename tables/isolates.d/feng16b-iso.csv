@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Feng16b,YNBS01HS,198467,PR,2013-06-18,C,Plasma,Dideoxy,CHN,KT625867,FALSE,2017-06-06
 Feng16b,YNBS01HS,198467,RT,2013-06-18,B + C + CRF01_AE,Plasma,Dideoxy,CHN,KT625867,FALSE,2017-06-06
 Feng16b,YNBS01IDU,198485,PR,2013-09-10,C,Plasma,Dideoxy,CHN,KT625849,FALSE,2017-06-06

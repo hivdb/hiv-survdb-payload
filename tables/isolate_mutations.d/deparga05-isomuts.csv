@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 deParga05,113-25-74-334,PR,PR:I13V,13,V,0
 deParga05,113-25-74-334,PR,PR:K14R,14,R,0
 deParga05,113-25-74-334,PR,PR:E35D,35,D,0

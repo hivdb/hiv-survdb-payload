@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Rasmussen18,1001155,240390,PR,2010-04-08,C,Dried Blood Spot,Dideoxy,ZAF,MH920649,FALSE,2019-03-08
 Rasmussen18,1001155,240390,RT,2010-04-08,C,Dried Blood Spot,Dideoxy,ZAF,MH920649,FALSE,2019-03-08
 Rasmussen18,1001562,240565,PR,2010-07-20,C,Dried Blood Spot,Dideoxy,ZAF,MH920824,FALSE,2019-03-08

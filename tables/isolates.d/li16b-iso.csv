@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li16b,CN-001,174195,PR,2007-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KU050197,FALSE,2017-01-20
 Li16b,CN-001,174195,RT,2007-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KU050197,FALSE,2017-01-20
 Li16b,CN-002,174394,PR,2009-06-01,B,Plasma,Dideoxy,CHN,KU050198,FALSE,2017-01-20

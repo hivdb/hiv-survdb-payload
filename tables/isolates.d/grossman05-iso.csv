@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Grossman05,15823,66743,PR,2001-01-01,B,Plasma,Dideoxy,ISR,NULL,FALSE,2009-11-09
 Grossman05,15823,66743,RT,2001-01-01,B,Plasma,Dideoxy,ISR,NULL,FALSE,2009-11-09
 Grossman05,16081,66744,PR,2001-01-01,B,Plasma,Dideoxy,ISR,NULL,FALSE,2009-11-09

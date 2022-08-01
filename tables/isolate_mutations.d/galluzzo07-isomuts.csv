@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Galluzzo07,21830,PR,PR:W6stop,6,stop,1
 Galluzzo07,21830,PR,PR:W6S,6,S,1
 Galluzzo07,21830,PR,PR:R8Q,8,Q,0

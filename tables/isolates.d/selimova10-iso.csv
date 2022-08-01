@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Selimova10,01MOSR,108624,PR,2007-03-05,A,Plasma,Dideoxy,RUS,HM345536,FALSE,2013-03-26
 Selimova10,01MOSR,108624,RT,2007-03-05,A,Plasma,Dideoxy,RUS,HM345536,FALSE,2013-03-26
 Selimova10,02MOSR,108625,PR,2007-03-05,A,Plasma,Dideoxy,RUS,HM345537,FALSE,2013-03-26

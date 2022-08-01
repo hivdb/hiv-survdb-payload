@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Arruda10b,16,77753,PR,2009-01-01,B,Plasma,Dideoxy,BRA,JQ230704,FALSE,2010-11-30
 Arruda10b,16,77753,RT,2009-01-01,B,Plasma,Dideoxy,BRA,JQ230705,FALSE,2010-11-30
 Arruda10b,35,77750,PR,2009-01-01,B,Plasma,Dideoxy,BRA,JQ230698,FALSE,2010-11-30

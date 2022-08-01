@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ojwach18,A,RT,RT:P4S,4,S,0
 Ojwach18,A,RT,RT:V35T,35,T,0
 Ojwach18,A,RT,RT:E36A,36,A,0

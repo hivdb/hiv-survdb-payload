@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 deCastro14,05BRRJLTS02,144507,PR,2005-06-01,B,PBMC,Dideoxy,BRA,KF921976,FALSE,2015-03-27
 deCastro14,05BRRJLTS02,144507,RT,2005-06-01,B,PBMC,Dideoxy,BRA,KF921976,FALSE,2015-03-27
 deCastro14,05BRRJLTS03,144509,PR,2005-06-01,B,PBMC,Dideoxy,BRA,KF921970,FALSE,2015-03-27

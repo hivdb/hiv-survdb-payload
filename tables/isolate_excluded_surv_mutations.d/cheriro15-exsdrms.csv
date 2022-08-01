@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Cheriro15,NLHG-127,PR,PR:M46L,46,L
 Cheriro15,NLHG-104,RT,RT:M41L,41,L
 Cheriro15,NLHG-104,RT,RT:K65R,65,R

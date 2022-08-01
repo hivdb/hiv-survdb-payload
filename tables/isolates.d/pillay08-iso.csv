@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Pillay08,0011,61166,RT,2004-10-15,C,Plasma,Dideoxy,ZAF,JQ070676,FALSE,2009-08-12
 Pillay08,0091,61167,RT,2004-10-29,C,Plasma,Dideoxy,ZAF,JQ070677,FALSE,2009-08-12
 Pillay08,0138,61168,RT,2004-10-10,C,Plasma,Dideoxy,ZAF,JQ070678,FALSE,2009-08-12

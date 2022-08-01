@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Sivay20,ENR_1,PR,PR:L10I,10,I,1
 Sivay20,ENR_1,PR,PR:I13V,13,V,0
 Sivay20,ENR_1,PR,PR:E35D,35,D,0

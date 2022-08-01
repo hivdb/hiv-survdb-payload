@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vercauteren09,pt1,66520,PR,2003-06-01,B,Plasma,Dideoxy,DEU,GQ401023,FALSE,2009-10-22
 Vercauteren09,pt1,66520,RT,2003-06-01,B,Plasma,Dideoxy,DEU,GQ401023,FALSE,2009-10-22
 Vercauteren09,pt2,66519,PR,2005-06-01,C,Plasma,Dideoxy,SWE,GQ401022,FALSE,2009-10-22

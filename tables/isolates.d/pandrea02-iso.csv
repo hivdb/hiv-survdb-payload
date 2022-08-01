@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Pandrea02,IP_96CIRMF19,25841,PR,1996-01-01,CRF45_cpx,Plasma,Dideoxy,GAB,AY140637,FALSE,2005-12-20
 Pandrea02,IP_96CIRMF19,25841,RT,1996-01-01,G,Plasma,Dideoxy,GAB,AY140637,FALSE,2005-12-20
 Pandrea02,IP_96CIRMF41,25825,PR,1996-01-01,CRF45_cpx,Plasma,Dideoxy,GAB,AY140621,FALSE,2005-12-20

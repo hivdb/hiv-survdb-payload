@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Rolland11,0006,111067,PR,2006-09-01,B,Plasma,Dideoxy,USA,JF320159,FALSE,2013-03-29
 Rolland11,0006,111067,RT,2006-09-01,B,Plasma,Dideoxy,USA,JF320159,FALSE,2013-03-29
 Rolland11,0006,111067,IN,2006-09-01,B,Plasma,Dideoxy,USA,JF320159,FALSE,2013-03-29

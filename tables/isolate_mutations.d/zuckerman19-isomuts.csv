@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zuckerman19,24307.21646,PR,PR:W6L,6,L,0
 Zuckerman19,24307.21646,PR,PR:T12S,12,S,0
 Zuckerman19,24307.21646,PR,PR:M36L,36,L,0

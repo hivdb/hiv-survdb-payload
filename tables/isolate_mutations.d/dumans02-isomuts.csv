@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Dumans02,AD-01,PR,PR:I13V,13,V,0
 Dumans02,AD-01,PR,PR:I64V,64,V,0
 Dumans02,AD-02,PR,PR:I13V,13,V,0

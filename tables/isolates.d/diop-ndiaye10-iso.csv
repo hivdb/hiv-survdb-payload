@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Diop-Ndiaye10,27HALD,77076,PR,1999-06-01,CRF02_AG,Plasma,Dideoxy,SEN,FN599702,FALSE,2010-10-04
 Diop-Ndiaye10,27HALD,77076,RT,1999-06-01,CRF02_AG,Plasma,Dideoxy,SEN,FN599702,FALSE,2010-10-04
 Diop-Ndiaye10,34HALD,77081,PR,1998-06-01,CRF02_AG,Plasma,Dideoxy,SEN,FN599707,FALSE,2010-10-04

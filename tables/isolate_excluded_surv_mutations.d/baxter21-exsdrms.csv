@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Baxter21,sample-0059,PR,PR:L90M,90,M
 Baxter21,sample-0072,PR,PR:L24I,24,I
 Baxter21,sample-0090,PR,PR:L23I,23,I

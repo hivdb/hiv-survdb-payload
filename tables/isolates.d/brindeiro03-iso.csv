@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brindeiro03,BRC1516,17146,RT,2001-06-01,F,Plasma,Dideoxy,BRA,AY213511,FALSE,2003-11-06
 Brindeiro03,BRC1517,16864,PR,2001-06-01,B,Plasma,Dideoxy,BRA,AY213512,FALSE,2003-11-06
 Brindeiro03,BRC1517,16864,RT,2001-06-01,B,Plasma,Dideoxy,BRA,AY213512,FALSE,2003-11-06

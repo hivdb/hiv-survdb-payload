@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Nesakumar19,NAB002,261821,PR,2011-04-12,C,Plasma,Dideoxy,IND,MK330780,FALSE,2019-08-27
 Nesakumar19,NAB002,261821,RT,2011-04-12,C,Plasma,Dideoxy,IND,MK330780,FALSE,2019-08-27
 Nesakumar19,NAB003,261820,RT,2011-04-15,C,Plasma,Dideoxy,IND,MK330781,FALSE,2019-08-27

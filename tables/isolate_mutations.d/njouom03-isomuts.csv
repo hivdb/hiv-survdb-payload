@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Njouom03,22pol,PR,PR:I3T,3,T,0
 Njouom03,22pol,PR,PR:L10I,10,I,0
 Njouom03,22pol,PR,PR:E35D,35,D,0

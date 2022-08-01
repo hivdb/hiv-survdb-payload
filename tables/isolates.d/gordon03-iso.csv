@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gordon03,ZA004p01,14829,PR,2001-12-01,C,Plasma,Dideoxy,ZAF,AY136957,FALSE,2003-01-30
 Gordon03,ZA004p01,14829,RT,2001-12-01,C,Plasma,Dideoxy,ZAF,AY136957,FALSE,2003-01-30
 Gordon03,ZA005p01,14828,PR,2001-12-01,C,Plasma,Dideoxy,ZAF,AY136958,FALSE,2003-01-30

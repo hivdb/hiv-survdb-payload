@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Paraschiv07,155,45567,PR,2003-01-01,F,Plasma,Dideoxy,ROU,JQ082986,FALSE,2008-06-20
 Paraschiv07,155,45567,RT,2003-01-01,F,Plasma,Dideoxy,ROU,JQ082986,FALSE,2008-06-20
 Paraschiv07,156,45569,PR,2003-01-01,F,Plasma,Dideoxy,ROU,JQ082988,FALSE,2008-06-20

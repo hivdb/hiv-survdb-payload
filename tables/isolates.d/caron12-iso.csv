@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Caron12,Gab011078,108552,PR,2008-06-01,G,Plasma,Dideoxy,GAB,JN704987,FALSE,2013-03-26
 Caron12,Gab011078,108552,RT,2008-06-01,A + G,Plasma,Dideoxy,GAB,JN704987,FALSE,2013-03-26
 Caron12,Gab011110,108553,PR,2008-06-01,CRF02_AG,Plasma,Dideoxy,GAB,JN704988,FALSE,2013-03-26

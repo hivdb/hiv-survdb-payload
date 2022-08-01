@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li15,SF13G006,148336,PR,2013-06-01,B,Plasma,Dideoxy,CHN,KR188150,FALSE,2015-11-02
 Li15,SF13G006,148336,RT,2013-06-01,B,Plasma,Dideoxy,CHN,KR188150,FALSE,2015-11-02
 Li15,SF13G007,148643,PR,2013-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KR188151,FALSE,2015-11-02

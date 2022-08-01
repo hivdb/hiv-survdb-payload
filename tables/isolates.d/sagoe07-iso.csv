@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sagoe07,10,38302,PR,2003-06-01,CRF02_AG,Plasma,Dideoxy,GHA,EF174555,FALSE,2007-10-01
 Sagoe07,10,38302,RT,2003-06-01,CRF02_AG,Plasma,Dideoxy,GHA,EF174555,FALSE,2007-10-01
 Sagoe07,15,38319,PR,2003-06-01,CRF02_AG,Plasma,Dideoxy,GHA,EF550531,FALSE,2007-10-01

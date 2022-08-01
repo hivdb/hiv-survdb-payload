@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Smith09,CR1,68516,PR,2007-01-01,B,Plasma,Dideoxy,USA,NULL,FALSE,2009-12-08
 Smith09,CR1,68516,RT,2007-01-01,B,Plasma,Dideoxy,USA,NULL,FALSE,2009-12-08
 Smith09,CR2,68522,PR,2007-01-01,B,Plasma,Dideoxy,USA,NULL,FALSE,2009-12-08

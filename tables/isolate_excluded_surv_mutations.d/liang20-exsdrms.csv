@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Liang20,CQ-14-001319,RT,RT:D67N,67,N
 Liang20,CQ-15-004978,RT,RT:D67N,67,N
 Liang20,GX-14-001902,RT,RT:D67N,67,N

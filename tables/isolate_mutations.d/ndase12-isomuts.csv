@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ndase12,50000512,PR,PR:I13V,13,V,0
 Ndase12,50000512,PR,PR:I15V,15,V,1
 Ndase12,50000512,PR,PR:E35D,35,D,0

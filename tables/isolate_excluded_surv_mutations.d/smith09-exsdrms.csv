@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Smith09,CR153,RT,RT:D67G,67,G
 Smith09,CR153,RT,RT:D67N,67,N
 Smith09,CR38,RT,RT:D67G,67,G

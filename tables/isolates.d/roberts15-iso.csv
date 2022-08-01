@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Roberts15,PMB1_POL_0,247761,PR,2006-05-02,B,Plasma,Dideoxy,GBR,KU142894,FALSE,2019-04-01
 Roberts15,PMB1_POL_0,247761,RT,2006-05-02,B,Plasma,Dideoxy,GBR,KU142894,FALSE,2019-04-01
 Roberts15,PMB2_POL_0,247783,PR,2004-09-30,B,Plasma,Dideoxy,GBR,KU142843,FALSE,2019-04-01

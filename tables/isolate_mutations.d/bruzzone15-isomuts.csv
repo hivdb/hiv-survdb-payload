@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bruzzone15,GY0545F,PR,PR:I13V,13,V,0
 Bruzzone15,GY0545F,PR,PR:I15V,15,V,0
 Bruzzone15,GY0545F,PR,PR:E35D,35,D,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vaughan03,VHE_Pat1,19486,PR,2001-06-01,B,Plasma,Dideoxy,VCT,AY267315,FALSE,2004-05-21
 Vaughan03,VHE_Pat1,19486,RT,2001-06-01,B,Plasma,Dideoxy,VCT,AY267315,FALSE,2004-05-21
 Vaughan03,VHE_Pat2,19487,PR,2001-06-01,B,Plasma,Dideoxy,LCA,AY267329,FALSE,2004-05-21

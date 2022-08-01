@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Steegen16,GFECA001,174677,PR,2013-04-16,C,Plasma,Dideoxy,ZAF,KT892986,FALSE,2017-01-23
 Steegen16,GFECA001,174677,RT,2013-04-16,C,Plasma,Dideoxy,ZAF,KT892986,FALSE,2017-01-23
 Steegen16,GFECA004,174745,PR,2013-05-30,C,Plasma,Dideoxy,ZAF,KT893025,FALSE,2017-01-23

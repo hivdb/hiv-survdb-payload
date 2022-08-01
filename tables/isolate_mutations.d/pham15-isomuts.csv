@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Pham15,BD12-169,RT,RT:E6N,6,N,0
 Pham15,BD12-169,RT,RT:K11T,11,T,0
 Pham15,BD12-169,RT,RT:E28K,28,K,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gonzalez-Domenech20,382,296731,PR,2015-06-01,B,Plasma,Dideoxy,ESP,MK344508,FALSE,2021-05-12
 Gonzalez-Domenech20,382,296731,RT,2015-06-01,B,Plasma,Dideoxy,ESP,MK344564,FALSE,2021-05-12
 Gonzalez-Domenech20,387,296732,PR,2015-06-01,B,Plasma,Dideoxy,ESP,MK344509,FALSE,2021-05-12

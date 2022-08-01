@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brennan10,ARC-A59,106043,PR,2005-10-25,CRF02_AG,Plasma,Dideoxy,USA,GU565657,FALSE,2013-03-08
 Brennan10,ARC-A59,106043,RT,2005-10-25,CRF02_AG,Plasma,Dideoxy,USA,GU565657,FALSE,2013-03-08
 Brennan10,ARC-A67,106048,PR,2005-06-17,B,Plasma,Dideoxy,USA,GU565662,FALSE,2013-03-08

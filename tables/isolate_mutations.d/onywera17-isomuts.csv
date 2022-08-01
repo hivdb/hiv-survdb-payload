@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Onywera17,0010704,PR,PR:I13V,13,V,0
 Onywera17,0010704,PR,PR:R41K,41,K,0
 Onywera17,0010704,PR,PR:L63S,63,S,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Baker07,0079BS,75542,PR,2005-01-01,D,Plasma,Dideoxy,UGA,AY803478,FALSE,2010-08-24
 Baker07,0079BS,75542,RT,2005-01-01,A,Plasma,Dideoxy,UGA,AY803478,FALSE,2010-08-24
 Baker07,300NG,75526,PR,2005-01-01,A,Plasma,Dideoxy,UGA,AY803462,FALSE,2010-08-24

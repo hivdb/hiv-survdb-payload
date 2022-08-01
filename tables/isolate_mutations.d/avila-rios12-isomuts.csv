@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Avila-Rios12,B000F85PS1,PR,PR:T12A,12,A,1
 Avila-Rios12,B000F85PS1,PR,PR:T12V,12,V,1
 Avila-Rios12,B000F85PS1,PR,PR:I13V,13,V,1

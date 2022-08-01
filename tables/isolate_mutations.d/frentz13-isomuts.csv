@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Frentz13,EHR-00105,PR,PR:I13V,13,V,0
 Frentz13,EHR-00105,PR,PR:L19P,19,P,0
 Frentz13,EHR-00105,PR,PR:K20I,20,I,0

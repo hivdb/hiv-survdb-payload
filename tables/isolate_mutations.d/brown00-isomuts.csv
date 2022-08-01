@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Brown00,98-0787,RT,RT:I135T,135,T,0
 Brown00,98-0787,RT,RT:S162C,162,C,0
 Brown00,98-0787,RT,RT:R211S,211,S,0

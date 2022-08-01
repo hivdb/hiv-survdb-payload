@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Baker07,0079BS,PR,PR:I13V,13,V,0
 Baker07,0079BS,PR,PR:M36I,36,I,0
 Baker07,0079BS,PR,PR:R41K,41,K,0

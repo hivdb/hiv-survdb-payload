@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vercauteren08,B01507P,42952,PR,2005-01-01,B,Plasma,Dideoxy,BEL,EU248457,FALSE,2008-04-29
 Vercauteren08,B01507P,42952,RT,2005-01-01,B,Plasma,Dideoxy,BEL,EU248457,FALSE,2008-04-29
 Vercauteren08,B02402P,42955,PR,2003-01-01,B,Plasma,Dideoxy,BEL,EU248460,FALSE,2008-04-29

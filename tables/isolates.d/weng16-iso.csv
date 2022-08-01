@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Weng16,200701,163526,PR,2007-06-01,B,Plasma,Dideoxy,TWN,NULL,FALSE,2016-05-11
 Weng16,200701,163526,RT,2007-06-01,B,Plasma,Dideoxy,TWN,NULL,FALSE,2016-05-11
 Weng16,200702,163428,PR,2007-06-01,B,Plasma,Dideoxy,TWN,NULL,FALSE,2016-05-11

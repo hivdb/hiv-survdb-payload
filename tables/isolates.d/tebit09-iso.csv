@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tebit09,TR12,61960,PR,2004-06-01,G,Plasma,Dideoxy,BFA,FJ577263,FALSE,2009-09-08
 Tebit09,TR12,61960,RT,2004-06-01,CRF06_cpx,Plasma,Dideoxy,BFA,FJ577263,FALSE,2009-09-08
 Tebit09,TR14b,61961,PR,2004-06-01,G,Plasma,Dideoxy,BFA,FJ577264,FALSE,2009-09-08

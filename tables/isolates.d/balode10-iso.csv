@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Balode10,S2009,79383,PR,2005-01-10,B,Plasma,Dideoxy,LVA,GU945072,FALSE,2011-01-31
 Balode10,S2009,79383,RT,2005-01-10,B,Plasma,Dideoxy,LVA,GU945072,FALSE,2011-01-31
 Balode10,S2010,79384,PR,2005-01-18,B,Plasma,Dideoxy,LVA,GU945073,FALSE,2011-01-31

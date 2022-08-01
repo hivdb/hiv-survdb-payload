@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Eshleman09b,A02378W2,58282,PR,2000-01-01,D,Plasma,Dideoxy,UGA,FJ389097,FALSE,2009-05-08
 Eshleman09b,A02378W2,58282,RT,2000-01-01,D,Plasma,Dideoxy,UGA,FJ389097,FALSE,2009-05-08
 Eshleman09b,A05705W3,58283,PR,2000-01-01,D,Plasma,Dideoxy,UGA,FJ389098,FALSE,2009-05-08

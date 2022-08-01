@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Pires04,PIL_Pat1,PR,PR:L63P,63,P,0
 Pires04,PIL_Pat1,PR,PR:V77I,77,I,0
 Pires04,PIL_Pat10,PR,PR:I15V,15,V,0

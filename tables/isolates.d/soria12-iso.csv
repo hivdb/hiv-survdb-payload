@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Soria12,13-1pla,102705,RT,2007-06-01,B,Plasma,Dideoxy,PER,JF690127,FALSE,2013-02-13
 Soria12,14-1pla,102706,RT,2007-06-01,B,Plasma,Dideoxy,PER,JF690128,FALSE,2013-02-13
 Soria12,15-1pla,102707,RT,2007-06-01,B,Plasma,Dideoxy,PER,JF690129,FALSE,2013-02-13

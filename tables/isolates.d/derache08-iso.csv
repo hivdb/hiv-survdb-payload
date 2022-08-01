@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Derache08,BKO-879,42252,PR,2005-06-01,CRF02_AG,Plasma,Dideoxy,MLI,EU330647,FALSE,2008-02-26
 Derache08,BKO-879,42252,RT,2005-06-01,CRF02_AG,Plasma,Dideoxy,MLI,EU330647,FALSE,2008-02-26
 Derache08,BKO-881,42253,PR,2005-06-01,CRF02_AG,Plasma,Dideoxy,MLI,EU330648,FALSE,2008-02-26

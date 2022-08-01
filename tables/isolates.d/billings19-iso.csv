@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Billings19,20004v01,261104,PR,2014-05-19,CRF02_AG,Plasma,Dideoxy,NGA,MH654941,FALSE,2019-08-27
 Billings19,20004v01,261104,RT,2014-05-19,CRF02_AG,Plasma,Dideoxy,NGA,MH654941,FALSE,2019-08-27
 Billings19,20010v01,261105,PR,2014-05-20,CRF02_AG,Plasma,Dideoxy,NGA,MH654952,FALSE,2019-08-27

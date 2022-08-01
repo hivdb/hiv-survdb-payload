@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Choi08,KRB9047,62358,PR,1999-01-01,B,Plasma,Dideoxy,KOR,NULL,FALSE,2009-10-01
 Choi08,KRB9047,62358,RT,1999-01-01,B,Plasma,Dideoxy,KOR,NULL,FALSE,2009-10-01
 Choi08,KRB9048,62359,PR,1999-01-01,B,Plasma,Dideoxy,KOR,NULL,FALSE,2009-10-01

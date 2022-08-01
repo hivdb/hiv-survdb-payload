@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ay20,HU1_2017,275773,PR,2017-06-01,D,Plasma,Dideoxy,HUN,MK250657,FALSE,2020-06-09
 Ay20,HU1_2017,275773,RT,2017-06-01,D,Plasma,Dideoxy,HUN,MK250657,FALSE,2020-06-09
 Ay20,HU2_2017,275736,PR,2017-06-01,B,Plasma,Dideoxy,HUN,MK213272,FALSE,2020-06-09

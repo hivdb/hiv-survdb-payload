@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ibe08,69,43745,PR,1999-01-01,B,Plasma,Dideoxy,JPN,AB356146,FALSE,2008-06-04
 Ibe08,69,43745,RT,1999-01-01,B,Plasma,Dideoxy,JPN,AB356146,FALSE,2008-06-04
 Ibe08,77,43746,PR,1999-01-01,B,Plasma,Dideoxy,JPN,AB356147,FALSE,2008-06-04

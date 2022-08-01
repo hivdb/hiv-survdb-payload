@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yang02,DH001,13787,PR,2001-12-01,B,Plasma,Dideoxy,CHN,AB078703,FALSE,2002-12-06
 Yang02,DH001,13787,RT,2001-12-01,B,Plasma,Dideoxy,CHN,AB078703,FALSE,2002-12-06
 Yang02,DH002,13786,PR,2001-12-01,B,Plasma,Dideoxy,CHN,AB078704,FALSE,2002-12-06

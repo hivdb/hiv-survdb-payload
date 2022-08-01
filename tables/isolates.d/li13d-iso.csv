@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li13d,hnhy37,118522,PR,2009-08-25,B,Plasma,Dideoxy,CHN,KC987985,FALSE,2013-07-30
 Li13d,hnhy37,118522,RT,2009-08-25,B,Plasma,Dideoxy,CHN,KC987985,FALSE,2013-07-30
 Li13d,hnhy37,118522,IN,2009-08-25,B,Plasma,Dideoxy,CHN,KC987985,FALSE,2013-07-30

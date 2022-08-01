@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Nanfack17,MDC007_1_Sanger,203239,RT,2011-06-01,CRF02_AG,Plasma,Dideoxy,CMR,KY475637,FALSE,2018-01-18
 Nanfack17,MDC041_1_Sanger,203214,RT,2011-06-01,CRF02_AG,Plasma,Dideoxy,CMR,KY931691,FALSE,2018-01-18
 Nanfack17,MDC042_1_Sanger,203213,RT,2011-06-01,A,Plasma,Dideoxy,CMR,KY931692,FALSE,2018-01-18

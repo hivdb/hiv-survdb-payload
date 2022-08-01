@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Smolen-Dzirba12,AAK19,PR,PR:T12P,12,P,0
 Smolen-Dzirba12,AAK19,PR,PR:L19I,19,I,0
 Smolen-Dzirba12,AAK19,PR,PR:M36L,36,L,0

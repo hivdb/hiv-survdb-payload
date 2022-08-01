@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chin06,KRC2078,59819,PR,2002-04-01,B,Plasma,Dideoxy,KOR,DQ660467,FALSE,2009-08-07
 Chin06,KRC2078,59819,RT,2002-04-01,B,Plasma,Dideoxy,KOR,DQ660467,FALSE,2009-08-07
 Chin06,KRC2092,59817,PR,2002-11-28,B,Plasma,Dideoxy,KOR,DQ660465,FALSE,2009-08-07

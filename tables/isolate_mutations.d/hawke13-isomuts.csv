@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Hawke13,1040039 H,PR,PR:T12E,12,E,0
 Hawke13,1040039 H,PR,PR:K14R,14,R,0
 Hawke13,1040039 H,PR,PR:I15V,15,V,0

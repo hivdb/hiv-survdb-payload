@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kostaki18,TRIP_1006,228850,PR,2013-06-01,B,Plasma,Dideoxy,GRC,MH157340,FALSE,2018-12-26
 Kostaki18,TRIP_1006,228850,RT,2013-06-01,B,Plasma,Dideoxy,GRC,MH157340,FALSE,2018-12-26
 Kostaki18,TRIP_1031,228811,PR,2014-06-01,G,Plasma,Dideoxy,GRC,MH157379,FALSE,2018-12-26

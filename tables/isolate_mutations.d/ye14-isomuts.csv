@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ye14,BJ061118,PR,PR:T12P,12,P,0
 Ye14,BJ061118,PR,PR:L19Q,19,Q,0
 Ye14,BJ061118,PR,PR:L38I,38,I,0

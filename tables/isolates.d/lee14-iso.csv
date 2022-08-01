@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lee14,AMU001,136280,PR,2003-06-01,D,Plasma,Dideoxy,UGA,KJ906625,FALSE,2014-09-15
 Lee14,AMU001,136280,RT,2003-06-01,D,Plasma,Dideoxy,UGA,KJ906625,FALSE,2014-09-15
 Lee14,AMU002,136252,PR,2003-06-01,A,Plasma,Dideoxy,UGA,KJ906626,FALSE,2014-09-15

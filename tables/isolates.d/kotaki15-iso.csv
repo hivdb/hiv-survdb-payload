@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kotaki15,DN2,191936,PR,2014-06-01,CRF01_AE,Plasma,Dideoxy,IDN,KJ865348,FALSE,2017-04-11
 Kotaki15,DN2,191936,RT,2014-06-01,CRF01_AE,PBMC,Dideoxy,IDN,KJ865396,FALSE,2017-04-11
 Kotaki15,DN3,191963,PR,2014-06-01,CRF01_AE,PBMC,Dideoxy,IDN,KJ865349,FALSE,2017-04-11

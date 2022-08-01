@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Capoferri20,A021565R15,276061,PR,2012-07-16,D,Plasma,Dideoxy,UGA,MN650370,FALSE,2020-06-09
 Capoferri20,A021565R15,276061,RT,2012-07-16,D,Plasma,Dideoxy,UGA,MN650370,FALSE,2020-06-09
 Capoferri20,A021565R15,276061,IN,2012-07-16,D,Plasma,Dideoxy,UGA,MN650370,FALSE,2020-06-09

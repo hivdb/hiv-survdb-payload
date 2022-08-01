@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Carvalho15,245,RT,RT:K219R,219,R
 Carvalho15,248,RT,RT:Y181C,181,C
 Carvalho15,248,RT,RT:Y181V,181,V

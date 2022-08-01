@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Carvalho15,1,PR,PR:V11I,11,I,0
 Carvalho15,1,PR,PR:I13V,13,V,0
 Carvalho15,1,PR,PR:K20I,20,I,0

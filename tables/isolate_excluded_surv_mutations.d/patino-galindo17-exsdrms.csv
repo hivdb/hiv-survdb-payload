@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Patino-Galindo17,PR2312023,PR,PR:G73S,73,S
 Patino-Galindo17,PR2313038,PR,PR:G73S,73,S
 Patino-Galindo17,PR2313079,PR,PR:D30N,30,N

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tanuma13,08HT0001,251346,PR,2008-10-03,CRF01_AE,Plasma,Dideoxy,VNM,AB894875,FALSE,2019-04-03
 Tanuma13,08HT0001,251346,RT,2008-10-03,CRF01_AE,Plasma,Dideoxy,VNM,AB894875,FALSE,2019-04-03
 Tanuma13,08HT0002,251347,PR,2008-10-03,CRF01_AE,Plasma,Dideoxy,VNM,AB894876,TRUE,2019-04-03

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Kinloch16,PRRT_1,PR,PR:K14R,14,R,0
 Kinloch16,PRRT_1,PR,PR:L33I,33,I,0
 Kinloch16,PRRT_1,PR,PR:N37S,37,S,0

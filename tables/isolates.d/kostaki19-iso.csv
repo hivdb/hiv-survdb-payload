@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kostaki19,01_008809,263052,PR,2013-06-01,CRF02_AG,PBMC,Dideoxy,ESP,MK588005,FALSE,2019-09-04
 Kostaki19,01_008809,263052,RT,2013-06-01,CRF02_AG,PBMC,Dideoxy,ESP,MK588005,FALSE,2019-09-04
 Kostaki19,01_230687,263347,PR,2013-06-01,CRF02_AG,PBMC,Dideoxy,ESP,MK588006,FALSE,2019-09-04

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Paraskevis05,GRSPR1,RT,RT:K122E,122,E,0
 Paraskevis05,GRSPR1,RT,RT:S162C,162,C,0
 Paraskevis05,GRSPR1,RT,RT:D177E,177,E,0

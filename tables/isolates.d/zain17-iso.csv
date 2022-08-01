@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zain17,HIVDR001,174942,PR,2015-01-01,CRF33_01B,Plasma,Dideoxy,MYS,KU894653,FALSE,2017-01-23
 Zain17,HIVDR001,174942,RT,2015-01-01,B + CRF01_AE,Plasma,Dideoxy,MYS,KU894653,FALSE,2017-01-23
 Zain17,HIVDR004,174926,PR,2015-01-01,CRF33_01B,Plasma,Dideoxy,MYS,KU894654,FALSE,2017-01-23

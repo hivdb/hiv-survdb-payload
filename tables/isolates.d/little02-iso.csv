@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Little02,1,59849,PR,1996-06-01,B,Plasma,Dideoxy,USA,EU693578,FALSE,2009-08-10
 Little02,1,59849,RT,1996-06-01,B,Plasma,Dideoxy,USA,EU693578,FALSE,2009-08-10
 Little02,2,59850,PR,1996-06-01,B,Plasma,Dideoxy,USA,EU693579,FALSE,2009-08-10

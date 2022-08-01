@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chin06,KRC2078,PR,PR:M36I,36,I,0
 Chin06,KRC2078,PR,PR:N37S,37,S,0
 Chin06,KRC2078,PR,PR:I62V,62,V,0

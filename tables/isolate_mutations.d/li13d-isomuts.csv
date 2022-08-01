@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Li13d,hnhy37,PR,PR:E21K,21,K,0
 Li13d,hnhy37,PR,PR:A22P,22,P,0
 Li13d,hnhy37,PR,PR:E35D,35,D,0

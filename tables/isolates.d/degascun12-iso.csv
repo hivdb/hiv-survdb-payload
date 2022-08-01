@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 DeGascun12,05IRL04175,93047,PR,2005-06-01,C,Plasma,Dideoxy,IRL,JN622846,FALSE,2012-05-14
 DeGascun12,05IRL04175,93047,RT,2005-06-01,C,Plasma,Dideoxy,IRL,JN622846,TRUE,2012-05-14
 DeGascun12,05IRL07631,92632,PR,2005-06-01,B,Plasma,Dideoxy,IRL,JN622431,TRUE,2012-05-14

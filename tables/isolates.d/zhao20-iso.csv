@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zhao20,Beijing045,289121,PR,2018-10-08,CRF07_BC,Plasma,Dideoxy,CHN,MK771158,FALSE,2020-09-08
 Zhao20,Beijing045,289121,RT,2018-10-08,CRF07_BC,Plasma,Dideoxy,CHN,MK771158,FALSE,2020-09-08
 Zhao20,Beijing045,289121,IN,2018-10-08,CRF07_BC,Plasma,Dideoxy,CHN,MK771495,FALSE,2020-09-08

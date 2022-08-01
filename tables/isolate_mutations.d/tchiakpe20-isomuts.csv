@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tchiakpe20,BEN1,PR,PR:T12E,12,E,0
 Tchiakpe20,BEN1,PR,PR:I13V,13,V,0
 Tchiakpe20,BEN1,PR,PR:K20I,20,I,0

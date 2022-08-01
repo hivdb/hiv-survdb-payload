@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kiertiburanakul13,R12TS001,117946,PR,2007-06-04,CRF01_AE,Plasma,Dideoxy,HKG,KC994316,FALSE,2013-07-29
 Kiertiburanakul13,R12TS001,117946,RT,2007-06-04,CRF01_AE,Plasma,Dideoxy,HKG,KC994316,FALSE,2013-07-29
 Kiertiburanakul13,R12TS002,117688,PR,2007-10-25,B,Plasma,Dideoxy,HKG,KC994317,FALSE,2013-07-29

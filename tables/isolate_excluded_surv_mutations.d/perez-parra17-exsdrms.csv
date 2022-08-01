@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Perez-Parra17,409015819,PR,PR:V32I,32,I
 Perez-Parra17,409015819,PR,PR:M46I,46,I
 Perez-Parra17,409015819,PR,PR:I47V,47,V

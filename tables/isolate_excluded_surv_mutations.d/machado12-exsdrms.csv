@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Machado12,CUPL1014,RT,RT:M184I,184,I
 Machado12,CUPL1035,RT,RT:K219N,219,N
 Machado12,CUPL1035,RT,RT:M230L,230,L

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Hernandez-Sanchez18,MX-HIV-0422,PR,PR:I13V,13,V,0
 Hernandez-Sanchez18,MX-HIV-0422,PR,PR:K43stop,43,stop,0
 Hernandez-Sanchez18,MX-HIV-0422,PR,PR:G48R,48,R,0

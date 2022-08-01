@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yerly04,152,RT,RT:V35I,35,I,0
 Yerly04,152,RT,RT:K49R,49,R,0
 Yerly04,152,RT,RT:R83K,83,K,0

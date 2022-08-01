@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zeh16,0004010_04,PR,PR:M36I,36,I,0
 Zeh16,0004010_04,PR,PR:R41K,41,K,0
 Zeh16,0004010_04,PR,PR:K43R,43,R,0

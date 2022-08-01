@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Cuevas09,X2454_1,PR,PR:T12A,12,A,0
 Cuevas09,X2454_1,PR,PR:E35D,35,D,0
 Cuevas09,X2454_1,PR,PR:N37D,37,D,0

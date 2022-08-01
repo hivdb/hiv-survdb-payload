@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ong13,08MYKL002,120421,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,MYS,KC181245,FALSE,2014-01-03
 Ong13,08MYKL002,120421,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,MYS,KC181245,FALSE,2014-01-03
 Ong13,08MYKL004,120414,PR,2008-06-01,B + CRF01_AE,Plasma,Dideoxy,MYS,KC181244,FALSE,2014-01-03

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Santos11,J48,106671,PR,2007-01-01,B,Plasma,Dideoxy,BRA,JN010440,FALSE,2013-03-12
 Santos11,J48,106671,RT,2007-01-01,B,Plasma,Dideoxy,BRA,JN010440,FALSE,2013-03-12
 Santos11,J51,106672,PR,2007-01-01,B,Plasma,Dideoxy,BRA,JN010441,FALSE,2013-03-12

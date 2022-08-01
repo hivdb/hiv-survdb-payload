@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ay17,HU162016,PR,PR:L10I,10,I,0
 Ay17,HU162016,PR,PR:K14R,14,R,0
 Ay17,HU162016,PR,PR:E35D,35,D,0

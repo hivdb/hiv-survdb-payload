@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Soria12,101-1pla,RT,RT:G196E,196,E,0
 Soria12,101-1pla,RT,RT:E204D,204,D,0
 Soria12,101-1pla,RT,RT:R211K,211,K,0

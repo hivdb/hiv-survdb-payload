@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yao15,CN.iso25,189495,PR,2011-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC924448,FALSE,2017-03-23
 Yao15,CN.iso25,189495,RT,2011-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC924448,FALSE,2017-03-23
 Yao15,CN.iso27,189451,PR,2011-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC924449,FALSE,2017-03-23

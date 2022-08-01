@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Parczewski14,1_GD13,145662,PR,2013-06-01,B,Plasma,Dideoxy,POL,KM284036,FALSE,2015-04-02
 Parczewski14,1_GD13,145662,RT,2013-06-01,B,Plasma,Dideoxy,POL,KM284036,FALSE,2015-04-02
 Parczewski14,3A_BI10,145341,PR,2010-06-01,A,Plasma,Dideoxy,POL,KM284224,FALSE,2015-04-02

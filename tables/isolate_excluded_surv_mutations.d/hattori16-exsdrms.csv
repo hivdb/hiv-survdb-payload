@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Hattori16,C11_933568,PR,PR:L23I,23,I
 Hattori16,E10_911043,PR,PR:D30N,30,N
 Hattori16,E12_911327,PR,PR:M46I,46,I

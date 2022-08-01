@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bao08,YUN01-01,PR,PR:L5F,5,F,0
 Bao08,YUN01-01,PR,PR:L10V,10,V,0
 Bao08,YUN01-01,PR,PR:T12P,12,P,1

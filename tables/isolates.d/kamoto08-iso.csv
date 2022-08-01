@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kamoto08,MW1,87031,PR,2006-06-01,C,Dried Blood Spot,Dideoxy,MWI,JQ617130,FALSE,2012-01-30
 Kamoto08,MW1,87031,RT,2006-06-01,C,Dried Blood Spot,Dideoxy,MWI,JQ617130,FALSE,2012-01-30
 Kamoto08,MW2,87032,PR,2006-06-01,C,Dried Blood Spot,Dideoxy,MWI,JQ617131,FALSE,2012-01-30

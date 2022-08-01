@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chaix03,CML_Pat1,RT,RT:I50V,50,V,0
 Chaix03,CML_Pat1,RT,RT:R83K,83,K,0
 Chaix03,CML_Pat1,RT,RT:A98S,98,S,0

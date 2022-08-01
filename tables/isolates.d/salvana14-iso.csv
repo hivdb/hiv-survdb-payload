@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Salvana14,NIHA_1,180915,PR,2013-05-07,CRF01_AE,Plasma,Dideoxy,PHL,KX184117,FALSE,2017-03-09
 Salvana14,NIHA_1,180915,RT,2013-05-07,CRF01_AE,Plasma,Dideoxy,PHL,KX184117,FALSE,2017-03-09
 Salvana14,NIHA_2,180926,PR,2013-05-09,CRF01_AE,Plasma,Dideoxy,PHL,KX184128,FALSE,2017-03-09

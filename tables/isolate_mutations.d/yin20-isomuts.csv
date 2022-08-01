@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yin20,cz10,PR,PR:I13V,13,V,0
 Yin20,cz10,PR,PR:G16E,16,E,0
 Yin20,cz10,PR,PR:K20R,20,R,0

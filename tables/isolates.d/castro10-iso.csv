@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Castro10,PHI-1,112775,PR,2004-06-01,B,Plasma,Dideoxy,CHE,GQ131596,FALSE,2013-04-24
 Castro10,PHI-1,112775,RT,2004-06-01,B,Plasma,Dideoxy,CHE,GQ131596,FALSE,2013-04-24
 Castro10,PHI-2,112779,PR,2005-06-01,F,Plasma,Dideoxy,CHE,GQ131597,FALSE,2013-04-24

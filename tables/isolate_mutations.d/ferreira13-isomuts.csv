@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ferreira13,BR08SP407,PR,PR:I15V,15,V,0
 Ferreira13,BR08SP407,PR,PR:K20R,20,R,0
 Ferreira13,BR08SP407,PR,PR:E35D,35,D,0

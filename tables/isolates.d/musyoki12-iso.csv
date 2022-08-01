@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Musyoki12,DGM.1,93500,PR,2006-06-01,C,Plasma,Dideoxy,ZAF,JN176286,FALSE,2012-06-26
 Musyoki12,DGM.1,93500,RT,2006-06-01,C,Plasma,Dideoxy,ZAF,JN176286,FALSE,2012-06-26
 Musyoki12,DGM.2,93501,PR,2006-06-01,C,Plasma,Dideoxy,ZAF,JN176287,FALSE,2012-06-26

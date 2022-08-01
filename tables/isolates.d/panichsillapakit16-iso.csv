@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Panichsillapakit16,2aa/20100920,154999,PR,2010-09-20,B,Plasma,Dideoxy,USA,NULL,FALSE,2016-05-04
 Panichsillapakit16,2aa/20100920,154999,RT,2010-09-20,B,Plasma,Dideoxy,USA,NULL,FALSE,2016-05-04
 Panichsillapakit16,2au/20100729,154568,PR,2010-07-29,B,Plasma,Dideoxy,USA,NULL,FALSE,2016-05-04

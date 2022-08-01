@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Frange12,030101KER,94125,RT,2001-06-01,B,Plasma,Dideoxy,FRA,JQ292059,FALSE,2012-06-27
 Frange12,030201CAA,94630,RT,2008-06-01,B,Plasma,Dideoxy,FRA,JQ292564,FALSE,2012-06-27
 Frange12,060205DCW,94138,RT,2000-06-01,B,Plasma,Dideoxy,FRA,JQ292072,FALSE,2012-06-27

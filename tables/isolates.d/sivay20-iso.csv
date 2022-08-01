@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sivay20,ENR_1,289595,PR,2015-11-05,A,Plasma,Dideoxy,KEN,MT185157,FALSE,2020-09-10
 Sivay20,ENR_1,289595,RT,2015-11-05,A,Plasma,Dideoxy,KEN,MT185157,FALSE,2020-09-10
 Sivay20,ENR_2,289596,PR,2016-01-06,C,Plasma,Dideoxy,KEN,MT185158,FALSE,2020-09-10

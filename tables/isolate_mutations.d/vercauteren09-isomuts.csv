@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Vercauteren09,pt1,PR,PR:T12S,12,S,0
 Vercauteren09,pt1,PR,PR:E35D,35,D,0
 Vercauteren09,pt1,PR,PR:R57K,57,K,0

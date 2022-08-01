@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Machado12,CUPL0901,99656,PR,2009-06-01,G,Plasma,Dideoxy,CUB,HQ655334,FALSE,2012-11-21
 Machado12,CUPL0901,99656,RT,2009-06-01,B + G,Plasma,Dideoxy,CUB,HQ655334,FALSE,2012-11-21
 Machado12,CUPL0902,99657,PR,2009-06-01,G,Plasma,Dideoxy,CUB,HQ655335,FALSE,2012-11-21

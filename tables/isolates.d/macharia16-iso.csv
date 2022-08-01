@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Macharia16,PT17,230133,RT,2014-06-01,A,Plasma,Dideoxy,KEN,KX505323,FALSE,2018-12-26
 Macharia16,PT18,230134,RT,2014-06-01,A,Plasma,Dideoxy,KEN,KX505324,FALSE,2018-12-26
 Macharia16,PT19,230174,RT,2014-06-01,A,Plasma,Dideoxy,KEN,KX505364,FALSE,2018-12-26

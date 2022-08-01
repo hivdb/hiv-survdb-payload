@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Kasang11,1323,PR,PR:G73S,73,S
 Kasang11,1323,RT,RT:G190E,190,E
 Kasang11,1332,RT,RT:M184I,184,I

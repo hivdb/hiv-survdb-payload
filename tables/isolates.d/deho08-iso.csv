@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Deho08,2,62077,PR,2002-06-01,C,Plasma,Dideoxy,SWZ,EU244660,FALSE,2009-09-17
 Deho08,2,62077,RT,2002-06-01,C,Plasma,Dideoxy,SWZ,EU244660,FALSE,2009-09-17
 Deho08,3,62085,PR,2002-06-01,C,Plasma,Dideoxy,SWZ,EU244668,FALSE,2009-09-17

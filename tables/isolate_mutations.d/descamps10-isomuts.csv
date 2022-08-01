@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Descamps10,100odyssee,RT,RT:V35T,35,T,0
 Descamps10,100odyssee,RT,RT:E36D,36,D,0
 Descamps10,100odyssee,RT,RT:V60I,60,I,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Razafindratsimandresy07,1,40389,PR,2005-06-01,B,Plasma,Dideoxy,SYC,EF143493,FALSE,2007-11-27
 Razafindratsimandresy07,1,40389,RT,2005-06-01,B,Plasma,Dideoxy,SYC,EF143535,FALSE,2007-11-27
 Razafindratsimandresy07,2,40390,PR,2005-06-01,CRF01_AE,Plasma,Dideoxy,SYC,EF143494,FALSE,2007-11-27

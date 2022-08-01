@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kiptoo13,KAP001,120539,PR,2006-07-20,CRF01_AE,Plasma,Dideoxy,KEN,KC516873,FALSE,2014-01-03
 Kiptoo13,KAP001,120539,RT,2006-07-20,A,Plasma,Dideoxy,KEN,KC516873,FALSE,2014-01-03
 Kiptoo13,KAP005,120520,PR,2006-07-20,A,Plasma,Dideoxy,KEN,KC516918,FALSE,2014-01-03

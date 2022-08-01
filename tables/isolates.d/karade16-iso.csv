@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Karade16,N05-8270,192040,PR,2014-01-24,C,Plasma,Dideoxy,IND,KT318883,FALSE,2017-04-12
 Karade16,N05-8270,192040,RT,2014-01-24,C,Plasma,Dideoxy,IND,KT318883,FALSE,2017-04-12
 Karade16,N06-7803,192017,PR,2014-06-13,C,Plasma,Dideoxy,IND,KT318884,FALSE,2017-04-12

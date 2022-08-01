@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kannangai15,11C159,191109,PR,2012-12-31,C,Plasma,Dideoxy,IND,KP227570,FALSE,2017-03-29
 Kannangai15,11C159,191109,RT,2012-12-31,C,Plasma,Dideoxy,IND,KP227570,FALSE,2017-03-29
 Kannangai15,11C447,191225,PR,2012-12-31,C,Plasma,Dideoxy,IND,KP227531,FALSE,2017-03-29

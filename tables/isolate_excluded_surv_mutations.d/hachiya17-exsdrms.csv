@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Hachiya17,C13-2019545,RT,RT:V179F,179,F
 Hachiya17,C13-555511,RT,RT:T215D,215,D
 Hachiya17,D13-2031043,RT,RT:K101E,101,E

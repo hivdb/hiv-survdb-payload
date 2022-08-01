@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Cheriro15,NLHG-100,PR,PR:K14R,14,R,0
 Cheriro15,NLHG-100,PR,PR:K20R,20,R,1
 Cheriro15,NLHG-100,PR,PR:E35D,35,D,0

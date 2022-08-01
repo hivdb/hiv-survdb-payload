@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Perez-Parra17,100101550,PR,PR:I13V,13,V,0
 Perez-Parra17,100101550,PR,PR:K20I,20,I,0
 Perez-Parra17,100101550,PR,PR:M36I,36,I,0

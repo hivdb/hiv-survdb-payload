@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Edoul20,1001MES,PR,PR:T12I,12,I,0
 Edoul20,1001MES,PR,PR:I13V,13,V,0
 Edoul20,1001MES,PR,PR:K14R,14,R,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Rodrigues06,BR04RS93,26925,PR,2004-06-01,B,Plasma,Dideoxy,BRA,DQ070561,FALSE,2006-04-06
 Rodrigues06,BR04RS93,26925,RT,2004-06-01,B,Plasma,Dideoxy,BRA,DQ070719,TRUE,2006-04-06
 Rodrigues06,BR04RS94,26926,RT,2004-06-01,C,Plasma,Dideoxy,BRA,DQ070682,FALSE,2006-04-06

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Simon02,AD-1,26525,PR,1995-06-01,B,Plasma,Dideoxy,USA,AF459101,FALSE,2006-04-04
 Simon02,AD-1,26525,RT,1995-06-01,B,Plasma,Dideoxy,USA,AF459101,FALSE,2006-04-04
 Simon02,AD-2,26536,PR,1995-06-01,B,Plasma,Dideoxy,USA,AF459102,FALSE,2006-04-04

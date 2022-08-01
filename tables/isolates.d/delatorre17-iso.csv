@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Delatorre17,12BRRJGN01,177616,PR,2012-06-01,F,Plasma,Dideoxy,BRA,KX357219,FALSE,2017-02-08
 Delatorre17,12BRRJGN01,177616,RT,2012-06-01,F,Plasma,Dideoxy,BRA,KX357219,FALSE,2017-02-08
 Delatorre17,12BRRJGN02,177613,PR,2012-06-01,B,Plasma,Dideoxy,BRA,KX357220,FALSE,2017-02-08

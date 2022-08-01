@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Pessoa16,10BR_MG030,PR,PR:M46I,46,I
 Pessoa16,10BR_PE058,PR,PR:D30N,30,N
 Pessoa16,10BR_PE058,PR,PR:M46I,46,I

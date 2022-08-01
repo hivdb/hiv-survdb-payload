@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Xu18,CNZJ29,PR,PR:M46I,46,I
 Xu18,CNZJ29,PR,PR:G73S,73,S
 Xu18,CNZJ29,RT,RT:M184I,184,I

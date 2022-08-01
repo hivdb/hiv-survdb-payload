@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Mazzuti20,BF_195_2015,PR,PR:L24I,24,I
 Mazzuti20,CA_310_2010,PR,PR:F53L,53,L
 Mazzuti20,BA_166_2013,RT,RT:Y188H,188,H

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Duque02,dn01,13860,RT,2000-06-01,C,Plasma,Dideoxy,PRT,AF504552,FALSE,2002-12-16
 Duque02,dn02,13861,RT,2000-06-01,B,Plasma,Dideoxy,PRT,AF504553,FALSE,2002-12-16
 Duque02,dn03,13862,RT,2000-06-01,G,Plasma,Dideoxy,PRT,AF504554,FALSE,2002-12-16

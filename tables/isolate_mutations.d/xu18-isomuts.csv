@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Xu18,CNZJ01,PR,PR:I15V,15,V,0
 Xu18,CNZJ01,PR,PR:Q18Y,18,Y,0
 Xu18,CNZJ01,PR,PR:E35D,35,D,0

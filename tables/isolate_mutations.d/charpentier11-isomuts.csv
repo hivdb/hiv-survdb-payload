@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Charpentier11,patco_01,RT,RT:V35T,35,T,0
 Charpentier11,patco_01,RT,RT:E40D,40,D,0
 Charpentier11,patco_01,RT,RT:K49R,49,R,0

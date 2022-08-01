@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kijak13,03TH700065,111650,PR,2003-06-01,CRF01_AE,Plasma,Dideoxy,THA,JN248316,FALSE,2013-04-03
 Kijak13,03TH700065,111650,RT,2003-06-01,CRF01_AE,Plasma,Dideoxy,THA,JN248316,FALSE,2013-04-03
 Kijak13,03TH700065,111650,IN,2003-06-01,CRF01_AE,Plasma,Dideoxy,THA,JN248316,FALSE,2013-04-03

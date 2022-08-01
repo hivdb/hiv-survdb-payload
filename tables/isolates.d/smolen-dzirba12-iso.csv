@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Smolen-Dzirba12,AAK19,119020,PR,2008-06-01,B,PBMC,Dideoxy,POL,JN811581,FALSE,2014-01-15
 Smolen-Dzirba12,AAK19,119020,RT,2008-06-01,B,PBMC,Dideoxy,POL,JF837552,FALSE,2013-10-15
 Smolen-Dzirba12,ADE697,119019,PR,2009-06-01,B,PBMC,Dideoxy,POL,JN811595,FALSE,2014-01-15

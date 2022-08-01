@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Macharia16,PT161,RT,RT:V35T,35,T,0
 Macharia16,PT161,RT,RT:E40D,40,D,0
 Macharia16,PT161,RT,RT:K43R,43,R,0

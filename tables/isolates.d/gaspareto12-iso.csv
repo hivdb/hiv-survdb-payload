@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gaspareto12,AAAJ75,98805,PR,2009-06-01,B,Plasma,Dideoxy,BRA,HM752193,FALSE,2012-09-14
 Gaspareto12,AAAJ75,98805,RT,2009-06-01,B,Plasma,Dideoxy,BRA,HM752241,FALSE,2012-09-14
 Gaspareto12,AO66,98798,PR,2009-06-01,C,Plasma,Dideoxy,BRA,HM752186,FALSE,2012-09-14

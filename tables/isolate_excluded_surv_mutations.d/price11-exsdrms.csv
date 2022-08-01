@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Price11,391,PR,PR:I54L,54,L
 Price11,391,PR,PR:I54S,54,S
 Price11,391,PR,PR:I54T,54,T

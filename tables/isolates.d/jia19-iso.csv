@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Jia19,7025,262743,PR,2013-06-01,CRF07_BC,Plasma,Dideoxy,CHN,MH632503,FALSE,2019-09-04
 Jia19,7025,262743,RT,2013-06-01,CRF07_BC,Plasma,Dideoxy,CHN,MH632503,FALSE,2019-09-04
 Jia19,7028,262744,PR,2013-06-01,CRF07_BC,Plasma,Dideoxy,CHN,MH632502,FALSE,2019-09-04

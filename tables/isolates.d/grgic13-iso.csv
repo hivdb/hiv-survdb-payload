@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Grgic13,cro328,175985,PR,2007-06-01,B,Plasma,Dideoxy,HRV,HE653362,FALSE,2017-01-25
 Grgic13,cro328,175985,RT,2007-06-01,B,Plasma,Dideoxy,HRV,HE653362,FALSE,2017-01-25
 Grgic13,cro360,176041,PR,2007-06-01,B,Plasma,Dideoxy,HRV,HE653341,FALSE,2017-01-25

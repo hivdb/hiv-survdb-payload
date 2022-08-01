@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hightower13,P1,253111,PR,2003-03-17,B,Plasma,Dideoxy,USA,KC814425,FALSE,2019-04-08
 Hightower13,P1,253111,RT,2003-03-17,B,Plasma,Dideoxy,USA,KC814425,FALSE,2019-04-08
 Hightower13,P2,253122,PR,2004-06-21,B,Plasma,Dideoxy,USA,KC814464,FALSE,2019-04-08

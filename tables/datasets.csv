@@ -1,0 +1,894 @@
+﻿dataset_name,ref_name,continent_name,status,annotation,action,url
+Abecasis07,Abecasis07,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Abongwa19,Abongwa19,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/abongwa19
+Acharya19,Acharya19,NULL,EX,<25 PTs,NULL,NULL
+Adojaan05,Adojaan05,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Aghokeng09,Aghokeng09,Africa,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/aghokeng09
+Aghokeng11,Aghokeng11,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/aghokeng11
+Agwale06,Agwale06,NULL,EX,<25 RTs (18 RTs),NULL,NULL
+Ajoge12,Ajoge12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ajoge12
+Akrim12,Akrim12,NULL,EX,Excluded (Rx not described),NULL,NULL
+Alaoui18,Alaoui18,NULL,EX,<25 RTs,NULL,NULL
+Albert94,Albert94,NULL,EX,<25 RTs (23 RTs),NULL,NULL
+Alencar13,Alencar13,South America,PLOSMED2015,6 pts ARV-exposed were removed from DB,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/alencar13
+Alexiev15,Alexiev15,NULL,EX,Previous ART exposed included; PMTCT (1.6%) included,NULL,NULL
+Alizon86,Alizon86,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Amogne16,Amogne16,Africa,EX,<25 RTs (CPR QA),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/amogne16
+An12,An12,Asia,PLOSMED2015,CRF01_AE clusters in MSMs living in Liaoning; two with M46I and one with L90M; The two with M46I are closed related phylogenetically;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/an12
+Anderson00,Anderson00,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Andersson99,Andersson99,NULL,EX,<25 RTs (7 RTs),NULL,NULL
+Andresen07,Andresen07,NULL,EX,<25 RTs (17 RTs),NULL,NULL
+Annaz11,Annaz11,Africa,PLOSMED2015,"Arabic, North Africa",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/annaz11
+Antoniadou13,Antoniadou13,Europe,PLOSMED2015,Several transmission clusters,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/antoniadou13
+Apetrei98,Apetrei98,NULL,EX,<25 RTs (14 RTs),NULL,NULL
+Araújo19,Araújo19,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/araújo19
+Arien05,Arien05,NULL,EX,<25 RTs (23 RTs),NULL,NULL
+Ariffin14,Ariffin14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ariffin14
+Arimide18,Arimide18,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/arimide18
+Arora08,Arora08,NULL,EX,Seq Leng: 75-229 ,NULL,NULL
+Arroyo04,Arroyo04,NULL,EX,<25 RTs (20 RTs),NULL,NULL
+Arroyo05,Arroyo05,NULL,EX,<25 RTs (14 RTs),NULL,NULL
+Arruda10,Arruda10,NULL,EX,<25 RTs,NULL,NULL
+Arruda10b,Arruda10b,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/arruda10b
+Arruda18,Arruda18,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/arruda18
+Aulicino05,Aulicino05,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Aulicino05b,Aulicino05b,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Aulicino19,Aulicino19,NULL,EX,Pediatric,NULL,NULL
+Auwanit09,Auwanit09,NULL,EX,Cloned,NULL,NULL
+Avi09,Avi09,Europe,PLOSMED2015,A Former Soviet Union;  Mainly CRF06_cpx,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/avi09
+Avi10,Avi10,NULL,EX,<25 RTs,NULL,NULL
+Avi10b,Avi10b,Europe,PLOSMED2015,A Former Soviet Union; Mainly CRF06_cpx.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/avi10b
+Avi13,Avi13,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/avi13
+Avila-Rios12,Avila-Rios12,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/avila-rios12
+Ay17,Ay17,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ay17
+Ay20,Ay20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ay20
+Ayouba09-Africa,Ayouba09,Africa,PLOSMED2015,"WHO HIVDR-TS Survey; Overall TDR is 0.8% (266); 0% in Africa, 1.7% in Asia.",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ayouba09-africa
+Ayouba09-Asia,Ayouba09,Asia,PLOSMED2015,"WHO HIVDR-TS Survey; Overall TDR is 0.8% (266); 0% in Africa, 1.7% in Asia.",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ayouba09-asia
+Babic06,Babic06,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/babic06
+Badreddine07,Badreddine07,NULL,EX,<25 RTs,NULL,NULL
+Baker07,Baker07,Africa,PLOSMED2015,Emailed to Author; Big discrepancy of SDRM between what has been described  (0% in the paper) and what has been submitted to GB (only 68 samples in the paper).,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/baker07
+Balakrishnan05,Balakrishnan05,Asia,PLOSMED2015,Positions containing mutations rather than mutations themselves were studied.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/balakrishnan05
+Baldrich-Rubio01,Baldrich-Rubio01,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Balode10,Balode10,Europe,PLOSMED2015,A Former Soviet Union; SPREAD study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/balode10
+Balotta00,Balotta00,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/balotta00
+Bang08,Bang08,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bang08
+Bao08,Bao08,Asia,PLOSMED2015,Isolates from sexually infected 46 ARV-naives were sequenced.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bao08
+Bao14,Bao14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bao14
+Barreto06,Barreto06,NULL,EX,Seq Leng: 1-208 ,NULL,NULL
+Barrow13,Barrow13,South America,EX,Previous ART exposed included; PMTCT included; Direct Submission to HIVDB,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/barrow13
+Bartolo09,Bartolo09,Africa,PLOSMED2015,TDR study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bartolo09
+Bartolo11,Bartolo11,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Bartolo14,Bartolo14,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bartolo14
+Baudi17,Baudi17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/baudi17
+Baxter21,Baxter21,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/baxter21
+Becker-Pergola00,Becker-Pergola00,Africa,PLOSMED2015,Study of subtype and polymorphism.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/becker-pergola00
+Bellocchi05,Bellocchi05,Africa,PLOSMED2015,The paper states that two samples were from a same patient so one sample was removed.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bellocchi05
+Bernardin05,Bernardin05,NULL,EX,<25 RTs (18 RTs),NULL,NULL
+Bessong05,Bessong05,NULL,EX,<25 RTs (13 RTs),NULL,NULL
+Bessong06,Bessong06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bessong06
+Bessong13,Bessong13,NULL,EX,<25 RTs,NULL,NULL
+Bila13,Bila13,Africa,PLOSMED2015,"Four surveys (two sites, two different years)",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bila13
+Billings16,Billings16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/billings16
+Billings17,Billings17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/billings17
+Billings19,Billings19,Africa,JIntAIDSSoc2020,Repondent-driven sampling; A half of participants with VL of >1000 were sequenced,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/billings19
+Billong13,Billong13,Africa,PLOSMED2015,139 baseline and 7 follow-up sequences,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/billong13
+Boender15,Boender15,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/boender15
+Boerma16,Boerma16,NULL,EX,Pediatric,NULL,NULL
+Bontell11,Bontell11,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bontell11
+Bonura10,Bonura10,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bonura10
+Bouchard07,Bouchard07,NULL,EX,<25 RTs (20 RTs),NULL,NULL
+Bracho14,Bracho14,Europe,JIntAIDSSoc2020,,Include_Rx_Unknown,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bracho14
+Bradley-Stewart17,Bradley-Stewart17,NULL,EX,<25 RTs,NULL,NULL
+Brado18,Brado18,NULL,EX,<25 RTs,NULL,NULL
+Brennan07,Brennan07,NULL,EX,<25 RTs,NULL,NULL
+Brennan08,Brennan08,NULL,EX,<25 RTs,NULL,NULL
+Brennan09,Brennan09,North America,PLOSMED2015,The paper did not count T215Revertants.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brennan09
+Brennan10,Brennan10,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brennan10
+Brigido07,Brigido07,South America,PLOSMED2015,Study of subtype C and CB ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brigido07
+Brindeiro03,Brindeiro03,South America,PLOSMED2015,TDR study (HIV-BResNet); 357 Accessions in GB but only 198 Accessions include RT;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brindeiro03
+Brindeiro99,Brindeiro99,NULL,EX,<25 RTs (18 RTs),NULL,NULL
+Brockman12,Brockman12,NULL,EX,<25 RTs,NULL,NULL
+Brooks13,Brooks13,North America,PLOSMED2015,155 were submitted to GB with additional 119 from ARV-naïves used as backgound in the tree analysis.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brooks13
+Brown00,Brown00,North America,PLOSMED2015,"Study of TDR by susceptibility; Sampling from 1989 to 1998; however, the paper says that 85% were since 1996.",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brown00
+Brown04,Brown04,NULL,EX,<25 RTs,NULL,NULL
+Brown05,Brown05,NULL,EX,<25 RTs (21 RTs),NULL,NULL
+Brown09,Brown09,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brown09
+Brumme07,Brumme07,North America,PLOSMED2015,Study of HLA and CTL,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brumme07
+Brumme09,Brumme09,North America,PLOSMED2015,"Study of HLA and Epitopes; Combined study of 765 from HOMER, 230 from WAHCS, and 555 from ACTG5128; 230 WAHCS not entered because of sequence QA;",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/brumme09
+Bruzzone15,Bruzzone15,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bruzzone15
+Budambula15,Budambula15,NULL,EX,<25 RTs,NULL,NULL
+Bussmann05,Bussmann05,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bussmann05
+Bussmann11,Bussmann11,Africa,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/bussmann11
+Capel13,Capel13,NULL,EX,<25 RTs,NULL,NULL
+Caplinskas13,Caplinskas13,Europe,JIntAIDSSoc2020,Sequences available since 2013,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/caplinskas13
+Capoferri20,Capoferri20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/capoferri20
+Cardoso09,Cardoso09,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/cardoso09
+Caron08,Caron08,NULL,EX,<25 RTs (19 RTs),NULL,NULL
+Caron12,Caron12,Africa,PLOSMED2015,Sequences from 107 patients included but RT is available only for 97,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/caron12
+Carr01,Carr01,NULL,EX,<25 RTs (7 RTs),NULL,NULL
+Carr01b,Carr01b,NULL,EX,<25 RTs (21 RTs),NULL,NULL
+Carr05-Africa,Carr05,Africa,PLOSMED2015,Study of subtypes comparing subtype A sequences from Uzbekistan (a former Soviet Union) with Cameroon subtype A sequences.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/carr05-africa
+Carr05-Asia,Carr05,Asia,PLOSMED2015,Study of subtypes comparing subtype A sequences from Uzbekistan (a former Soviet Union) with Cameroon subtype A sequences.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/carr05-asia
+Carr05b,Carr05b,NULL,EX,<25 RTs (23 RTs),NULL,NULL
+Carr06,Carr06,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Carr10,Carr10,NULL,EX,<25 RTs (23 RTs),NULL,NULL
+Carr96,Carr96,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Carr98,Carr98,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Carrion03,Carrion03,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Carrion04,Carrion04,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Carvalho11,Carvalho11,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/carvalho11
+Carvalho15,Carvalho15,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/carvalho15
+Casado03,Casado03,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Casado05,Casado05,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Castelbranco10,Castelbranco10,Africa,PLOSMED2015,Previously presented in 18th HIVDR workshop as WHO HIVDR-TS study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/castelbranco10
+Castillo09,Castillo09,South America,PLOSMED2015,"For TDR estimation, this study used 62/65 which were sequenced both PR and RT (did not analyze the 3 sequences missing PR).",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/castillo09
+Castley16,Castley16,NULL,EX,Cloned,NULL,NULL
+Castro10,Castro10,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/castro10
+Caumont01,Caumont01,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Chaillon17,Chaillon17,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chaillon17
+Chaix03,Chaix03,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chaix03
+Chamberland12,Chamberland12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chamberland12
+Chang08,Chang08,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chang08
+Chang18,Chang18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chang18
+Chang20,Chang20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chang20
+Charpentier11,Charpentier11,Africa,PLOSMED2015,"Sequences containing F77L, K219R, V75A, or K219N were not counted.",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/charpentier11
+Charurat12,Charurat12,NULL,EX,<25 Pts,NULL,NULL
+Chaturbhuj10,Chaturbhuj10,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chaturbhuj10
+Chehadeh15,Chehadeh15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chehadeh15
+Chehadeh17,Chehadeh17,NULL,EX,<25 RTs,NULL,NULL
+Chen12,Chen12,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen12
+Chen13,Chen13,Asia,PLOSMED2015,the paper is in Chinese,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen13
+Chen14,Chen14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen14
+Chen14b,Chen14b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen14b
+Chen16,Chen16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen16
+Chen17,Chen17,NULL,EX,<25 RTs,NULL,NULL
+Chen17b,Chen17b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen17b
+Chen18,Chen18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen18
+Chen18b,Chen18b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen18b
+Chen18c,Chen18c,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen18c
+Chen19,Chen19,NULL,EX,<25 PTs,NULL,NULL
+Chen20,Chen20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chen20
+Cheng20,Cheng20,NULL,EX,<25 PTs,NULL,NULL
+Cheong14,Cheong14,NULL,EX,<25 Pts,NULL,NULL
+Cheong15,Cheong15,NULL,EX,<25 Pts,NULL,NULL
+Cheriro15,Cheriro15,Africa,EX,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/cheriro15
+Chibo11,Chibo11,Oceania,PLOSMED2015,Study of transmission clusters.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chibo11
+Chikata14,Chikata14,Asia,EX,Population not described,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chikata14
+Chin06,Chin06,Asia,PLOSMED2015,HIVdb resistance scores were reported.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chin06
+Chin10,Chin10,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chin10
+Chin15,Chin15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chin15
+Choi08,Choi08,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/choi08
+Choi97,Choi97,NULL,EX,<25 Pts,NULL,NULL
+Chow12,Chow12,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Chow14,Chow14,NULL,EX,<25 Pts,NULL,NULL
+Chow16,Chow16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chow16
+Chung14,Chung14,Africa,EX,Biased samples; BL sequences from ART failures; NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/chung14
+Church07,Church07,Africa,PLOSMED2015,Baseline sequences from Clinical trials HIVNET 012 and NVAZ (sdNVP in PMTCT); Study of the prevalence of K103N in baseline samples. ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/church07
+Ciccozzi05,Ciccozzi05,Europe,EX,Excluded Previously (SampleYear),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ciccozzi05
+Courtney16,Courtney16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/courtney16
+Couto-Fernandez06,Couto-Fernandez06,NULL,EX,<25 Pts,NULL,NULL
+Crispim19,Crispim19,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/crispim19
+Cuevas09,Cuevas09,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/cuevas09
+Cuevas09b,Cuevas09b,NULL,EX,Seq Length: 1-214 ,NULL,NULL
+Cuevas15,Cuevas15,NULL,EX,<25 Pts,NULL,NULL
+Dalai09,Dalai09,Africa,PLOSMED2015,Study of subtype C evolution,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dalai09
+Darcissac16,Darcissac16,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/darcissac16
+Dauwe15,Dauwe15,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dauwe15
+DeGascun12,DeGascun12,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/degascun12
+Dean11,Dean11,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dean11
+Deho08,Deho08,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/deho08
+Delatorre16,Delatorre16,NULL,EX,<25 Pts,NULL,NULL
+Delatorre17,Delatorre17,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/delatorre17
+Delgado08,Delgado08,NULL,EX,Rx Na•ve was not an inclusion criteria. Some were treated.,NULL,NULL
+Delgado15,Delgado15,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/delgado15
+Delwart12,Delwart12,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/delwart12
+Derache07,Derache07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/derache07
+Derache08,Derache08,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/derache08
+Derache18,Derache18,Africa,JIntAIDSSoc2020,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/derache18
+Descamps10,Descamps10,Europe,PLOSMED2015,The list of 466 GBs received from Diane Descamps; Contacted: diane descamps <diane.descamps@bch.aphp.fr>; There is no direct link between GB and a paper; 573 in GB but only 466 in the paper; GB contains only RT but the paper describes both PR and RT; Is this a correct paper?,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/descamps10
+Deshpande04,Deshpande04,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/deshpande04
+Deshpande11,Deshpande11,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/deshpande11
+Dilernia07,Dilernia07,South America,PLOSMED2015,Study of Subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dilernia07
+Diop-Ndiaye10,Diop-Ndiaye10,Africa,PLOSMED2015,This study includes 38 from Vergne00 (Ref853).,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/diop-ndiaye10
+Djoko10,Djoko10,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/djoko10
+Djoko10b,Djoko10b,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/djoko10b
+Dow17,Dow17,NULL,EX,Pediatric,NULL,NULL
+Dowling02,Dowling02,Africa,PLOSMED2015,Study of recombinants,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dowling02
+Duc12,Duc12,Asia,PLOSMED2015,Direct Genbank Submission; CDC study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/duc12
+Dumans02,Dumans02,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dumans02
+Duque02,Duque02,Europe,PLOSMED2015,Direct Genbank submission,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/duque02
+Edoul20,Edoul20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/edoul20
+El-Badry20,El-Badry20,NULL,EX,<25 PTs,NULL,NULL
+Ellenberger99,Ellenberger99,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Escoto-Delgadillo05,Escoto-Delgadillo05,South America,PLOSMED2015,Latin America,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/escoto-delgadillo05
+Escoto-Delgadillo16,Escoto-Delgadillo16,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/escoto-delgadillo16
+Eshleman04,Eshleman04,NULL,EX,Previously excluded; Not a representative study,NULL,NULL
+Eshleman05,Eshleman05,NULL,EX,<25 Pts,NULL,NULL
+Eshleman07,Eshleman07,North America,PLOSMED2015,Most samples were from 2001 and 2002.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/eshleman07
+Eshleman09,Eshleman09,NULL,EX,<25 RTs,NULL,NULL
+Eshleman09b,Eshleman09b,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/eshleman09b
+Espinosa04,Espinosa04,NULL,EX,<25 RTs (21 RTs),NULL,NULL
+Eyzaguirre07,Eyzaguirre07,Asia,PLOSMED2015,"A Former Soviet Union, Central Asia; Study of subtypes",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/eyzaguirre07
+Fabeni20,Fabeni20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/fabeni20
+Fang04,Fang04,NULL,EX,<25 RTs (7 RTs),NULL,NULL
+Fayssel16,Fayssel16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/fayssel16
+Feng14,Feng14,NULL,EX,<25 Pts,NULL,NULL
+Feng16,Feng16,NULL,EX,<25 Pts,NULL,NULL
+Feng16b,Feng16b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/feng16b
+Feng18,Feng18,NULL,EX,<25 Pts,NULL,NULL
+Fernandez-Garcia12,Fernandez-Garcia12,NULL,EX,<25 RTs (10 RTs),NULL,NULL
+Ferreira08,Ferreira08,South America,PLOSMED2015,The 89 AccessionIDs in GB contains only 49 RT. ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ferreira08
+Ferreira11,Ferreira11,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ferreira11
+Ferreira13,Ferreira13,South America,PLOSMED2015,4 pts with MTCT were removed from DB ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ferreira13
+Fish10,Fish10,NULL,EX,<25 RTs,NULL,NULL
+Florea11,Florea11,Europe,PLOSMED2015,Contacted: Otelea (dotelea@mateibals.ro),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/florea11
+Fokam16,Fokam16,Africa,EX,Previous ART exposed included; ART reinitiators (8%) included,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/fokam16
+Fokam20,Fokam20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/fokam20
+Fonjungo02,Fonjungo02,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Foster14,Foster14,NULL,EX,<25 Pts,NULL,NULL
+Frange12,Frange12,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/frange12
+Frentz13,Frentz13,Asia,PLOSMED2015,Spread II (the analysis in the paper used 1630 + previous Spread study),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/frentz13
+Fujisaki09,Fujisaki09,Asia,PLOSMED2015,About 400 were included from to Ibe08; Study of subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/fujisaki09
+Gafarova10,Gafarova10,NULL,EX,<25 RTs,NULL,NULL
+Galkin06,Galkin06,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Galkin06b,Galkin06b,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Galluzzo07,Galluzzo07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/galluzzo07
+Gao01,Gao01,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Gao96,Gao96,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Gao96b,Gao96b,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Gao98,Gao98,NULL,EX,<25 RTs (8 RTs),NULL,NULL
+Gao98b,Gao98b,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Garrido09,Garrido09,NULL,EX,<25 RTs,NULL,NULL
+Gashnikova15,Gashnikova15,NULL,EX,<25 RTs,NULL,NULL
+Gashnikova16,Gashnikova16,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gashnikova16
+Gaspareto12,Gaspareto12,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gaspareto12
+Gatanaga07,Gatanaga07,Asia,PLOSMED2015,Sequences are not in GB; Missing sequences in db;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gatanaga07
+Ghafari17,Ghafari17,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ghafari17
+Gittens03,Gittens03,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Gonsalez07,Gonsalez07,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gonsalez07
+Gonzalez-Domenech18,Gonzalez-Domenech18,Europe,EX,Outbreak,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gonzalez-domenech18
+Gonzalez-Domenech20,Gonzalez-Domenech20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gonzalez-domenech20
+Gonzalez-Perez03,Gonzalez-Perez03,Africa,PLOSMED2015,Direct Genbank Submission,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gonzalez-perez03
+Gonzalez10,Gonzalez10,Africa,PLOSMED2015,Several DR lists were used.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gonzalez10
+Gordon03,Gordon03,Africa,PLOSMED2015,Study for Vaccine Developmemt,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gordon03
+Graf11,Graf11,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/graf11
+Graf98,Graf98,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Grgic13,Grgic13,Europe,JIntAIDSSoc2020,Sequences available since 2013,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/grgic13
+Grossman05,Grossman05,Asia,PLOSMED2015,Middle East; SPREAD study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/grossman05
+Guan20,Guan20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/guan20
+Gui15,Gui15,NULL,EX,<25 Pts,NULL,NULL
+Guimar10,Guimar10,NULL,EX,<25 Pts,NULL,NULL
+Guimaraes15,Guimaraes15,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/guimaraes15
+Guimaraes15b,Guimaraes15b,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/guimaraes15b
+Gulick04,Gulick04,North America,PLOSMED2015,Baseline of ACTG 5095,Use_Only_Untreated,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gulick04
+Guo15,Guo15,NULL,EX,Seq Leng,NULL,NULL
+Gurtler94,Gurtler94,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Hachiya17,Hachiya17,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hachiya17
+Hai-Long07,Hai-Long07,NULL,EX,<25 RTs (10 RTs),NULL,NULL
+Hamers10,Hamers10,NULL,EX,Bigger study Hamers 2011 (ref1973) ,NULL,NULL
+Hamers11,Hamers11,Africa,PLOSMED2015,The study includes 547 from Hamers10.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hamers11
+Han07,Han07,Asia,PLOSMED2015,Only 72 RTs in GB sequences.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/han07
+Han10,Han10,Asia,PLOSMED2015,72 RTs and 91 PR linked to Ref1506 (Han 07 ARHR),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/han10
+Han13,Han13,NULL,EX,Rx not stated,NULL,NULL
+Han13b,Han13b,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Han13c,Han13c,NULL,EX,<25 Pts,NULL,NULL
+Han13d,Han13d,Asia,JIntAIDSSoc2020,Sequences available since 2014,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/han13d
+Handema02,Handema02,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/handema02
+Hanke19,Hanke19,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hanke19
+Hanke20,Hanke20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hanke20
+Hanna03,Hanna03,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hanna03
+Hao17,Hao17,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hao17
+Harris03,Harris03,NULL,EX,<25 RTs (6 RTs),NULL,NULL
+Harris05,Harris05,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Hassan13,Hassan13,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hassan13
+Hassan18,Hassan18,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hassan18
+Hassan19,Hassan19,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hassan19
+Hattori10,Hattori10,Asia,PLOSMED2015,Survey from 2003 to 2008; 2003 sequences were published under Gatanaga07 (refid1768),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hattori10
+Hattori16,Hattori16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hattori16
+Hawke13,Hawke13,Oceania,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hawke13
+Hebberecht20,Hebberecht20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hebberecht20
+Heipertz13,Heipertz13,North America,PLOSMED2015,Several clusters,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/heipertz13
+Heipertz16,Heipertz16,NULL,EX,Rx not stated,NULL,NULL
+Hernandez-Sanchez18,Hernandez-Sanchez18,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hernandez-sanchez18
+Herring01,Herring01,NULL,EX,<25 Pts,NULL,NULL
+Hierholzer02,Hierholzer02,NULL,EX,<25 RTs (10 RTs),NULL,NULL
+Hierholzer02b,Hierholzer02b,Africa,PLOSMED2015,"Arabic, North Africa; Study of subtypes",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hierholzer02b
+Hightower13,Hightower13,North America,JIntAIDSSoc2020,Sequences available since 2014,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hightower13
+Hingankar12,Hingankar12,Asia,PLOSMED2015,"This study analyzed baseline sequences from 96 patients in Chennai and 96 patients in Mumbai who were starting 1-line regimen. The reported TDR was 5.2% in Chennai patients and 10.4% in Mumbai patients. In GB, only 96 from Chennai patients are available. Also the author noted that patients with previous ART exposure before initiating the 1-line were not excluded. This might have been the case for the Mumbai patients. Should we keep this study?",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hingankar12
+Hoelscher01,Hoelscher01,NULL,EX,<25 RTs (9 RTs),NULL,NULL
+Hoenigl16,Hoenigl16,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hoenigl16
+Holguin00,Holguin00,NULL,EX,<25 RTs (13 RTs),NULL,NULL
+Holguin02,Holguin02,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Holguin04,Holguin04,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Holguin07,Holguin07,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin07
+Holguin08,Holguin08,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin08
+Holguin13,Holguin13,NULL,PLOSMED2015,Contacted: Holguin (aholguin.hciii@salud.madrid.org) for a paper; there seem to be multiple sequences from a same patient (look at CPR tree),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin13
+Holzmayer05,Holzmayer05,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Hora15,Hora15,NULL,EX,Rx not stated,NULL,NULL
+Hosaka16,Hosaka16,NULL,EX,<25 Pts,NULL,NULL
+Howard96,Howard96,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Hsi12,Hsi12,NULL,EX,<25 Pts,NULL,NULL
+Huang03,Huang03,NULL,EX,Not a representative study ,NULL,NULL
+Huang06,Huang06,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Huang09,Huang09,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Huang09b,Huang09b,Africa,JIntAIDSSoc2020,Sequences available since 2016,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/huang09b
+Huik19,Huik19,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/huik19
+Hunt03,Hunt03,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Hunt13,Hunt13,Africa,PLOSMED2015,Data from 9 WHO TS method surveys; 345 of the 354 were found in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hunt13
+Hunt17,Hunt17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hunt17
+Huruy15,Huruy15,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/huruy15
+Huruy18,Huruy18,NULL,EX,Overlap with ref 2232,NULL,NULL
+Iamarino12,Iamarino12,NULL,EX,<25 RTs,NULL,NULL
+Ibe08,Ibe08,Asia,PLOSMED2015,Most of M46I found in subtype B.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ibe08
+Ibe08b,Ibe08b,NULL,EX,<25 RTs (12 RTs),NULL,NULL
+Imade13,Imade13,Africa,PLOSMED2015,34 of 38 pregnant women were sequenced. Modified WHO method was used (no age limitation),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/imade13
+Inzaule18,Inzaule18,NULL,EX,<25 RTs,NULL,NULL
+Iqbal09,Iqbal09,Asia,PLOSMED2015,55 AccessionIDs available but some of them are too short.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/iqbal09
+Irias19,Irias19,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/irias19
+Isarangkura-Na-Ayuthaya10,Isarangkura-Na-Ayuthaya10,NULL,EX,<25 RTs,NULL,NULL
+Ishizaki09,Ishizaki09,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ishizaki09
+Iweriebor12,Iweriebor12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/iweriebor12
+Jacobs08,Jacobs08,Africa,PLOSMED2015,Only 91 RTs are in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jacobs08
+Jagdagsuren17,Jagdagsuren17,NULL,JIntAIDSSoc2020,Only 3 sequences are by NGS MiSeq,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jagdagsuren17
+Jahanbakhsh12,Jahanbakhsh12,Asia,PLOSMED2015,"96% were CRF35_AD; Samples from 47 of 50 naïve were sequenced; 94 Accessions in GB, PRRT and IN were submitted separately; Subtype for PRRT was changed to CRF35_AD and for IN was changed to A;",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jahanbakhsh12
+Jahanbakhsh13,Jahanbakhsh13,NULL,EX,<25 Pts,NULL,NULL
+Jayaraman06,Jayaraman06,North America,PLOSMED2015,Not in GB; 715 in the paper; Only 399 in db.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jayaraman06
+Jia19,Jia19,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jia19
+Jiamsakul15,Jiamsakul15,NULL,EX,<25 RTs,NULL,NULL
+Joao20,Joao20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/joao20
+Jonassen00,Jonassen00,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Jonassen97,Jonassen97,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Jorgensen03,Jorgensen03,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jorgensen03
+Junqueira20,Junqueira20,NULL,EX,<25 PTs,NULL,NULL
+K'Aluoch05,K'Aluoch05,Africa,PLOSMED2015,Direct Genbank Submission,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kaluoch05
+Kamoto08,Kamoto08,Africa,PLOSMED2015,"WHO HIVDR-TS Survey; All 54 sequences were available from this study, however, all 54 were not used to estimate TDR. 34 samples were good enough according to WhO HIVDR-TS sampling methodology. The sequence containing M46I would have been in the remainer of 20 sequences. ",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kamoto08
+Kandathil09,Kandathil09,Asia,PLOSMED2015,The positions containing mutations rather than mutations themselves were counted.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kandathil09
+Kane01,Kane01,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Kannangai15,Kannangai15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kannangai15
+Kao11,Kao11,Asia,PLOSMED2015,Study of epidemiology: Outbreak of CRF07_BC (38%); Mostly env genes.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kao11
+Karade16,Karade16,Asia,EX,Previous ART exposed included; PMTCT included,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/karade16
+Karade19,Karade19,NULL,EX,<25 RTs,NULL,NULL
+Karamov18,Karamov18,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/karamov18
+Karim10,Karim10,NULL,EX,PrEX,NULL,NULL
+Karlsson12,Karlsson12,Europe,PLOSMED2015,Only 208 sequences are available in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/karlsson12
+Kasang11,Kasang11,Africa,PLOSMED2015,Drug trace was found in two; Drug trace was not done for NRTIs; The two NNRTI trace mutant were removed.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kasang11
+Kassu07,Kassu07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kassu07
+Keita20,Keita20,NULL,EX,<25 PTs,NULL,NULL
+Kemal13,Kemal13,Africa,PLOSMED2015,143 GBs includes from plasma and PBMC of 30 women.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kemal13
+Kiertiburanakul13,Kiertiburanakul13,Asia,PLOSMED2015,"1,798 patients (458 recent + 1,340 chronic-preART)",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kiertiburanakul13
+Kiguoya17,Kiguoya17,NULL,EX,<25 RTs,NULL,NULL
+Kijak01,Kijak01,South America,PLOSMED2015,Only 57 RT available in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kijak01
+Kijak04,Kijak04,NULL,EX,Rx not stated,NULL,NULL
+Kijak13,Kijak13,Asia,PLOSMED2015,"R144 Vaccine Trial; the samples used were from the volunteers who wer deferred from vaccine trial enrollment because of preexisting HIV infection; for 42 samples, full genome sequencing was done and all submitted to GB;",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kijak13
+Kim11,Kim11,NULL,EX,<25 RTs,NULL,NULL
+Kinloch16,Kinloch16,North America,EX,Previous ART exposed included; 95% Naïve,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kinloch16
+Kinloch19,Kinloch19,NULL,EX,<25 RTs,NULL,NULL
+Kinomoto05,Kinomoto05,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Kiptoo13,Kiptoo13,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kiptoo13
+Kirichenko20,Kirichenko20,NULL,EX,<25 RTs,NULL,NULL
+Kiros20,Kiros20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kiros20
+Kityo16,Kityo16,NULL,EX,Pediatric,NULL,NULL
+Koch01,Koch01,NULL,EX,<25 RTs (18 RTs),NULL,NULL
+Koizumi06,Koizumi06,NULL,EX,Cloned,NULL,NULL
+Kojima08,Kojima08,NULL,EX,<25 RTs,NULL,NULL
+Konings04,Konings04,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Konings04b,Konings04b,NULL,EX,<25 RTs (12 RTs),NULL,NULL
+Konou16,Konou16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/konou16
+Kostaki18,Kostaki18,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kostaki18
+Kostaki19,Kostaki19,Europe,EX,ARV status for the 2nd cohort is not available,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kostaki19
+Kotaki13,Kotaki13,NULL,EX,<25 RTs,NULL,NULL
+Kotaki15,Kotaki15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kotaki15
+Koulinska01,Koulinska01,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Koulinska02,Koulinska02,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Kouri15,Kouri15,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kouri15
+Kousiappa09,Kousiappa09,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kousiappa09
+Kousiappa11,Kousiappa11,NULL,EX,Only 30% were treatment-naive; Rx should be corrected with the author; Emailed to the author (lkostrik@ucy.ac.cy);,NULL,NULL
+Kroon18,Kroon18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/kroon18
+Kumar14,Kumar14,NULL,EX,Pediatric,NULL,NULL
+Kusagawa15,Kusagawa15,NULL,EX,<25 Pts,NULL,NULL
+Laeyendecker05,Laeyendecker05,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Lahuerta08,Lahuerta08,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Lall08,Lall08,Asia,PLOSMED2015,"The author stated that ""It is possible that the relatively high rates (10%) of drug resistance observed in this study may be due to study participants who had previous exposure to ART unknowingly declaring themselves ART naive.""",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lall08
+Lama06,Lama06,South America,PLOSMED2015,,Use_Only_Untreated,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lama06
+Lan03,Lan03,Asia,PLOSMED2015,Only 175 RTs in Genbank.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lan03
+Lan20,Lan20,NULL,EX,<25 PTs,NULL,NULL
+Land08,Land08,NULL,EX,<25 RTs (10 RTs),NULL,NULL
+Lataillade07,Lataillade07,NULL,EX,<25 RTs,NULL,NULL
+Lau07,Lau07,NULL,EX,<25 Pts,NULL,NULL
+Lavu17,Lavu17,Oceania,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lavu17
+Lawrence06,Lawrence06,NULL,EX,SeqLength up to 203,NULL,NULL
+Lazaro11,Lazaro11,Asia,PLOSMED2015,M46I was classified as a polymorphism.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lazaro11
+Lebedev17,Lebedev17,NULL,EX,Rx not stated,NULL,NULL
+Lee09,Lee09,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lee09
+Lee14,Lee14,Africa,EX,Previous ART exposed included; Previous PMTCT not known,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lee14
+Lee16,Lee16,NULL,EX,<25 Pts,NULL,NULL
+Leoz11,Leoz11,NULL,EX,<25 Pts,NULL,NULL
+Leoz13,Leoz13,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Li05,Li05,NULL,EX,Rx not stated,NULL,NULL
+Li07,Li07,NULL,EX,<25 RTs (18 RTs),NULL,NULL
+Li10,Li10,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Li11,Li11,NULL,EX,<25 Pts,NULL,NULL
+Li13,Li13,Asia,PLOSMED2015,MSMs in Beijing; All four (5.3%) had M46L and all closely related phylogentically;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li13
+Li13b,Li13b,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Li13c,Li13c,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li13c
+Li13d,Li13d,Asia,PLOSMED2015,pol genes from 98 patients,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li13d
+Li14,Li14,NULL,EX,<25 Pts,NULL,NULL
+Li15,Li15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15
+Li15b,Li15b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15b
+Li15c,Li15c,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15c
+Li16,Li16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li16
+Li16b,Li16b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li16b
+Li18,Li18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li18
+Liang20,Liang20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/liang20
+Liao07,Liao07,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/liao07
+Liao09,Liao09,Asia,PLOSMED2015,Study of epidemiology,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/liao09
+Liegler14,Liegler14,NULL,EX,PrEX,NULL,NULL
+Lihana09,Lihana09,Africa,JIntAIDSSoc2020,Sequences available since 2016,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lihana09
+Liitsola00,Liitsola00,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Lima16,Lima16,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lima16
+Lin07,Lin07,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Lin13,Lin13,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lin13
+Lindstrom06,Lindstrom06,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lindstrom06
+Little02,Little02,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/little02
+Little14,Little14,North America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/little14
+Liu05,Liu05,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Liu07,Liu07,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Liu12,Liu12,NULL,EX,<25 Pts,NULL,NULL
+Liu15,Liu15,NULL,EX,<25 Pts,NULL,NULL
+Lloyd08,Lloyd08,South America,PLOSMED2015,"Central America; The author stated that 69% were confirmed as ""Na•ve""; ",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lloyd08
+Lole99,Lole99,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Loubet14,Loubet14,NULL,EX,Previous ART exposed included; PMTCT included,NULL,NULL
+Lu15,Lu15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lu15
+Lu16,Lu16,NULL,EX,<25 Pts,NULL,NULL
+Lu17,Lu17,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lu17
+Lu18,Lu18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lu18
+Lu19,Lu19,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lu19
+Luk01,Luk01,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Luk07,Luk07,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Luk08,Luk08,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Luk15,Luk15,NULL,EX,Rx not stated,NULL,NULL
+Lunar13,Lunar13,Europe,PLOSMED2015,150 analyzed (120 new + 30 linked to ref1724 Spread) ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lunar13
+Lunar15,Lunar15,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lunar15
+Lunar18,Lunar18,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lunar18
+Lunar19,Lunar19,NULL,EX,<25 Pts,NULL,NULL
+Lunar20,Lunar20,NULL,EX,<25 PTs,NULL,NULL
+Luu12,Luu12,NULL,EX,<25 RTs,NULL,NULL
+Ly05,Ly05,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ly05
+Machado02,Machado02,Europe,PLOSMED2015,Mostly from US. ,Set_Continent_To: Europe,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machado02
+Machado09,Machado09,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Machado12,Machado12,South America,PLOSMED2015,"Some RTs were not up to 240, excluded from CPR analysis; Some SDRMs(L33F and M46L) not found in GB sequences.",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machado12
+Machado19,Machado19,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machado19
+Macharia16,Macharia16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/macharia16
+Machnowska19,Machnowska19,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machnowska19
+Maljkovic03,Maljkovic03,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/maljkovic03
+Mamadou03,Mamadou03,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Manasa11,Manasa11,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/manasa11
+Marechal06,Marechal06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/marechal06
+Margot19,Margot19,NULL,EX,<25 RTs,NULL,NULL
+Maruapula20,Maruapula20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/maruapula20
+Masharsky03,Masharsky03,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Masimba13,Masimba13,Africa,PLOSMED2015,Only 226 in GB,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/masimba13
+Masoud20,Masoud20,NULL,EX,<25 RTs,NULL,NULL
+Matthews08,Matthews08,Africa,JIntAIDSSoc2020,Sequences available since 2016,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/matthews08
+Mazzuti20,Mazzuti20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mazzuti20
+Mbange18,Mbange18,Africa,JIntAIDSSoc2020,Only 85 sequences were submitted; Modified WHO TS method,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mbange18
+Mbisa20,Mbisa20,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mbisa20
+McClutchan02,McClutchan02,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+McConnell08,McConnell08,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mcconnell08
+McCutchan04,McCutchan04,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+McIntosh91,McIntosh91,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+McLaughlin04,McLaughlin04,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+McNulty07,McNulty07,NULL,EX,<25 Pts,NULL,NULL
+Megasari19,Megasari19,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/megasari19
+Megede02,Megede02,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Meixenberger14,Meixenberger14,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/meixenberger14
+Meixenberger17,Meixenberger17,NULL,EX,<25 RTs,NULL,NULL
+Meloni04,Meloni04,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Memarnejadian15,Memarnejadian15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/memarnejadian15
+Memarnejadian18,Memarnejadian18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/memarnejadian18
+Meng13,Meng13,NULL,EX,<25 Pts,NULL,NULL
+Mezei11,Mezei11,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mezei11
+Mikasi17,Mikasi17,NULL,EX,<25 RTs,NULL,NULL
+Mikasi20,Mikasi20,NULL,EX,<25 RTs,NULL,NULL
+Milne19,Milne19,Africa,EX,Previous ART exposed included; PMTCT (40%) included,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/milne19
+Mintsa-Ndong09,Mintsa-Ndong09,NULL,EX,<25 RTs (15 RTs),NULL,NULL
+Miri11,Miri11,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Misbah13,Misbah13,NULL,EX,<25 RTs,NULL,NULL
+Miura08,Miura08,North America,PLOSMED2015,IsolateYears were received from Pereyra; Contacted: Emailed to Pereyra(fpereyra@partners.org) JID 2008 for isolate years; 95 HIV-1 elite controller (long-term nonprogressors); 41 RT; Isolate Year not found,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/miura08
+Mokili02,Mokili02,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Monleau12,Monleau12,NULL,EX,<25 RTs,NULL,NULL
+Montavon02,Montavon02,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Montavon02b,Montavon02b,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Montavon99,Montavon99,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Mor19,Mor19,NULL,EX,<25 RTs,NULL,NULL
+Mosha10,Mosha10,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mosha10
+Moskaleychik15,Moskaleychik15,NULL,EX,<25 Pts,NULL,NULL
+Moura15,Moura15,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/moura15
+Moura15b,Moura15b,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/moura15b
+Msimanga15,Msimanga15,NULL,EX,<25 Pts,NULL,NULL
+Mulu13,Mulu13,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mulu13
+Mulu15,Mulu15,NULL,EX,<25 RTs,NULL,NULL
+Murillo12,Murillo12,South America,PLOSMED2015,"Two out of 119 were not ARV-naïve so excluded from the TDR estimation in the paper but we don't know which are the two. Because the two had no DRMs, our TDR estimation is lower than what they had;",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/murillo12
+Musyoki12,Musyoki12,Africa,PLOSMED2015,Study for Vaccine.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/musyoki12
+Nadai09,Nadai09,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nadai09
+Nanfack17,Nanfack17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nanfack17
+Nazziwa12,Nazziwa12,Africa,PLOSMED2015,Each of 3 of 46 (6%) contains one NNRTI DRM,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nazziwa12
+Ndase12,Ndase12,Africa,JIntAIDSSoc2020,Sequences available since 2014,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ndase12
+Ndembi08,Ndembi08,Africa,PLOSMED2015,79 sequences include group three O and 1 HIV2; Some of the mutations reported in the paper do not exist in the genbank sequences.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ndembi08
+Ndembi08b,Ndembi08b,Africa,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ndembi08b
+Ndembi11,Ndembi11,Africa,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ndembi11
+Ndongmo06,Ndongmo06,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Nduva20,Nduva20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nduva20
+Neilson99,Neilson99,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Neogi10,Neogi10,NULL,EX,<25 RTs (21 RTs),NULL,NULL
+Neogi11,Neogi11,NULL,EX,<25 RTs,NULL,NULL
+Neogi15,Neogi15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/neogi15
+Nesakumar19,Nesakumar19,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nesakumar19
+Ng11,Ng11,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Ng11b,Ng11b,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Ngo-Giang-Huong19,Ngo-Giang-Huong19,Asia,EX,Previous ART exposed included; ART-exposed (7%),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ngo-giang-huong19
+Nguyen08,Nguyen08,Asia,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nguyen08
+Niama09,Niama09,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Niculescu14,Niculescu14,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/niculescu14
+Njai06,Njai06,Africa,PLOSMED2015,Study of subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/njai06
+Njouom03,Njouom03,Africa,EX,Excluded Previously (SampleYear),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/njouom03
+Nkengasong00,Nkengasong00,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Nomura13,Nomura13,NULL,EX,<25 RTs,NULL,NULL
+Nouhin09,Nouhin09,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nouhin09
+Nouhin11,Nouhin11,NULL,EX,<25 RTs,NULL,NULL
+Novitsky02,Novitsky02,NULL,EX,Cloned; No statement of All Untreated,NULL,NULL
+Novitsky15,Novitsky15,NULL,EX,Rx not stated; Included VS pts,NULL,NULL
+Novitsky99,Novitsky99,NULL,EX,<25 RTs (8 RTs),NULL,NULL
+Novitsky99b,Novitsky99b,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Ntemgwa08,Ntemgwa08,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Nwobegahay11,Nwobegahay11,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nwobegahay11
+Nwobegahay11b,Nwobegahay11b,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nwobegahay11b
+Nwobegahay12,Nwobegahay12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nwobegahay12
+Nzeyimana10,Nzeyimana10,NULL,EX,Previous ART exposed included,NULL,NULL
+Oelrichs98,Oelrichs98,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Oelrichs99,Oelrichs99,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Oette06,Oette06,Europe,PLOSMED2015,Sequences are not in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/oette06
+Ojesina06,Ojesina06,Africa,EX,Excluded Previously (SampleYear),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ojesina06
+Ojwach18,Ojwach18,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ojwach18
+Oliveira12,Oliveira12,NULL,EX,<25 RTs,NULL,NULL
+Ong13,Ong13,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ong13
+OnoriodeDigban19,OnoriodeDigban19,NULL,EX,<25 RTs,NULL,NULL
+Onoro07,Onoro07,Europe,PLOSMED2015,The paper in Spanish; Sequences are not in GB; Samples from 2002 - 2005; No individual IsolateYear info available;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/onoro07
+Onsongo16,Onsongo16,NULL,EX,<25 RTs,NULL,NULL
+Onywera17,Onywera17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/onywera17
+Oroz19,Oroz19,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/oroz19
+Otecko16,Otecko16,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/otecko16
+Palacios08,Palacios08,Europe,PLOSMED2015,The paper in Spanish.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/palacios08
+Palm15,Palm15,NULL,EX,<25 Pts,NULL,NULL
+Palma07,Palma07,Europe,PLOSMED2015,SPREAD study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/palma07
+Pandey16,Pandey16,NULL,EX,<25 Pts,NULL,NULL
+Pando06,Pando06,NULL,EX,<25 RTs (10 RTs),NULL,NULL
+Pandrea01,Pandrea01,NULL,EX,<25 RTs (6 RTs),NULL,NULL
+Pandrea02,Pandrea02,Africa,PLOSMED2015,Study of recombinants,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pandrea02
+Panichsillapakit16,Panichsillapakit16,North America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/panichsillapakit16
+Paolucci14,Paolucci14,NULL,EX,<25 RTs,NULL,NULL
+Papathanasopoulos02,Papathanasopoulos02,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Papathanasopoulos03,Papathanasopoulos03,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Papathanasopoulos10,Papathanasopoulos10,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/papathanasopoulos10
+Paraschiv07,Paraschiv07,Europe,PLOSMED2015,Study of subtype F,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/paraschiv07
+Paraschiv17,Paraschiv17,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/paraschiv17
+Paraskevis00,Paraskevis00,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Paraskevis01,Paraskevis01,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Paraskevis05,Paraskevis05,Europe,PLOSMED2015,SPREAD study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/paraskevis05
+Parboosing11,Parboosing11,Africa,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/parboosing11
+Parczewski14,Parczewski14,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/parczewski14
+Parham11,Parham11,South America,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/parham11
+Pariente04,Pariente04,Europe,EX,Excluded Previously (SampleYear),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pariente04
+Park03,Park03,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/park03
+Parreira04,Parreira04,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Parreira06,Parreira06,Africa,PLOSMED2015,"131 naïve patients, 43 pol sequences",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/parreira06
+Passaes09,Passaes09,NULL,EX,<25 RTs,NULL,NULL
+Patino-Galindo17,Patino-Galindo17,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/patino-galindo17
+Perez-Parra16,Perez-Parra16,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/perez-parra16
+Perez-Parra17,Perez-Parra17,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/perez-parra17
+Perno01,Perno01,Europe,PLOSMED2015,Study of baseline mutations associated to outcomes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/perno01
+Pessoa15,Pessoa15,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pessoa15
+Pessoa16,Pessoa16,South America,EX,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pessoa16
+Pessôa14,Pessôa14,NULL,EX,<25 RTs,NULL,NULL
+Petch05,Petch05,NULL,EX,<25 RTs (21 RTs),NULL,NULL
+Petroni06,Petroni06,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/petroni06
+Pham15,Pham15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pham15
+Phan10,Phan10,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/phan10
+Phung16,Phung16,NULL,EX,Pediatric,NULL,NULL
+Pieniazek04,Pieniazek04,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Pieniazek98,Pieniazek98,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Pillay02,Pillay02,Africa,PLOSMED2015,NULL,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pillay02
+Pillay08,Pillay08,Africa,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pillay08
+Pires04,Pires04,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/pires04
+Piyasirisilp00,Piyasirisilp00,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Plantier09,Plantier09,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Pollakis03,Pollakis03,NULL,EX,<25 Pts,NULL,NULL
+Powell07,Powell07,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Powell07b,Powell07b,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Price11,Price11,Africa,PLOSMED2015,The 280 extra sequences are included in the author's next paper. We need to separate them out when the new paper is published.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/price11
+Punzi05,Punzi05,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Qi13,Qi13,NULL,EX,Seq Leng,NULL,NULL
+Qiu05,Qiu05,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Ragonnet-Cronin10,Ragonnet-Cronin10,North America,PLOSMED2015,Study of Cluster Dynamics.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ragonnet-cronin10
+Ragonnet-Cronin12,Ragonnet-Cronin12,North America,PLOSMED2015,Study of a new method for estimating the time of infection; Study includes 535 new sequences and 776 from Ragonnet-Cronin10 (ref1791);,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ragonnet-cronin12
+Ragonnet-Cronin12b,Ragonnet-Cronin12b,North America,PLOSMED2015,"Study of HLA Epitopes; According to the paper, this study includes 483 new sequences, 779 from Ragonnet-Cronin10 (Ref1791) and 535 from Ragonnet-Cronin12 (ref2021);",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ragonnet-cronin12b
+Ragonnet-Cronin18,Ragonnet-Cronin18,NULL,EX,<25 PTs,NULL,NULL
+Ramos03,Ramos03,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Rasmussen18,Rasmussen18,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rasmussen18
+Ravuri06,Ravuri06,Asia,EX,Excluded Previously (Unpublished),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ravuri06
+Razafindratsimandresy06,Razafindratsimandresy06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/razafindratsimandresy06
+Razafindratsimandresy07,Razafindratsimandresy07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/razafindratsimandresy07
+Reigadas13,Reigadas13,NULL,EX,<25 RTs,NULL,NULL
+Reinke01,Reinke01,NULL,EX,<25 Pts,NULL,NULL
+Reis19,Reis19,NULL,EX,<25 PTs,NULL,NULL
+Reynolds16,Reynolds16,NULL,EX,<25 Pts,NULL,NULL
+Rhee15,Rhee15,North America,PLOSMED2015,"Kaiser, 2003 to 2006",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rhee15
+Rhee19,Rhee19,North America,JIntAIDSSoc2020,KP TDR 2007 to 2017,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rhee19
+Roberts15,Roberts15,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/roberts15
+Rodgers17,Rodgers17,NULL,EX,<25 Pts,NULL,NULL
+Rodgers20,Rodgers20,NULL,EX,<25 RTs,NULL,NULL
+Rodrigues06,Rodrigues06,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rodrigues06
+Rodriguez06b,Rodriguez06b,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Rolland11,Rolland11,North America,PLOSMED2015,Step trial (vaccine); Mostly from N. America,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rolland11
+Rolland12,Rolland12,Asia,PLOSMED2015,R144 Vaccine Trial; the samples used were from 110 volunteers who got infected during the trial; 1359 GBs were from 121 pts according to GB annotation; ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rolland12
+Romano00,Romano00,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/romano00
+Ross14,Ross14,North America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ross14
+Roudinskii04,Roudinskii04,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Rousseau06,Rousseau06,NULL,EX,Cloned,NULL,NULL
+Rudovick18,Rudovick18,Africa,EX,Previous ART exposed included; PMTCT included,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rudovick18
+Rutvisuttinunt12,Rutvisuttinunt12,NULL,EX,<25 Pts,NULL,NULL
+Sa-Filho07,Sa-Filho07,NULL,EX,<25 RTs (12 RTs),NULL,NULL
+Saad05,Saad05,NULL,EX,<25 RTs (19 RTs),NULL,NULL
+Saad06,Saad06,Europe,PLOSMED2015,A Former Soviet Union,Use_Only_Untreated,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/saad06
+Saad06b,Saad06b,Asia,PLOSMED2015,A Former Soviet Union,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/saad06b
+Sachithanandham16,Sachithanandham16,NULL,EX,<25 RTs,NULL,NULL
+Sacks-Davis20,Sacks-Davis20,Oceania,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sacks-davis20
+Saeng-Aroon16,Saeng-Aroon16,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/saeng-aroon16
+Sagoe07,Sagoe07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sagoe07
+Sagoe12,Sagoe12,NULL,EX,<25 Pts,NULL,NULL
+Sagoe16,Sagoe16,NULL,EX,<25 Pts,NULL,NULL
+Sahbandar09,Sahbandar09,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Salminen96,Salminen96,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Salvana14,Salvana14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/salvana14
+Sanabani11,Sanabani11,South America,PLOSMED2015,Only 51 sequences are available in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sanabani11
+Sanders-Buell07,Sanders-Buell07,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Sanders-Buell10,Sanders-Buell10,NULL,EX,<25 RTs (11 RTs),NULL,NULL
+Sandstrom05,Sandstrom05,NULL,EX,Cloned,NULL,NULL
+Santos11,Santos11,South America,PLOSMED2015,"DRMs in 3 prime RT subdomains; 341 GB from 204 naive patients in city of Rio Grande, southern Brazil; 88 RTs;",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/santos11
+Seatla19,Seatla19,NULL,EX,<25 RTs,NULL,NULL
+Sebastião19,Sebastião19,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sebastião19
+Selimova10,Selimova10,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/selimova10
+Seoighe07,Seoighe07,Africa,PLOSMED2015,Baseline of sdNVP Pregnant women;Sstudy of selection by sdNVP,Use_Only_Untreated,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/seoighe07
+Serrano12,Serrano12,Africa,PLOSMED2015,Direct Genbank Submission; CDC study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/serrano12
+Servais01,Servais01,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Servais04,Servais04,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/servais04
+Shafer03,Shafer03,North America,PLOSMED2015,Baseline sequences from ACTG 384 are included.,Use_Only_Untreated,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/shafer03
+Shafer97,Shafer97,NULL,EX,<25 RTs (12 RTs),NULL,NULL
+Shafer99,Shafer99,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Shahid11,Shahid11,NULL,EX,<25 RTs (6 RTs),NULL,NULL
+Shi04,Shi04,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Sigaloff12,Sigaloff12,Africa,PLOSMED2015,10 years after Roll-out began,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sigaloff12
+Silva16,Silva16,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/silva16
+Silva20,Silva20,South America,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/silva20
+Simon02,Simon02,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/simon02
+Simonetti14,Simonetti14,NULL,EX,<25 Pts,NULL,NULL
+Sinha12,Sinha12,Asia,PLOSMED2015,Only 31 sequences are available in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sinha12
+Sirivichayakul01,Sirivichayakul01,Asia,PLOSMED2015,Study of epidemiology; ART started in 1988 in Thailand; IDV was a the preferred PI in the early years (Sirvichayakul08).,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sirivichayakul01
+Sirivichayakul08,Sirivichayakul08,Asia,PLOSMED2015,WHO HIVDR-TS sampling,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sirivichayakul08
+Sivay20,Sivay20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sivay20
+Sivay20b,Sivay20b,NULL,EX,<25 PTs,NULL,NULL
+Skinner98,Skinner98,NULL,EX,<25 Pts,NULL,NULL
+Smith09,Smith09,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/smith09
+Smolen-Dzirba12,Smolen-Dzirba12,Europe,PLOSMED2015,One of 54 had many Apobec mutations,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/smolen-dzirba12
+Smolen-Dzirba17,Smolen-Dzirba17,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/smolen-dzirba17
+Soares03,Soares03,South America,PLOSMED2015,Study of Brazilian subtype C,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/soares03
+Soares10,Soares10,Africa,PLOSMED2015,"Of 59, one is group O and 49 encode RT; 6% includes polymorphic mutations and RNaseH domain mutations.",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/soares10
+Soheilli09,Soheilli09,NULL,EX,<25 RTs (8 RTs),NULL,NULL
+Somda12,Somda12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/somda12
+Somi08,Somi08,Africa,PLOSMED2015,WHO HIVDR-TS Survey; M46L and F53Y were not included in SDRM2007 list. ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/somi08
+Song16,Song16,NULL,EX,<25 Pts,NULL,NULL
+Song20,Song20,NULL,EX,<25 PTs,NULL,NULL
+Soria12,Soria12,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/soria12
+Soria19,Soria19,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/soria19
+Soto-Ramirez96,Soto-Ramirez96,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Soundararajan07,Soundararajan07,NULL,EX,Pediatric,NULL,NULL
+Ssemwanga12,Ssemwanga12,Africa,PLOSMED2015,Seroconverters identified in a prevalent case study for a rural area,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ssemwanga12
+Ssemwanga12b,Ssemwanga12b,Africa,PLOSMED2015,40 of 42 were sequenced,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ssemwanga12b
+Stanojevic13,Stanojevic13,Europe,PLOSMED2015,Dr. Stanojevic sent us this for our surveillance study; She included these sequences in Siljic 2013 study with treated samples.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/stanojevic13
+Steegen16,Steegen16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/steegen16
+Stekler14,Stekler14,NULL,EX,<25 RTs,NULL,NULL
+Struck07,Struck07,NULL,EX,<25 RTs (20 RTs),NULL,NULL
+Struck15,Struck15,NULL,EX,<25 Pts,NULL,NULL
+Su03,Su03,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Su11,Su11,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/su11
+Su16,Su16,NULL,EX,<25 Pts,NULL,NULL
+Sucupira07,Sucupira07,South America,JIntAIDSSoc2020,Sequences available since 2016,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sucupira07
+Sun19,Sun19,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sun19
+Swanson03,Swanson03,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Tamalet18,Tamalet18,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tamalet18
+Tamalet18b,Tamalet18b,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tamalet18b
+Tanaka19,Tanaka19,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tanaka19
+Tanuma13,Tanuma13,Asia,EX,Population not described,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tanuma13
+Tanuri99,Tanuri99,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Tatsumi06,Tatsumi06,NULL,EX,<25 RTs (6 RTs),NULL,NULL
+Tchiakpe20,Tchiakpe20,Africa,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tchiakpe20
+Tchouwa18,Tchouwa18,Africa,EX,Previous ART exposed included; ART-exposed (10%),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tchouwa18
+Tebit02,Tebit02,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Tebit06,Tebit06,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Tebit09,Tebit09,Africa,PLOSMED2015,"The author stated that 'It is also worth noting that the present study was carried out in an urban setting, where more patients are under treatment or exposed to HIV drugs. Cases of patients sharing medications are observed in such settings hence prior ART use cannot be ruled out completely in this reportedly drug-naõve group.'",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tebit09
+Tee05,Tee05,Asia,PLOSMED2015,Study of subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tee05
+Tee05b,Tee05b,Asia,PLOSMED2015,Study of subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tee05b
+Tee06,Tee06,NULL,EX,<25 RTs (8 RTs),NULL,NULL
+Tee09,Tee09,NULL,EX,<25 Pts,NULL,NULL
+Tee17,Tee17,NULL,EX,<25 Pts,NULL,NULL
+Teixeira06,Teixeira06,South America,PLOSMED2015,65 ARV-na•ves include 27 from pre-HAART era and 38 from post-HAART era; TDR rates were reported separately for each two groups for each drug class.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/teixeira06
+Telan11,Telan11,NULL,EX,<25 RTs (22 RTs),NULL,NULL
+Telan12,Telan12,Asia,PLOSMED2015,Need ART rollout year; Contacted: skageyama@med.tottori-u.ac.jp,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/telan12
+Telele18,Telele18,Africa,EX,Previous ART exposed included; did not state whether self-reported ART-exposed was excluded,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/telele18
+Temereanca12,Temereanca12,Europe,PLOSMED2015,Contacted: Simona Ruta (simona@simonaruta.ro) for isolation year; the paper states that the 61 sequences were from 1997 to 2011; Only 50 in GB;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/temereanca12
+Temereanca17,Temereanca17,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/temereanca17
+Thao12,Thao12,Asia,JIntAIDSSoc2020,Sequences available since 2016,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/thao12
+Thomson02,Thomson02,NULL,EX,<25 RTs (8 RTs),NULL,NULL
+Thomson05,Thomson05,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Thorat11,Thorat11,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/thorat11
+Tongo15,Tongo15,NULL,EX,<25 Pts,NULL,NULL
+Toni02,Toni02,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/toni02
+Toni03,Toni03,Africa,PLOSMED2015,96 RTs in GB; The study had more sequences and reported fewer mutations (ie. one K219Q and two K219N).,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/toni03
+Toni05,Toni05,NULL,EX,<25 RTs (6 RTs),NULL,NULL
+Toni07,Toni07,Africa,PLOSMED2015,Only 87 RTs in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/toni07
+Totmenin19,Totmenin19,NULL,EX,<25 RTs,NULL,NULL
+Totmenin19b,Totmenin19b,NULL,EX,<25 RTs,NULL,NULL
+Tovanabutra01,Tovanabutra01,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Tovanabutra03,Tovanabutra03,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Tovanabutra04,Tovanabutra04,Asia,PLOSMED2015,Study of epidemiology,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tovanabutra04
+Tovanabutra05,Tovanabutra05,NULL,EX,<25 RTs (12 RTs),NULL,NULL
+Tovanabutra07,Tovanabutra07,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Tovanabutra10,Tovanabutra10,NULL,EX,<25 RTs (21 RTs),NULL,NULL
+Tramuto13,Tramuto13,NULL,EX,Previously excluded; Large overlap with Bonura10 (Ref 1780),NULL,NULL
+Tran12,Tran12,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tran12
+Trinh12,Trinh12,Asia,PLOSMED2015,"Children - sdNVP exclusion? PMPTC was not discussed in the paper, however, it says ""HIV-1 DRMs that were identified in the viruses from the infants and children in this study may have been primary or transmitted from mothers who had primary or transmitted DRMs or who acquired DRMs from unrecorded antiviral treatments.""; 4 RT sequences were excluded by CPR (APOBEC mutations)",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/trinh12
+Triques00,Triques00,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Truong06,Truong06,NULL,EX,A bigger study refid 1959 ,NULL,NULL
+Truong11,Truong11,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/truong11
+Tscherning-Casper00,Tscherning-Casper00,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Tshabalala11,Tshabalala11,Africa,PLOSMED2015,The study includes 56 sequences from Dalai09 (Ref1714). ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tshabalala11
+Tsuiji06,Tsuiji06,NULL,EX,<25 RTs (20 RTs),NULL,NULL
+Tu09,Tu09,NULL,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tu09
+Tully16-North-America,Tully16,North America,EX,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tully16-north-america
+Tully16-Europe,Tully16,Europe,EX,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tully16-europe
+Tymchuk10,Tymchuk10,NULL,EX,<25 RTs (20 RTs),NULL,NULL
+Tzitzivacos09,Tzitzivacos09,NULL,EX,<25 Pts,NULL,NULL
+Ugbena12,Ugbena12,Africa,PLOSMED2015,Baseline samples from 271 patients and 18 followup sequences; Only baseline sequences were in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ugbena12
+Vahabpour17,Vahabpour17,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vahabpour17
+Valle-Bahena06,Valle-Bahena06,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/valle-bahena06
+Vallejo98,Vallejo98,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+VanLaethem08,VanLaethem08,NULL,EX,<25 RTs,NULL,NULL
+VanTran16,VanTran16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vantran16
+Varella07,Varella07,South America,PLOSMED2015,Sequences are not in GB; Only 50 in db.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/varella07
+Varghese10,Varghese10,NULL,EX,<25 RTs,NULL,NULL
+Vaughan03,Vaughan03,South America,PLOSMED2015,Caribbean; WHO's regional office study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vaughan03
+Vaz12,Vaz12,NULL,EX,Pediatric,NULL,NULL
+Vercauteren08,Vercauteren08,Europe,PLOSMED2015,SPREAD study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vercauteren08
+Vercauteren09,Vercauteren09,Europe,PLOSMED2015,SPREAD study; 2198 in GB;,Set_Continent_To: Europe,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vercauteren09
+Vergne00,Vergne00,Africa,PLOSMED2015,"142 sequences were analyzed: 62 from Cameroon, 38 from Senegal, 18 from DRC and 24 from France. Four  sequences were group O (114 group M). The study reported Major DRM containing sequences which include the four group O sequences and one from France containing V108I. There were one sequence containing M41L and T215D and another one containing M46I from France, however, these mutations were classified as Minor DRM in the study. ",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vergne00
+Vergne06,Vergne06,NULL,EX,<25 RTs (19 RTs),NULL,NULL
+Vergne06b,Vergne06b,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vergne06b
+Verhofstede17,Verhofstede17,Europe,EX,Naive not distinguishable,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/verhofstede17
+Vessiere06,Vessiere06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vessiere06
+Vessiere10,Vessiere10,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Viani06,Viani06,North America,PLOSMED2015,Mostly from US (1/55 is from Pueto Rico).,Set_Continent_To: North America,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/viani06
+Vicente01,Vicente01,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Vicenti07,Vicenti07,NULL,PLOSMED2015,Study of PBMC vs Plasma,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vicenti07
+Vidal00,Vidal00,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Vidal03,Vidal03,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Vidal06,Vidal06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vidal06
+Vidal06b,Vidal06b,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+Vidal07,Vidal07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vidal07
+Vidal08,Vidal08,NULL,EX,<25 RTs (2 RTs),NULL,NULL
+Vidal09,Vidal09,NULL,EX,<25 Pts,NULL,NULL
+Vignoles07,Vignoles07,NULL,EX,Pediatric,NULL,NULL
+Vinogradova10,Vinogradova10,Europe,PLOSMED2015,A Former Soviet Union; Mainly subtype A.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vinogradova10
+Viputtijul02,Viputtijul02,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Visawapoka06,Visawapoka06,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Vubil16,Vubil16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vubil16
+Wahid16,Wahid16,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wahid16
+Wang08,Wang08,Asia,PLOSMED2015,Study of subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang08
+Wang09,Wang09,North America,PLOSMED2015,98 pts in the paper but 91 GB;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang09
+Wang15,Wang15,Asia,EX,Rx not stated,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang15
+Wang15b,Wang15b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang15b
+Wang15c,Wang15c,NULL,EX,Rx not stated,NULL,NULL
+Wang18,Wang18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang18
+Wang18b,Wang18b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang18b
+Wang19,Wang19,NULL,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wang19
+Warachit07,Warachit07,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Watanaveeradej03,Watanaveeradej03,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Watanaveeradej06,Watanaveeradej06,NULL,EX,Seq QA problem,NULL,NULL
+Wei13,Wei13,NULL,EX,<25 Pts,NULL,NULL
+Wei14,Wei14,NULL,EX,<25 Pts,NULL,NULL
+Wei14b,Wei14b,NULL,EX,<25 Pts,NULL,NULL
+Weng16,Weng16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/weng16
+Wilantho11,Wilantho11,NULL,EX,<25 RTs,NULL,NULL
+Wilbe02,Wilbe02,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+Wilhelmson18,Wilhelmson18,Africa,EX,Previous ART exposed included; Women with previous pregnancy (50%) included,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wilhelmson18
+Willliamson03,Willliamson03,Africa,EX,Excluded Previously (SampleYear),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/willliamson03
+Winslow95,Winslow95,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Witaningrum16,Witaningrum16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/witaningrum16
+Worobey16,Worobey16,NULL,EX,<25 Pts,NULL,NULL
+Wright10,Wright10,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Wright11,Wright11,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Wu13,Wu13,Asia,PLOSMED2015,131 samples of 138 MSMs were sequenced; 133 in GB;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wu13
+Wu15,Wu15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wu15
+Wu19,Wu19,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wu19
+Wu20,Wu20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/wu20
+Xie20,Xie20,NULL,EX,<25 PTs,NULL,NULL
+Xu18,Xu18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/xu18
+Xuan18,Xuan18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/xuan18
+Yamaguchi03,Yamaguchi03,NULL,EX,<25 RTs (15 RTs),NULL,NULL
+Yamaguchi09,Yamaguchi09,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Yamaguchi10,Yamaguchi10,NULL,EX,<25 RTs (1 RTs),NULL,NULL
+Yamaguchi19,Yamaguchi19,NULL,EX,<25 PTs,NULL,NULL
+Yamaguchi95,Yamaguchi95,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Yan15,Yan15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yan15
+Yang00,Yang00,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Yang02,Yang02,Asia,PLOSMED2015,Study of subtypes,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yang02
+Yang03,Yang03,NULL,EX,<25 RTs (5 RTs),NULL,NULL
+Yang04,Yang04,Africa,PLOSMED2015,Study of recombinants,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yang04
+Yang11,Yang11,Africa,PLOSMED2015,Direct Genbank Submission; CDC study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yang11
+Yang12,Yang12,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yang12
+Yang20,Yang20,NULL,EX,<25 PTs,NULL,NULL
+Yao15,Yao15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yao15
+Yao15b,Yao15b,NULL,EX,Rx not stated,NULL,NULL
+Yaotse09,Yaotse09,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yaotse09
+Yaqub19,Yaqub19,NULL,EX,<25 PTs,NULL,NULL
+Ye11,Ye11,Asia,PLOSMED2015,Study of BC recombinants,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ye11
+Ye12,Ye12,NULL,EX,Previous ART exposed included,NULL,NULL
+Ye14,Ye14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ye14
+Ye20,Ye20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ye20
+Ye20b,Ye20b,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ye20b
+Yebra09,Yebra09,Europe,PLOSMED2015,64 pol sequences in GB contains 60 RTs from 59 pts; Immigrants from SSA;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yebra09
+Yebra10,Yebra10,Europe,PLOSMED2015,Only 223 sequences in GB;,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yebra10
+Yerly01,Yerly01,NULL,EX,Previously excluded; Not a representative study,NULL,NULL
+Yerly04,Yerly04,Europe,PLOSMED2015,phylogenetically closely related IVDUs,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yerly04
+Yin20,Yin20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yin20
+Youngpairoj12,Youngpairoj12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/youngpairoj12
+Yousef16,Yousef16,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yousef16
+Yu09,Yu09,Asia,PLOSMED2015,Study of polymorphism,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yu09
+Yu20,Yu20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yu20
+Yuan18,Yuan18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/yuan18
+Zain17,Zain17,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zain17
+Zaki20,Zaki20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zaki20
+Zarandia06,Zarandia06,Asia,PLOSMED2015,A Former Soviet Union,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zarandia06
+Zeh05,Zeh05,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Zeh16,Zeh16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeh16
+Zeng11,Zeng11,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeng11
+Zeng12,Zeng12,Asia,PLOSMED2015,222 of 349 Accessions contain RT.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeng12
+Zeng13,Zeng13,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeng13
+Zeng17,Zeng17,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeng17
+Zeng20,Zeng20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeng20
+Zhang10,Zhang10,Asia,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang10
+Zhang15,Zhang15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang15
+Zhang15b,Zhang15b,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang15b
+Zhang17,Zhang17,NULL,EX,Rx not stated,NULL,NULL
+Zhang19,Zhang19,NULL,EX,<25 PTs,NULL,NULL
+Zhao14,Zhao14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhao14
+Zhao16,Zhao16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhao16
+Zhao20,Zhao20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhao20
+Zheng13,Zheng13,Asia,JIntAIDSSoc2020,Sequences available since 2013,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zheng13
+Zhong03,Zhong03,NULL,EX,<25 RTs (0 RTs),NULL,NULL
+Zhou08,Zhou08,NULL,EX,Rx not stated,NULL,NULL
+Zhou14,Zhou14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhou14
+Zhu95,Zhu95,NULL,EX,<25 Pts,NULL,NULL
+Zuckerman19,Zuckerman19,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zuckerman19
+daSilveira12,daSilveira12,South America,PLOSMED2015,Mato Grosso do Sul State (central western Brazil),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/dasilveira12
+deCastro14,deCastro14,South America,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/decastro14
+deCoul00,deCoul00,NULL,EX,<25 RTs (14 RTs),NULL,NULL
+deMedeiros11,deMedeiros11,South America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/demedeiros11
+deParga05,deParga05,Europe,PLOSMED2015,A Former Soviet Union; Mainly subtype A; 7 patients with L23I alone; Phylogenetically closely related sequences,Set_Continent_To: Europe,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/deparga05
+deSaFilho02,deSaFilho02,South America,EX,Excluded Previously (Unpublished),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/desafilho02
+deSaFilho06,deSaFilho06,NULL,EX,<25 RTs (10 RTs),NULL,NULL
+deSaFilho09,deSaFilho09,South America,PLOSMED2015,Only 30 sequences are available in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/desafilho09
+deSilva11,deSilva11,NULL,EX,<25 RTs (3 RTs),NULL,NULL
+vanDerHoek07,vanDerHoek07,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+vanHal09,vanHal09,NULL,EX,<25 RTs,NULL,NULL
+vanHarmelen01,vanHarmelen01,NULL,EX,<25 RTs (4 RTs),NULL,NULL
+vanZyl17,vanZyl17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vanzyl17

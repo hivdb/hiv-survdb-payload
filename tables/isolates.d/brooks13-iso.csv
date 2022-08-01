@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brooks13,CAN2013-001,120279,PR,2009-06-01,B,Plasma,Dideoxy,CAN,KF727891,FALSE,2013-12-17
 Brooks13,CAN2013-001,120279,RT,2009-06-01,B,Plasma,Dideoxy,CAN,KF727891,FALSE,2013-12-17
 Brooks13,CAN2013-002,120166,PR,2009-06-01,B,Plasma,Dideoxy,CAN,KF727768,FALSE,2013-12-17

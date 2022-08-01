@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 DeGascun12,IRL35909,PR,PR:L76V,76,V
 DeGascun12,IRL45782,PR,PR:L76V,76,V
 DeGascun12,IRL46667,PR,PR:L76V,76,V

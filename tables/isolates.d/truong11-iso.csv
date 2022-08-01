@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Truong11,4000355,36510,PR,2004-01-01,B,Plasma,Dideoxy,USA,DQ811957,FALSE,2007-04-17
 Truong11,4000355,36510,RT,2004-01-01,B,Plasma,Dideoxy,USA,DQ811957,FALSE,2007-04-17
 Truong11,4000356,36511,PR,2004-01-01,B,Plasma,Dideoxy,USA,DQ811958,FALSE,2007-04-17

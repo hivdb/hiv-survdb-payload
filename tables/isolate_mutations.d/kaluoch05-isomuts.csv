@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 K'Aluoch05,OK_TC005903,PR,PR:I13V,13,V,0
 K'Aluoch05,OK_TC005903,PR,PR:K20R,20,R,0
 K'Aluoch05,OK_TC005903,PR,PR:L33I,33,I,0

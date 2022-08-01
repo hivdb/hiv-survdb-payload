@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bessong06,POB_01PB5ZA,30031,RT,2001-01-01,C,Plasma,Dideoxy,ZAF,DQ222283,FALSE,2006-10-25
 Bessong06,POB_01PB6ZA,30032,RT,2001-01-01,C,Plasma,Dideoxy,ZAF,DQ222284,FALSE,2006-10-25
 Bessong06,POB_01PB9ZA,30033,RT,2001-01-01,C,Plasma,Dideoxy,ZAF,DQ222285,FALSE,2006-10-25

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Guimaraes15,BRSP1-13,146306,PR,2013-01-01,B,Plasma,Dideoxy,BRA,KP115383,FALSE,2015-08-18
 Guimaraes15,BRSP1-13,146306,RT,2013-01-01,B,Plasma,Dideoxy,BRA,KP115383,FALSE,2015-08-18
 Guimaraes15,BRSP1-14,146293,PR,2014-01-01,B,Plasma,Dideoxy,BRA,KP115384,FALSE,2015-08-18

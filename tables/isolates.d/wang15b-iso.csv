@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wang15b,4,149067,PR,2010-05-19,B,Plasma,Dideoxy,CHN,KP250765,FALSE,2015-11-17
 Wang15b,4,149067,RT,2010-05-19,B,Plasma,Dideoxy,CHN,KP250765,FALSE,2015-11-17
 Wang15b,9,149068,PR,2007-10-19,B,Plasma,Dideoxy,CHN,KP250799,FALSE,2015-11-17

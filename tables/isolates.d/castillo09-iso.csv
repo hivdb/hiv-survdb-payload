@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Castillo09,01,68007,PR,2007-06-01,B,Plasma,Dideoxy,VEN,GQ202887,FALSE,2009-12-08
 Castillo09,01,68007,RT,2007-06-01,B,Plasma,Dideoxy,VEN,GQ202842,FALSE,2009-12-08
 Castillo09,02,68008,PR,2007-06-01,B,Plasma,Dideoxy,VEN,GQ202888,FALSE,2009-12-08

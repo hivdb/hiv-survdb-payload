@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Arruda18,01AC140002,PR,PR:T12A,12,A,0
 Arruda18,01AC140002,PR,PR:E35D,35,D,0
 Arruda18,01AC140002,PR,PR:M36I,36,I,0

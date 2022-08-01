@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yuan18,SZ-004,228998,PR,2016-08-09,CRF55_01B,Plasma,Dideoxy,CHN,MG894033,FALSE,2018-12-26
 Yuan18,SZ-004,228998,RT,2016-08-09,CRF55_01B,Plasma,Dideoxy,CHN,MG894033,FALSE,2018-12-26
 Yuan18,SZ-041,228997,PR,2016-08-09,CRF01_AE,Plasma,Dideoxy,CHN,MG894034,FALSE,2018-12-26

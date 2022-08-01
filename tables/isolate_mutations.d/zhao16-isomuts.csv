@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zhao16,112B-P30,PR,PR:E35D,35,D,0
 Zhao16,112B-P30,PR,PR:R41K,41,K,0
 Zhao16,112B-P30,PR,PR:D60E,60,E,0

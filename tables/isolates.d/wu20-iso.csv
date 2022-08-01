@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wu20,13CNSH011,278443,PR,2013-08-28,CRF08_BC,Plasma,Dideoxy,CHN,MK543552,FALSE,2020-06-09
 Wu20,13CNSH011,278443,RT,2013-08-28,CRF08_BC,Plasma,Dideoxy,CHN,MK543552,FALSE,2020-06-09
 Wu20,13CNSH011,278443,IN,2013-08-28,C,Plasma,Dideoxy,CHN,MK543719,FALSE,2020-06-09

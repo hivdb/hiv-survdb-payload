@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lloyd08,CR002,41297,PR,2002-06-01,B,Plasma,Dideoxy,HND,EU312721,FALSE,2008-02-12
 Lloyd08,CR002,41297,RT,2002-06-01,B,Plasma,Dideoxy,HND,EU312721,FALSE,2008-02-12
 Lloyd08,CR004,41213,PR,2002-06-01,B,Plasma,Dideoxy,HND,EU312637,FALSE,2008-02-12

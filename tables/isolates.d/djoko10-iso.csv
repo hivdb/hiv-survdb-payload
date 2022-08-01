@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Djoko10,603,79541,PR,2007-06-01,CRF26_AU,Plasma,Dideoxy,COD,FR666603,FALSE,2011-02-06
 Djoko10,603,79541,RT,2007-06-01,A,Plasma,Dideoxy,COD,FR666603,FALSE,2011-02-06
 Djoko10,604,79542,PR,2007-06-01,CRF02_AG,Plasma,Dideoxy,COD,FR666604,FALSE,2011-02-06

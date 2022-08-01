@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Darcissac16,P28VBXF,PR,PR:E35D,35,D,0
 Darcissac16,P28VBXF,PR,PR:M36I,36,I,0
 Darcissac16,P28VBXF,PR,PR:R41K,41,K,0

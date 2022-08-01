@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Machado19,ANR-0001,PR,PR:I3V,3,V,0
 Machado19,ANR-0001,PR,PR:Q7K,7,K,0
 Machado19,ANR-0001,PR,PR:L10I,10,I,0

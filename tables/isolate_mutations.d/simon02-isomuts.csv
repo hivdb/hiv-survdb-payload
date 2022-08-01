@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Simon02,AD-1,PR,PR:L19V,19,V,0
 Simon02,AD-1,PR,PR:N37S,37,S,0
 Simon02,AD-10,PR,PR:L5F,5,F,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Holguin08,05SP23-00276637,107217,PR,2005-01-01,B,Plasma,Dideoxy,ESP,EU255326,FALSE,2013-03-15
 Holguin08,05SP23-00276637,107217,RT,2005-01-01,B,Plasma,Dideoxy,ESP,EU255326,FALSE,2013-03-15
 Holguin08,05SP24-279958,107218,PR,2005-01-01,B,Plasma,Dideoxy,ESP,EU255327,FALSE,2013-03-15

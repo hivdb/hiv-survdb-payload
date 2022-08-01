@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Dauwe15,03_01046,RT,RT:K64R,64,R,0
 Dauwe15,03_01046,RT,RT:K122Q,122,Q,0
 Dauwe15,03_01046,RT,RT:I142V,142,V,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Papathanasopoulos10,14998,PR,PR:T12S,12,S,0
 Papathanasopoulos10,14998,PR,PR:I15V,15,V,0
 Papathanasopoulos10,14998,PR,PR:L19V,19,V,0

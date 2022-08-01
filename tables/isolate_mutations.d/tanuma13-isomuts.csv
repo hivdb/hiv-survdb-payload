@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tanuma13,08HT0001,PR,PR:G16A,16,A,0
 Tanuma13,08HT0001,PR,PR:E35D,35,D,0
 Tanuma13,08HT0001,PR,PR:M36I,36,I,1

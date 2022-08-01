@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lee09,S07001,62858,PR,2004-01-01,B,Plasma,Dideoxy,SGP,EU715214,FALSE,2009-10-02
 Lee09,S07001,62858,RT,2004-01-01,B,Plasma,Dideoxy,SGP,EU715214,FALSE,2009-10-02
 Lee09,S07002,62841,PR,2004-01-01,B,Plasma,Dideoxy,SGP,EU715197,FALSE,2009-10-02

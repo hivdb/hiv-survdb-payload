@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Konou16,ABAS0301AD-prot,247370,PR,2013-06-01,CRF02_AG,Plasma,Dideoxy,TGO,KU744890,FALSE,2019-03-28
 Konou16,ABAS0301AD-prot,247370,RT,2013-06-01,CRF02_AG,Plasma,Dideoxy,TGO,KU744890,TRUE,2019-03-28
 Konou16,ABKO0003AD,247371,PR,2013-06-01,CRF02_AG,Plasma,Dideoxy,TGO,KU744891,FALSE,2019-03-28

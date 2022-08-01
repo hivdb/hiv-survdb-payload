@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chaillon17,2011_130245,RT,RT:V60I,60,I,0
 Chaillon17,2011_130245,RT,RT:R78K,78,K,1
 Chaillon17,2011_130245,RT,RT:D123E,123,E,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Djoko10b,GQ019,79639,PR,2008-06-01,A,Plasma,Dideoxy,GNQ,FN557307,FALSE,2011-02-06
 Djoko10b,GQ019,79639,RT,2008-06-01,A,Plasma,Dideoxy,GNQ,FN557307,FALSE,2011-02-06
 Djoko10b,GQ027,79667,PR,2008-06-01,G,Plasma,Dideoxy,GNQ,FN557335,FALSE,2011-02-06

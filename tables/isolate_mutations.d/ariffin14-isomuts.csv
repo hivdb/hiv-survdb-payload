@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ariffin14,MYKE413,PR,PR:E35N,35,N,0
 Ariffin14,MYKE413,PR,PR:M36I,36,I,0
 Ariffin14,MYKE413,PR,PR:L63T,63,T,0

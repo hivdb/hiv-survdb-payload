@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Delatorre17,12BRRJGN01,PR,PR:I13V,13,V,0
 Delatorre17,12BRRJGN01,PR,PR:G17E,17,E,0
 Delatorre17,12BRRJGN01,PR,PR:K20R,20,R,0

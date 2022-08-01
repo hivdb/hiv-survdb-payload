@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Grossman05,15823,PR,PR:M36I,36,I,0
 Grossman05,15823,PR,PR:N37A,37,A,0
 Grossman05,15823,PR,PR:I64V,64,V,0

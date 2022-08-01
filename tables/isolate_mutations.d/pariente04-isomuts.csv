@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Pariente04,pt15,PR,PR:I13V,13,V,0
 Pariente04,pt15,PR,PR:T31P,31,P,1
 Pariente04,pt15,PR,PR:N37D,37,D,0

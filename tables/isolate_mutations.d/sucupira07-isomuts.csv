@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Sucupira07,BRE_01_99,PR,PR:N37K,37,K,0
 Sucupira07,BRE_01_99,PR,PR:R41N,41,N,0
 Sucupira07,BRE_01_99,PR,PR:H69K,69,K,0

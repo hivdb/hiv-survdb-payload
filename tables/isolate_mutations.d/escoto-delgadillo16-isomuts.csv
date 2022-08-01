@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Escoto-Delgadillo16,GDL002,PR,PR:L19I,19,I,0
 Escoto-Delgadillo16,GDL002,PR,PR:E35D,35,D,0
 Escoto-Delgadillo16,GDL002,PR,PR:N37D,37,D,1

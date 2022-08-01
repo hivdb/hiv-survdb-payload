@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gordon03,ZA004p01,PR,PR:T12S,12,S,0
 Gordon03,ZA004p01,PR,PR:K14R,14,R,0
 Gordon03,ZA004p01,PR,PR:I15V,15,V,0

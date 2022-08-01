@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 An12,08LNA001,105039,PR,2008-11-25,B,Plasma,Dideoxy,CHN,JX960601,FALSE,2013-03-05
 An12,08LNA001,105039,RT,2008-11-25,CRF07_BC,Plasma,Dideoxy,CHN,JX960601,FALSE,2013-03-05
 An12,08LNA001,105039,IN,2008-11-25,C,Plasma,Dideoxy,CHN,JX960601,FALSE,2013-03-05

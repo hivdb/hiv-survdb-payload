@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zarandia06,03GEMZ004,28611,PR,2003-06-01,B,PBMC,Dideoxy,GEO,DQ205265,FALSE,2006-09-08
 Zarandia06,03GEMZ004,28611,RT,2003-06-01,B,PBMC,Dideoxy,GEO,DQ205265,FALSE,2006-09-08
 Zarandia06,03GEMZ010,28616,PR,2003-06-01,B,PBMC,Dideoxy,GEO,DQ205269,FALSE,2006-09-08

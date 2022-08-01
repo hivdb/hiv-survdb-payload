@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Dauwe15,03_01046,178735,RT,2001-11-30,B,Plasma,Dideoxy,BEL,KT863947,FALSE,2017-03-07
 Dauwe15,06_07060,178587,RT,2007-08-29,CRF06_cpx,Plasma,Dideoxy,BEL,KT863948,FALSE,2017-03-07
 Dauwe15,06_9035,178091,RT,2006-06-01,CRF06_cpx,Plasma,Dideoxy,BEL,KT863949,FALSE,2017-03-07

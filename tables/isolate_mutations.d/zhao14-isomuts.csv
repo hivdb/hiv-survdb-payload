@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zhao14,BJ082306,PR,PR:T12P,12,P,0
 Zhao14,BJ082306,PR,PR:I15V,15,V,1
 Zhao14,BJ082306,PR,PR:L19Q,19,Q,0

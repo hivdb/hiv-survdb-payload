@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Seoighe07,CHB1,36792,RT,2006-01-01,C,Plasma,Dideoxy,ZAF,EF381748,FALSE,2007-05-08
 Seoighe07,CHB2,36855,RT,2006-01-01,C,Plasma,Dideoxy,ZAF,EF381874,FALSE,2007-05-08
 Seoighe07,CHB5,36883,RT,2006-01-01,C,Plasma,Dideoxy,ZAF,EF381931,FALSE,2007-05-08

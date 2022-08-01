@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ong13,08MYKL002,PR,PR:I13V,13,V,0
 Ong13,08MYKL002,PR,PR:L33F,33,F,0
 Ong13,08MYKL002,PR,PR:E35D,35,D,0

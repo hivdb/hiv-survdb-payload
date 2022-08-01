@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 K'Aluoch05,OK_TC005903,25927,PR,2004-01-01,D,Plasma,Dideoxy,UGA,DQ079858,FALSE,2005-12-20
 K'Aluoch05,OK_TC005903,25927,RT,2004-01-01,D,Plasma,Dideoxy,UGA,DQ079858,FALSE,2005-12-20
 K'Aluoch05,OK_TC006403,25926,PR,2004-01-01,D,Plasma,Dideoxy,UGA,DQ079857,FALSE,2005-12-20

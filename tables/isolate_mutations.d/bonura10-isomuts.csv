@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bonura10,1007_87,PR,PR:N37S,37,S,0
 Bonura10,1007_87,PR,PR:I64V,64,V,0
 Bonura10,1007_87,PR,PR:V77I,77,I,0

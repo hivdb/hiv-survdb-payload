@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lunar15,SI261-12,166731,PR,2012-06-01,B,Plasma,Dideoxy,SVN,KF753750,FALSE,2016-10-05
 Lunar15,SI261-12,166731,RT,2012-06-01,B,Plasma,Dideoxy,SVN,KF753750,FALSE,2016-10-05
 Lunar15,SI672-11,166735,PR,2011-06-01,B,Plasma,Dideoxy,SVN,KF753729,FALSE,2016-10-05

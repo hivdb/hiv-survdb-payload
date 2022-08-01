@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Somda12,8A-145-23,122095,PR,2008-06-01,CRF02_AG,Plasma,Dideoxy,BFA,HG529933,FALSE,2014-01-22
 Somda12,8A-145-23,122095,RT,2008-06-01,CRF02_AG,Plasma,Dideoxy,BFA,HG529933,FALSE,2014-01-22
 Somda12,8A-316-23,122053,PR,2008-06-01,G,Plasma,Dideoxy,BFA,HG529942,FALSE,2014-01-22

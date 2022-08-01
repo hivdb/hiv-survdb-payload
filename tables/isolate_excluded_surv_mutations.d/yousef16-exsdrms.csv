@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Yousef16,3118,RT,RT:T215D,215,D
 Yousef16,4042,RT,RT:L210W,210,W
 Yousef16,4042,RT,RT:T215D,215,D

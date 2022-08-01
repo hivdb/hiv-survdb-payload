@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wilhelmson18,A_17,240596,PR,2017-02-06,A,Plasma,Dideoxy,GNB,MH605454,FALSE,2019-03-18
 Wilhelmson18,A_17,240596,RT,2017-02-06,A,Plasma,Dideoxy,GNB,MH605454,FALSE,2019-03-18
 Wilhelmson18,A_18,240607,PR,2017-03-02,CRF02_AG,Plasma,Dideoxy,GNB,MH605465,FALSE,2019-03-18

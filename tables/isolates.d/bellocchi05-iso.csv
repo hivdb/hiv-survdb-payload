@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bellocchi05,002,66982,PR,2002-07-17,C,Plasma,Dideoxy,MOZ,GU199576,FALSE,2009-11-11
 Bellocchi05,002,66982,RT,2002-07-17,C,Plasma,Dideoxy,MOZ,GU199576,FALSE,2009-11-11
 Bellocchi05,003,66955,PR,2002-07-27,C,Plasma,Dideoxy,MOZ,GU199550,FALSE,2009-11-11

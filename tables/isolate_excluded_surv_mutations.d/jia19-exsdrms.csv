@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Jia19,14037,PR,PR:V82L,82,L
 Jia19,14126,PR,PR:L23I,23,I
 Jia19,14247,PR,PR:V82S,82,S

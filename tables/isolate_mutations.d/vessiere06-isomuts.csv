@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Vessiere06,AV_M10046N,PR,PR:E35D,35,D,0
 Vessiere06,AV_M10046N,PR,PR:M36I,36,I,0
 Vessiere06,AV_M10046N,PR,PR:N37D,37,D,0

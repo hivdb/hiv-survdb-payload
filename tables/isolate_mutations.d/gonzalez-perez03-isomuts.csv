@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gonzalez-Perez03,PG_GI280,RT,RT:K11T,11,T,0
 Gonzalez-Perez03,PG_GI280,RT,RT:V35T,35,T,0
 Gonzalez-Perez03,PG_GI280,RT,RT:T39R,39,R,0

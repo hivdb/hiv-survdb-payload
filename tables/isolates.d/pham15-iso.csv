@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Pham15,BD12-169,154427,RT,2012-06-01,CRF01_AE,Plasma,Dideoxy,VNM,KF453803,FALSE,2016-05-03
 Pham15,FS12-50,154378,RT,2012-06-01,CRF01_AE,Plasma,Dideoxy,VNM,KF453804,FALSE,2016-05-03
 Pham15,FSW12-26,154400,RT,2012-06-01,CRF01_AE,Plasma,Dideoxy,VNM,KF453805,FALSE,2016-05-03

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Rolland12,AA001a12L,105922,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,THA,JX446647,FALSE,2013-03-08
 Rolland12,AA001a12L,105922,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,THA,JX446647,FALSE,2013-03-08
 Rolland12,AA001a12L,105922,IN,2008-06-01,CRF01_AE,Plasma,Dideoxy,THA,JX446647,FALSE,2013-03-08

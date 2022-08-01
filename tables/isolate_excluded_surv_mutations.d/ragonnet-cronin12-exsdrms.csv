@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Ragonnet-Cronin12,PHAC08_177,RT,RT:D67G,67,G
 Ragonnet-Cronin12,PHAC08_177,RT,RT:D67N,67,N
 Ragonnet-Cronin12,PHAC08_178,RT,RT:D67G,67,G

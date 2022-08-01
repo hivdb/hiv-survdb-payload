@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tchiakpe20,BEN1,278305,PR,2017-06-01,CRF02_AG,Plasma,Dideoxy,BEN,MT022685,FALSE,2020-06-09
 Tchiakpe20,BEN1,278305,RT,2017-06-01,B,Plasma,Dideoxy,BEN,MT022846,FALSE,2020-06-09
 Tchiakpe20,BEN2,278178,PR,2017-06-01,CRF02_AG,Plasma,Dideoxy,BEN,MT022686,FALSE,2020-06-09

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sacks-Davis20,VIC_HIV_1,291056,PR,2014-01-01,B,Plasma,Dideoxy,AUS,MT748056,FALSE,2020-11-17
 Sacks-Davis20,VIC_HIV_1,291056,RT,2014-01-01,B,Plasma,Dideoxy,AUS,MT748056,FALSE,2020-11-17
 Sacks-Davis20,VIC_HIV_2,291057,PR,2014-01-01,B,Plasma,Dideoxy,AUS,MT748167,FALSE,2020-11-17

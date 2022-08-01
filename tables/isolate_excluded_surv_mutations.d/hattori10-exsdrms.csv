@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Hattori10,C05-51110305,PR,PR:V82A,82,A
 Hattori10,C04-2069044,RT,RT:V179F,179,F
 Hattori10,C07-2066376,RT,RT:D67N,67,N

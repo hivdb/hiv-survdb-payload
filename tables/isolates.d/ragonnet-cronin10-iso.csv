@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ragonnet-Cronin10,PHAC_001,73915,PR,2002-06-01,B,Plasma,Dideoxy,CAN,HM468499,FALSE,2010-08-16
 Ragonnet-Cronin10,PHAC_001,73915,RT,2002-06-01,B,Plasma,Dideoxy,CAN,HM468499,FALSE,2010-08-16
 Ragonnet-Cronin10,PHAC_002,73916,PR,2002-06-01,B,Plasma,Dideoxy,CAN,HM468500,FALSE,2010-08-16

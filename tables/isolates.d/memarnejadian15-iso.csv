@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Memarnejadian15,SDJ02,154471,PR,2011-06-01,CRF35_AD,Plasma,Dideoxy,IRN,KF544055,FALSE,2016-05-03
 Memarnejadian15,SDJ02,154471,RT,2011-06-01,CRF35_AD,Plasma,Dideoxy,IRN,KF544055,FALSE,2016-05-03
 Memarnejadian15,SDJ03,154476,PR,2011-06-01,CRF35_AD,Plasma,Dideoxy,IRN,KF544042,FALSE,2016-05-03

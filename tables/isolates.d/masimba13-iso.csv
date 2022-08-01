@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Masimba13,TZ1,115063,PR,2005-06-01,B,Plasma,Dideoxy,TZA,KC537065,FALSE,2013-07-03
 Masimba13,TZ1,115063,RT,2005-06-01,D,Plasma,Dideoxy,TZA,KC537065,FALSE,2013-07-03
 Masimba13,TZ3,115026,RT,2005-06-01,C,Plasma,Dideoxy,TZA,KC537132,FALSE,2013-07-03

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Paraschiv17,1039BH,PR,PR:L10V,10,V,0
 Paraschiv17,1039BH,PR,PR:T12I,12,I,0
 Paraschiv17,1039BH,PR,PR:I15V,15,V,0

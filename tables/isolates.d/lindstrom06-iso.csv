@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lindstrom06,SIIDC0101,71136,PR,1992-01-01,B,Plasma,Dideoxy,SWE,NULL,FALSE,2010-04-07
 Lindstrom06,SIIDC0101,71136,RT,1992-01-01,B,Plasma,Dideoxy,SWE,NULL,FALSE,2010-04-07
 Lindstrom06,SIIDC0102,71247,PR,1992-01-01,B,Plasma,Dideoxy,SWE,NULL,FALSE,2010-04-07

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Avi09,B14,58596,RT,2006-06-01,CRF06_cpx,Plasma,Dideoxy,EST,FJ154056,FALSE,2009-05-20
 Avi09,B17,58608,RT,2006-06-01,CRF06_cpx,Plasma,Dideoxy,EST,FJ154068,FALSE,2009-05-20
 Avi09,B20,58583,RT,2006-06-01,CRF06_cpx,Plasma,Dideoxy,EST,FJ154040,FALSE,2009-05-20

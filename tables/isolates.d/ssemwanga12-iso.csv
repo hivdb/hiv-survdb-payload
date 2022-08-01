@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ssemwanga12,RCC-TDR-359656,94913,PR,2005-02-07,A,Plasma,Dideoxy,UGA,JQ266074,FALSE,2012-07-06
 Ssemwanga12,RCC-TDR-359656,94913,RT,2005-02-07,A,Plasma,Dideoxy,UGA,JQ266074,FALSE,2012-07-06
 Ssemwanga12,RCC-TDR-359822,94917,PR,2005-12-24,D,Plasma,Dideoxy,UGA,JQ266078,FALSE,2012-07-06

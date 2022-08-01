@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ugbena12,1-1-001,126553,PR,2008-06-01,G,Plasma,Dideoxy,NGA,JX083986,FALSE,2014-02-20
 Ugbena12,1-1-001,126553,RT,2008-06-01,G,Plasma,Dideoxy,NGA,JX083986,FALSE,2014-02-20
 Ugbena12,1-1-002,126532,PR,2008-06-01,CRF02_AG,Plasma,Dideoxy,NGA,JX083987,FALSE,2014-02-20

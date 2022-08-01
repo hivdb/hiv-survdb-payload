@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hunt17,EC2011_433421,247929,PR,2016-10-29,C,Plasma,Dideoxy,ZAF,KY060309,FALSE,2019-04-01
 Hunt17,EC2011_433421,247929,RT,2016-10-29,C,Plasma,Dideoxy,ZAF,KY060309,FALSE,2019-04-01
 Hunt17,EC2011_442203,247930,PR,2016-10-29,C,Plasma,Dideoxy,ZAF,KY060310,FALSE,2019-04-01

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wu13,AQP23,114293,PR,2011-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC203267,FALSE,2013-05-20
 Wu13,AQP23,114293,RT,2011-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC203267,FALSE,2013-05-20
 Wu13,AQP24,114248,PR,2011-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC203268,FALSE,2013-05-20

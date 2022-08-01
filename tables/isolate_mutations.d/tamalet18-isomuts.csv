@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tamalet18,1001225,PR,PR:M36I,36,I,0
 Tamalet18,1001225,PR,PR:N37S,37,S,0
 Tamalet18,1001225,PR,PR:H69K,69,K,0

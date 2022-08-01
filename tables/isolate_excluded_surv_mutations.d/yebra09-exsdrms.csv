@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Yebra09,SP25-353037,RT,RT:M184V,184,V
 Yebra09,SP45-371139,RT,RT:L74I,74,I
 Yebra09,SP45-371139,RT,RT:L74V,74,V

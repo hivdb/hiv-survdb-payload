@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yang02,DH001,PR,PR:E35D,35,D,0
 Yang02,DH001,PR,PR:I62V,62,V,0
 Yang02,DH001,PR,PR:L63S,63,S,0

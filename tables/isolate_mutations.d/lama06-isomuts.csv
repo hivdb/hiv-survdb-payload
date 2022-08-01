@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lama06,Pt1025,PR,PR:T12P,12,P,0
 Lama06,Pt1025,PR,PR:K14R,14,R,0
 Lama06,Pt1025,PR,PR:Q61D,61,D,0

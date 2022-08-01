@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yu20,09GDGZ007,297391,PR,2009-06-01,CRF55_01B,PBMC,Dideoxy,CHN,MK892865,FALSE,2021-05-12
 Yu20,09GDGZ007,297391,RT,2009-06-01,CRF55_01B,PBMC,Dideoxy,CHN,MK892865,FALSE,2021-05-12
 Yu20,09GDGZ009,297392,PR,2009-06-01,CRF55_01B,PBMC,Dideoxy,CHN,MK892866,FALSE,2021-05-12

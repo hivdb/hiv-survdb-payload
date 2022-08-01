@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ferreira13,BR08SP407,111671,PR,2008-10-20,B,Plasma,Dideoxy,BRA,HM533992,FALSE,2013-04-03
 Ferreira13,BR08SP407,111671,RT,2008-10-20,B,Plasma,Dideoxy,BRA,HM533992,FALSE,2013-04-03
 Ferreira13,BR08SP408,111672,PR,2008-10-20,B,Plasma,Dideoxy,BRA,HM533993,FALSE,2013-04-03

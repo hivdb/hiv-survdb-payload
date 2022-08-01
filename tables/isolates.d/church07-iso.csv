@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Church07,001-106667R,43499,PR,1997-01-01,D,Plasma,Dideoxy,UGA,EF611990,FALSE,2008-06-04
 Church07,001-106667R,43499,RT,1997-01-01,D,Plasma,Dideoxy,UGA,EF611990,FALSE,2008-06-04
 Church07,004-106665H,43500,PR,1997-01-01,A,Plasma,Dideoxy,UGA,EF611991,FALSE,2008-06-04

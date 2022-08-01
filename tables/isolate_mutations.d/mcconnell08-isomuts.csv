@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 McConnell08,NV01,PR,PR:K14R,14,R,1
 McConnell08,NV01,PR,PR:E35D,35,D,0
 McConnell08,NV01,PR,PR:N37E,37,E,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Crispim19,BRAM_02,PR,PR:K14R,14,R,0
 Crispim19,BRAM_02,PR,PR:E35D,35,D,0
 Crispim19,BRAM_02,PR,PR:M36I,36,I,0

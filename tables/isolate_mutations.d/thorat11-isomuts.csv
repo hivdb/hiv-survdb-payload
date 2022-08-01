@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Thorat11,Pat002,PR,PR:T12S,12,S,0
 Thorat11,Pat002,PR,PR:L19I,19,I,1
 Thorat11,Pat002,PR,PR:L19T,19,T,1

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ojwach18,A,232428,RT,2013-06-01,C,Plasma,Dideoxy,BWA,MH486982,FALSE,2019-01-08
 Ojwach18,A,232428,IN,2013-06-01,C,Plasma,Dideoxy,BWA,MH486982,FALSE,2019-01-08
 Ojwach18,AS216,232478,RT,2014-03-01,C,Plasma,Dideoxy,ZAF,MH487032,FALSE,2019-01-08

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Dowling02,KER2018,PR,PR:G73S,73,S
 Dowling02,KSM4017,PR,PR:G73S,73,S
 Dowling02,KER2018,RT,RT:M184I,184,I

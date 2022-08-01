@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chen18c,15CN.GXLS-1,271716,PR,2015-01-26,CRF08_BC,Plasma,Dideoxy,CHN,MH789744,FALSE,2020-05-07
 Chen18c,15CN.GXLS-1,271716,RT,2015-01-26,CRF08_BC,Plasma,Dideoxy,CHN,MH789744,FALSE,2020-05-07
 Chen18c,15CN.GXLS-3,271761,PR,2015-05-30,CRF08_BC,Plasma,Dideoxy,CHN,MH789868,FALSE,2020-05-07

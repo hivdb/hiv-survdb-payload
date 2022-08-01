@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Lu18,12789,PR,PR:V82F,82,F
 Lu18,12796,PR,PR:I54L,54,L
 Lu18,12796,PR,PR:I54S,54,S

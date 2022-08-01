@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Smolen-Dzirba17,0004KSD/12,RT,RT:K11Q,11,Q,0
 Smolen-Dzirba17,0004KSD/12,RT,RT:E29D,29,D,0
 Smolen-Dzirba17,0004KSD/12,RT,RT:I142T,142,T,0

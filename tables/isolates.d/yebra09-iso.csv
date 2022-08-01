@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yebra09,SP2-290207,106944,PR,2006-01-01,CRF45_cpx,Plasma,Dideoxy,ESP,EU255375,FALSE,2013-03-14
 Yebra09,SP2-290207,106944,RT,2006-01-01,A,Plasma,Dideoxy,ESP,EU255375,FALSE,2013-03-14
 Yebra09,SP3-260414,106935,PR,2005-01-01,CRF02_AG,Plasma,Dideoxy,ESP,EU255307,FALSE,2013-03-14

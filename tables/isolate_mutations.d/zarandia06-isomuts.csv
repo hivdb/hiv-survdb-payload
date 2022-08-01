@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zarandia06,03GEMZ004,PR,PR:T12S,12,S,0
 Zarandia06,03GEMZ004,PR,PR:V77I,77,I,0
 Zarandia06,03GEMZ010,PR,PR:I13V,13,V,0

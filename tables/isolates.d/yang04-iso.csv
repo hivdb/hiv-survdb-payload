@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yang04,00KE553,20228,PR,2000-01-01,A,PBMC,Dideoxy,KEN,AY492773,FALSE,2004-06-11
 Yang04,00KE553,20228,RT,2000-01-01,A,PBMC,Dideoxy,KEN,AY492773,FALSE,2004-06-11
 Yang04,00KE557,20229,PR,2000-01-01,D,PBMC,Dideoxy,KEN,AY492774,FALSE,2004-06-11

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Palma07,Pt1,43217,PR,2001-01-01,G,Plasma,Dideoxy,PRT,NULL,FALSE,2008-06-03
 Palma07,Pt1,43217,RT,2001-01-01,G,Plasma,Dideoxy,PRT,NULL,FALSE,2008-06-03
 Palma07,Pt2,43218,PR,2001-01-01,G,Plasma,Dideoxy,PRT,NULL,FALSE,2008-06-03

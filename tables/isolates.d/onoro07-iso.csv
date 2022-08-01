@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Onoro07,112102,67193,PR,2004-01-01,B,Plasma,Dideoxy,ESP,NULL,FALSE,2009-11-19
 Onoro07,112102,67193,RT,2004-01-01,B,Plasma,Dideoxy,ESP,NULL,FALSE,2009-11-19
 Onoro07,527659,67086,PR,2004-01-01,CRF02_AG,Plasma,Dideoxy,ESP,NULL,FALSE,2009-11-19

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Stanojevic13,MSi2,119776,PR,2002-06-01,C,Plasma,Dideoxy,SRB,KF157424,FALSE,2013-11-01
 Stanojevic13,MSi2,119776,RT,2002-06-01,C,Plasma,Dideoxy,SRB,KF157424,FALSE,2013-11-01
 Stanojevic13,MSi4,119787,PR,2002-06-01,B,Plasma,Dideoxy,SRB,KF157425,FALSE,2013-11-01

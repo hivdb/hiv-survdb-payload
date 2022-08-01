@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Soares03,BRBS462,15511,PR,2001-06-01,B,Plasma,Dideoxy,BRA,AF527177,FALSE,2003-06-13
 Soares03,BRBS462,15511,RT,2001-06-01,B,Plasma,Dideoxy,BRA,AF527178,FALSE,2003-06-13
 Soares03,BRBS465,15512,PR,2001-06-01,B,Plasma,Dideoxy,BRA,AF527179,TRUE,2003-06-13

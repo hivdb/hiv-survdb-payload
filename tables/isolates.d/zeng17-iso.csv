@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zeng17,CQ12000047,274299,PR,2012-07-01,CRF07_BC,Plasma,Dideoxy,CHN,KU954626,FALSE,2020-05-07
 Zeng17,CQ12000047,274299,RT,2012-07-01,CRF07_BC,Plasma,Dideoxy,CHN,KU954626,FALSE,2020-05-07
 Zeng17,CQ12000081,274395,PR,2012-07-01,CRF07_BC,Plasma,Dideoxy,CHN,KU954578,FALSE,2020-05-07

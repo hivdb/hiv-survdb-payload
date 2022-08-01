@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li13,2801,105798,PR,2010-06-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ901022,FALSE,2013-03-05
 Li13,2801,105798,RT,2010-06-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ901022,FALSE,2013-03-05
 Li13,2801,105798,IN,2010-06-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ901022,FALSE,2013-03-05

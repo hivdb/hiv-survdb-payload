@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Razafindratsimandresy06,RR_MAD-GF301,28113,PR,2005-06-01,CRF02_AG,Plasma,Dideoxy,MDG,DQ345028,FALSE,2006-08-31
 Razafindratsimandresy06,RR_MAD-GF301,28113,RT,2005-06-01,CRF02_AG,Plasma,Dideoxy,MDG,DQ345057,FALSE,2006-08-31
 Razafindratsimandresy06,RR_MAD-GI061,28114,PR,2005-06-01,CRF02_AG,Plasma,Dideoxy,MDG,DQ345014,FALSE,2006-08-31

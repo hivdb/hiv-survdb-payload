@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Guimaraes15b,RDSBA056,PR,PR:T12N,12,N,0
 Guimaraes15b,RDSBA056,PR,PR:I13V,13,V,0
 Guimaraes15b,RDSBA056,PR,PR:N37D,37,D,0

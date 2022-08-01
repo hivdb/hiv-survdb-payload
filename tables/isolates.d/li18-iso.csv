@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li18,PTGXME002,226711,PR,2012-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KY226003,FALSE,2018-12-17
 Li18,PTGXME002,226711,RT,2012-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KY226003,FALSE,2018-12-17
 Li18,PTGXME003,226712,PR,2012-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KY226004,FALSE,2018-12-17

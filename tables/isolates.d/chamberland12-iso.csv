@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chamberland12,C401S,80795,PR,2009-04-01,CRF02_AG,Plasma,Dideoxy,BEN,HQ267535,FALSE,2011-06-13
 Chamberland12,C401S,80795,RT,2009-04-01,CRF02_AG,Plasma,Dideoxy,BEN,HQ267535,FALSE,2011-06-13
 Chamberland12,C404S,80796,PR,2008-10-01,CRF09_cpx,Plasma,Dideoxy,BEN,HQ267536,FALSE,2011-06-13

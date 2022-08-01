@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Nouhin09,KC02,PR,PR:K20E,20,E,1
 Nouhin09,KC02,PR,PR:E35D,35,D,0
 Nouhin09,KC02,PR,PR:M36I,36,I,0

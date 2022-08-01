@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 VanTran16,VI-002,PR,PR:I13V,13,V,0
 VanTran16,VI-002,PR,PR:E35D,35,D,0
 VanTran16,VI-002,PR,PR:M36I,36,I,0

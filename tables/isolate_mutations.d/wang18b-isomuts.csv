@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wang18b,HLJCIQ12001,PR,PR:I13V,13,V,0
 Wang18b,HLJCIQ12001,PR,PR:L19M,19,M,0
 Wang18b,HLJCIQ12001,PR,PR:E35D,35,D,0

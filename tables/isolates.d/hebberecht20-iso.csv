@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hebberecht20,A,297284,PR,2013-04-11,A,PBMC,Dideoxy,BEL,MN989924,FALSE,2021-05-12
 Hebberecht20,A,297284,RT,2013-04-11,A,PBMC,Dideoxy,BEL,MN989924,FALSE,2021-05-12
 Hebberecht20,A,297284,IN,2013-04-11,A,PBMC,Dideoxy,BEL,MN989924,FALSE,2021-05-12

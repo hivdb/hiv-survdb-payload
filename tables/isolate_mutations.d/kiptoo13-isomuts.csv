@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Kiptoo13,KAP001,PR,PR:W6stop,6,stop,1
 Kiptoo13,KAP001,PR,PR:I13V,13,V,0
 Kiptoo13,KAP001,PR,PR:E35D,35,D,0

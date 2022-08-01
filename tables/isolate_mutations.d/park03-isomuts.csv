@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Park03,PSW_Pat1,PR,PR:I15V,15,V,0
 Park03,PSW_Pat1,PR,PR:N37C,37,C,0
 Park03,PSW_Pat1,PR,PR:L63T,63,T,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Smolen-Dzirba17,0004KSD/12,180993,RT,2012-06-01,B,Plasma,Dideoxy,POL,KT324514,FALSE,2017-03-09
 Smolen-Dzirba17,0005RSD/12,180976,RT,2012-06-01,B,Plasma,Dideoxy,POL,KT324515,FALSE,2017-03-09
 Smolen-Dzirba17,0008MKD/12,180989,RT,2012-06-01,B,Plasma,Dideoxy,POL,KT324516,FALSE,2017-03-09

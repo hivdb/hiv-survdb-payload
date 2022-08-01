@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Manasa11,1000155,PR,PR:T12S,12,S,0
 Manasa11,1000155,PR,PR:I15V,15,V,0
 Manasa11,1000155,PR,PR:L19T,19,T,0

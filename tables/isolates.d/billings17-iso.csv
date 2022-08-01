@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Billings17,CO0041V3,183373,PR,2004-04-19,C,Plasma,Dideoxy,TZA,KX907337,FALSE,2017-03-13
 Billings17,CO0041V3,183373,RT,2004-04-19,C,Plasma,Dideoxy,TZA,KX907337,FALSE,2017-03-13
 Billings17,CO0041V3,183373,IN,2004-04-19,C,Plasma,Dideoxy,TZA,KX907337,FALSE,2017-03-13

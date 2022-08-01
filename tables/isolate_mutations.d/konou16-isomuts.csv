@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Konou16,ABAS0301AD-prot,PR,PR:I13V,13,V,0
 Konou16,ABAS0301AD-prot,PR,PR:K20I,20,I,0
 Konou16,ABAS0301AD-prot,PR,PR:E34D,34,D,0

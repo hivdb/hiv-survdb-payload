@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hassan18,00C210001,240105,PR,2006-06-13,A,Plasma,Dideoxy,KEN,MK192535,FALSE,2019-03-08
 Hassan18,00C210001,240105,RT,2006-06-13,A,Plasma,Dideoxy,KEN,MK192535,FALSE,2019-03-08
 Hassan18,00C210002,240104,PR,2006-06-14,A,Plasma,Dideoxy,KEN,MK192536,FALSE,2019-03-08

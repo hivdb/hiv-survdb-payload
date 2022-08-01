@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hassan13,RS09000852,93598,PR,2008-06-01,A,Plasma,Dideoxy,KEN,HQ441597,FALSE,2012-06-26
 Hassan13,RS09000852,93598,RT,2008-06-01,A,Plasma,Dideoxy,KEN,HQ441597,FALSE,2012-06-26
 Hassan13,RS09000853,93599,PR,2008-06-01,D,Plasma,Dideoxy,KEN,HQ441598,FALSE,2012-06-26

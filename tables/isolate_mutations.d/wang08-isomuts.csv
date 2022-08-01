@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wang08,CYM001,PR,PR:T12S,12,S,0
 Wang08,CYM001,PR,PR:I15V,15,V,0
 Wang08,CYM001,PR,PR:L19Q,19,Q,0

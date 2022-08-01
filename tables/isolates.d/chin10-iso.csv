@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chin10,C001,73596,PR,2005-04-14,B,Plasma,Dideoxy,CHN,GQ290693,FALSE,2010-05-03
 Chin10,C001,73596,RT,2005-04-14,B,Plasma,Dideoxy,CHN,GQ290693,FALSE,2010-05-03
 Chin10,C002,73597,PR,2005-04-20,B,Plasma,Dideoxy,CHN,GQ290694,FALSE,2010-05-03

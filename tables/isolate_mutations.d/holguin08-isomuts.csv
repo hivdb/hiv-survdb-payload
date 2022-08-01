@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Holguin08,05SP23-00276637,PR,PR:T12Q,12,Q,0
 Holguin08,05SP23-00276637,PR,PR:I15V,15,V,0
 Holguin08,05SP23-00276637,PR,PR:Q18L,18,L,0

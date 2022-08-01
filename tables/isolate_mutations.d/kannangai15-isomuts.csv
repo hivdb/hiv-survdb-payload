@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Kannangai15,101028,PR,PR:T12P,12,P,0
 Kannangai15,101028,PR,PR:K14R,14,R,0
 Kannangai15,101028,PR,PR:I15V,15,V,0

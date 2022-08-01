@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Balode10,S2009,PR,PR:N37Y,37,Y,0
 Balode10,S2009,PR,PR:P39T,39,T,1
 Balode10,S2009,PR,PR:R41K,41,K,1

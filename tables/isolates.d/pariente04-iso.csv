@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Pariente04,pt4,107538,PR,2003-01-01,B,PBMC,Dideoxy,ESP,AY315946,FALSE,2013-03-19
 Pariente04,pt4,107538,RT,2003-01-01,B,PBMC,Dideoxy,ESP,AY315946,FALSE,2013-03-19
 Pariente04,pt5,107539,PR,2003-01-01,B,PBMC,Dideoxy,ESP,AY315952,FALSE,2013-03-19

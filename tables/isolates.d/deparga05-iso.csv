@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 deParga05,55-4-68-206,41660,PR,2003-01-01,A,Plasma,Dideoxy,RUS,EU345598,FALSE,2008-02-21
 deParga05,55-4-68-206,41660,RT,2003-01-01,A,Plasma,Dideoxy,RUS,EU345598,FALSE,2008-02-21
 deParga05,85-1-9-23,41661,PR,2003-01-01,A,Plasma,Dideoxy,RUS,EU345599,FALSE,2008-02-21

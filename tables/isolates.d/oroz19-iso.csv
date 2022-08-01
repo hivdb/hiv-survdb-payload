@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Oroz19,CRO1018,268826,PR,2017-06-01,B,Plasma,Dideoxy,HRV,MN163623,FALSE,2020-02-20
 Oroz19,CRO1018,268826,RT,2017-06-01,B,Plasma,Dideoxy,HRV,MN163623,FALSE,2020-02-20
 Oroz19,CRO1019,268845,PR,2014-06-01,B,Plasma,Dideoxy,HRV,MN163624,FALSE,2020-02-20

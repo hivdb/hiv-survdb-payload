@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Su11,GXBY0040,85133,PR,2008-06-01,C,Plasma,Dideoxy,CHN,HQ588296,FALSE,2011-10-28
 Su11,GXBY0040,85133,RT,2008-06-01,CRF08_BC,Plasma,Dideoxy,CHN,HQ588296,FALSE,2011-10-28
 Su11,GXBY2058,85098,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,CHN,HQ588261,FALSE,2011-10-28

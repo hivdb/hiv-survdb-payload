@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hawke13,1040039 H,105373,PR,2003-06-01,B,Plasma,Dideoxy,AUS,KC237881,FALSE,2013-03-05
 Hawke13,1040039 H,105373,RT,2003-06-01,B,Plasma,Dideoxy,AUS,KC237881,FALSE,2013-03-05
 Hawke13,1100533 H,105374,PR,2003-06-01,B,Plasma,Dideoxy,AUS,KC237882,FALSE,2013-03-05

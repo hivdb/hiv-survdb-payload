@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Dalai09,0015B,62943,RT,1991-06-01,C,Plasma,Dideoxy,ZWE,GQ463346,FALSE,2009-10-05
 Dalai09,017SG,62944,RT,1991-06-01,C,Plasma,Dideoxy,ZWE,GQ463347,FALSE,2009-10-05
 Dalai09,0026T,62945,RT,1991-06-01,C,Plasma,Dideoxy,ZWE,GQ463348,FALSE,2009-10-05

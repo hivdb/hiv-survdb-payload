@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Alencar13,MG2-0003,111160,PR,2009-01-01,F,Plasma,Dideoxy,BRA,JQ237976,FALSE,2013-04-03
 Alencar13,MG2-0003,111160,RT,2009-01-01,F,Plasma,Dideoxy,BRA,JQ237976,FALSE,2013-04-03
 Alencar13,MG2-0004,111164,PR,2009-01-01,B,Plasma,Dideoxy,BRA,JQ237980,FALSE,2013-04-03

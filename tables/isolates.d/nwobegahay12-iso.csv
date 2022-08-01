@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Nwobegahay12,BBCR01ZA,73146,RT,2008-06-01,C,Plasma,Dideoxy,ZAF,GU177550,FALSE,2010-04-15
 Nwobegahay12,BBCR04ZA,73147,PR,2008-06-01,C,Plasma,Dideoxy,ZAF,GU177467,FALSE,2010-04-15
 Nwobegahay12,BBCR04ZA,73147,RT,2008-06-01,C,Plasma,Dideoxy,ZAF,GU177551,FALSE,2010-04-15

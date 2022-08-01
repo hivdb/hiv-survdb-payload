@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wu13,AQP118,PR,PR:K20R,20,R,0
 Wu13,AQP118,PR,PR:E35D,35,D,0
 Wu13,AQP118,PR,PR:M36I,36,I,0

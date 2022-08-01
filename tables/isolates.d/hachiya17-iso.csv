@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hachiya17,A13-2010160,213555,PR,2013-06-01,B,Plasma,Dideoxy,JPN,LC161640,FALSE,2018-01-25
 Hachiya17,A13-2010160,213555,RT,2013-06-01,B,Plasma,Dideoxy,JPN,LC161640,FALSE,2018-01-25
 Hachiya17,A13-2010160,213555,IN,2013-06-01,B,Plasma,Dideoxy,JPN,LC160349,FALSE,2018-01-25

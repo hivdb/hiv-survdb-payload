@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bao14,HN-1,PR,PR:E35D,35,D,0
 Bao14,HN-1,PR,PR:L63P,63,P,0
 Bao14,HN-1,PR,PR:A71T,71,T,0

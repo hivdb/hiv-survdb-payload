@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Rhee15,CA14343,PR,PR:M36I,36,I,0
 Rhee15,CA14343,PR,PR:I64V,64,V,1
 Rhee15,CA14343,PR,PR:H69Y,69,Y,1

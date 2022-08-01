@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Guimaraes15b,RDSBA056,154059,PR,2009-06-01,B,Dried Blood Spot,Dideoxy,BRA,KT355891,FALSE,2016-04-26
 Guimaraes15b,RDSBA056,154059,RT,2009-06-01,B,Dried Blood Spot,Dideoxy,BRA,KT355891,FALSE,2016-04-26
 Guimaraes15b,RDSBA086,154055,PR,2009-06-01,F,Dried Blood Spot,Dideoxy,BRA,KT355892,FALSE,2016-04-26

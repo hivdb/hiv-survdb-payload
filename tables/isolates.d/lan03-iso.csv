@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lan03,NTHvr3,16700,PR,2001-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AY238157,FALSE,2003-11-04
 Lan03,NTHvr3,16700,RT,2001-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AY237961,FALSE,2003-11-04
 Lan03,NTHvr4,16709,RT,2001-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AY237962,FALSE,2003-11-04

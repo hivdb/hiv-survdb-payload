@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gulick04,RG1,PR,PR:R41K,41,K,0
 Gulick04,RG1,PR,PR:D60E,60,E,1
 Gulick04,RG1,PR,PR:L63H,63,H,1

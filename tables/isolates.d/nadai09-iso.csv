@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Nadai09,18920,106118,PR,2001-06-01,B,Plasma,Dideoxy,JAM,EU439773,FALSE,2013-03-08
 Nadai09,18920,106118,RT,2001-06-01,B,Plasma,Dideoxy,JAM,EU439773,FALSE,2013-03-08
 Nadai09,22731,106119,PR,2001-06-01,B,Plasma,Dideoxy,JAM,EU439774,FALSE,2013-03-08

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ferreira11,BRMT1000,PR,PR:T12N,12,N,0
 Ferreira11,BRMT1000,PR,PR:I13V,13,V,0
 Ferreira11,BRMT1000,PR,PR:I15V,15,V,0

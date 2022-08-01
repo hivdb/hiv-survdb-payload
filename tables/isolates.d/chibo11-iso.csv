@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chibo11,S1,84779,PR,2008-01-01,B,Plasma,Dideoxy,AUS,JF895188,FALSE,2011-10-28
 Chibo11,S1,84779,RT,2008-01-01,B,Plasma,Dideoxy,AUS,JF895188,FALSE,2011-10-28
 Chibo11,S2,84780,PR,2008-01-01,B,Plasma,Dideoxy,AUS,JF895189,FALSE,2011-10-28

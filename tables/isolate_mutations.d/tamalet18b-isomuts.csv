@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tamalet18b,PTrt_2013_002,RT,RT:K49R,49,R,0
 Tamalet18b,PTrt_2013_002,RT,RT:K104Q,104,Q,0
 Tamalet18b,PTrt_2013_002,RT,RT:V106I,106,I,0

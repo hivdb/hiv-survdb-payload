@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Carvalho15,1,147457,PR,2008-06-01,G,Plasma,Dideoxy,PRT,KM206077,FALSE,2015-10-30
 Carvalho15,1,147457,RT,2008-06-01,G,Plasma,Dideoxy,PRT,KM206077,FALSE,2015-10-30
 Carvalho15,2,147497,PR,2008-06-01,B,Plasma,Dideoxy,PRT,KM206076,FALSE,2015-10-30

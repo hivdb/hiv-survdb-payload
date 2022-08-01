@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Mbange18,200B,262327,PR,2015-01-19,CRF02_AG,Plasma,Dideoxy,SEN,LT976712,FALSE,2019-09-04
 Mbange18,200B,262327,RT,2015-01-19,CRF02_AG,Plasma,Dideoxy,SEN,LT976712,FALSE,2019-09-04
 Mbange18,201B,262326,RT,2015-01-19,C,Plasma,Dideoxy,SEN,LT976780,FALSE,2019-09-04

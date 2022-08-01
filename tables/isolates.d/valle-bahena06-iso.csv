@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Valle-Bahena06,RT-05,29976,PR,2002-01-01,B,Plasma,Dideoxy,MEX,AY812748,FALSE,2006-10-25
 Valle-Bahena06,RT-05,29976,RT,2002-01-01,B,Plasma,Dideoxy,MEX,AY812748,FALSE,2006-10-25
 Valle-Bahena06,RT-07,29977,PR,2002-01-01,B,Plasma,Dideoxy,MEX,AY812749,FALSE,2006-10-25

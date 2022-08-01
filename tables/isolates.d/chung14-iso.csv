@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chung14,144M6_OTV59,136484,RT,2006-06-01,A,Plasma,Dideoxy,KEN,KF544132,FALSE,2014-09-16
 Chung14,149M18_NZK54,136453,RT,2007-06-01,A,Plasma,Dideoxy,KEN,KF544279,FALSE,2014-09-16
 Chung14,169M6_NZK50,136467,RT,2007-06-01,A,Plasma,Dideoxy,KEN,KF544280,FALSE,2014-09-16

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Fujisaki09,8,58340,PR,1997-01-01,B,Plasma,Dideoxy,JPN,AB442228,FALSE,2009-05-18
 Fujisaki09,8,58340,RT,1997-01-01,B,Plasma,Dideoxy,JPN,AB442228,FALSE,2009-05-18
 Fujisaki09,15,58341,PR,1997-01-01,B,Plasma,Dideoxy,JPN,AB442229,FALSE,2009-05-18

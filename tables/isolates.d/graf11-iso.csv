@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Graf11,SC01,84070,PR,2008-06-01,C,PBMC,Dideoxy,BRA,JF773981,FALSE,2011-09-15
 Graf11,SC01,84070,RT,2008-06-01,C,PBMC,Dideoxy,BRA,JF773981,FALSE,2011-09-15
 Graf11,SC01,84070,IN,2008-06-01,C,PBMC,Dideoxy,BRA,JF773818,FALSE,2011-09-15

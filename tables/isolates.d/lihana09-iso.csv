@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lihana09,CCP-001,166771,RT,2005-01-05,A,PBMC,Dideoxy,KEN,FJ865365,FALSE,2016-10-05
 Lihana09,CCP-002,166777,RT,2005-01-05,A,PBMC,Dideoxy,KEN,FJ865364,FALSE,2016-10-05
 Lihana09,CCP-003,166808,RT,2005-01-05,A,PBMC,Dideoxy,KEN,FJ865378,TRUE,2016-10-05

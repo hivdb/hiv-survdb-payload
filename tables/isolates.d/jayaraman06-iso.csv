@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Jayaraman06,1-00-0002,67575,PR,2000-01-01,B,Plasma,Dideoxy,CAN,NULL,FALSE,2009-12-01
 Jayaraman06,1-00-0002,67575,RT,2000-01-01,B,Plasma,Dideoxy,CAN,NULL,FALSE,2009-12-01
 Jayaraman06,1-00-0003,67576,PR,2000-01-01,B,Plasma,Dideoxy,CAN,NULL,FALSE,2009-12-01

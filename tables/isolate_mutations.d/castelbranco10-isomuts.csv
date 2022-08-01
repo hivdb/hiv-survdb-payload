@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Castelbranco10,090002A,PR,PR:L5P,5,P,1
 Castelbranco10,090002A,PR,PR:W6L,6,L,0
 Castelbranco10,090002A,PR,PR:L10I,10,I,0

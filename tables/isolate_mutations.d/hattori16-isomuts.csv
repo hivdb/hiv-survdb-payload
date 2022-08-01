@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Hattori16,A05_1024,PR,PR:I15V,15,V,0
 Hattori16,A05_1024,PR,PR:N37S,37,S,0
 Hattori16,A05_1024,PR,PR:R41K,41,K,0

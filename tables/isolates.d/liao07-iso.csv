@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Liao07,SC0032,38330,PR,2003-06-01,B,Plasma,Dideoxy,CHN,EF432325,FALSE,2007-10-08
 Liao07,SC0032,38330,RT,2003-06-01,CRF07_BC,Plasma,Dideoxy,CHN,EF432350,FALSE,2007-10-08
 Liao07,SC0313,38329,PR,2003-06-01,B,Plasma,Dideoxy,CHN,EF432324,FALSE,2007-10-08

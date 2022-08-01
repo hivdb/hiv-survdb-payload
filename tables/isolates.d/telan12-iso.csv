@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Telan12,100108,101886,PR,2010-06-01,B,Plasma,Dideoxy,PHL,AB747390,FALSE,2012-11-28
 Telan12,100108,101886,RT,2010-06-01,B,Plasma,Dideoxy,PHL,AB747390,FALSE,2012-11-28
 Telan12,100109,101887,PR,2010-06-01,B,Plasma,Dideoxy,PHL,AB747391,FALSE,2012-11-28

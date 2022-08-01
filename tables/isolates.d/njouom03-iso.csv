@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Njouom03,01rev,15862,RT,2001-10-18,CRF02_AG,Plasma,Dideoxy,CMR,AY204349,FALSE,2003-06-30
 Njouom03,02rev,15861,RT,2001-10-18,CRF02_AG,Plasma,Dideoxy,CMR,AY204348,FALSE,2003-06-30
 Njouom03,03rev,15860,RT,2001-10-18,F,Plasma,Dideoxy,CMR,AY204347,FALSE,2003-06-30

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Tovanabutra04,01THOUR700I,PR,PR:D30N,30,N
 Tovanabutra04,01THOUR700I,PR,PR:G73S,73,S
 Tovanabutra04,02THOUR658I,PR,PR:M46I,46,I

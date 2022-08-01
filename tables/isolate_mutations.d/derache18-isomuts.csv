@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Derache18,PT10014,PR,PR:T12S,12,S,0
 Derache18,PT10014,PR,PR:I15V,15,V,0
 Derache18,PT10014,PR,PR:L19I,19,I,0

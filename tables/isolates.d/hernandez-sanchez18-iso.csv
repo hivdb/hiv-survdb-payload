@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hernandez-Sanchez18,MX-HIV-050,242919,PR,2010-11-22,B,PBMC,Dideoxy,MEX,KT869061,FALSE,2019-03-18
 Hernandez-Sanchez18,MX-HIV-050,242919,RT,2010-11-22,B,PBMC,Dideoxy,MEX,KT869061,FALSE,2019-03-18
 Hernandez-Sanchez18,MX-HIV-050,242919,IN,2010-11-22,B,PBMC,Dideoxy,MEX,KT869061,FALSE,2019-03-18

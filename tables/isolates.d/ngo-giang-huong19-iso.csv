@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ngo-Giang-Huong19,TH-PDR-1-001,243450,PR,2016-11-30,CRF01_AE,Plasma,Dideoxy,THA,MH623778,FALSE,2019-03-20
 Ngo-Giang-Huong19,TH-PDR-1-001,243450,RT,2016-11-30,CRF01_AE,Plasma,Dideoxy,THA,MH623778,FALSE,2019-03-20
 Ngo-Giang-Huong19,TH-PDR-1-002,243449,PR,2016-11-30,CRF01_AE,Plasma,Dideoxy,THA,MH623779,FALSE,2019-03-20

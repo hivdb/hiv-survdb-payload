@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bartolo09,CSE116,63178,PR,2001-06-01,F,Plasma,Dideoxy,AGO,EU068199,FALSE,2009-10-06
 Bartolo09,CSE116,63178,RT,2001-06-01,C,Plasma,Dideoxy,AGO,EU068342,FALSE,2009-10-06
 Bartolo09,CSE117,63179,PR,2001-06-01,CRF45_cpx,Plasma,Dideoxy,AGO,EU068200,FALSE,2009-10-06

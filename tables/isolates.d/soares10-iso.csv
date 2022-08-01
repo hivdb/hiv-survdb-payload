@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Soares10,CM02_014,75451,PR,2002-10-05,CRF02_AG,Plasma,Dideoxy,CMR,GU366105,FALSE,2010-08-19
 Soares10,CM02_014,75451,RT,2002-10-05,CRF02_AG,Plasma,Dideoxy,CMR,GU366105,FALSE,2010-08-19
 Soares10,CM02_016,75500,RT,2002-10-05,CRF02_AG,Plasma,Dideoxy,CMR,GU366154,FALSE,2010-08-19

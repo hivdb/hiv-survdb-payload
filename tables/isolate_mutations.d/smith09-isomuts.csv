@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Smith09,CR1,PR,PR:L10I,10,I,0
 Smith09,CR1,PR,PR:T12K,12,K,1
 Smith09,CR1,PR,PR:T12R,12,R,1

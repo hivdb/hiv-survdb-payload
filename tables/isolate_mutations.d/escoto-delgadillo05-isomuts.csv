@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Escoto-Delgadillo05,1,RT,RT:D123E,123,E,0
 Escoto-Delgadillo05,1,RT,RT:I178M,178,M,0
 Escoto-Delgadillo05,1,RT,RT:Q207E,207,E,0

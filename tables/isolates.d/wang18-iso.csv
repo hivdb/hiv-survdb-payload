@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wang18,SJZ14001,228545,PR,2014-06-01,B,Plasma,Dideoxy,CHN,MG706449,FALSE,2018-12-18
 Wang18,SJZ14001,228545,RT,2014-06-01,B,Plasma,Dideoxy,CHN,MG706449,FALSE,2018-12-18
 Wang18,SJZ14002,228544,PR,2014-06-01,B + C,Plasma,Dideoxy,CHN,MG706450,FALSE,2018-12-18

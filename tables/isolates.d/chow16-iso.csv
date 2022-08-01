@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chow16,MYNBB005,174016,PR,2013-05-02,CRF01_AE,Plasma,Dideoxy,MYS,KU535900,FALSE,2016-12-06
 Chow16,MYNBB005,174016,RT,2013-05-02,CRF01_AE,Plasma,Dideoxy,MYS,KU535900,FALSE,2016-12-06
 Chow16,MYNBB006,174064,PR,2013-05-02,B,Plasma,Dideoxy,MYS,KU535901,FALSE,2016-12-06

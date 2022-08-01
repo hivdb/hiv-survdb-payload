@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vidal06,NV_KBS154,27078,PR,2002-06-01,F,PBMC,Dideoxy,COD,AM041021,FALSE,2006-04-17
 Vidal06,NV_KBS154,27078,RT,2002-06-01,F,PBMC,Dideoxy,COD,AM041021,FALSE,2006-04-17
 Vidal06,NV_KBS187,27079,PR,2002-06-01,A,PBMC,Dideoxy,COD,AM041032,FALSE,2006-04-17

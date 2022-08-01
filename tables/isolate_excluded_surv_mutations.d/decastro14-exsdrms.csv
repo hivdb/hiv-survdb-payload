@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 deCastro14,05BRRJRS61,RT,RT:K219E,219,E
 deCastro14,05BRRJRS61,RT,RT:K219Q,219,Q
 deCastro14,06BRRJRS140,RT,RT:T215C,215,C

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yebra10,13844,72684,PR,2003-06-01,G,Plasma,Dideoxy,ESP,FJ481685,FALSE,2010-04-09
 Yebra10,13844,72684,RT,2003-06-01,G,Plasma,Dideoxy,ESP,FJ481685,TRUE,2010-04-09
 Yebra10,19425,72716,PR,2001-06-01,B,Plasma,Dideoxy,ESP,FJ481717,FALSE,2010-04-09

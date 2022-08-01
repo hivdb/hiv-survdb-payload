@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lu15,BD213007,147665,PR,2013-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KR604970,FALSE,2015-10-30
 Lu15,BD213007,147665,RT,2013-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KR604970,FALSE,2015-10-30
 Lu15,BD213011,147681,PR,2013-06-01,B,Plasma,Dideoxy,CHN,KR604973,FALSE,2015-10-30

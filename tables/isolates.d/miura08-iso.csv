@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Miura08,BEC1,106630,PR,2002-06-01,B,Plasma,Dideoxy,USA,EU517898,FALSE,2013-03-12
 Miura08,BEC1,106630,RT,2002-06-01,B,Plasma,Dideoxy,USA,EU517972,FALSE,2013-03-12
 Miura08,BEC1,106630,IN,2002-06-01,B,Plasma,Dideoxy,USA,EU517859,FALSE,2013-03-12

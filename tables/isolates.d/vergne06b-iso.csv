@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vergne06b,CK1-1,69301,PR,2002-06-01,A,Plasma,Dideoxy,CMR,GU207028,FALSE,2010-01-04
 Vergne06b,CK1-1,69301,RT,2002-06-01,A,Plasma,Dideoxy,CMR,GU207028,FALSE,2010-01-04
 Vergne06b,CK1-3,69302,PR,2002-06-01,CRF02_AG,Plasma,Dideoxy,CMR,GU207029,FALSE,2010-01-04

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vubil16,NP001,216845,PR,2010-06-01,D,Plasma,Dideoxy,MOZ,KT729409,FALSE,2018-01-30
 Vubil16,NP001,216845,RT,2010-06-01,D,Plasma,Dideoxy,MOZ,KT729409,FALSE,2018-01-30
 Vubil16,NP004,216846,PR,2010-06-01,C,Plasma,Dideoxy,MOZ,KT729410,FALSE,2018-01-30

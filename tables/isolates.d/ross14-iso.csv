@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ross14,1,179457,PR,2007-03-14,B,Plasma,Dideoxy,USA,KF262464,FALSE,2017-03-09
 Ross14,1,179457,RT,2007-03-14,B,Plasma,Dideoxy,USA,KF262464,FALSE,2017-03-09
 Ross14,2,179521,PR,2007-03-14,B,Plasma,Dideoxy,USA,KF262465,FALSE,2017-03-09

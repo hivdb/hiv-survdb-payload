@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 daSilveira12,BRMS01,102656,PR,2008-06-01,C,Plasma,Dideoxy,BRA,JF342273,FALSE,2013-02-11
 daSilveira12,BRMS01,102656,RT,2008-06-01,C,Plasma,Dideoxy,BRA,JF342273,FALSE,2013-02-11
 daSilveira12,BRMS01_10,102695,PR,2010-06-01,B,Plasma,Dideoxy,BRA,JF342312,FALSE,2013-02-11

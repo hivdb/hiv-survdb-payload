@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zeng12,CN0031,PR,PR:E35D,35,D,0
 Zeng12,CN0031,PR,PR:M36I,36,I,0
 Zeng12,CN0031,PR,PR:R41K,41,K,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Heipertz13,306019_RT,120021,PR,2005-06-01,B,Plasma,Dideoxy,USA,JX863925,FALSE,2013-11-20
 Heipertz13,306019_RT,120021,RT,2005-06-01,B,Plasma,Dideoxy,USA,JX863925,FALSE,2013-11-20
 Heipertz13,306026_RT,120037,PR,2005-06-01,B,Plasma,Dideoxy,USA,JX863926,FALSE,2013-11-20

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ciccozzi05,MC_AY611648,29907,PR,2004-01-01,D,Plasma,Dideoxy,ALB,AY611648,FALSE,2006-10-24
 Ciccozzi05,MC_AY611648,29907,RT,2004-01-01,D,Plasma,Dideoxy,ALB,AY611648,FALSE,2006-10-24
 Ciccozzi05,MC_AY611649,29908,PR,2004-01-01,C,Plasma,Dideoxy,ALB,AY611649,FALSE,2006-10-24

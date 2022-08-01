@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Vergne00,95cm-mp255,PR,PR:T12A,12,A,0
 Vergne00,95cm-mp255,PR,PR:K14R,14,R,0
 Vergne00,95cm-mp255,PR,PR:I15V,15,V,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li15b,31_BC.04BR142,149532,PR,2009-06-01,C,Plasma,Dideoxy,CHN,KP235107,FALSE,2015-12-02
 Li15b,31_BC.04BR142,149532,RT,2009-06-01,CRF31_BC,Plasma,Dideoxy,CHN,KP235107,FALSE,2015-12-02
 Li15b,31_BC.04BR142,149532,IN,2009-06-01,C,Plasma,Dideoxy,CHN,KP235107,FALSE,2015-12-02

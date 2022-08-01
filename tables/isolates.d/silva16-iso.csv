@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Silva16,AP001,151737,PR,2013-06-01,C,Plasma,Dideoxy,BRA,KT737274,FALSE,2016-04-14
 Silva16,AP001,151737,RT,2013-06-01,C,Plasma,Dideoxy,BRA,KT737274,FALSE,2016-04-14
 Silva16,AP002,151762,PR,2013-06-01,B,Plasma,Dideoxy,BRA,KT737275,FALSE,2016-04-14

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gonzalez-Domenech20,1016,PR,PR:K14R,14,R,0
 Gonzalez-Domenech20,1016,PR,PR:E35D,35,D,0
 Gonzalez-Domenech20,1016,PR,PR:R41K,41,K,0

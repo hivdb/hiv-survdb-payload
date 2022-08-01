@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gonzalez10,137_M36m,98867,PR,2001-06-01,C,PBMC,Dideoxy,ZMB,GQ427115,FALSE,2012-09-18
 Gonzalez10,137_M36m,98867,RT,2001-06-01,C,PBMC,Dideoxy,ZMB,GQ427115,FALSE,2012-09-18
 Gonzalez10,341_M00m,98872,PR,1998-06-01,C,PBMC,Dideoxy,ZMB,GQ427122,FALSE,2012-09-18

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Jayaraman06,1-00-0025,PR,PR:D30N,30,N
 Jayaraman06,1-00-0030,PR,PR:D30N,30,N
 Jayaraman06,1-00-0030,PR,PR:V32I,32,I

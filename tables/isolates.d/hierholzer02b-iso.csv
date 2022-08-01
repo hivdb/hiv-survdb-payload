@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hierholzer02b,SU005,21429,PR,1999-01-01,D,PBMC,Dideoxy,SDN,AY102488,FALSE,2004-07-28
 Hierholzer02b,SU005,21429,RT,1999-01-01,D,PBMC,Dideoxy,SDN,AY102488,FALSE,2004-07-28
 Hierholzer02b,SU009,21432,PR,1999-01-01,C,PBMC,Dideoxy,SDN,AY102489,FALSE,2004-07-28

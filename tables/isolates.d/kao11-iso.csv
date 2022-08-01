@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kao11,Pat001,83498,PR,2009-10-26,B,Plasma,Dideoxy,TWN,HQ658039,FALSE,2011-09-08
 Kao11,Pat001,83498,RT,2009-10-26,B,Plasma,Dideoxy,TWN,HQ658039,FALSE,2011-09-08
 Kao11,Pat002,83497,PR,2009-10-22,B,Plasma,Dideoxy,TWN,HQ658038,FALSE,2011-09-08

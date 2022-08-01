@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vergne00,95cm-mp255,5787,PR,1995-01-01,F,PBMC,Dideoxy,CMR,AJ249236,FALSE,2001-11-12
 Vergne00,95cm-mp255,5787,RT,1995-01-01,F,PBMC,Dideoxy,CMR,AJ249236,FALSE,2001-11-12
 Vergne00,95cm-mp255,5787,IN,1995-01-01,F,PBMC,Dideoxy,CMR,AJ249236,FALSE,2011-01-23

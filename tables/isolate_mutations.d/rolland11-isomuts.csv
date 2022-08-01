@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Rolland11,0006,PR,PR:T12N,12,N,0
 Rolland11,0006,PR,PR:E35D,35,D,0
 Rolland11,0006,PR,PR:N37H,37,H,0

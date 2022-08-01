@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Perno01,PCF_Pat183,RT,RT:K219N,219,N
 Perno01,PCF_Pat183,RT,RT:K219Q,219,Q
 Perno01,PCF_Pat25,RT,RT:F77L,77,L

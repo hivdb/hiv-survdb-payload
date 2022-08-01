@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Cuevas09,X2454_1,70212,PR,2008-08-01,B,Plasma,Dideoxy,ESP,GU326099,FALSE,2010-01-19
 Cuevas09,X2454_1,70212,RT,2008-08-01,B,Plasma,Dideoxy,ESP,GU326099,FALSE,2010-01-19
 Cuevas09,X2456_1,70213,PR,2008-08-01,G,Plasma,Dideoxy,ESP,GU326100,FALSE,2010-01-19

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Duque02,dn01,RT,RT:T39E,39,E,0
 Duque02,dn01,RT,RT:S48T,48,T,0
 Duque02,dn01,RT,RT:K122V,122,V,0

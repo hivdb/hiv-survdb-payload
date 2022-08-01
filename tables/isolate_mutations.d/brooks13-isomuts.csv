@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Brooks13,CAN2013-001,PR,PR:I15V,15,V,0
 Brooks13,CAN2013-002,PR,PR:L10I,10,I,1
 Brooks13,CAN2013-002,PR,PR:I13V,13,V,0

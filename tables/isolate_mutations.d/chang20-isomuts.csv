@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chang20,MSM20181080,PR,PR:Q18E,18,E,0
 Chang20,MSM20181080,PR,PR:E35D,35,D,0
 Chang20,MSM20181080,PR,PR:R41K,41,K,0

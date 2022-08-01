@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Parreira06,PG1,PR,PR:Q2R,2,R,0
 Parreira06,PG1,PR,PR:T12S,12,S,0
 Parreira06,PG1,PR,PR:I15V,15,V,0

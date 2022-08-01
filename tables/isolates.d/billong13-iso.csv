@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Billong13,MR001,122219,PR,2009-06-01,D,Plasma,Dideoxy,CMR,KF192112,FALSE,2014-01-23
 Billong13,MR001,122219,RT,2009-06-01,D,Plasma,Dideoxy,CMR,KF192112,FALSE,2014-01-23
 Billong13,MR002,122295,PR,2009-06-01,CRF02_AG,Plasma,Dideoxy,CMR,KF192123,FALSE,2014-01-23

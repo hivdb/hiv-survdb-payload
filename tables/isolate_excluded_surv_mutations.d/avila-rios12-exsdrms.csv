@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Avila-Rios12,GE00M6C0RT,PR,PR:M46I,46,I
 Avila-Rios12,J200MB4KVA,PR,PR:L24I,24,I
 Avila-Rios12,CERUFH0RSD,RT,RT:T69D,69,D

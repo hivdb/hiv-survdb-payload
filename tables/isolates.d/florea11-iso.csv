@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Florea11,100_2008,107473,PR,2008-06-01,F,Plasma,Dideoxy,ROU,JQ083013,FALSE,2013-03-19
 Florea11,100_2008,107473,RT,2008-06-01,F,Plasma,Dideoxy,ROU,JQ083013,FALSE,2013-03-19
 Florea11,102_2008,107474,PR,2008-06-01,F,Plasma,Dideoxy,ROU,JQ083014,FALSE,2013-03-19

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ariffin14,MYKE413,197511,PR,2012-01-02,CRF33_01B,Plasma,Dideoxy,MYS,KC762591,FALSE,2017-06-02
 Ariffin14,MYKE413,197511,RT,2012-01-02,CRF01_AE,Plasma,Dideoxy,MYS,KC762591,FALSE,2017-06-02
 Ariffin14,MYKE423,197510,PR,2012-01-02,B,Plasma,Dideoxy,MYS,KC762592,FALSE,2017-06-02

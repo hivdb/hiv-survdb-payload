@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Carvalho11,O01-43,80742,PR,2008-06-01,B,Plasma,Dideoxy,BRA,GU214066,FALSE,2011-06-13
 Carvalho11,O01-43,80742,RT,2008-06-01,F,Plasma,Dideoxy,BRA,GU214066,FALSE,2011-06-13
 Carvalho11,O01-83,80758,PR,2008-06-01,B,Plasma,Dideoxy,BRA,GU214082,FALSE,2011-06-13

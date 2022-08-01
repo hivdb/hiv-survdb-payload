@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bracho14,01150434,191477,PR,2004-06-01,CRF02_AG,Plasma,Dideoxy,ESP,HF567872,FALSE,2017-04-03
 Bracho14,01150434,191477,RT,2004-06-01,CRF02_AG,Plasma,Dideoxy,ESP,HF567872,FALSE,2017-04-03
 Bracho14,04133825,191512,PR,2009-06-01,CRF02_AG,Plasma,Dideoxy,ESP,HF567895,FALSE,2017-04-03

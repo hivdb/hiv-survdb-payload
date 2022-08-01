@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Handema02,H00ZM4719,13991,PR,2000-06-01,C,PBMC,Dideoxy,ZMB,AB081163,FALSE,2002-12-16
 Handema02,H00ZM4719,13991,RT,2000-06-01,C,PBMC,Dideoxy,ZMB,AB081176,FALSE,2002-12-16
 Handema02,H00ZM4720,13989,PR,2000-06-01,C,PBMC,Dideoxy,ZMB,AB081152,FALSE,2002-12-16

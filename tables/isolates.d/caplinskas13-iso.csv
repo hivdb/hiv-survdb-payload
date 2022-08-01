@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Caplinskas13,1307,151369,PR,2008-06-01,A,Plasma,Dideoxy,LTU,JX946627,FALSE,2016-04-05
 Caplinskas13,1307,151369,RT,2008-06-01,CRF03_AB,Plasma,Dideoxy,LTU,JX946627,FALSE,2016-04-05
 Caplinskas13,1313,151371,PR,2008-06-01,A,Plasma,Dideoxy,LTU,JX946628,FALSE,2016-04-05

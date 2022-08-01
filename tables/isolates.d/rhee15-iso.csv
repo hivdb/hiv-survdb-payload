@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Rhee15,CA6013,6013,PR,2006-07-19,B,Plasma,Dideoxy,USA,GQ212366,FALSE,2006-11-27
 Rhee15,CA6013,6013,RT,2006-07-19,B,Plasma,Dideoxy,USA,GQ212367,FALSE,2006-11-27
 Rhee15,CA8469,8469,PR,2003-11-14,B,Plasma,Dideoxy,USA,GQ207526,FALSE,2004-01-28

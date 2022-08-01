@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Machado02,122,61291,PR,1995-06-01,B,PBMC,Dideoxy,USA,AF373714,FALSE,2009-08-17
 Machado02,122,61291,RT,1995-06-01,B,PBMC,Dideoxy,USA,AF373714,FALSE,2009-08-17
 Machado02,141,61292,PR,1995-06-01,B,PBMC,Dideoxy,USA,AF373715,FALSE,2009-08-17

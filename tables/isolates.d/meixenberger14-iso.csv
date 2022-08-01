@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Meixenberger14,00-00005,138888,PR,2000-06-01,B,Plasma,Dideoxy,DEU,KJ769682,FALSE,2014-10-11
 Meixenberger14,00-00005,138888,RT,2000-06-01,B,Plasma,Dideoxy,DEU,KJ769682,FALSE,2014-10-11
 Meixenberger14,00-00014,137347,PR,2000-06-01,B,Plasma,Dideoxy,DEU,KJ769683,FALSE,2014-10-11

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zhao16,11B-D27-P27,181692,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KT378643,FALSE,2017-03-09
 Zhao16,11B-D27-P27,181692,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KT378643,FALSE,2017-03-09
 Zhao16,19M,182059,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KT378649,FALSE,2017-03-09

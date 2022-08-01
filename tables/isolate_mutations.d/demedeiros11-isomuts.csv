@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 deMedeiros11,Pat001,PR,PR:G17D,17,D,0
 deMedeiros11,Pat001,PR,PR:E35D,35,D,0
 deMedeiros11,Pat001,PR,PR:D60E,60,E,0

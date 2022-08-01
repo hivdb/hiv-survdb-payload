@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Jorgensen03,JLB_Pat1,18157,PR,2000-06-01,B,Plasma,Dideoxy,DNK,AJ419427,FALSE,2004-02-18
 Jorgensen03,JLB_Pat1,18157,RT,2000-06-01,B,Plasma,Dideoxy,DNK,AJ419427,FALSE,2004-02-18
 Jorgensen03,JLB_Pat2,18158,PR,2000-06-01,B,Plasma,Dideoxy,DNK,AJ419428,FALSE,2004-02-18

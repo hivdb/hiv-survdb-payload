@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hanke20,12-01623,297023,PR,2012-04-27,C,Plasma,Dideoxy,DEU,MN658942,FALSE,2021-05-12
 Hanke20,12-01623,297023,RT,2012-04-27,C,Plasma,Dideoxy,DEU,MN658942,FALSE,2021-05-12
 Hanke20,13-01544,297024,PR,2013-03-20,C,Plasma,Dideoxy,DEU,MN658943,FALSE,2021-05-12

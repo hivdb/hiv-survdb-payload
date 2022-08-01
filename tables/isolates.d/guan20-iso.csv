@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Guan20,EP003,296835,RT,2018-06-01,C,PBMC,Dideoxy,CHN,MN966221,FALSE,2021-05-12
 Guan20,EP004,296836,RT,2018-06-01,CRF07_BC,PBMC,Dideoxy,CHN,MN966222,TRUE,2021-05-12
 Guan20,EP005,296837,RT,2018-06-01,CRF01_AE,PBMC,Dideoxy,CHN,MN966223,FALSE,2021-05-12

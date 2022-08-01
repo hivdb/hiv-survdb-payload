@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Nadai09,107732,PR,PR:R41K,41,K,0
 Nadai09,107732,PR,PR:L63P,63,P,0
 Nadai09,107732,PR,PR:E65D,65,D,0

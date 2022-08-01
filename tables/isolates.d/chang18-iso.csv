@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chang18,2543075P000FL_Sa,239879,PR,2014-06-01,A,Plasma,Dideoxy,THA,MG989490,FALSE,2019-03-08
 Chang18,2543075P000FL_Sa,239879,RT,2014-06-01,A,Plasma,Dideoxy,THA,MG989490,FALSE,2019-03-08
 Chang18,2543075P000FL_Sa,239879,IN,2014-06-01,A,Plasma,Dideoxy,THA,MG989490,FALSE,2019-03-08

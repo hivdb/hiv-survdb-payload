@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Silva20,Y04,291758,PR,2014-03-13,F,Plasma,Dideoxy,BRA,MN509088,FALSE,2020-11-17
 Silva20,Y04,291758,RT,2014-03-13,F,Plasma,Dideoxy,BRA,MN509088,FALSE,2020-11-17
 Silva20,Y05,291759,PR,2014-03-13,B,Plasma,Dideoxy,BRA,MN509089,FALSE,2020-11-17

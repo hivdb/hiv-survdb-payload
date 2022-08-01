@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Avila-Rios12,B000F85PS1,99857,PR,2008-06-06,B,Plasma,Dideoxy,MEX,KC168107,FALSE,2012-11-21
 Avila-Rios12,B000F85PS1,99857,RT,2008-06-06,B,Plasma,Dideoxy,MEX,KC168107,FALSE,2012-11-21
 Avila-Rios12,B000FD0JS2,99858,PR,2008-04-18,B,Plasma,Dideoxy,MEX,KC168108,FALSE,2012-11-21

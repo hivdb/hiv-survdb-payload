@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Karlsson12,SE_5,91760,PR,2004-01-01,B,Plasma,Dideoxy,SWE,JQ698667,FALSE,2012-05-02
 Karlsson12,SE_5,91760,RT,2004-01-01,B,Plasma,Dideoxy,SWE,JQ698667,FALSE,2012-05-02
 Karlsson12,SE_6,91761,PR,2006-01-01,CRF01_AE,Plasma,Dideoxy,SWE,JQ698668,FALSE,2012-05-02

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kroon18,PT2543028,226635,PR,2012-06-01,CRF01_AE,Plasma,Dideoxy,THA,MG321756,FALSE,2018-12-17
 Kroon18,PT2543028,226635,RT,2012-06-01,CRF01_AE,Plasma,Dideoxy,THA,MG321756,FALSE,2018-12-17
 Kroon18,PT2543055,226484,PR,2014-06-01,CRF01_AE,Plasma,Dideoxy,THA,MG321907,FALSE,2018-12-17

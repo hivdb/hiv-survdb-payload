@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sucupira07,BRE_01_99,177731,PR,1999-06-01,C,PBMC,Dideoxy,BRA,DQ902947,FALSE,2017-02-08
 Sucupira07,BRE_01_99,177731,RT,1999-06-01,C,PBMC,Dideoxy,BRA,DQ903021,FALSE,2017-02-08
 Sucupira07,BRE_04_99,177712,PR,1999-06-01,B,PBMC,Dideoxy,BRA,DQ902948,FALSE,2017-02-08

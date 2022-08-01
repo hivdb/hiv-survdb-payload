@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yan15,SMS_VMB25,146591,PR,2012-06-01,B,Plasma,Dideoxy,CHN,KP418582,FALSE,2015-08-19
 Yan15,SMS_VMB25,146591,RT,2012-06-01,B,Plasma,Dideoxy,CHN,KP418582,FALSE,2015-08-19
 Yan15,SMS_VMB34,146583,PR,2012-06-01,B,Plasma,Dideoxy,CHN,KP418583,FALSE,2015-08-19

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ndembi08b,IAEAM003,45789,PR,2006-06-01,A,Plasma,Dideoxy,UGA,EU306745,FALSE,2008-06-23
 Ndembi08b,IAEAM003,45789,RT,2006-06-01,A,Plasma,Dideoxy,UGA,EU306745,FALSE,2008-06-23
 Ndembi08b,IAEAM004,45790,PR,2006-06-01,A,Plasma,Dideoxy,UGA,EU306746,FALSE,2008-06-23

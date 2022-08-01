@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chen16,PK001,218985,PR,2014-06-01,A,Plasma,Dideoxy,PAK,KX232594,FALSE,2018-02-01
 Chen16,PK001,218985,RT,2014-06-01,A,Plasma,Dideoxy,PAK,KX232594,FALSE,2018-02-01
 Chen16,PK001,218985,IN,2014-06-01,A,Plasma,Dideoxy,PAK,KX232594,FALSE,2018-02-01

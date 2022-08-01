@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wang15,03013,146521,PR,2003-06-01,B,Plasma,Dideoxy,CHN,KM395772,FALSE,2015-08-19
 Wang15,03013,146521,RT,2003-06-01,CRF07_BC,Plasma,Dideoxy,CHN,KM395772,FALSE,2015-08-19
 Wang15,03044,146510,PR,2003-06-01,C,Plasma,Dideoxy,CHN,KM395778,FALSE,2015-08-19

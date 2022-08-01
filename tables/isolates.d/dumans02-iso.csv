@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Dumans02,AD-01,15455,PR,1998-06-01,B,Plasma,Dideoxy,BRA,AF413820,FALSE,2003-06-11
 Dumans02,AD-01,15455,RT,1998-06-01,B,Plasma,Dideoxy,BRA,AF413866,FALSE,2003-06-11
 Dumans02,AD-02,15456,PR,1998-06-01,B,Plasma,Dideoxy,BRA,AF413831,FALSE,2003-06-11

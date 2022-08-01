@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Crispim19,BRAM_02,267128,PR,2014-04-01,B,PBMC,Dideoxy,BRA,MH673055,FALSE,2019-12-02
 Crispim19,BRAM_02,267128,RT,2014-04-01,B,PBMC,Dideoxy,BRA,MH673055,FALSE,2019-12-02
 Crispim19,BRAM_08,267050,PR,2014-04-01,B,PBMC,Dideoxy,BRA,MH673056,FALSE,2019-12-02

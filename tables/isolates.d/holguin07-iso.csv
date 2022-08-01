@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Holguin07,566361,108721,PR,2005-06-01,B,Plasma,Dideoxy,ESP,EF583180,FALSE,2013-03-27
 Holguin07,566361,108721,RT,2005-06-01,B,Plasma,Dideoxy,ESP,EF583180,FALSE,2013-03-27
 Holguin07,566846,108722,PR,2005-06-01,B,Plasma,Dideoxy,ESP,EF583181,FALSE,2013-03-27

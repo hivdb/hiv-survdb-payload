@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sun19,BJSJS2016S002,240378,PR,2016-06-01,CRF07_BC,Plasma,Dideoxy,CHN,MH921078,FALSE,2019-03-08
 Sun19,BJSJS2016S002,240378,RT,2016-06-01,CRF07_BC,Plasma,Dideoxy,CHN,MH921078,FALSE,2019-03-08
 Sun19,BJSJS2016S003,240377,PR,2016-06-01,CRF07_BC,Plasma,Dideoxy,CHN,MH921079,FALSE,2019-03-08

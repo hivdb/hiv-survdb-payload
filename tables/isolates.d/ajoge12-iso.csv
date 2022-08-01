@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ajoge12,H06,84751,PR,2007-06-01,G,Plasma,Dideoxy,NGA,HM854101,FALSE,2011-10-27
 Ajoge12,H06,84751,RT,2007-06-01,G,Plasma,Dideoxy,NGA,HM854129,FALSE,2011-10-27
 Ajoge12,H08,84752,PR,2007-06-01,G,Plasma,Dideoxy,NGA,HM854102,FALSE,2011-10-27

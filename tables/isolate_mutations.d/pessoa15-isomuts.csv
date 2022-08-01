@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Pessoa15,10BR_MG007,PR,PR:T12P,12,P,0
 Pessoa15,10BR_MG007,PR,PR:I13V,13,V,0
 Pessoa15,10BR_MG007,PR,PR:K14R,14,R,0

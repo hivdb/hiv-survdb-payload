@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chung14,KAX_37_KA301e,PR,PR:E35D,35,D,0
 Chung14,KAX_37_KA301e,PR,PR:M36I,36,I,0
 Chung14,KAX_37_KA301e,PR,PR:N37D,37,D,0

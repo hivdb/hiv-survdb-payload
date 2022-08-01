@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Machado19,ANR-0001,267318,PR,2017-06-01,CRF24_BG,Plasma,Dideoxy,CUB,MK817363,FALSE,2019-12-02
 Machado19,ANR-0001,267318,RT,2017-06-01,CRF24_BG,Plasma,Dideoxy,CUB,MK817363,FALSE,2019-12-02
 Machado19,ANR-0002,267295,PR,2017-06-01,B,Plasma,Dideoxy,CUB,MK817364,FALSE,2019-12-02

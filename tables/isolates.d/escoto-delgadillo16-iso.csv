@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Escoto-Delgadillo16,GDL002,182841,PR,2010-06-01,B,Plasma,Dideoxy,MEX,KX253821,FALSE,2017-03-10
 Escoto-Delgadillo16,GDL002,182841,RT,2010-06-01,B,Plasma,Dideoxy,MEX,KX253700,FALSE,2017-03-10
 Escoto-Delgadillo16,GDL003,182887,PR,2010-06-01,B,Plasma,Dideoxy,MEX,KX253822,FALSE,2017-03-10

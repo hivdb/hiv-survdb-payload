@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Parboosing11,Pat001,83117,PR,2009-06-01,C,Plasma,Dideoxy,ZAF,HQ916291,FALSE,2011-09-08
 Parboosing11,Pat001,83117,RT,2009-06-01,C,Plasma,Dideoxy,ZAF,HQ916291,FALSE,2011-09-08
 Parboosing11,Pat002,83116,PR,2009-06-01,C,Plasma,Dideoxy,ZAF,HQ916290,FALSE,2011-09-08

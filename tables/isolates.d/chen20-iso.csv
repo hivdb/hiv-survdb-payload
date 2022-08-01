@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chen20,BL12F4561,287056,PR,2012-05-20,CRF01_AE,PBMC,Dideoxy,LAO,MG760371,FALSE,2020-09-08
 Chen20,BL12F4561,287056,RT,2012-05-20,CRF01_AE,PBMC,Dideoxy,LAO,MG760371,FALSE,2020-09-08
 Chen20,BL12F4561,287056,IN,2012-05-20,CRF01_AE,PBMC,Dideoxy,LAO,MG760371,FALSE,2020-09-08

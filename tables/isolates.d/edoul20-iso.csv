@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Edoul20,1001MES,289297,PR,2011-06-01,G + J,Plasma,Dideoxy,CMR,MT425276,FALSE,2020-09-10
 Edoul20,1001MES,289297,RT,2011-06-01,G + J,Plasma,Dideoxy,CMR,MT425276,FALSE,2020-09-10
 Edoul20,1012MES,289298,PR,2011-06-01,A + G,Plasma,Dideoxy,CMR,MT425277,FALSE,2020-09-10

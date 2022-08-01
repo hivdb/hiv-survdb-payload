@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Irias19,PT25784,PR,PR:E35D,35,D,0
 Irias19,PT25784,PR,PR:L63P,63,P,0
 Irias19,PT25784,PR,PR:H69N,69,N,0

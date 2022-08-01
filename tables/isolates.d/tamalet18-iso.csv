@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tamalet18,1001225,190018,PR,2010-06-01,B,Plasma,Dideoxy,FRA,KC756886,FALSE,2017-03-28
 Tamalet18,1001225,190018,RT,2010-06-01,B,Plasma,Dideoxy,FRA,KC788426,FALSE,2017-03-28
 Tamalet18,1010481,189998,PR,2010-06-01,B,Plasma,Dideoxy,FRA,KC756887,FALSE,2017-03-28

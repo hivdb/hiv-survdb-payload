@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Han13d,08LN300245,165637,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC888425,FALSE,2016-06-01
 Han13d,08LN300245,165637,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC888425,FALSE,2016-06-01
 Han13d,09BJ128,165306,PR,2009-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KC888463,FALSE,2016-06-01

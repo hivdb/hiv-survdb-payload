@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ay17,HU3226,216768,PR,2013-06-01,B,Plasma,Dideoxy,HUN,KY021932,FALSE,2018-01-30
 Ay17,HU3226,216768,RT,2013-06-01,B,Plasma,Dideoxy,HUN,KX999940,FALSE,2018-01-30
 Ay17,HU3228,216769,PR,2014-06-01,B,Plasma,Dideoxy,HUN,KY021933,FALSE,2018-01-30

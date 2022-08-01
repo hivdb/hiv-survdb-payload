@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yu09,001,61859,PR,2007-09-01,C,Plasma,Dideoxy,CHN,FJ387028,FALSE,2009-09-02
 Yu09,001,61859,RT,2007-09-01,CRF08_BC,Plasma,Dideoxy,CHN,FJ387028,FALSE,2009-09-02
 Yu09,002,61860,PR,2007-10-01,C,Plasma,Dideoxy,CHN,FJ387029,FALSE,2009-09-02

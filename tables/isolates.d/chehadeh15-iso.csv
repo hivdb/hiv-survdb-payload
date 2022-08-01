@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chehadeh15,513,191525,PR,2012-06-01,B,Plasma,Dideoxy,KWT,HF937236,FALSE,2017-04-03
 Chehadeh15,513,191525,RT,2012-06-01,B,Plasma,Dideoxy,KWT,HF937237,FALSE,2017-04-03
 Chehadeh15,571,191535,PR,2012-06-01,C,Plasma,Dideoxy,KWT,HF937234,FALSE,2017-04-03

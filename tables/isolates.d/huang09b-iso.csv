@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Huang09b,Blm_x0001,176401,PR,2006-06-01,C,Plasma,Dideoxy,ZAF,KT736966,FALSE,2017-02-06
 Huang09b,Blm_x0001,176401,RT,2006-06-01,C,Plasma,Dideoxy,ZAF,KT736966,FALSE,2017-02-06
 Huang09b,Blm_x0002,176235,PR,2006-06-01,C,Plasma,Dideoxy,ZAF,KT736967,FALSE,2017-02-06

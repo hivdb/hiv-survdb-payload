@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Parham11,09-MSF,273348,PR,2002-03-04,B,Dried Blood Spot,Dideoxy,HND,HQ842975,FALSE,2020-05-07
 Parham11,09-MSF,273348,RT,2002-03-04,B,Dried Blood Spot,Dideoxy,HND,HQ842975,FALSE,2020-05-07
 Parham11,10MSF,273356,PR,2002-02-20,B,Dried Blood Spot,Dideoxy,HND,HQ599240,FALSE,2020-05-07

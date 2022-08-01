@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Patino-Galindo17,20585234,277854,PR,2014-01-01,CRF02_AG,Plasma,Dideoxy,ESP,NULL,FALSE,2020-06-09
 Patino-Galindo17,20585234,277854,RT,2014-01-01,CRF02_AG,Plasma,Dideoxy,ESP,NULL,FALSE,2020-06-09
 Patino-Galindo17,20682974,276559,PR,2014-01-01,B,Plasma,Dideoxy,ESP,NULL,FALSE,2020-06-09

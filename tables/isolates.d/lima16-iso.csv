@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lima16,02PE003,177797,PR,2002-02-08,B,Plasma,Dideoxy,BRA,KX021074,FALSE,2017-03-07
 Lima16,02PE003,177797,RT,2002-02-08,B,Plasma,Dideoxy,BRA,KX021074,FALSE,2017-03-07
 Lima16,02PE005,177812,PR,2002-02-21,B,Plasma,Dideoxy,BRA,KX021051,FALSE,2017-03-07

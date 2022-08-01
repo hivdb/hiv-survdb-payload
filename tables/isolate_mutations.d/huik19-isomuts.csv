@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Huik19,1,PR,PR:E35D,35,D,0
 Huik19,1,PR,PR:M36I,36,I,0
 Huik19,1,PR,PR:N37D,37,D,0

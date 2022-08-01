@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Deshpande04,in1,35684,RT,2003-06-01,C,Plasma,Dideoxy,IND,AY525953,FALSE,2007-03-29
 Deshpande04,in2,35685,RT,2003-06-01,C,Plasma,Dideoxy,IND,AY525954,FALSE,2007-03-29
 Deshpande04,in3,35686,RT,2003-06-01,C,Plasma,Dideoxy,IND,AY525955,FALSE,2007-03-29

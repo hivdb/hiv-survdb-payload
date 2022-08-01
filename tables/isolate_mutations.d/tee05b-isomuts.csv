@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tee05b,MYIDUA10,PR,PR:L19V,19,V,0
 Tee05b,MYIDUA10,PR,PR:E35D,35,D,0
 Tee05b,MYIDUA10,PR,PR:K43R,43,R,0

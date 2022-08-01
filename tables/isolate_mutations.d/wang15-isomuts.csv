@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wang15,03013,PR,PR:L19V,19,V,0
 Wang15,03013,PR,PR:E35D,35,D,0
 Wang15,03013,PR,PR:R41K,41,K,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Cheriro15,NLHG-72,155024,PR,2010-06-01,CRF01_AE,Plasma,NGS,KEN,KT370898,FALSE,2016-05-04
 Cheriro15,NLHG-72,155024,RT,2010-06-01,D,Plasma,NGS,KEN,KT370898,FALSE,2016-05-04
 Cheriro15,NLHG-77,155011,PR,2010-06-01,A,Plasma,NGS,KEN,KT370899,FALSE,2016-05-04

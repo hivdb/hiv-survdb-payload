@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Li13c,2001,116767,PR,2009-06-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ302545,FALSE,2013-07-17
 Li13c,2001,116767,RT,2009-06-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ302545,FALSE,2013-07-17
 Li13c,2001,116767,IN,2009-06-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ302545,FALSE,2013-07-17

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Palacios08,12121,67447,PR,2005-06-01,B,Plasma,Dideoxy,ESP,NULL,FALSE,2009-12-01
 Palacios08,12121,67447,RT,2005-06-01,B,Plasma,Dideoxy,ESP,NULL,FALSE,2009-12-01
 Palacios08,12345,67448,PR,2005-06-01,B,Plasma,Dideoxy,ESP,NULL,FALSE,2009-12-01

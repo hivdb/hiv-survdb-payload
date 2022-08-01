@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tran12,HPA013,93393,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AB690876,FALSE,2012-06-14
 Tran12,HPA013,93393,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AB690983,FALSE,2012-06-14
 Tran12,HPA015,93394,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AB690877,FALSE,2012-06-14

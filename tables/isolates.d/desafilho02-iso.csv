@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 deSaFilho02,VT01,10210,RT,2002-01-01,B,PBMC,Dideoxy,BRA,AF480743,FALSE,2002-05-16
 deSaFilho02,VT02,10209,RT,2002-01-01,B,PBMC,Dideoxy,BRA,AF480744,FALSE,2002-05-16
 deSaFilho02,VT03,10159,RT,2002-01-01,B,PBMC,Dideoxy,BRA,AF480794,FALSE,2002-05-16

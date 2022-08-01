@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Caron12,Gab011078,PR,PR:L10I,10,I,0
 Caron12,Gab011078,PR,PR:V11T,11,T,0
 Caron12,Gab011078,PR,PR:I13V,13,V,0

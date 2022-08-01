@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Phan10,AH01,73778,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AB519558,FALSE,2010-05-03
 Phan10,AH01,73778,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AB519558,FALSE,2010-05-03
 Phan10,AH02,73779,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,AB519559,FALSE,2010-05-03

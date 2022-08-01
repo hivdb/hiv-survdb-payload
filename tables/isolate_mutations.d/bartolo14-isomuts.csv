@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bartolo14,09AOHDP100,PR,PR:L10I,10,I,0
 Bartolo14,09AOHDP100,PR,PR:I13V,13,V,0
 Bartolo14,09AOHDP100,PR,PR:E35D,35,D,0

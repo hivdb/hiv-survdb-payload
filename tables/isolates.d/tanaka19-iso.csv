@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tanaka19,HET037,244747,PR,2014-12-31,B,PBMC,Dideoxy,BRA,MF545238,FALSE,2019-03-21
 Tanaka19,HET037,244747,RT,2014-12-31,B,PBMC,Dideoxy,BRA,MF545238,FALSE,2019-03-21
 Tanaka19,HET038,244748,PR,2014-12-31,B,PBMC,Dideoxy,BRA,MF545239,FALSE,2019-03-21

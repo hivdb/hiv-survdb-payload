@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Nanfack17,MDC007_1_Sanger,RT,RT:D67N,67,N,0
 Nanfack17,MDC007_1_Sanger,RT,RT:K122E,122,E,0
 Nanfack17,MDC007_1_Sanger,RT,RT:D123S,123,S,0

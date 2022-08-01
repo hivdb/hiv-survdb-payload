@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Little14,SD_PIRC_6685,RT,RT:K103N,103,N

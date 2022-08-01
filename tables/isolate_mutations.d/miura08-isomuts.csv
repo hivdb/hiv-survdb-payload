@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Miura08,BEC1,PR,PR:L33V,33,V,0
 Miura08,BEC1,PR,PR:N37S,37,S,0
 Miura08,BEC1,PR,PR:P39S,39,S,1

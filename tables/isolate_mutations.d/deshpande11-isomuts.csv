@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Deshpande11,Pat001,PR,PR:M36I,36,I,0
 Deshpande11,Pat001,PR,PR:L63P,63,P,1
 Deshpande11,Pat001,PR,PR:L63S,63,S,1

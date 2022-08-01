@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Nouhin09,KC01,57609,RT,2006-11-20,CRF01_AE,Plasma,Dideoxy,KHM,FJ531873,FALSE,2009-03-10
 Nouhin09,KC02,57610,PR,2006-12-28,CRF01_AE,Plasma,Dideoxy,KHM,FJ531940,FALSE,2009-03-10
 Nouhin09,KC02,57610,RT,2006-12-28,CRF01_AE,Plasma,Dideoxy,KHM,FJ531874,FALSE,2009-03-10

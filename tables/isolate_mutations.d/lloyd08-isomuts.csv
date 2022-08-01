@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lloyd08,CR002,PR,PR:R41K,41,K,0
 Lloyd08,CR002,PR,PR:D60E,60,E,0
 Lloyd08,CR002,PR,PR:I62V,62,V,0

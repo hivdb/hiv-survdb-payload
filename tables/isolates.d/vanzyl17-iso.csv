@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 vanZyl17,CD_F_16-24_none,203332,PR,2017-01-03,B,Plasma,Dideoxy,ZAF,MF285803,FALSE,2018-01-18
 vanZyl17,CD_F_16-24_none,203332,RT,2017-01-03,B,Plasma,Dideoxy,ZAF,MF285803,FALSE,2018-01-18
 vanZyl17,CD_F_25-30_K103N,203331,PR,2016-11-01,D,Plasma,Dideoxy,ZAF,MF285802,FALSE,2018-01-18

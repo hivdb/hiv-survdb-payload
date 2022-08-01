@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zhou14,08mLDTD001,146670,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,MMR,KC913704,FALSE,2015-08-20
 Zhou14,08mLDTD001,146670,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,MMR,KC913704,FALSE,2015-08-20
 Zhou14,08mLDTD002,146653,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,MMR,KC913705,FALSE,2015-08-20

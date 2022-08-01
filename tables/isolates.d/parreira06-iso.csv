@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Parreira06,PG1,106903,PR,2003-09-01,C,Plasma,Dideoxy,MOZ,AM071423,FALSE,2013-03-13
 Parreira06,PG1,106903,RT,2003-09-01,C,Plasma,Dideoxy,MOZ,AM071423,FALSE,2013-03-13
 Parreira06,PG6,106892,PR,2003-09-01,C,Plasma,Dideoxy,MOZ,AM071412,FALSE,2013-03-13

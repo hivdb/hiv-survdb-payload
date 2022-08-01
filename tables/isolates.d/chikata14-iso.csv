@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chikata14,KI-056,127505,PR,2009-06-01,B,Plasma,Dideoxy,JPN,AB874082,FALSE,2014-03-04
 Chikata14,KI-056,127505,RT,2009-06-01,B,Plasma,Dideoxy,JPN,AB874082,FALSE,2014-03-04
 Chikata14,KI-056,127505,IN,2009-06-01,B,Plasma,Dideoxy,JPN,AB874082,FALSE,2014-03-04

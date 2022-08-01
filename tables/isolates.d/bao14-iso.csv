@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bao14,HN-1,164783,PR,2007-05-17,B,Plasma,Dideoxy,CHN,KJ193530,FALSE,2016-05-19
 Bao14,HN-1,164783,RT,2007-05-17,B,Plasma,Dideoxy,CHN,KJ193530,FALSE,2016-05-19
 Bao14,HN-3,164792,PR,2006-04-12,B,Plasma,Dideoxy,CHN,KJ193531,FALSE,2016-05-19

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Han10,LN082,107054,PR,2005-06-01,C,Plasma,Dideoxy,CHN,FJ531453,FALSE,2013-03-14
 Han10,LN082,107054,RT,2005-06-01,C,Plasma,Dideoxy,CHN,FJ531453,FALSE,2013-03-14
 Han10,LN087,107007,PR,2005-06-01,CRF01_AE,Plasma,Dideoxy,CHN,FJ531405,FALSE,2013-03-14

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Sacks-Davis20,VIC_HIV_1,PR,PR:I13V,13,V,0
 Sacks-Davis20,VIC_HIV_1,PR,PR:G16E,16,E,1
 Sacks-Davis20,VIC_HIV_1,PR,PR:L33V,33,V,1

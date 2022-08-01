@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Somi08,BG-05-037,55655,PR,2005-06-01,C,Dried Blood Spot,Dideoxy,TZA,JQ616943,FALSE,2008-08-15
 Somi08,BG-05-037,55655,RT,2005-06-01,C,Dried Blood Spot,Dideoxy,TZA,JQ616943,FALSE,2008-08-15
 Somi08,BG-05-066,55656,PR,2005-06-01,A,Dried Blood Spot,Dideoxy,TZA,JQ616944,FALSE,2008-08-15

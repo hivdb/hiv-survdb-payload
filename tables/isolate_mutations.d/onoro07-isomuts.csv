@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Onoro07,0621115,PR,PR:G16E,16,E,0
 Onoro07,0621115,PR,PR:M36I,36,I,0
 Onoro07,0621115,PR,PR:L63T,63,T,0

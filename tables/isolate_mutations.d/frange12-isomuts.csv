@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Frange12,600104BTO,PR,PR:N37S,37,S,0
 Frange12,600104BTO,PR,PR:L63P,63,P,0
 Frange12,890101MRT,PR,PR:I13V,13,V,0

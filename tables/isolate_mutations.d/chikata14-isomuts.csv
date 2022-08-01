@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chikata14,KI-056,PR,PR:T12D,12,D,0
 Chikata14,KI-056,PR,PR:I15V,15,V,0
 Chikata14,KI-056,PR,PR:L19I,19,I,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ugbena12,1-1-001,PR,PR:K20I,20,I,0
 Ugbena12,1-1-001,PR,PR:E35Q,35,Q,0
 Ugbena12,1-1-001,PR,PR:M36I,36,I,0

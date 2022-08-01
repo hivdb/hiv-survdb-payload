@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ly05,NL_KHM_CA1,25935,PR,2004-06-01,CRF01_AE,Plasma,Dideoxy,KHM,DQ013514,FALSE,2005-12-20
 Ly05,NL_KHM_CA1,25935,RT,2004-06-01,CRF01_AE,Plasma,Dideoxy,KHM,DQ013370,FALSE,2005-12-20
 Ly05,NL_KHM_CA2,25945,PR,2004-06-01,CRF01_AE,Plasma,Dideoxy,KHM,DQ013515,FALSE,2005-12-20

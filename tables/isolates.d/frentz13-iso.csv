@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Frentz13,EHR-00105,109267,PR,2007-11-13,CRF02_AG,Plasma,Dideoxy,BEL,JX299533,FALSE,2013-03-27
 Frentz13,EHR-00105,109267,RT,2007-11-13,CRF02_AG,Plasma,Dideoxy,BEL,JX299533,FALSE,2013-03-27
 Frentz13,EHR-00107,109268,PR,2007-10-23,B,Plasma,Dideoxy,AUT,JX299534,FALSE,2013-03-27

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Machnowska19,04-00362,RT,RT:T215C,215,C
 Machnowska19,04-00362,RT,RT:T215Y,215,Y
 Machnowska19,08-01492,RT,RT:T215D,215,D

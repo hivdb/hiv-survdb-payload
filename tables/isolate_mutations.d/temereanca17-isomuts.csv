@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Temereanca17,IVN SA14,PR,PR:I13V,13,V,0
 Temereanca17,IVN SA14,PR,PR:L19I,19,I,0
 Temereanca17,IVN SA14,PR,PR:E35D,35,D,0

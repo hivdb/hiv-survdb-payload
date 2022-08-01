@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Witaningrum16,PB1,170942,PR,2014-06-01,B,PBMC,Dideoxy,IDN,KU596470,FALSE,2016-11-07
 Witaningrum16,PB1,170942,RT,2014-06-01,B,PBMC,Dideoxy,IDN,KU596511,FALSE,2016-11-07
 Witaningrum16,PB2,170924,PR,2014-06-01,CRF01_AE,PBMC,Dideoxy,IDN,KU596471,FALSE,2016-11-07

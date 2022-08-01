@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lu17,13BD164,174157,PR,2013-06-01,B,Plasma,Dideoxy,CHN,KX198563,FALSE,2017-01-20
 Lu17,13BD164,174157,RT,2013-06-01,B,Plasma,Dideoxy,CHN,KX198563,FALSE,2017-01-20
 Lu17,13BD164,174157,IN,2013-06-01,B,Plasma,Dideoxy,CHN,KX198563,FALSE,2017-01-20

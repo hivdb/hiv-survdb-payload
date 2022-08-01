@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hao17,DT016-00,201544,PR,2014-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KY713346,FALSE,2018-01-18
 Hao17,DT016-00,201544,RT,2014-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KY713346,FALSE,2018-01-18
 Hao17,DT019-00,201543,PR,2014-06-01,CRF01_AE,Plasma,Dideoxy,CHN,KY713347,FALSE,2018-01-18

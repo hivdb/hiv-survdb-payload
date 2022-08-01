@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Irias19,PT25784,240146,PR,2016-06-01,B,Plasma,Dideoxy,BRA,MG975935,FALSE,2019-03-08
 Irias19,PT25784,240146,RT,2016-06-01,B,Plasma,Dideoxy,BRA,MG975895,FALSE,2019-03-08
 Irias19,PT25796,240145,PR,2016-06-01,B,Plasma,Dideoxy,BRA,MG975936,FALSE,2019-03-08

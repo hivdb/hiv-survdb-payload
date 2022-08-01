@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tshabalala11,SCR020,RT,RT:V35T,35,T,0
 Tshabalala11,SCR020,RT,RT:E36A,36,A,0
 Tshabalala11,SCR020,RT,RT:T39E,39,E,0

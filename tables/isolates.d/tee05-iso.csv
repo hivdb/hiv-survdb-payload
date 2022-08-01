@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tee05,03MYKL1315,24229,PR,2003-07-01,CRF01_AE,Plasma,Dideoxy,MYS,AY904527,FALSE,2005-04-22
 Tee05,03MYKL1315,24229,RT,2003-07-01,CRF01_AE,Plasma,Dideoxy,MYS,AY904627,FALSE,2005-04-22
 Tee05,03MYKL1316,24230,PR,2003-07-01,CRF01_AE,Plasma,Dideoxy,MYS,AY904519,FALSE,2005-04-22

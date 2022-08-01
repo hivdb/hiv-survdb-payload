@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lavu17,DR0002,195038,PR,2013-06-01,C,Dried Blood Spot,Dideoxy,PNG,KX779328,FALSE,2017-05-08
 Lavu17,DR0002,195038,RT,2013-06-01,C,Dried Blood Spot,Dideoxy,PNG,KX779328,FALSE,2017-05-08
 Lavu17,DR0003,195079,PR,2013-06-01,C,Dried Blood Spot,Dideoxy,PNG,KX779390,FALSE,2017-05-08

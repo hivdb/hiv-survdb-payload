@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gashnikova16,Tyumen01,187053,PR,2015-06-01,A,Plasma,Dideoxy,RUS,KX640117,FALSE,2017-03-16
 Gashnikova16,Tyumen01,187053,RT,2015-06-01,A,Plasma,Dideoxy,RUS,KX640117,FALSE,2017-03-16
 Gashnikova16,Tyumen01,187053,IN,2015-06-01,A,Plasma,Dideoxy,RUS,KX640185,FALSE,2017-03-16

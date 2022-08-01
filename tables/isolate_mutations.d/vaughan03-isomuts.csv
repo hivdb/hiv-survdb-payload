@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Vaughan03,VHE_Pat1,PR,PR:M36I,36,I,0
 Vaughan03,VHE_Pat1,PR,PR:D60E,60,E,0
 Vaughan03,VHE_Pat1,PR,PR:Q61D,61,D,0

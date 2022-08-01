@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Dowling02,KER2003,12095,PR,1999-01-01,D,PBMC,Dideoxy,KEN,AF457051,FALSE,2002-09-17
 Dowling02,KER2003,12095,RT,1999-01-01,D,PBMC,Dideoxy,KEN,AF457051,TRUE,2002-09-17
 Dowling02,KER2003,12095,IN,1999-01-01,A,PBMC,Dideoxy,KEN,AF457051,FALSE,2006-11-28

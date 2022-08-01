@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Little14,SD_PIRC_28,245773,PR,2008-06-01,B,Plasma,Dideoxy,USA,KJ722842,FALSE,2019-03-25
 Little14,SD_PIRC_28,245773,RT,2008-06-01,B,Plasma,Dideoxy,USA,KJ722842,FALSE,2019-03-25
 Little14,SD_PIRC_289,245332,PR,1997-06-01,B,Plasma,Dideoxy,USA,KJ723283,FALSE,2019-03-25

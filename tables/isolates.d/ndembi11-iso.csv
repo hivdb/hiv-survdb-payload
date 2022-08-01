@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ndembi11,AICPS001,81256,PR,2009-06-01,A,Plasma,Dideoxy,UGA,HQ702677,FALSE,2011-06-13
 Ndembi11,AICPS001,81256,RT,2009-06-01,A,Plasma,Dideoxy,UGA,HQ702677,FALSE,2011-06-13
 Ndembi11,AICPS005,81255,PR,2009-06-01,A,Plasma,Dideoxy,UGA,HQ702676,FALSE,2011-06-13

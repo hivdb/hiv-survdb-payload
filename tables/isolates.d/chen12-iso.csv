@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chen12,YN09DH0001,105074,PR,2010-12-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ658474,FALSE,2013-03-05
 Chen12,YN09DH0001,105074,RT,2010-12-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ658474,FALSE,2013-03-05
 Chen12,YN09DH0002,105075,PR,2010-12-01,CRF01_AE,Plasma,Dideoxy,CHN,JQ658475,FALSE,2013-03-05

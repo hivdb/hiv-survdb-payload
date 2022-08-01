@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 deSaFilho09,55042,77188,PR,2007-01-01,B,PBMC,Dideoxy,BRA,GQ294604,FALSE,2010-10-04
 deSaFilho09,55042,77188,RT,2007-01-01,B,PBMC,Dideoxy,BRA,GQ294604,FALSE,2010-10-04
 deSaFilho09,55361,77197,PR,2007-01-01,B,PBMC,Dideoxy,BRA,GQ294613,FALSE,2010-10-04

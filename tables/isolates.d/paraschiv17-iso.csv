@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Paraschiv17,99BH,204440,PR,2014-06-01,F,Plasma,Dideoxy,ROU,KX159018,FALSE,2018-01-23
 Paraschiv17,99BH,204440,RT,2014-06-01,F,Plasma,Dideoxy,ROU,KX159018,FALSE,2018-01-23
 Paraschiv17,166BH,204441,PR,2014-06-01,CRF35_AD,Plasma,Dideoxy,ROU,KX159019,FALSE,2018-01-23

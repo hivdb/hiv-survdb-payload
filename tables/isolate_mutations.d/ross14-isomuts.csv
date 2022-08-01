@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ross14,1,PR,PR:T12S,12,S,1
 Ross14,1,PR,PR:I13V,13,V,0
 Ross14,1,PR,PR:L19I,19,I,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Soria19,R1118_SGH43,RT,RT:K101R,101,R,1
 Soria19,R1118_SGH43,RT,RT:K102L,102,L,1
 Soria19,R1118_SGH43,RT,RT:K102M,102,M,1

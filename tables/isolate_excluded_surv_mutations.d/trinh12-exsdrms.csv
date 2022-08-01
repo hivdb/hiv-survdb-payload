@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Trinh12,VN-101,PR,PR:D30N,30,N
 Trinh12,VN-101,PR,PR:M46I,46,I
 Trinh12,VN-106,RT,RT:M184I,184,I

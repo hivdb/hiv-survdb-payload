@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Jacobs08,1078C,PR,PR:T12S,12,S,0
 Jacobs08,1078C,PR,PR:I15V,15,V,1
 Jacobs08,1078C,PR,PR:L19I,19,I,1

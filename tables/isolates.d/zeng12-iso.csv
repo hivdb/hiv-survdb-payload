@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zeng12,CN0031,113006,PR,2009-01-03,CRF01_AE,Plasma,Dideoxy,CHN,JQ028198,FALSE,2013-05-06
 Zeng12,CN0031,113006,RT,2009-01-03,CRF01_AE,Plasma,Dideoxy,CHN,JQ028198,FALSE,2013-05-06
 Zeng12,CN0031,113006,IN,2009-01-03,CRF01_AE,Plasma,Dideoxy,CHN,JQ028198,FALSE,2013-05-06

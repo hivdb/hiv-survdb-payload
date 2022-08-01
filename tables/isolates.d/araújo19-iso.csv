@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Araújo19,z002,264673,PR,2014-06-01,B,Plasma,Dideoxy,PRT,MK766247,FALSE,2019-09-05
 Araújo19,z002,264673,RT,2014-06-01,B,Plasma,Dideoxy,PRT,MK766247,FALSE,2019-09-05
 Araújo19,z003,264683,PR,2013-06-01,B,Plasma,Dideoxy,PRT,MK766246,FALSE,2019-09-05

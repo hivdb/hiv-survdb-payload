@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wang18,SJZ14001,PR,PR:T12S,12,S,0
 Wang18,SJZ14001,PR,PR:L63P,63,P,0
 Wang18,SJZ14001,PR,PR:I64V,64,V,0

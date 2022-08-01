@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Eshleman09b,A02378W2,PR,PR:I13V,13,V,0
 Eshleman09b,A02378W2,PR,PR:I15V,15,V,0
 Eshleman09b,A02378W2,PR,PR:M36I,36,I,0

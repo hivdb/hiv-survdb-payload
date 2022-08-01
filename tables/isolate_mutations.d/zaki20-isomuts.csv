@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zaki20,HIV001_KSA,PR,PR:L19I,19,I,0
 Zaki20,HIV001_KSA,PR,PR:K20R,20,R,0
 Zaki20,HIV001_KSA,PR,PR:E35D,35,D,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Thao12,HCMC_100,187281,PR,2005-10-01,CRF01_AE,Plasma,Dideoxy,VNM,JN786378,FALSE,2017-03-16
 Thao12,HCMC_100,187281,RT,2005-10-01,CRF01_AE,Plasma,Dideoxy,VNM,JN786378,FALSE,2017-03-16
 Thao12,HCMC_101,187126,PR,2005-10-01,CRF01_AE,Plasma,Dideoxy,VNM,JN786379,FALSE,2017-03-16

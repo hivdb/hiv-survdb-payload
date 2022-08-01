@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ndase12,50000512,177185,PR,2009-06-01,A,Plasma,Dideoxy,UGA,KC900779,FALSE,2017-02-08
 Ndase12,50000512,177185,RT,2009-06-01,A,Plasma,Dideoxy,UGA,KC900779,FALSE,2017-02-08
 Ndase12,50005122,177449,PR,2009-06-01,A,Plasma,Dideoxy,UGA,KC900671,FALSE,2017-02-08

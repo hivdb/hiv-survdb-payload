@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chaillon17,2011_60213,247296,RT,2011-06-01,B,Plasma,Dideoxy,FRA,KX989547,FALSE,2019-03-25
 Chaillon17,2011_60214,247295,RT,2011-06-01,B,Plasma,Dideoxy,FRA,KX989548,FALSE,2019-03-25
 Chaillon17,2011_130245,247294,RT,2011-06-01,CRF02_AG,Plasma,Dideoxy,FRA,KX989549,FALSE,2019-03-25

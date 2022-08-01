@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ragonnet-Cronin10,PHAC_001,PR,PR:T12A,12,A,1
 Ragonnet-Cronin10,PHAC_001,PR,PR:E35D,35,D,0
 Ragonnet-Cronin10,PHAC_001,PR,PR:N37D,37,D,0

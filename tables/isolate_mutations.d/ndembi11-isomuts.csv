@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ndembi11,AICPS001,PR,PR:I13V,13,V,0
 Ndembi11,AICPS001,PR,PR:K14R,14,R,0
 Ndembi11,AICPS001,PR,PR:G17D,17,D,0

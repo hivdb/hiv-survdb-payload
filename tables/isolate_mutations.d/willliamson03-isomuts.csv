@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Willliamson03,CW-DU151B,PR,PR:T12S,12,S,0
 Willliamson03,CW-DU151B,PR,PR:L19T,19,T,0
 Willliamson03,CW-DU151B,PR,PR:K20R,20,R,0

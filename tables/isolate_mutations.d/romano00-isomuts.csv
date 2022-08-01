@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Romano00,LR_1,PR,PR:T12A,12,A,1
 Romano00,LR_1,PR,PR:T12E,12,E,1
 Romano00,LR_1,PR,PR:T12K,12,K,1

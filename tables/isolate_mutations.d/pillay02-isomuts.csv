@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Pillay02,00ZA_AC1,RT,RT:V35T,35,T,0
 Pillay02,00ZA_AC1,RT,RT:E36A,36,A,0
 Pillay02,00ZA_AC1,RT,RT:T39E,39,E,0

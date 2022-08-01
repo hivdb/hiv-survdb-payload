@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ferreira08,36,67265,PR,2006-01-01,B,Plasma,Dideoxy,BRA,EU340723,FALSE,2009-11-19
 Ferreira08,36,67265,RT,2006-01-01,B,Plasma,Dideoxy,BRA,EU340723,FALSE,2009-11-19
 Ferreira08,37,67266,PR,2006-01-01,B,Plasma,Dideoxy,BRA,EU340724,FALSE,2009-11-19

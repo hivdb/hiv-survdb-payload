@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ferreira11,BRMT307,85691,PR,2009-06-01,B,Plasma,Dideoxy,BRA,HQ638750,FALSE,2011-12-05
 Ferreira11,BRMT307,85691,RT,2009-06-01,B,Plasma,Dideoxy,BRA,HQ638750,FALSE,2011-12-05
 Ferreira11,BRMT323,85692,PR,2009-06-01,F,Plasma,Dideoxy,BRA,HQ638751,FALSE,2011-12-05

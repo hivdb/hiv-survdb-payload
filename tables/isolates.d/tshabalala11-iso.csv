@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tshabalala11,SCR020,84152,RT,2006-02-09,C,Plasma,Dideoxy,ZWE,HQ874283,FALSE,2011-09-15
 Tshabalala11,SCR022,84153,RT,2006-02-21,C,Plasma,Dideoxy,ZWE,HQ874284,FALSE,2011-09-15
 Tshabalala11,SCR025,84154,RT,2006-02-23,C,Plasma,Dideoxy,ZWE,HQ874285,FALSE,2011-09-15

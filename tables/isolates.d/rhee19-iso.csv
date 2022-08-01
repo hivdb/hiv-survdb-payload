@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Rhee19,CA101527,101527,PR,2012-03-09,B,Plasma,Dideoxy,USA,MG942340,FALSE,2012-11-26
 Rhee19,CA101527,101527,RT,2012-03-09,B,Plasma,Dideoxy,USA,MG942340,FALSE,2012-11-26
 Rhee19,CA101528,101528,PR,2012-03-21,B,Plasma,Dideoxy,USA,MG942341,FALSE,2012-11-26

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ye11,CNBJ040,108421,PR,2008-02-01,B,Plasma,Dideoxy,CHN,HQ007347,FALSE,2013-03-26
 Ye11,CNBJ040,108421,RT,2008-02-01,CRF07_BC,Plasma,Dideoxy,CHN,HQ007347,FALSE,2013-03-26
 Ye11,CNBJ044,108422,PR,2008-02-01,B,Plasma,Dideoxy,CHN,HQ007348,FALSE,2013-03-26

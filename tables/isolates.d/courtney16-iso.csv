@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Courtney16,MDC001-4,151342,RT,2013-06-01,CRF18_cpx,Plasma,Dideoxy,CMR,KT758220,FALSE,2016-03-29
 Courtney16,MDC001-1,151265,RT,2011-06-01,CRF18_cpx,Plasma,Dideoxy,CMR,KT758181,FALSE,2016-03-29
 Courtney16,MDC002-2,151277,RT,2012-06-01,CRF02_AG,Plasma,Dideoxy,CMR,KT758222,FALSE,2016-03-29

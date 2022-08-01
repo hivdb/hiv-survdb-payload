@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Rolland12,AA001a12L,PR,PR:I13V,13,V,0
 Rolland12,AA001a12L,PR,PR:L19M,19,M,0
 Rolland12,AA001a12L,PR,PR:E35D,35,D,0

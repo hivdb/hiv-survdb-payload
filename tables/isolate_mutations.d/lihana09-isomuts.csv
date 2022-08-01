@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lihana09,CCP-001,RT,RT:V10S,10,S,0
 Lihana09,CCP-001,RT,RT:V35T,35,T,0
 Lihana09,CCP-001,RT,RT:D110G,110,G,0

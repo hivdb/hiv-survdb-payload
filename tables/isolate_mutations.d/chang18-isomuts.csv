@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chang18,2543075P000FL_Sa,PR,PR:T12A,12,A,0
 Chang18,2543075P000FL_Sa,PR,PR:I13V,13,V,0
 Chang18,2543075P000FL_Sa,PR,PR:G16E,16,E,0

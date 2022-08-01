@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Pires04,PIL_Pat1,17710,PR,2002-06-01,B,Plasma,Dideoxy,BRA,AY285014,FALSE,2004-01-28
 Pires04,PIL_Pat1,17710,RT,2002-06-01,B,Plasma,Dideoxy,BRA,AY285015,FALSE,2004-01-28
 Pires04,PIL_Pat2,17711,PR,2002-06-01,B,Plasma,Dideoxy,BRA,AY285017,FALSE,2004-01-28

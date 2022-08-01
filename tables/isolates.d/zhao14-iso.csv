@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zhao14,BJ082306,144351,PR,2009-08-20,B,Plasma,Dideoxy,CHN,KJ401649,FALSE,2015-03-27
 Zhao14,BJ082306,144351,RT,2009-08-20,B,Plasma,Dideoxy,CHN,KJ401649,FALSE,2015-03-27
 Zhao14,BYC0113,144401,PR,2009-06-01,C,Plasma,Dideoxy,CHN,KJ401709,FALSE,2015-03-27

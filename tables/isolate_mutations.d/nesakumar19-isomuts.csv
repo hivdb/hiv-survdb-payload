@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Nesakumar19,NAB002,PR,PR:L5F,5,F,1
 Nesakumar19,NAB002,PR,PR:K14R,14,R,0
 Nesakumar19,NAB002,PR,PR:I15V,15,V,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tamalet18b,PTrt_2013_002,232947,RT,2013-12-31,B,Plasma,Dideoxy,FRA,MF774458,FALSE,2019-01-08
 Tamalet18b,PTrt_2013_124,232945,RT,2013-12-31,F,Plasma,Dideoxy,FRA,MF774460,FALSE,2019-01-08
 Tamalet18b,PTrt_2013_310,232951,RT,2013-12-31,B,Plasma,Dideoxy,FRA,MF774454,FALSE,2019-01-08

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Vercauteren08,B03406P,RT,RT:T215C,215,C
 Vercauteren08,B03406P,RT,RT:T215S,215,S
 Vercauteren08,B08403P,RT,RT:T215C,215,C

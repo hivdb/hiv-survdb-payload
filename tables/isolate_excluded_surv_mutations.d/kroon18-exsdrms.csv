@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Kroon18,PT2544032,PR,PR:I47V,47,V
 Kroon18,PT2548123,PR,PR:M46I,46,I
 Kroon18,PT2548123,PR,PR:M46L,46,L

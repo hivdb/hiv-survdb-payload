@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yao15,CN.iso100,PR,PR:L10I,10,I,0
 Yao15,CN.iso100,PR,PR:E35D,35,D,0
 Yao15,CN.iso100,PR,PR:M36I,36,I,0

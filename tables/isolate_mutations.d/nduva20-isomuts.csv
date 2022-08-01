@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Nduva20,A1.1023,PR,PR:P39T,39,T,0
 Nduva20,A1.1023,PR,PR:R41K,41,K,0
 Nduva20,A1.1023,PR,PR:D60E,60,E,0

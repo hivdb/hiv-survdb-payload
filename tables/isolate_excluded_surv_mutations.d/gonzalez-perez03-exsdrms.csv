@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Gonzalez-Perez03,PG_GM577,RT,RT:K70E,70,E
 Gonzalez-Perez03,PG_GM577,RT,RT:L74I,74,I
 Gonzalez-Perez03,PG_GM577,RT,RT:L74V,74,V

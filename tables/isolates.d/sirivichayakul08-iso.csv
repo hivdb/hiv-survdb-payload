@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sirivichayakul08,BED-1,59600,PR,2005-09-01,CRF01_AE,Plasma,Dideoxy,THA,JQ364259,FALSE,2009-08-05
 Sirivichayakul08,BED-1,59600,RT,2005-09-01,CRF01_AE,Plasma,Dideoxy,THA,JQ364347,FALSE,2009-08-05
 Sirivichayakul08,BED-2,59601,PR,2005-09-01,CRF01_AE,Plasma,Dideoxy,THA,JQ364260,FALSE,2009-08-05

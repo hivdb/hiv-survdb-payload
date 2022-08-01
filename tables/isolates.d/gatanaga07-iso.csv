@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gatanaga07,A03-201001-1,106135,PR,2004-01-01,B,Plasma,Dideoxy,JPN,AB640054,FALSE,2013-03-11
 Gatanaga07,A03-201001-1,106135,RT,2004-01-01,B,Plasma,Dideoxy,JPN,AB640054,FALSE,2013-03-11
 Gatanaga07,A03-201002-1,106136,PR,2004-01-01,B,Plasma,Dideoxy,JPN,AB640055,FALSE,2013-03-11

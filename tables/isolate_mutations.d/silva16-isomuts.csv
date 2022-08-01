@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Silva16,AP001,PR,PR:N37K,37,K,0
 Silva16,AP001,PR,PR:R41N,41,N,0
 Silva16,AP001,PR,PR:L63P,63,P,0

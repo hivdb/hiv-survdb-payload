@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lu19,8S0001,267748,PR,2018-06-01,CRF01_AE,Plasma,Dideoxy,CHN,MN462702,FALSE,2020-01-09
 Lu19,8S0001,267748,RT,2018-06-01,CRF01_AE,Plasma,Dideoxy,CHN,MN462702,FALSE,2020-01-09
 Lu19,8S0002,267705,PR,2018-06-01,CRF01_AE,Plasma,Dideoxy,CHN,MN462703,FALSE,2020-01-09

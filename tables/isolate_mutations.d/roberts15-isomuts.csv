@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Roberts15,PMB100_POL_0,PR,PR:T31S,31,S,1
 Roberts15,PMB100_POL_0,PR,PR:E35D,35,D,0
 Roberts15,PMB100_POL_0,PR,PR:R57K,57,K,0

@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
+Holguin13,ES107,RT,RT:M184I,184,I
+Holguin13,ES112,RT,RT:V106A,106,A
+Holguin13,ES112,RT,RT:V106M,106,M
+Holguin13,ES94,RT,RT:M184I,184,I

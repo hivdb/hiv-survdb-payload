@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Duc12,3708,87085,PR,2007-06-01,CRF01_AE,Plasma,Dideoxy,VNM,JQ617184,FALSE,2012-01-30
 Duc12,3708,87085,RT,2007-06-01,CRF01_AE,Plasma,Dideoxy,VNM,JQ617184,FALSE,2012-01-30
 Duc12,3709,87086,PR,2007-06-01,CRF01_AE,Plasma,Dideoxy,VNM,JQ617185,FALSE,2012-01-30

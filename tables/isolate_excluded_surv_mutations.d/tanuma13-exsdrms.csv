@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Tanuma13,11HT0034,PR,PR:D30N,30,N
 Tanuma13,11HT0159,PR,PR:D30N,30,N
 Tanuma13,08HT0097,RT,RT:Y188H,188,H

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Balotta00,CB_10,27382,RT,1996-01-01,CRF02_AG,PBMC,Dideoxy,ITA,AF114280,FALSE,2006-04-18
 Balotta00,CB_AR,27383,PR,1996-01-01,B,PBMC,Dideoxy,ITA,AF114311,FALSE,2006-04-18
 Balotta00,CB_AR,27383,RT,1996-01-01,B,PBMC,Dideoxy,ITA,AF114275,FALSE,2006-04-18

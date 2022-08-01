@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Paraskevis05,GRSPR1,25203,RT,2003-06-01,B,Plasma,Dideoxy,GRC,AY940237,FALSE,2005-08-02
 Paraskevis05,GRSPR2,25207,RT,2003-06-01,B,Plasma,Dideoxy,GRC,AY940238,FALSE,2005-08-02
 Paraskevis05,GRSPR5,25210,RT,2003-06-01,B,Plasma,Dideoxy,GRC,AY940242,FALSE,2005-08-02

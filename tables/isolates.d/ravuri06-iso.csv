@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ravuri06,SKR_102501,29496,RT,2005-01-01,C,Plasma,Dideoxy,IND,DQ062919,FALSE,2006-10-23
 Ravuri06,SKR_102503,29497,RT,2005-01-01,C,Plasma,Dideoxy,IND,DQ062920,FALSE,2006-10-23
 Ravuri06,SKR_102552,29498,RT,2005-01-01,C,Plasma,Dideoxy,IND,DQ062921,FALSE,2006-10-23

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bila13,MZ09-001,121840,PR,2007-06-01,C,Dried Blood Spot,Dideoxy,MOZ,KF927170,FALSE,2014-01-21
 Bila13,MZ09-001,121840,RT,2007-06-01,C,Dried Blood Spot,Dideoxy,MOZ,KF927170,FALSE,2014-01-21
 Bila13,MZ09-002,122013,PR,2007-06-01,C,Dried Blood Spot,Dideoxy,MOZ,KF927171,FALSE,2014-01-21

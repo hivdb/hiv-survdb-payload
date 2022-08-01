@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 VanTran16,VI-353,RT,RT:L100I,100,I

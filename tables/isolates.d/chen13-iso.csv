@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chen13,11YNHH002,111923,PR,2011-06-30,B,Plasma,Dideoxy,CHN,JX412323,FALSE,2013-04-04
 Chen13,11YNHH002,111923,RT,2011-06-30,CRF07_BC,Plasma,Dideoxy,CHN,JX412323,FALSE,2013-04-04
 Chen13,11YNHH003,111898,PR,2011-06-30,C,Plasma,Dideoxy,CHN,JX412324,FALSE,2013-04-04

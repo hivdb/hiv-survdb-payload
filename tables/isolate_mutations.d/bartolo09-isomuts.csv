@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Bartolo09,CSE116,PR,PR:L10V,10,V,0
 Bartolo09,CSE116,PR,PR:I13V,13,V,0
 Bartolo09,CSE116,PR,PR:K14T,14,T,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hattori16,A05_1024,194640,PR,2007-06-01,B,Plasma,Dideoxy,JPN,AB863795,FALSE,2017-04-17
 Hattori16,A05_1024,194640,RT,2007-06-01,B,Plasma,Dideoxy,JPN,AB863795,FALSE,2017-04-17
 Hattori16,A07_1056,193984,PR,2007-06-01,CRF01_AE,Plasma,Dideoxy,JPN,AB863797,FALSE,2017-04-17

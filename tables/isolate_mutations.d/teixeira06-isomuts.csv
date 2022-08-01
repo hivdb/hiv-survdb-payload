@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Teixeira06,SLMT_IVDU008,PR,PR:I15V,15,V,0
 Teixeira06,SLMT_IVDU008,PR,PR:E35D,35,D,0
 Teixeira06,SLMT_IVDU008,PR,PR:M36I,36,I,0

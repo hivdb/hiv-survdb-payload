@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Liang20,CQ12000047,295051,PR,2014-07-01,CRF07_BC,Plasma,Dideoxy,CHN,MW232549,FALSE,2021-01-18
 Liang20,CQ12000047,295051,RT,2014-07-01,CRF07_BC,Plasma,Dideoxy,CHN,MW232549,FALSE,2021-01-18
 Liang20,CQ12000081,295052,PR,2014-07-01,CRF07_BC,Plasma,Dideoxy,CHN,MW232550,FALSE,2021-01-18

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chin10,C001,PR,PR:E35D,35,D,0
 Chin10,C001,PR,PR:L63P,63,P,0
 Chin10,C001,PR,PR:I72V,72,V,0

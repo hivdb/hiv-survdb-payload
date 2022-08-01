@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brumme07,1064,44623,PR,1998-01-01,B,Plasma,Dideoxy,CAN,EF368374,FALSE,2008-06-17
 Brumme07,1064,44623,RT,1998-01-01,B,Plasma,Dideoxy,CAN,EF369198,FALSE,2008-06-17
 Brumme07,1065,44624,PR,1998-01-01,B,Plasma,Dideoxy,CAN,EF368375,FALSE,2008-06-17

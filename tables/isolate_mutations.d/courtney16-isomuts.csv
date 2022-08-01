@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Courtney16,MDC001-1,RT,RT:V60I,60,I,0
 Courtney16,MDC001-1,RT,RT:G99E,99,E,0
 Courtney16,MDC001-1,RT,RT:V118M,118,M,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Perez-Parra16,1002090,184417,PR,2010-06-01,B,Plasma,Dideoxy,ESP,KY110874,FALSE,2017-03-15
 Perez-Parra16,1002090,184417,RT,2010-06-01,B,Plasma,Dideoxy,ESP,KY110874,FALSE,2017-03-15
 Perez-Parra16,1010036,184429,PR,2012-06-01,B,Plasma,Dideoxy,ESP,KY110877,FALSE,2017-03-15

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sanabani11,BR1002,91709,PR,2002-06-01,B,PBMC,Dideoxy,BRA,JN692431,FALSE,2012-05-01
 Sanabani11,BR1002,91709,RT,2002-06-01,B,PBMC,Dideoxy,BRA,JN692431,FALSE,2012-05-01
 Sanabani11,BR1002,91709,IN,2002-06-01,B,PBMC,Dideoxy,BRA,JN692431,FALSE,2012-05-01

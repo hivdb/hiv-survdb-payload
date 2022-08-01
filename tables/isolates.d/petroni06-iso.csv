@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Petroni06,AP_ARRP001,28061,PR,2004-06-01,B + F,Plasma,Dideoxy,ARG,DQ206645,FALSE,2006-08-30
 Petroni06,AP_ARRP001,28061,RT,2004-06-01,B,Plasma,Dideoxy,ARG,DQ206645,FALSE,2006-08-30
 Petroni06,AP_ARRP003,28062,PR,2004-06-01,CRF12_BF,Plasma,Dideoxy,ARG,DQ206646,FALSE,2006-08-30

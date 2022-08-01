@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Viani06,05-132859,36734,PR,2004-06-01,B,Plasma,Dideoxy,USA,DQ832114,FALSE,2007-05-01
 Viani06,05-132859,36734,RT,2004-06-01,B,Plasma,Dideoxy,USA,DQ832114,FALSE,2007-05-01
 Viani06,05-132860,36735,PR,2004-06-01,B,Plasma,Dideoxy,USA,DQ832115,FALSE,2007-05-01

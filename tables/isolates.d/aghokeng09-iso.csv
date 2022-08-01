@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Aghokeng09,AV_0001,69269,PR,2006-06-01,J,Plasma,Dideoxy,TCD,GU191652,FALSE,2010-01-04
 Aghokeng09,AV_0001,69269,RT,2006-06-01,CRF11_cpx,Plasma,Dideoxy,TCD,GU191652,FALSE,2010-01-04
 Aghokeng09,AV_0014,69273,PR,2006-06-01,CRF45_cpx,Plasma,Dideoxy,TCD,GU191656,FALSE,2010-01-04

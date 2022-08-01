@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Antoniadou13,GR013,121056,PR,2009-06-01,A,Plasma,Dideoxy,GRC,KF671758,FALSE,2014-01-03
 Antoniadou13,GR013,121056,RT,2009-06-01,A,Plasma,Dideoxy,GRC,KF671856,FALSE,2014-01-03
 Antoniadou13,GR015,121013,PR,2009-06-01,A,Plasma,Dideoxy,GRC,KF671759,FALSE,2014-01-03

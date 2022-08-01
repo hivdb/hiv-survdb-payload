@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Serrano12,2010693432,86802,PR,2009-06-01,G,Dried Blood Spot,Dideoxy,AGO,JQ616875,FALSE,2012-01-30
 Serrano12,2010693432,86802,RT,2009-06-01,G,Dried Blood Spot,Dideoxy,AGO,JQ616875,FALSE,2012-01-30
 Serrano12,2010693433,86803,PR,2009-06-01,C,Dried Blood Spot,Dideoxy,AGO,JQ616876,FALSE,2012-01-30

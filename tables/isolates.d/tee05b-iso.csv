@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Tee05b,MYIDU8,37197,RT,2004-06-01,B,Plasma,Dideoxy,MYS,AY887046,FALSE,2007-05-16
 Tee05b,MYIDU9,37198,RT,2004-06-01,B,Plasma,Dideoxy,MYS,AY887047,FALSE,2007-05-16
 Tee05b,MYIDU10,37199,RT,2004-06-01,B + CRF01_AE,Plasma,Dideoxy,MYS,AY887048,FALSE,2007-05-16

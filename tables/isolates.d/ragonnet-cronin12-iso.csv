@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ragonnet-Cronin12,PHAC07_062,97903,PR,2006-06-01,B,Plasma,Dideoxy,CAN,JQ674950,FALSE,2012-09-11
 Ragonnet-Cronin12,PHAC07_062,97903,RT,2006-06-01,B,Plasma,Dideoxy,CAN,JQ674950,FALSE,2012-09-11
 Ragonnet-Cronin12,PHAC07_202,97904,PR,2006-06-01,B,Plasma,Dideoxy,CAN,JQ674951,FALSE,2012-09-11

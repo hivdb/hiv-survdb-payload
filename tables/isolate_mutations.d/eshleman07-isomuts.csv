@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Eshleman07,10001707,PR,PR:I13V,13,V,0
 Eshleman07,10001707,PR,PR:I15V,15,V,0
 Eshleman07,10001707,PR,PR:L63S,63,S,0

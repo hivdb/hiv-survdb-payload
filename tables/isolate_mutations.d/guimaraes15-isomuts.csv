@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Guimaraes15,BRSP1-13,PR,PR:I15V,15,V,0
 Guimaraes15,BRSP1-13,PR,PR:M36I,36,I,0
 Guimaraes15,BRSP1-13,PR,PR:N37E,37,E,0

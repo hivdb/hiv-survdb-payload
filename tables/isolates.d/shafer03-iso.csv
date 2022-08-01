@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Shafer03,A384_0001,39644,PR,1999-02-11,B,Plasma,Dideoxy,USA,EF548447,FALSE,2007-11-07
 Shafer03,A384_0001,39644,RT,1999-02-11,B,Plasma,Dideoxy,USA,EF548447,FALSE,2007-11-07
 Shafer03,A384_0002,39637,PR,1999-02-04,B,Plasma,Dideoxy,USA,EF548439,FALSE,2007-11-07

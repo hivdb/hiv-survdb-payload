@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gonsalez07,01,67341,PR,2003-06-01,B,Plasma,Dideoxy,BRA,GU288789,FALSE,2009-12-01
 Gonsalez07,01,67341,RT,2003-06-01,B,Plasma,Dideoxy,BRA,GU288789,FALSE,2009-12-01
 Gonsalez07,02,67342,PR,2003-06-01,B,Plasma,Dideoxy,BRA,GU288726,FALSE,2009-12-01

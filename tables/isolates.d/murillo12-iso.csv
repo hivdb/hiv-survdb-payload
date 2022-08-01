@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Murillo12,11004,102823,PR,2008-06-01,B,Plasma,Dideoxy,SLV,KC412724,FALSE,2013-02-26
 Murillo12,11004,102823,RT,2008-06-01,B,Plasma,Dideoxy,SLV,KC412724,FALSE,2013-02-26
 Murillo12,11014,102824,PR,2008-06-01,B,Plasma,Dideoxy,SLV,KC412725,FALSE,2013-02-26

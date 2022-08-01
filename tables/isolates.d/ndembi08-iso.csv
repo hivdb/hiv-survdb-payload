@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ndembi08,CMYD-1,40864,PR,2005-06-01,CRF02_AG,PBMC,Dideoxy,CMR,DQ990377,FALSE,2008-02-06
 Ndembi08,CMYD-1,40864,RT,2005-06-01,CRF02_AG,PBMC,Dideoxy,CMR,DQ990377,FALSE,2008-02-06
 Ndembi08,CMYD-3,40865,PR,2005-06-01,D,PBMC,Dideoxy,CMR,DQ990378,FALSE,2008-02-06

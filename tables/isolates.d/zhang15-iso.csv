@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zhang15,HZ130057,147213,PR,2013-06-01,B,Plasma,Dideoxy,CHN,KM258676,FALSE,2015-10-30
 Zhang15,HZ130057,147213,RT,2013-06-01,CRF07_BC,Plasma,Dideoxy,CHN,KM258676,FALSE,2015-10-30
 Zhang15,HZ130060,147084,PR,2013-06-01,B,Plasma,Dideoxy,CHN,KM258677,FALSE,2015-10-30

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Hierholzer02b,SU005,PR,PR:L33V,33,V,0
 Hierholzer02b,SU005,PR,PR:N37T,37,T,0
 Hierholzer02b,SU005,PR,PR:P39S,39,S,0

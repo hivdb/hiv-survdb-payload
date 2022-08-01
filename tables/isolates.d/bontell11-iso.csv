@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bontell11,Pat001,82531,PR,2009-03-01,CRF01_AE,Plasma,Dideoxy,VNM,HQ852915,FALSE,2011-08-18
 Bontell11,Pat001,82531,RT,2009-03-01,CRF01_AE,Plasma,Dideoxy,VNM,HQ852915,FALSE,2011-08-18
 Bontell11,Pat002,82530,PR,2009-03-01,CRF01_AE,Plasma,Dideoxy,VNM,HQ852914,FALSE,2011-08-18

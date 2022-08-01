@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Tee05,03MYKL1315,PR,PR:I13V,13,V,0
 Tee05,03MYKL1315,PR,PR:K20R,20,R,0
 Tee05,03MYKL1315,PR,PR:M36I,36,I,0

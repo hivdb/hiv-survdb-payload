@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lin13,BC,164978,PR,2013-02-06,B,Plasma,Dideoxy,TWN,KF234628,FALSE,2016-05-26
 Lin13,BC,164978,RT,2013-02-06,CRF07_BC,Plasma,Dideoxy,TWN,KF234628,FALSE,2016-05-26
 Lin13,BC,164978,IN,2013-02-06,C,Plasma,Dideoxy,TWN,KF234628,FALSE,2016-05-26

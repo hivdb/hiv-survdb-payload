@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kandathil09,CD06_402,63083,PR,2006-07-21,C,Plasma,Dideoxy,IND,EU683765,FALSE,2009-10-05
 Kandathil09,CD06_402,63083,RT,2006-07-21,C,Plasma,Dideoxy,IND,EU683765,FALSE,2009-10-05
 Kandathil09,CD06_406,63084,PR,2006-07-25,C,Plasma,Dideoxy,IND,EU683766,FALSE,2009-10-05

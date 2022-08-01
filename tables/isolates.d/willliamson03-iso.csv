@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Willliamson03,CW-CTSC1,16056,RT,1999-01-01,C,Plasma,Dideoxy,ZAF,AF543993,FALSE,2003-07-31
 Willliamson03,CW-CTSC2,16057,RT,1999-01-01,C,Plasma,Dideoxy,ZAF,AF543994,FALSE,2003-07-31
 Willliamson03,CW-DU115,16058,RT,1999-01-01,C,Plasma,Dideoxy,ZAF,AF543995,FALSE,2003-07-31

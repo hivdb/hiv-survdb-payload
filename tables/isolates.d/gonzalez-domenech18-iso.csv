@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gonzalez-Domenech18,PT129140,230067,PR,2016-12-31,CRF19_cpx,Plasma,Dideoxy,ESP,KY558451,FALSE,2018-12-26
 Gonzalez-Domenech18,PT129140,230067,RT,2016-12-31,CRF19_cpx,Plasma,Dideoxy,ESP,KY558507,FALSE,2018-12-26
 Gonzalez-Domenech18,PT129159,230068,PR,2011-09-05,CRF19_cpx,Plasma,Dideoxy,ESP,KY558413,FALSE,2018-12-26

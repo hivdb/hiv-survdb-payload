@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zheng13,VN_001,190142,PR,2006-06-01,CRF01_AE,Plasma,Dideoxy,VNM,JX123778,FALSE,2017-03-29
 Zheng13,VN_001,190142,RT,2006-06-01,CRF01_AE,Plasma,Dideoxy,VNM,JX123778,FALSE,2017-03-29
 Zheng13,VN_002,190120,PR,2006-06-01,CRF01_AE,Plasma,Dideoxy,VNM,JX123779,FALSE,2017-03-29

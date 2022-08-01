@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Oette06,1004,PR,PR:K14R,14,R,0
 Oette06,1004,PR,PR:E35D,35,D,0
 Oette06,1004,PR,PR:N37D,37,D,0

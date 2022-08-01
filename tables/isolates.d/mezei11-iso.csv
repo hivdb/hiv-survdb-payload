@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Mezei11,2999,82661,RT,2010-01-27,B,Plasma,Dideoxy,HUN,JF419424,FALSE,2011-08-22
 Mezei11,3000,82662,PR,2009-12-16,B,Plasma,Dideoxy,HUN,JF419395,FALSE,2011-08-22
 Mezei11,3000,82662,RT,2009-12-16,B,Plasma,Dideoxy,HUN,JF419425,FALSE,2011-08-22

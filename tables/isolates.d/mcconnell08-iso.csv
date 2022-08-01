@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 McConnell08,NV01,63106,PR,2005-01-01,B,Plasma,Dideoxy,ESP,EU288087,FALSE,2009-10-06
 McConnell08,NV01,63106,RT,2005-01-01,B,Plasma,Dideoxy,ESP,EU288087,FALSE,2009-10-06
 McConnell08,NV02,63177,PR,2005-01-01,B,Plasma,Dideoxy,ESP,EU288158,FALSE,2009-10-06

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Nguyen08,001,62111,PR,2006-01-01,CRF01_AE,Plasma,Dideoxy,VNM,NULL,FALSE,2009-09-24
 Nguyen08,001,62111,RT,2006-01-01,CRF01_AE,Plasma,Dideoxy,VNM,NULL,FALSE,2009-09-24
 Nguyen08,002,62122,PR,2006-01-01,CRF01_AE,Plasma,Dideoxy,VNM,NULL,FALSE,2009-09-24

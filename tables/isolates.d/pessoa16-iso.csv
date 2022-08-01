@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Pessoa16,10BR_MG006,155079,PR,2010-06-01,B,PBMC,NGS,BRA,KT427690,FALSE,2016-05-04
 Pessoa16,10BR_MG006,155079,RT,2010-06-01,B,PBMC,NGS,BRA,KT427690,FALSE,2016-05-04
 Pessoa16,10BR_MG006,155079,IN,2010-06-01,B,PBMC,NGS,BRA,KT427690,FALSE,2016-05-04

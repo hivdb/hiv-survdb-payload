@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Maruapula20,DM1,290930,PR,2014-11-18,C,Plasma,Dideoxy,BWA,MT919443,FALSE,2020-11-17
 Maruapula20,DM1,290930,RT,2014-11-18,C,Plasma,Dideoxy,BWA,MT919443,FALSE,2020-11-17
 Maruapula20,DM2,290931,PR,2014-11-25,C,Plasma,Dideoxy,BWA,MT919444,FALSE,2020-11-17

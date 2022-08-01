@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Meixenberger14,00-00005,PR,PR:L10I,10,I,0
 Meixenberger14,00-00005,PR,PR:I13V,13,V,0
 Meixenberger14,00-00005,PR,PR:E35D,35,D,0

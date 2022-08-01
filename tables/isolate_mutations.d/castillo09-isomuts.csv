@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Castillo09,01,PR,PR:Q2E,2,E,0
 Castillo09,01,PR,PR:T12P,12,P,0
 Castillo09,01,PR,PR:K14R,14,R,0

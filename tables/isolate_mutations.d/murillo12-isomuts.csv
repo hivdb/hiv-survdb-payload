@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Murillo12,11004,PR,PR:N37S,37,S,0
 Murillo12,11004,PR,PR:L63R,63,R,0
 Murillo12,11004,PR,PR:I64V,64,V,0

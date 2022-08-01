@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Chen18,YNBN14R104,PR,PR:T12S,12,S,0
 Chen18,YNBN14R104,PR,PR:L19Q,19,Q,0
 Chen18,YNBN14R104,PR,PR:L38I,38,I,0

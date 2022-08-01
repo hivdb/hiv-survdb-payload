@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Servais04,SJ_Pat1,19377,PR,2000-06-01,A,Plasma,Dideoxy,RWA,AJ412937,FALSE,2004-05-18
 Servais04,SJ_Pat1,19377,RT,2000-06-01,A,Plasma,Dideoxy,RWA,AJ412990,FALSE,2004-05-18
 Servais04,SJ_Pat2,19378,PR,2000-06-01,C,Plasma,Dideoxy,RWA,AJ412938,FALSE,2004-05-18

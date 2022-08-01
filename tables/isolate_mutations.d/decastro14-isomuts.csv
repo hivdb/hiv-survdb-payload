@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 deCastro14,05BRRJLTS02,PR,PR:I13V,13,V,0
 deCastro14,05BRRJLTS02,PR,PR:G16E,16,E,0
 deCastro14,05BRRJLTS02,PR,PR:N37C,37,C,0

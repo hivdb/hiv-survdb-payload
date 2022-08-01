@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Derache07,1155,40766,PR,2005-06-01,CRF02_AG,Plasma,Dideoxy,MLI,EF064447,FALSE,2008-01-31
 Derache07,1155,40766,RT,2005-06-01,CRF02_AG,Plasma,Dideoxy,MLI,EF064447,FALSE,2008-01-31
 Derache07,1156,40767,PR,2005-06-01,CRF02_AG,Plasma,Dideoxy,MLI,EF064448,FALSE,2008-01-31

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Onywera17,0010704,184295,PR,2012-06-01,D,Plasma,Dideoxy,KEN,KX790992,FALSE,2017-03-15
 Onywera17,0010704,184295,RT,2012-06-01,D,Plasma,Dideoxy,KEN,KX790992,FALSE,2017-03-15
 Onywera17,0101402,184275,PR,2012-06-01,D,Plasma,Dideoxy,KEN,KX790993,FALSE,2017-03-15

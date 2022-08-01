@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Crispim19,BRAM_138,PR,PR:G73S,73,S

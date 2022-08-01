@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Varella07,1ini,63988,PR,2000-01-01,B,Plasma,Dideoxy,BRA,NULL,FALSE,2009-10-20
 Varella07,1ini,63988,RT,2000-01-01,B,Plasma,Dideoxy,BRA,NULL,FALSE,2009-10-20
 Varella07,3ini,64008,PR,2000-01-01,B,Plasma,Dideoxy,BRA,NULL,FALSE,2009-10-20

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Baudi17,Z14-043,PR,PR:L10I,10,I,1
 Baudi17,Z14-043,PR,PR:L10M,10,M,1
 Baudi17,Z14-043,PR,PR:T12A,12,A,1

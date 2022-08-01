@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gaspareto12,AAAJ75,PR,PR:E35D,35,D,0
 Gaspareto12,AAAJ75,PR,PR:N37Q,37,Q,0
 Gaspareto12,AAAJ75,PR,PR:P39S,39,S,0

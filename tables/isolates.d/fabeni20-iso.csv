@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Fabeni20,9948,290083,PR,2011-08-24,B,Plasma,Dideoxy,ITA,MT788351,FALSE,2020-11-17
 Fabeni20,9948,290083,RT,2011-08-24,B,Plasma,Dideoxy,ITA,MT788351,FALSE,2020-11-17
 Fabeni20,13929,290084,PR,1999-02-26,B,Plasma,Dideoxy,ITA,MT787754,FALSE,2020-11-17

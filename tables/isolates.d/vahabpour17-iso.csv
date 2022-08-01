@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vahabpour17,P-1,183448,PR,2016-03-01,CRF35_AD,Plasma,Dideoxy,IRN,KX641030,TRUE,2017-03-13
 Vahabpour17,P-1,183448,RT,2016-03-01,CRF35_AD,Plasma,Dideoxy,IRN,KX641030,FALSE,2017-03-13
 Vahabpour17,P-3,183440,PR,2016-03-01,A,Plasma,Dideoxy,IRN,KX641031,TRUE,2017-03-13

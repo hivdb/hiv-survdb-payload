@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hanna03,HG001,16773,PR,1999-06-01,B,Plasma,Dideoxy,USA,AY049703,FALSE,2003-11-05
 Hanna03,HG001,16773,RT,1999-06-01,B,Plasma,Dideoxy,USA,AY049702,FALSE,2003-11-05
 Hanna03,HG002,16774,PR,1999-06-01,B,Plasma,Dideoxy,USA,AY049701,FALSE,2003-11-05

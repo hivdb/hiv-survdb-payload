@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Musyoki12,DGM.1,PR,PR:L10I,10,I,0
 Musyoki12,DGM.1,PR,PR:T12S,12,S,0
 Musyoki12,DGM.1,PR,PR:I15V,15,V,0

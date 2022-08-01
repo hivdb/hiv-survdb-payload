@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Kasang11,1323,PR,PR:I13V,13,V,0
 Kasang11,1323,PR,PR:E34K,34,K,1
 Kasang11,1323,PR,PR:E35D,35,D,1

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lima16,02PE003,PR,PR:T12S,12,S,0
 Lima16,02PE003,PR,PR:L19T,19,T,0
 Lima16,02PE003,PR,PR:E35D,35,D,0

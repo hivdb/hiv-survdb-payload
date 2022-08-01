@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Han07,JC06,PR,PR:L63S,63,S,0
 Han07,JC06,PR,PR:I64V,64,V,0
 Han07,JC06,PR,PR:I72V,72,V,0

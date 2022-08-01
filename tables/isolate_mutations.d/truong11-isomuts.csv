@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Truong11,05000114,PR,PR:I13V,13,V,0
 Truong11,05000114,PR,PR:L63P,63,P,0
 Truong11,05000114,PR,PR:A71T,71,T,0

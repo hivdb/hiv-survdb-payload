@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bussmann05,01BW025N,24043,PR,2001-06-01,C,Plasma,Dideoxy,BWA,AY829305,FALSE,2005-03-25
 Bussmann05,01BW025N,24043,RT,2001-06-01,C,Plasma,Dideoxy,BWA,AY829305,FALSE,2005-03-25
 Bussmann05,01BW187S,24024,PR,2001-06-01,C,Plasma,Dideoxy,BWA,AY829272,FALSE,2005-03-25

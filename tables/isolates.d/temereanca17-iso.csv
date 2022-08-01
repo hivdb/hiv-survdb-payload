@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Temereanca17,IVN SA14,274913,PR,2013-01-31,B,Plasma,Dideoxy,ROU,KP231374,FALSE,2020-05-28
 Temereanca17,IVN SA14,274913,RT,2013-01-31,B,Plasma,Dideoxy,ROU,KP231374,FALSE,2020-05-28
 Temereanca17,IVN SA15,274906,PR,2013-01-01,G,Plasma,Dideoxy,ROU,KP231375,FALSE,2020-05-28

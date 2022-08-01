@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kemal13,6548,114594,PR,2005-06-01,A,Plasma,Dideoxy,RWA,JQ364513,FALSE,2013-06-17
 Kemal13,6548,114594,RT,2005-06-01,A,Plasma,Dideoxy,RWA,JQ364513,FALSE,2013-06-17
 Kemal13,7101,114597,PR,2005-06-01,D,Plasma,Dideoxy,RWA,JQ364514,FALSE,2013-06-17

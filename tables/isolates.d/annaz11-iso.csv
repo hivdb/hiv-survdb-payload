@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Annaz11,89,81113,PR,2009-01-05,B,Plasma,Dideoxy,MAR,HQ393240,FALSE,2011-06-13
 Annaz11,89,81113,RT,2009-01-05,B,Plasma,Dideoxy,MAR,HQ393323,FALSE,2011-06-13
 Annaz11,291,81114,PR,2009-01-07,A,Plasma,Dideoxy,MAR,HQ393241,FALSE,2011-06-13

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brumme09,A0526,72101,PR,2003-01-01,B,Plasma,Dideoxy,USA,GQ371764,FALSE,2010-04-07
 Brumme09,A0526,72101,RT,2003-01-01,B,Plasma,Dideoxy,USA,GQ371764,FALSE,2010-04-07
 Brumme09,A0526,72101,IN,2003-01-01,B,Plasma,Dideoxy,USA,GQ371764,FALSE,2010-04-07

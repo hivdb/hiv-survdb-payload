@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hunt13,GP05_0215,120926,RT,2005-10-10,C,Plasma,Dideoxy,ZAF,KF736455,FALSE,2014-01-03
 Hunt13,GP05_0224,120860,RT,2005-10-10,C,Plasma,Dideoxy,ZAF,KF736456,FALSE,2014-01-03
 Hunt13,GP05_0325,120749,RT,2005-10-10,C,Plasma,Dideoxy,ZAF,KF736457,FALSE,2014-01-03

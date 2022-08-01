@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ravuri06,SKR_102501,RT,RT:V35T,35,T,0
 Ravuri06,SKR_102501,RT,RT:E36A,36,A,0
 Ravuri06,SKR_102501,RT,RT:T39D,39,D,0

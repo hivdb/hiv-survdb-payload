@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sinha12,AIIMS-13,93362,PR,2006-10-12,C,Plasma,Dideoxy,IND,HQ453364,FALSE,2012-06-14
 Sinha12,AIIMS-13,93362,RT,2006-10-12,C,Plasma,Dideoxy,IND,HQ453364,FALSE,2012-06-14
 Sinha12,AIIMS-18,93363,PR,2007-08-27,C,Plasma,Dideoxy,IND,HQ453365,FALSE,2012-06-14

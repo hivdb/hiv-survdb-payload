@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sigaloff12,KECGP001,93525,PR,2009-06-01,CRF01_AE,Plasma,Dideoxy,KEN,JN628461,FALSE,2012-06-26
 Sigaloff12,KECGP001,93525,RT,2009-06-01,A,Plasma,Dideoxy,KEN,JN628461,FALSE,2012-06-26
 Sigaloff12,KECGP010,93526,PR,2009-06-01,A,Plasma,Dideoxy,KEN,JN628462,FALSE,2012-06-26

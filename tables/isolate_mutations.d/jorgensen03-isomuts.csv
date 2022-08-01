@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Jorgensen03,JLB_Pat1,PR,PR:Q2E,2,E,1
 Jorgensen03,JLB_Pat1,PR,PR:T12A,12,A,1
 Jorgensen03,JLB_Pat1,PR,PR:L19Q,19,Q,0

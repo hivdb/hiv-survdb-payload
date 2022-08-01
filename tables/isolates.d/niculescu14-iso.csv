@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Niculescu14,DU111,145097,PR,2012-06-01,F,Plasma,Dideoxy,ROU,KJ194736,FALSE,2015-04-02
 Niculescu14,DU111,145097,RT,2012-06-01,F,Plasma,Dideoxy,ROU,KJ194736,FALSE,2015-04-02
 Niculescu14,DU136,145070,PR,2012-06-01,F,Plasma,Dideoxy,ROU,KJ194737,FALSE,2015-04-02

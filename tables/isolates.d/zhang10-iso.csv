@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zhang10,0501,70380,PR,2006-06-01,B,Dried Blood Spot,Dideoxy,CHN,GQ443553,FALSE,2010-02-05
 Zhang10,0501,70380,RT,2006-06-01,B,Dried Blood Spot,Dideoxy,CHN,GQ443553,FALSE,2010-02-05
 Zhang10,0518,70381,PR,2006-06-01,CRF01_AE,Dried Blood Spot,Dideoxy,CHN,GQ443554,FALSE,2010-02-05

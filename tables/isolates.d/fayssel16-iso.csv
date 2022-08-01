@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Fayssel16,RT01.13,267620,RT,2013-08-01,B,Plasma,Dideoxy,MAR,KU642585,FALSE,2020-01-09
 Fayssel16,RT02.13,267621,RT,2013-08-01,CRF43_02G,Plasma,Dideoxy,MAR,KU642579,FALSE,2020-01-09
 Fayssel16,RT03.13,267471,RT,2013-08-01,B,Plasma,Dideoxy,MAR,KU642596,FALSE,2020-01-09

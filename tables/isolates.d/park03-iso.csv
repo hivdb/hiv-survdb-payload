@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Park03,PSW_Pat1,17476,PR,1998-02-01,B,Plasma,Dideoxy,KOR,AY242863,FALSE,2003-12-16
 Park03,PSW_Pat1,17476,RT,1998-02-01,B,Plasma,Dideoxy,KOR,AY242902,FALSE,2003-12-16
 Park03,PSW_Pat2,17477,PR,1998-02-01,B,Plasma,Dideoxy,KOR,AY242864,FALSE,2003-12-16

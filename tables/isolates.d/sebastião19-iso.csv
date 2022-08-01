@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Sebastião19,P1,275088,PR,2018-04-12,D,Plasma,Dideoxy,AGO,MK543512,FALSE,2020-05-28
 Sebastião19,P1,275088,RT,2018-04-12,D,Plasma,Dideoxy,AGO,MK543512,FALSE,2020-05-28
 Sebastião19,P2,275065,PR,2018-04-15,CRF02_AG,Plasma,Dideoxy,AGO,MK543513,FALSE,2020-05-28

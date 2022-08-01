@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Iqbal09,100011,69496,PR,2005-06-01,C,Plasma,Dideoxy,IND,EU449518,FALSE,2010-01-04
 Iqbal09,100011,69496,RT,2005-06-01,C,Plasma,Dideoxy,IND,EU376057,FALSE,2010-01-04
 Iqbal09,100014,69497,RT,2005-06-01,C,Plasma,Dideoxy,IND,EU376058,FALSE,2010-01-04

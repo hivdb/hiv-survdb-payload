@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Capoferri20,A021565R15,PR,PR:I13V,13,V,0
 Capoferri20,A021565R15,PR,PR:L33V,33,V,0
 Capoferri20,A021565R15,PR,PR:N37T,37,T,0

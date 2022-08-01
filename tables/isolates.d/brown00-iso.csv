@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brown00,98-0787,26713,RT,1996-06-01,B,Plasma,Dideoxy,USA,AF301313,FALSE,2006-04-06
 Brown00,98-0788,26714,RT,1996-06-01,B,Plasma,Dideoxy,USA,AF301314,FALSE,2006-04-06
 Brown00,98-1206,26715,RT,1996-06-01,B,Plasma,Dideoxy,USA,AF301270,FALSE,2006-04-06

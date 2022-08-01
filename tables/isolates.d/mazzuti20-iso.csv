@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Mazzuti20,5_AM_2017,305902,PR,2017-01-01,B,Plasma,Dideoxy,ITA,NULL,FALSE,2022-03-17
 Mazzuti20,5_AM_2017,305902,RT,2017-01-01,B,Plasma,Dideoxy,ITA,NULL,FALSE,2022-03-17
 Mazzuti20,8_PR_2017,305903,PR,2017-01-01,B,Plasma,Dideoxy,ITA,NULL,FALSE,2022-03-17

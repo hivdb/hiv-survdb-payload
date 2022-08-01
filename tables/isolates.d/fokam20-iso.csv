@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Fokam20,CIRCB_AA07,296669,PR,2017-06-01,CRF02_AG,Plasma,Dideoxy,CMR,MK995406,FALSE,2021-05-12
 Fokam20,CIRCB_AA07,296669,RT,2017-06-01,CRF02_AG,Plasma,Dideoxy,CMR,MK995406,FALSE,2021-05-12
 Fokam20,CIRCB_AH08,296670,PR,2017-06-01,CRF02_AG,Plasma,Dideoxy,CMR,MK995407,FALSE,2021-05-12

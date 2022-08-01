@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Li13,2801,PR,PR:T12P,12,P,0
 Li13,2801,PR,PR:E35D,35,D,0
 Li13,2801,PR,PR:M36I,36,I,0

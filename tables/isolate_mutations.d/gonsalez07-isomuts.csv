@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gonsalez07,01,PR,PR:K14R,14,R,0
 Gonsalez07,01,PR,PR:N37D,37,D,0
 Gonsalez07,01,PR,PR:L63P,63,P,1

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chin15,NMC2013001,149511,PR,2013-06-01,B,Plasma,Dideoxy,KOR,KM820292,FALSE,2015-12-02
 Chin15,NMC2013001,149511,RT,2013-06-01,B,Plasma,Dideoxy,KOR,KM820292,FALSE,2015-12-02
 Chin15,NMC2013002,149416,PR,2013-06-01,B,Plasma,Dideoxy,KOR,KM820293,FALSE,2015-12-02

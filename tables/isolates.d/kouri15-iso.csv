@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kouri15,AIDS-RP1,149303,PR,2007-06-01,D,Plasma,Dideoxy,CUB,KP688083,FALSE,2015-11-25
 Kouri15,AIDS-RP1,149303,RT,2007-06-01,D,Plasma,Dideoxy,CUB,KP688083,FALSE,2015-11-25
 Kouri15,AIDS-RP2,149355,PR,2007-06-01,D,Plasma,Dideoxy,CUB,KP688094,FALSE,2015-11-25

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ibe08,101,PR,PR:L10I,10,I,0
 Ibe08,101,PR,PR:I62V,62,V,0
 Ibe08,101,PR,PR:L63A,63,A,0

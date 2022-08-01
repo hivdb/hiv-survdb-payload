@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wu19,BX.XZDmFY009,275600,PR,2017-10-19,B,Plasma,Dideoxy,CHN,MK459023,FALSE,2020-05-28
 Wu19,BX.XZDmFY009,275600,RT,2017-10-19,B,Plasma,Dideoxy,CHN,MK459023,FALSE,2020-05-28
 Wu19,HETE.XZDfFY010,275462,PR,2017-10-19,B,Plasma,Dideoxy,CHN,MK458938,FALSE,2020-05-28

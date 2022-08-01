@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chaix03,CML_Pat1,17769,RT,1999-01-01,B,Plasma,Dideoxy,FRA,AY260186,FALSE,2004-02-05
 Chaix03,CML_Pat2,17770,RT,1999-01-01,B,Plasma,Dideoxy,FRA,AY260187,FALSE,2004-02-05
 Chaix03,CML_Pat3,17771,RT,1999-01-01,B,Plasma,Dideoxy,FRA,AY260188,FALSE,2004-02-05

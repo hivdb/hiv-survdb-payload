@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Charpentier11,patco_01,81032,RT,2009-06-01,CRF02_AG,Plasma,Dideoxy,GIN,HQ021342,FALSE,2011-06-13
 Charpentier11,patco_02,81034,RT,2009-06-01,CRF02_AG,Plasma,Dideoxy,GIN,HQ021344,FALSE,2011-06-13
 Charpentier11,patco_03,81021,RT,2009-06-01,CRF02_AG,Plasma,Dideoxy,GIN,HQ021331,FALSE,2011-06-13

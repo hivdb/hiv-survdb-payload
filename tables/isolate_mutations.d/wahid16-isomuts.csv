@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wahid16,T00UCJM,PR,PR:L19V,19,V,0
 Wahid16,T00UCJM,PR,PR:N37S,37,S,0
 Wahid16,T00UCJM,PR,PR:L63H,63,H,0

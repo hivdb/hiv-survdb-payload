@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Rhee15,CA22231,RT,RT:T215D,215,D
 Rhee15,CA22231,RT,RT:T215E,215,E
 Rhee15,CA22231,RT,RT:T215S,215,S

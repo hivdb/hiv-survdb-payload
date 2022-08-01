@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Karamov18,RU_MOS_01,228607,PR,2015-07-15,A,Plasma,Dideoxy,RUS,MG986152,FALSE,2018-12-20
 Karamov18,RU_MOS_01,228607,RT,2015-07-15,A,Plasma,Dideoxy,RUS,MG986152,FALSE,2018-12-20
 Karamov18,RU_MOS_02,228606,PR,2015-07-15,A,Plasma,Dideoxy,RUS,MG986153,FALSE,2018-12-20

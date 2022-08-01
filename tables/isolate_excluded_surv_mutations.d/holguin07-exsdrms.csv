@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Holguin07,566846,RT,RT:K101E,101,E
 Holguin07,602331,RT,RT:T215C,215,C
 Holguin07,602331,RT,RT:T215D,215,D

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lunar13,40-08,119140,PR,2008-06-01,B,Plasma,Dideoxy,SVN,JX028366,FALSE,2013-10-15
 Lunar13,40-08,119140,RT,2008-06-01,B,Plasma,Dideoxy,SVN,JX028366,FALSE,2013-10-15
 Lunar13,120-08,119107,PR,2008-06-01,B,Plasma,Dideoxy,SVN,JX028363,FALSE,2013-10-15

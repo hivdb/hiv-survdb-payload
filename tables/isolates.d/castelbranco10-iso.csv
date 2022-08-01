@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Castelbranco10,090002A,79519,PR,2008-06-01,CRF45_cpx,Plasma,Dideoxy,AGO,HM357742,FALSE,2011-01-31
 Castelbranco10,090002A,79519,RT,2008-06-01,A + G,Plasma,Dideoxy,AGO,HM357742,FALSE,2011-01-31
 Castelbranco10,090004A,79502,PR,2008-06-01,C,Plasma,Dideoxy,AGO,HM357725,FALSE,2011-01-31

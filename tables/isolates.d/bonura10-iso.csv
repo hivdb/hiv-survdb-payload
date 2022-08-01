@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bonura10,150_12,73443,PR,2008-06-01,B,Plasma,Dideoxy,ITA,GU969525,FALSE,2010-04-26
 Bonura10,150_12,73443,RT,2008-06-01,B,Plasma,Dideoxy,ITA,GU969525,FALSE,2010-04-26
 Bonura10,542_RI,73390,PR,2004-06-01,B,Plasma,Dideoxy,ITA,GU969472,FALSE,2010-04-26

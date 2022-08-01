@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 deMedeiros11,Pat001,82532,PR,2009-06-01,B,PBMC,Dideoxy,BRA,JF487830,FALSE,2011-08-22
 deMedeiros11,Pat001,82532,RT,2009-06-01,B,PBMC,Dideoxy,BRA,JF487830,FALSE,2011-08-22
 deMedeiros11,Pat002,82533,PR,2005-06-01,C,PBMC,Dideoxy,BRA,JF487831,FALSE,2011-08-22

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Kasang11,1323,81314,PR,2007-06-01,D,PBMC,Dideoxy,TZA,HM572383,TRUE,2011-06-14
 Kasang11,1323,81314,RT,2007-06-01,A,PBMC,Dideoxy,TZA,HM572383,TRUE,2011-06-14
 Kasang11,1326,81351,PR,2007-06-01,CRF01_AE,PBMC,Dideoxy,TZA,HM572420,FALSE,2011-06-14

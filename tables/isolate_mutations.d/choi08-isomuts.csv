@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Choi08,KRB9047,PR,PR:N37C,37,C,0
 Choi08,KRB9047,PR,PR:R41K,41,K,0
 Choi08,KRB9047,PR,PR:L63T,63,T,0

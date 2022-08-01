@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Matthews08,1043C,85734,PR,2002-06-01,C,PBMC,Dideoxy,ZAF,FJ199532,FALSE,2011-12-06
 Matthews08,1043C,85734,RT,2002-06-01,C,PBMC,Dideoxy,ZAF,FJ199532,FALSE,2011-12-06
 Matthews08,1043C,85734,IN,2002-06-01,C,PBMC,Dideoxy,ZAF,FJ199532,TRUE,2011-12-06

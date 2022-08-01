@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hassan19,27,289847,PR,2008-07-17,A,Plasma,NGS,KEN,MH575294,FALSE,2020-10-09
 Hassan19,27,289847,RT,2008-07-17,A,Plasma,NGS,KEN,MH575294,FALSE,2020-10-09
 Hassan19,65,289848,PR,2008-08-19,A,Plasma,NGS,KEN,MH575296,FALSE,2020-10-09

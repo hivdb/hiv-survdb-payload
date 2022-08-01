@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zuckerman19,24307.21646,240715,PR,2002-01-14,B,Plasma,Dideoxy,ISR,MK042022,FALSE,2019-03-18
 Zuckerman19,24307.21646,240715,RT,2002-01-14,B,Plasma,Dideoxy,ISR,MK042628,FALSE,2019-03-18
 Zuckerman19,28751.22014,240716,PR,2003-02-26,B,Plasma,Dideoxy,ISR,MK042125,FALSE,2019-03-18

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Aghokeng11,HJ126,87608,PR,2006-06-01,G,Plasma,Dideoxy,CMR,JN639446,FALSE,2012-02-27
 Aghokeng11,HJ126,87608,RT,2006-06-01,G,Plasma,Dideoxy,CMR,JN639446,FALSE,2012-02-27
 Aghokeng11,HJ227,87609,PR,2006-06-01,CRF01_AE,Plasma,Dideoxy,CMR,JN639447,FALSE,2012-02-27

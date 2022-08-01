@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Dilernia07,6,44481,PR,2003-01-01,B,Plasma,Dideoxy,ARG,EF120342,FALSE,2008-06-12
 Dilernia07,6,44481,RT,2003-01-01,B,Plasma,Dideoxy,ARG,EF120342,FALSE,2008-06-12
 Dilernia07,F001,44213,PR,2003-01-01,B,Plasma,Dideoxy,ARG,EF120074,FALSE,2008-06-12

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Chang08,TW0024a,60466,PR,2000-01-01,B,Plasma,Dideoxy,TWN,NULL,FALSE,2009-08-12
 Chang08,TW0024a,60466,RT,2000-01-01,B,Plasma,Dideoxy,TWN,NULL,FALSE,2009-08-12
 Chang08,TW0032a,60467,PR,2000-01-01,B,Plasma,Dideoxy,TWN,NULL,FALSE,2009-08-12

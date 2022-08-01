@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Dean11,IVVI0024,91968,PR,2008-08-22,CRF01_AE,Plasma,Dideoxy,VNM,JQ312330,FALSE,2012-05-02
 Dean11,IVVI0024,91968,RT,2008-08-22,CRF01_AE,Plasma,Dideoxy,VNM,JQ312330,FALSE,2012-05-02
 Dean11,IVVI0034,91969,PR,2008-08-22,CRF01_AE,Plasma,Dideoxy,VNM,JQ312331,FALSE,2012-05-02

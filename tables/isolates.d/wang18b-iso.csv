@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wang18b,HLJCIQ12001,231359,PR,2012-06-01,CRF01_AE,Plasma,Dideoxy,CHN,MF941226,FALSE,2019-01-07
 Wang18b,HLJCIQ12001,231359,RT,2012-06-01,CRF01_AE,Plasma,Dideoxy,CHN,MF941226,FALSE,2019-01-07
 Wang18b,HLJCIQ12002,231360,PR,2012-06-01,A,Plasma,Dideoxy,CHN,MF941227,FALSE,2019-01-07

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Eyzaguirre07,KZ300215,38637,PR,2003-06-01,A,PBMC,Dideoxy,KAZ,EF576758,FALSE,2007-10-15
 Eyzaguirre07,KZ300215,38637,RT,2003-06-01,A,PBMC,Dideoxy,KAZ,EF576758,FALSE,2007-10-15
 Eyzaguirre07,KZ300235,38646,PR,2003-06-01,A,PBMC,Dideoxy,KAZ,EF576767,FALSE,2007-10-15

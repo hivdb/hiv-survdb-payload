@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Brumme07,1064,PR,PR:E35D,35,D,0
 Brumme07,1064,PR,PR:N37S,37,S,0
 Brumme07,1064,PR,PR:L63S,63,S,0

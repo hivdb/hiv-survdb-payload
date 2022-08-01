@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Han07,JC06,37492,PR,2004-01-01,B,Plasma,Dideoxy,CHN,EF122590,FALSE,2007-06-04
 Han07,JC06,37492,RT,2004-01-01,B,Plasma,Dideoxy,CHN,EF122590,FALSE,2007-06-04
 Han07,JC07,37404,PR,2004-01-01,B,Plasma,Dideoxy,CHN,EF122502,FALSE,2007-06-04

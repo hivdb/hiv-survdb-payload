@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Romano00,LR_1,27589,PR,1998-01-01,B,Plasma,Dideoxy,ITA,AF209301,FALSE,2006-04-19
 Romano00,LR_1,27589,RT,1998-01-01,B,Plasma,Dideoxy,ITA,AF209213,FALSE,2006-04-19
 Romano00,LR_2,27600,PR,1998-01-01,B,Plasma,Dideoxy,ITA,AF209302,FALSE,2006-04-19

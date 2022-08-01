@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Fayssel16,RT01.13,RT,RT:K49R,49,R,0
 Fayssel16,RT01.13,RT,RT:I50V,50,V,0
 Fayssel16,RT01.13,RT,RT:V118I,118,I,0

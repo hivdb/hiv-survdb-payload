@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Papathanasopoulos10,14998,77010,PR,2006-06-01,C,Plasma,Dideoxy,ZAF,GU253406,FALSE,2010-09-30
 Papathanasopoulos10,14998,77010,RT,2006-06-01,C,Plasma,Dideoxy,ZAF,GU253406,FALSE,2010-09-30
 Papathanasopoulos10,14998,77010,IN,2006-06-01,C,Plasma,Dideoxy,ZAF,GU253443,FALSE,2010-09-30

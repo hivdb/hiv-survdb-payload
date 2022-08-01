@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wu20,13CNSH011,PR,PR:I15V,15,V,0
 Wu20,13CNSH011,PR,PR:L19I,19,I,0
 Wu20,13CNSH011,PR,PR:M36I,36,I,0

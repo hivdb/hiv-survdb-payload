@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wang09,01144G,107109,PR,2005-08-07,B,PBMC,Dideoxy,USA,FJ469682,FALSE,2013-03-15
 Wang09,01144G,107109,RT,2005-08-07,B,PBMC,Dideoxy,USA,FJ469682,FALSE,2013-03-15
 Wang09,01144G,107109,IN,2005-08-07,B,PBMC,Dideoxy,USA,FJ469682,FALSE,2013-03-15

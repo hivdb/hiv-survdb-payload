@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Youngpairoj12,cm1bb,29134,PR,2002-06-01,CRF02_AG,Plasma,Dideoxy,CMR,DQ166413,FALSE,2006-09-20
 Youngpairoj12,cm1bb,29134,RT,2002-06-01,CRF02_AG,Plasma,Dideoxy,CMR,DQ166413,FALSE,2006-09-20
 Youngpairoj12,cm2bb,90380,PR,2002-06-01,A,Plasma,Dideoxy,CMR,DQ166431,FALSE,2012-03-19

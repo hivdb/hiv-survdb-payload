@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Kroon18,PT2543028,PR,PR:I13V,13,V,0
 Kroon18,PT2543028,PR,PR:K14R,14,R,1
 Kroon18,PT2543028,PR,PR:I15V,15,V,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Mulu13,ETH-G-5476,119987,PR,2009-06-01,C,Plasma,Dideoxy,ETH,KF026059,FALSE,2013-11-20
 Mulu13,ETH-G-5476,119987,RT,2009-06-01,C,Plasma,Dideoxy,ETH,KF026059,FALSE,2013-11-20
 Mulu13,ETH-G-5478,120011,PR,2009-06-01,C,Plasma,Dideoxy,ETH,KF026060,FALSE,2013-11-20

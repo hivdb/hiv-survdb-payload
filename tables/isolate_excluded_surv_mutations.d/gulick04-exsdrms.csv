@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Gulick04,RG256,RT,RT:T215I,215,I
 Gulick04,RG256,RT,RT:T215S,215,S
 Gulick04,RG303,RT,RT:T215C,215,C

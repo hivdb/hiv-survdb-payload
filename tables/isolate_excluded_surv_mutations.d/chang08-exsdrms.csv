@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Chang08,TW1872,PR,PR:I84V,84,V
 Chang08,TW303,PR,PR:I54L,54,L
 Chang08,TW303,PR,PR:I54V,54,V

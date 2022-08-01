@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Lunar18,10661-13,PR,PR:T12S,12,S,0
 Lunar18,10661-13,PR,PR:G17E,17,E,0
 Lunar18,10661-13,PR,PR:I62V,62,V,0

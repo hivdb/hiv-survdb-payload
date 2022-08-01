@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Joao20,0821086B,301356,PR,2015-12-25,CRF01_AE,Plasma,Dideoxy,THA,MZ475789,FALSE,2021-12-15
 Joao20,0821086B,301356,RT,2015-12-25,CRF01_AE,Plasma,Dideoxy,THA,MZ475789,FALSE,2021-12-15
 Joao20,0821086B,301356,IN,2015-12-25,CRF01_AE,Plasma,Dideoxy,THA,MZ475789,FALSE,2021-12-15

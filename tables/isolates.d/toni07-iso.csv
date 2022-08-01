@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Toni07,pci160,39384,PR,2004-01-01,CRF02_AG,Plasma,Dideoxy,CIV,EF116689,FALSE,2007-10-31
 Toni07,pci160,39384,RT,2004-01-01,CRF02_AG,Plasma,Dideoxy,CIV,EF116778,FALSE,2007-10-31
 Toni07,pci161,39385,PR,2004-01-01,CRF02_AG,Plasma,Dideoxy,CIV,EF116690,FALSE,2007-10-31

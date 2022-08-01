@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Bartolo14,09AOHDP7,126289,PR,2009-06-01,C,Plasma,Dideoxy,AGO,KF853878,FALSE,2014-02-19
 Bartolo14,09AOHDP7,126289,RT,2009-06-01,C,Plasma,Dideoxy,AGO,KF853737,FALSE,2014-02-19
 Bartolo14,09AOHDP15,126352,PR,2009-06-01,D,Plasma,Dideoxy,AGO,KF853772,FALSE,2014-02-19

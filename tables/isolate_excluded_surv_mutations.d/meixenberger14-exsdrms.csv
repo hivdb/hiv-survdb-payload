@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Meixenberger14,03-00261,RT,RT:T215D,215,D
 Meixenberger14,03-00261,RT,RT:T215S,215,S
 Meixenberger14,03-00261,RT,RT:T215Y,215,Y

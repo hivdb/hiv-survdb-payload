@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Eshleman07,10001707,37559,PR,2001-01-01,B,Plasma,Dideoxy,USA,EF136664,FALSE,2007-06-08
 Eshleman07,10001707,37559,RT,2001-01-01,B,Plasma,Dideoxy,USA,EF136664,FALSE,2007-06-08
 Eshleman07,10003985,37560,PR,2001-01-01,B,Plasma,Dideoxy,USA,EF136665,FALSE,2007-06-08

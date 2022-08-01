@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Witaningrum16,PB1,PR,PR:I15V,15,V,0
 Witaningrum16,PB1,PR,PR:R41K,41,K,0
 Witaningrum16,PB1,PR,PR:I62V,62,V,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Milne19,15482e_NAU53_ce,243027,RT,2010-10-06,A,Plasma,Dideoxy,KEN,MH509817,FALSE,2019-03-20
 Milne19,15975e_MYG38_ce,243012,RT,2010-07-05,A,Plasma,Dideoxy,KEN,MH509800,FALSE,2019-03-20
 Milne19,16335e_MWX56_ce,242998,RT,2010-02-10,A,Plasma,Dideoxy,KEN,MH509784,FALSE,2019-03-20

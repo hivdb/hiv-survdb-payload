@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 vanZyl17,CD_F_16-24_none,PR,PR:I13V,13,V,0
 vanZyl17,CD_F_16-24_none,PR,PR:K20R,20,R,0
 vanZyl17,CD_F_16-24_none,PR,PR:M36I,36,I,0

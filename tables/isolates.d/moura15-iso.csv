@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Moura15,BRMA_1,146971,PR,2012-06-01,B,Plasma,Dideoxy,BRA,KF782680,FALSE,2015-10-30
 Moura15,BRMA_1,146971,RT,2012-06-01,B,Plasma,Dideoxy,BRA,KF782680,FALSE,2015-10-30
 Moura15,BRMA_2,146941,PR,2012-06-01,B,Plasma,Dideoxy,BRA,KF782681,FALSE,2015-10-30

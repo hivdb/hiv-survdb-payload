@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Delwart12,476-5214-5,87918,PR,2008-06-01,C,Plasma,Dideoxy,USA,JN215115,FALSE,2012-02-27
 Delwart12,476-5214-5,87918,RT,2008-06-01,C,Plasma,Dideoxy,USA,JN215115,FALSE,2012-02-27
 Delwart12,476-5277-3,87768,PR,2006-06-01,B,Plasma,Dideoxy,USA,JN214964,FALSE,2012-02-27

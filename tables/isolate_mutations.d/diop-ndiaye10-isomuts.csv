@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Diop-Ndiaye10,1011hald,PR,PR:I13V,13,V,0
 Diop-Ndiaye10,1011hald,PR,PR:K14R,14,R,0
 Diop-Ndiaye10,1011hald,PR,PR:G16E,16,E,0

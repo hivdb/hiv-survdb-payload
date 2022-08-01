@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Alencar13,MG2-0003,PR,PR:L10V,10,V,0
 Alencar13,MG2-0003,PR,PR:I13V,13,V,0
 Alencar13,MG2-0003,PR,PR:E35D,35,D,0

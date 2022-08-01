@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Panichsillapakit16,22c/20100826,PR,PR:N37S,37,S,0
 Panichsillapakit16,22c/20100826,PR,PR:I62V,62,V,0
 Panichsillapakit16,22c/20100826,PR,PR:L63P,63,P,0

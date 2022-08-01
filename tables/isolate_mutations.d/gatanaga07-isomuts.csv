@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Gatanaga07,A03-201001-1,PR,PR:I15V,15,V,1
 Gatanaga07,A03-201001-1,PR,PR:L19I,19,I,1
 Gatanaga07,A03-201002-1,PR,PR:I15V,15,V,0

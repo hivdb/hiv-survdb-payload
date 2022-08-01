@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Zhao20,Beijing045,PR,PR:E35D,35,D,0
 Zhao20,Beijing045,PR,PR:R41K,41,K,0
 Zhao20,Beijing045,PR,PR:Q58E,58,E,0

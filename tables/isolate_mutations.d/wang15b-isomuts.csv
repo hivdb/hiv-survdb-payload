@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Wang15b,10,PR,PR:I13V,13,V,0
 Wang15b,10,PR,PR:G16E,16,E,0
 Wang15b,10,PR,PR:L19M,19,M,0

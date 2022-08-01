@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Ragonnet-Cronin12b,A05_005,PR,PR:M36I,36,I,1
 Ragonnet-Cronin12b,A05_005,PR,PR:P39Q,39,Q,0
 Ragonnet-Cronin12b,A05_005,PR,PR:K45R,45,R,1

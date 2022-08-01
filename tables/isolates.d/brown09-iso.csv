@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Brown09,CAS_7_1_5664,111559,PR,2001-06-01,B,Plasma,Dideoxy,GBR,FJ030780,FALSE,2013-04-03
 Brown09,CAS_7_1_5664,111559,RT,2001-06-01,B,Plasma,Dideoxy,GBR,FJ030780,FALSE,2013-04-03
 Brown09,CAS_11_1_5767,111421,PR,1996-06-01,B,Plasma,Dideoxy,FRA,FJ030653,FALSE,2013-04-03

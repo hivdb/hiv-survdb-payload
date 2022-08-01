@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vidal07,B1027,32243,PR,2002-06-01,C,PBMC,Dideoxy,BDI,AM260260,FALSE,2007-03-07
 Vidal07,B1027,32243,RT,2002-06-01,C,PBMC,Dideoxy,BDI,AM260260,FALSE,2007-03-07
 Vidal07,B1040,32244,PR,2002-06-01,C,PBMC,Dideoxy,BDI,AM260261,FALSE,2007-03-07

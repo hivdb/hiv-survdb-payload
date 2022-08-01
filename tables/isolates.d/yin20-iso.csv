@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Yin20,cz4,293818,PR,2017-06-01,B + C,Plasma,Dideoxy,CHN,MT986079,FALSE,2020-11-17
 Yin20,cz4,293818,RT,2017-06-01,B + C,Plasma,Dideoxy,CHN,MT986079,FALSE,2020-11-17
 Yin20,cz8,293819,PR,2017-06-01,CRF01_AE,Plasma,Dideoxy,CHN,MT986098,FALSE,2020-11-17

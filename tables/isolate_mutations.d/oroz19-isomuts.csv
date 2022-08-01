@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Oroz19,CRO1018,PR,PR:I3V,3,V,0
 Oroz19,CRO1018,PR,PR:L10I,10,I,0
 Oroz19,CRO1018,PR,PR:I13V,13,V,0

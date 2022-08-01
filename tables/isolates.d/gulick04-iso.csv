@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Gulick04,RG1,81355,PR,2002-01-01,B,Plasma,Dideoxy,USA,NULL,FALSE,2011-06-16
 Gulick04,RG1,81355,RT,2002-01-01,B,Plasma,Dideoxy,USA,NULL,FALSE,2011-06-16
 Gulick04,RG2,81466,PR,2002-01-01,B,Plasma,Dideoxy,USA,NULL,FALSE,2011-06-16

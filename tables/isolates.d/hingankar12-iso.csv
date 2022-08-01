@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Hingankar12,IN-NARI-4-001,96373,PR,2007-06-01,C,Plasma,Dideoxy,IND,JN314892,FALSE,2012-09-10
 Hingankar12,IN-NARI-4-001,96373,RT,2007-06-01,C,Plasma,Dideoxy,IND,JN314892,FALSE,2012-09-10
 Hingankar12,IN-NARI-4-002,96374,PR,2007-06-01,C,Plasma,Dideoxy,IND,JN314893,FALSE,2012-09-10

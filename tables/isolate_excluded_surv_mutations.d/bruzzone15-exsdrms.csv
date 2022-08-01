@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Bruzzone15,MB0182F,PR,PR:D30N,30,N
 Bruzzone15,MB0182F,PR,PR:G73S,73,S
 Bruzzone15,HM0076F,RT,RT:L210W,210,W

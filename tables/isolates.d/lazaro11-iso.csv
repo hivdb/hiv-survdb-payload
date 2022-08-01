@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lazaro11,AGM9_R,92075,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,HQ542714,FALSE,2012-05-02
 Lazaro11,AG-M3,92070,PR,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,HQ542614,FALSE,2012-05-02
 Lazaro11,AG-M3,92070,RT,2008-06-01,CRF01_AE,Plasma,Dideoxy,VNM,HQ542709,FALSE,2012-05-02

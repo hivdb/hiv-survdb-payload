@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Lama06,Pt1025,36107,PR,2002-06-01,B,Plasma,Dideoxy,PER,NULL,FALSE,2007-04-11
 Lama06,Pt1025,36107,RT,2002-06-01,B,Plasma,Dideoxy,PER,NULL,FALSE,2007-04-11
 Lama06,Pt1054,36108,PR,2002-06-01,B,Plasma,Dideoxy,PER,NULL,FALSE,2007-04-11

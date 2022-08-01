@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Moura15,BRMA_1,PR,PR:L10F,10,F,0
 Moura15,BRMA_1,PR,PR:T12I,12,I,0
 Moura15,BRMA_1,PR,PR:N37S,37,S,0

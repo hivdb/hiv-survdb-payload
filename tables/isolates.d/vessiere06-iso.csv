@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Vessiere06,AV_M2386N,28512,PR,2003-01-01,CRF02_AG,Plasma,Dideoxy,CMR,DQ297234,FALSE,2006-09-08
 Vessiere06,AV_M2386N,28512,RT,2003-01-01,CRF02_AG,Plasma,Dideoxy,CMR,DQ297284,FALSE,2006-09-08
 Vessiere06,AV_M2507N,28513,PR,2003-01-01,CRF02_AG,Plasma,Dideoxy,CMR,DQ297235,FALSE,2006-09-08

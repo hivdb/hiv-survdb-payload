@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Price11,2,95337,PR,2006-02-23,A,Plasma,Dideoxy,RWA,KC018613,FALSE,2012-08-08
 Price11,2,95337,RT,2006-02-23,A,Plasma,Dideoxy,RWA,KC018613,FALSE,2012-08-08
 Price11,3,95378,PR,2006-02-23,A,Plasma,Dideoxy,RWA,KC018652,FALSE,2012-08-08

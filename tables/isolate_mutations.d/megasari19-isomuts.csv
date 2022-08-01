@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Megasari19,BLL_201,PR,PR:E21K,21,K,0
 Megasari19,BLL_201,PR,PR:E35D,35,D,0
 Megasari19,BLL_201,PR,PR:M36I,36,I,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ojesina06,AIO_DDJ013,28011,PR,2003-01-01,CRF02_AG,Plasma,Dideoxy,NGA,DQ273924,FALSE,2006-08-30
 Ojesina06,AIO_DDJ013,28011,RT,2003-01-01,CRF02_AG,Plasma,Dideoxy,NGA,DQ273891,FALSE,2006-08-30
 Ojesina06,AIO_DDJ025,28012,PR,2003-01-01,G,Plasma,Dideoxy,NGA,DQ273925,FALSE,2006-08-30

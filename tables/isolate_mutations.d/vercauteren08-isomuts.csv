@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Vercauteren08,B01507P,PR,PR:N37S,37,S,0
 Vercauteren08,B01507P,PR,PR:I64V,64,V,1
 Vercauteren08,B02402P,PR,PR:E35D,35,D,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Vercauteren09,pt1443,PR,PR:V82F,82,F
 Vercauteren09,pt1443,PR,PR:V82L,82,L
 Vercauteren09,pt1695,PR,PR:N83D,83,D

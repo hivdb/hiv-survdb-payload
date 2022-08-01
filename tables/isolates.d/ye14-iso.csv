@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Ye14,BJ07141,165849,PR,2007-01-09,B,Plasma,Dideoxy,CHN,KM011660,FALSE,2016-06-06
 Ye14,BJ07141,165849,RT,2007-01-09,B,Plasma,Dideoxy,CHN,KM011660,FALSE,2016-06-06
 Ye14,BJ07144,165919,PR,2007-01-09,B,Plasma,Dideoxy,CHN,KM011661,FALSE,2016-06-06

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Avi13,10,PR,PR:I13V,13,V,0
 Avi13,10,PR,PR:K14R,14,R,0
 Avi13,10,PR,PR:I15V,15,V,0

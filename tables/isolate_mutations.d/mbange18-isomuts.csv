@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Mbange18,1100B,PR,PR:T12E,12,E,0
 Mbange18,1100B,PR,PR:I13V,13,V,0
 Mbange18,1100B,PR,PR:K14R,14,R,0

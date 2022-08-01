@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yaotse09,HT032,PR,PR:I13V,13,V,0
 Yaotse09,HT032,PR,PR:K14R,14,R,0
 Yaotse09,HT032,PR,PR:K20I,20,I,0

@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Parczewski14,100_KR13,PR,PR:K14R,14,R,1
 Parczewski14,100_KR13,PR,PR:E35D,35,D,0
 Parczewski14,100_KR13,PR,PR:N37T,37,T,0

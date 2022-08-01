@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Wang08,CYM001,85185,PR,2007-06-01,B,Plasma,Dideoxy,CHN,EU921952,FALSE,2011-10-31
 Wang08,CYM001,85185,RT,2007-06-01,B,Plasma,Dideoxy,CHN,EU921952,FALSE,2011-10-31
 Wang08,CYM002,85186,PR,2007-06-01,B,Plasma,Dideoxy,CHN,EU921953,FALSE,2011-10-31

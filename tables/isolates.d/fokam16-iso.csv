@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Fokam16,CIRCB-01AH,164561,PR,2014-01-02,CRF01_AE,Plasma,Dideoxy,CMR,KR229757,FALSE,2016-05-16
 Fokam16,CIRCB-01AH,164561,RT,2014-01-02,A,Plasma,Dideoxy,CMR,KR229757,FALSE,2016-05-16
 Fokam16,CIRCB-02AH,164573,PR,2014-02-01,CRF02_AG,Plasma,Dideoxy,CMR,KR229758,FALSE,2016-05-16

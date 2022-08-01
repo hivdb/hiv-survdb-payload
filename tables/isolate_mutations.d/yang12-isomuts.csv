@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Yang12,GZ005,PR,PR:L10V,10,V,0
 Yang12,GZ005,PR,PR:I13V,13,V,0
 Yang12,GZ005,PR,PR:G16E,16,E,0

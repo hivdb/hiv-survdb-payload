@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Brown09,CAS_100_1_7725,PR,PR:T12A,12,A,0
 Brown09,CAS_100_1_7725,PR,PR:L63P,63,P,1
 Brown09,CAS_100_1_7725,PR,PR:L63S,63,S,1

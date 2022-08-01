@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Zeng20,TJ-16-1,288820,RT,2016-01-11,CRF01_AE,Plasma,Dideoxy,CHN,MT161956,FALSE,2020-09-08
 Zeng20,TJ-16-2,288821,RT,2016-01-13,B + C,Plasma,Dideoxy,CHN,MT161948,FALSE,2020-09-08
 Zeng20,TJ-16-3,288822,RT,2016-02-02,CRF01_AE,Plasma,Dideoxy,CHN,MT161947,FALSE,2020-09-08

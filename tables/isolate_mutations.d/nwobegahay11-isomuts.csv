@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Nwobegahay11,BBVCT01ZA,PR,PR:I15V,15,V,0
 Nwobegahay11,BBVCT01ZA,PR,PR:L19I,19,I,0
 Nwobegahay11,BBVCT01ZA,PR,PR:M36I,36,I,0

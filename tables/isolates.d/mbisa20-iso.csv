@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Mbisa20,140036,287525,PR,2014-06-01,B,Plasma,NGS,GBR,MT571020,FALSE,2020-09-08
 Mbisa20,140036,287525,RT,2014-06-01,B,Plasma,NGS,GBR,MT571020,FALSE,2020-09-08
 Mbisa20,140036,287525,IN,2014-06-01,B,Plasma,NGS,GBR,MT570682,FALSE,2020-09-08

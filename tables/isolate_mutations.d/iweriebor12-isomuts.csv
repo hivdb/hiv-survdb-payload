@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Iweriebor12,07B10ZA,PR,PR:L10V,10,V,0
 Iweriebor12,07B10ZA,PR,PR:I15V,15,V,0
 Iweriebor12,07B10ZA,PR,PR:L19I,19,I,0

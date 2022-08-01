@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
 Marechal06,JF_001,PR,PR:I13V,13,V,0
 Marechal06,JF_001,PR,PR:G17E,17,E,0
 Marechal06,JF_001,PR,PR:K20L,20,L,0

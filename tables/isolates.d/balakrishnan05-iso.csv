@@ -1,4 +1,4 @@
-﻿ref_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+﻿dataset_name,isolate_name,patient_id,gene,isolate_date,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
 Balakrishnan05,YRG1,24363,PR,2003-06-01,C,Plasma,Dideoxy,IND,AY787487,FALSE,2005-05-06
 Balakrishnan05,YRG1,24363,RT,2003-06-01,C,Plasma,Dideoxy,IND,AY787487,FALSE,2005-05-06
 Balakrishnan05,YRG2,24366,PR,2003-06-01,C,Plasma,Dideoxy,IND,AY787488,FALSE,2005-05-06

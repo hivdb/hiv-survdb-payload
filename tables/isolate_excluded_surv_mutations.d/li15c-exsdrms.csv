@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
+Li15c,HN13S0043,RT,RT:Y188H,188,H
+Li15c,HN13S0043,RT,RT:Y188L,188,L
+Li15c,HN14S0100,RT,RT:M41L,41,L
+Li15c,ZJ10S0032,RT,RT:L210W,210,W

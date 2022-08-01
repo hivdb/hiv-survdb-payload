@@ -1,2 +1,2 @@
-﻿ref_name,isolate_name,gene,mutation,position,amino_acid
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid
 Ndembi11,AICPS033,RT,RT:G190S,190,S

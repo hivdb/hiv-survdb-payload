@@ -1,5 +1,4 @@
 ﻿country_code,subregion_name
-ABB,NULL
 ABW,Caribbean
 AFG,Asia
 AGO,Central Africa
@@ -81,7 +80,6 @@ DNK,Europe
 DOM,Caribbean
 DZA,Northern Africa
 ECU,South America
-EEE,NULL
 EGY,Northern Africa
 ERI,Eastern Africa
 ERI,Sub-Saharan Africa
@@ -90,7 +88,6 @@ ESP,Europe
 EST,Post-Soviet States
 ETH,Eastern Africa
 ETH,Sub-Saharan Africa
-FFF,NULL
 FIN,Europe
 FJI,Oceania
 FLK,South America
@@ -209,7 +206,6 @@ NGA,Western Africa
 NIC,Central America
 NIU,Oceania
 NLD,Europe
-NNN,NULL
 NOR,Europe
 NPL,Asia
 NRU,Oceania
@@ -254,7 +250,6 @@ SOM,Eastern Africa
 SOM,Sub-Saharan Africa
 SPM,North America
 SRB,Europe
-SRR,NULL
 SSD,Eastern Africa
 SSD,Sub-Saharan Africa
 STP,Central Africa
@@ -295,7 +290,6 @@ UKR,Post-Soviet States
 UMI,Oceania
 URY,South America
 USA,North America
-UUU,NULL
 UZB,Asia
 UZB,Post-Soviet States
 VAT,Europe

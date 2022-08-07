@@ -296,13 +296,13 @@ Hierholzer02b,Hierholzer02b,Africa,PLOSMED2015,"Arabic, North Africa; Study of s
 Hightower13,Hightower13,North America,JIntAIDSSoc2020,Sequences available since 2014,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hightower13
 Hingankar12,Hingankar12,Asia,PLOSMED2015,"This study analyzed baseline sequences from 96 patients in Chennai and 96 patients in Mumbai who were starting 1-line regimen. The reported TDR was 5.2% in Chennai patients and 10.4% in Mumbai patients. In GB, only 96 from Chennai patients are available. Also the author noted that patients with previous ART exposure before initiating the 1-line were not excluded. This might have been the case for the Mumbai patients. Should we keep this study?",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hingankar12
 Hoelscher01,Hoelscher01,NULL,EX,<25 RTs (9 RTs),NULL,NULL
-Hoenigl16,Hoenigl16,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hoenigl16
+Hoenigl16,Hoenigl16,Europe,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hoenigl16
 Holguin00,Holguin00,NULL,EX,<25 RTs (13 RTs),NULL,NULL
 Holguin02,Holguin02,NULL,EX,<25 RTs (1 RTs),NULL,NULL
 Holguin04,Holguin04,NULL,EX,<25 RTs (0 RTs),NULL,NULL
 Holguin07,Holguin07,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin07
 Holguin08,Holguin08,Europe,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin08
-Holguin13,Holguin13,NULL,PLOSMED2015,Contacted: Holguin (aholguin.hciii@salud.madrid.org) for a paper; there seem to be multiple sequences from a same patient (look at CPR tree),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin13
+Holguin13,Holguin13,South America,PLOSMED2015,Contacted: Holguin (aholguin.hciii@salud.madrid.org) for a paper; there seem to be multiple sequences from a same patient (look at CPR tree),NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin13
 Holzmayer05,Holzmayer05,NULL,EX,<25 RTs (1 RTs),NULL,NULL
 Hora15,Hora15,NULL,EX,Rx not stated,NULL,NULL
 Hosaka16,Hosaka16,NULL,EX,<25 Pts,NULL,NULL
@@ -329,7 +329,7 @@ Isarangkura-Na-Ayuthaya10,Isarangkura-Na-Ayuthaya10,NULL,EX,<25 RTs,NULL,NULL
 Ishizaki09,Ishizaki09,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ishizaki09
 Iweriebor12,Iweriebor12,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/iweriebor12
 Jacobs08,Jacobs08,Africa,PLOSMED2015,Only 91 RTs are in GB.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jacobs08
-Jagdagsuren17,Jagdagsuren17,NULL,JIntAIDSSoc2020,Only 3 sequences are by NGS MiSeq,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jagdagsuren17
+Jagdagsuren17,Jagdagsuren17,Asia,JIntAIDSSoc2020,Only 3 sequences are by NGS MiSeq,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jagdagsuren17
 Jahanbakhsh12,Jahanbakhsh12,Asia,PLOSMED2015,"96% were CRF35_AD; Samples from 47 of 50 naïve were sequenced; 94 Accessions in GB, PRRT and IN were submitted separately; Subtype for PRRT was changed to CRF35_AD and for IN was changed to A;",NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jahanbakhsh12
 Jahanbakhsh13,Jahanbakhsh13,NULL,EX,<25 Pts,NULL,NULL
 Jayaraman06,Jayaraman06,North America,PLOSMED2015,Not in GB; 715 in the paper; Only 399 in db.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/jayaraman06
@@ -415,7 +415,7 @@ Li13d,Li13d,Asia,PLOSMED2015,pol genes from 98 patients,NULL,https://hivdb.stanf
 Li14,Li14,NULL,EX,<25 Pts,NULL,NULL
 Li15,Li15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15
 Li15b,Li15b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15b
-Li15c,Li15c,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15c
+Li15c,Li15c,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15c
 Li16,Li16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li16
 Li16b,Li16b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li16b
 Li18,Li18,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li18
@@ -557,7 +557,7 @@ Onoro07,Onoro07,Europe,PLOSMED2015,The paper in Spanish; Sequences are not in GB
 Onsongo16,Onsongo16,NULL,EX,<25 RTs,NULL,NULL
 Onywera17,Onywera17,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/onywera17
 Oroz19,Oroz19,Europe,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/oroz19
-Otecko16,Otecko16,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/otecko16
+Otecko16,Otecko16,Africa,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/otecko16
 Palacios08,Palacios08,Europe,PLOSMED2015,The paper in Spanish.,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/palacios08
 Palm15,Palm15,NULL,EX,<25 Pts,NULL,NULL
 Palma07,Palma07,Europe,PLOSMED2015,SPREAD study,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/palma07
@@ -643,7 +643,7 @@ Saad06,Saad06,Europe,PLOSMED2015,A Former Soviet Union,Use_Only_Untreated,https:
 Saad06b,Saad06b,Asia,PLOSMED2015,A Former Soviet Union,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/saad06b
 Sachithanandham16,Sachithanandham16,NULL,EX,<25 RTs,NULL,NULL
 Sacks-Davis20,Sacks-Davis20,Oceania,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sacks-davis20
-Saeng-Aroon16,Saeng-Aroon16,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/saeng-aroon16
+Saeng-Aroon16,Saeng-Aroon16,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/saeng-aroon16
 Sagoe07,Sagoe07,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/sagoe07
 Sagoe12,Sagoe12,NULL,EX,<25 Pts,NULL,NULL
 Sagoe16,Sagoe16,NULL,EX,<25 Pts,NULL,NULL
@@ -753,7 +753,7 @@ Truong11,Truong11,North America,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr
 Tscherning-Casper00,Tscherning-Casper00,NULL,EX,<25 RTs (0 RTs),NULL,NULL
 Tshabalala11,Tshabalala11,Africa,PLOSMED2015,The study includes 56 sequences from Dalai09 (Ref1714). ,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tshabalala11
 Tsuiji06,Tsuiji06,NULL,EX,<25 RTs (20 RTs),NULL,NULL
-Tu09,Tu09,NULL,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tu09
+Tu09,Tu09,Asia,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tu09
 Tully16-North-America,Tully16,North America,EX,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tully16-north-america
 Tully16-Europe,Tully16,Europe,EX,NGS,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tully16-europe
 Tymchuk10,Tymchuk10,NULL,EX,<25 RTs (20 RTs),NULL,NULL
@@ -778,7 +778,7 @@ Vessiere06,Vessiere06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/re
 Vessiere10,Vessiere10,NULL,EX,<25 RTs (1 RTs),NULL,NULL
 Viani06,Viani06,North America,PLOSMED2015,Mostly from US (1/55 is from Pueto Rico).,Set_Continent_To: North America,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/viani06
 Vicente01,Vicente01,NULL,EX,<25 RTs (0 RTs),NULL,NULL
-Vicenti07,Vicenti07,NULL,PLOSMED2015,Study of PBMC vs Plasma,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vicenti07
+Vicenti07,Vicenti07,Europe,PLOSMED2015,Study of PBMC vs Plasma,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vicenti07
 Vidal00,Vidal00,NULL,EX,<25 RTs (1 RTs),NULL,NULL
 Vidal03,Vidal03,NULL,EX,<25 RTs (4 RTs),NULL,NULL
 Vidal06,Vidal06,Africa,PLOSMED2015,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/vidal06
@@ -867,7 +867,7 @@ Zeng17,Zeng17,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-sur
 Zeng20,Zeng20,Asia,New,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zeng20
 Zhang10,Zhang10,Asia,PLOSMED2015,WHO HIVDR-TS Survey,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang10
 Zhang15,Zhang15,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang15
-Zhang15b,Zhang15b,NULL,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang15b
+Zhang15b,Zhang15b,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhang15b
 Zhang17,Zhang17,NULL,EX,Rx not stated,NULL,NULL
 Zhang19,Zhang19,NULL,EX,<25 PTs,NULL,NULL
 Zhao14,Zhao14,Asia,JIntAIDSSoc2020,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/zhao14

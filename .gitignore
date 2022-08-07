@@ -4,3 +4,5 @@ local/
 *.swa
 ~$*
 sequences/new
+suppl-tables/cpr_POL_new.txt
+suppl-tables/dataset_cpr_urls_new.csv

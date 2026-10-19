@@ -1,0 +1,13 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Bartolo09b,138113,RT,RT:K103N,103,N,false
+Bartolo09b,138113,RT,RT:T215F,215,F,false
+Bartolo09b,138120,RT,RT:M184V,184,V,false
+Bartolo09b,138120,RT,RT:M41L,41,L,false
+Bartolo09b,138120,RT,RT:T215Y,215,Y,false
+Bartolo09b,138126,RT,RT:D67N,67,N,false
+Bartolo09b,138126,RT,RT:L210W,210,W,false
+Bartolo09b,138126,RT,RT:M184V,184,V,false
+Bartolo09b,138126,RT,RT:M41L,41,L,false
+Bartolo09b,138126,RT,RT:T215Y,215,Y,false
+Bartolo09b,138287,RT,RT:D67G,67,G,false
+Bartolo09b,138291,RT,RT:V179F,179,F,false

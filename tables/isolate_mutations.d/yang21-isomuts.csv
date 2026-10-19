@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Yang21,638911,IN,IN:G149A,149,A,false
+Yang21,639049,IN,IN:G149A,149,A,false
+Yang21,639081,IN,IN:E138A,138,A,false
+Yang21,639106,IN,IN:G149A,149,A,false
+Yang21,639508,IN,IN:G149A,149,A,false
+Yang21,639706,IN,IN:E138A,138,A,false

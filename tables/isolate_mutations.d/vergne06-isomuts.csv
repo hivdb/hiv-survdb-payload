@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Vergne06,150348,RT,RT:M184V,184,V,false
+Vergne06,150350,RT,RT:K103N,103,N,false
+Vergne06,150431,PR,PR:M46L,46,L,false
+Vergne06,150552,RT,RT:V106A,106,A,false
+Vergne06,150566,RT,RT:M41L,41,L,false
+Vergne06,150576,RT,RT:M41L,41,L,false

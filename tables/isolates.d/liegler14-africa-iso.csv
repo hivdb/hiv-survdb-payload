@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Liegler14-Africa,361574,361574,180058,RT,NULL,2009,C,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361612,361612,180096,PR,NULL,2009,C,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361635,361635,180119,PR,NULL,2010,F,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361637,361637,180121,PR,NULL,2010,C,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361730,361730,180214,RT,NULL,2010,F,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361753,361753,180237,RT,NULL,2009,B,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361755,361755,180239,PR,NULL,2009,B,Plasma,NULL,ZAF,NULL,false,NULL
+Liegler14-Africa,361822,361822,180306,RT,NULL,2010,C,Plasma,NULL,ZAF,NULL,false,NULL

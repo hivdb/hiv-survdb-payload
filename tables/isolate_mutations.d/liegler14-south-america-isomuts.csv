@@ -1,0 +1,13 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Liegler14-South America,361623,RT,RT:K101E,101,E,false
+Liegler14-South America,361644,RT,RT:M41L,41,L,false
+Liegler14-South America,361666,RT,RT:K103N,103,N,false
+Liegler14-South America,361718,RT,RT:M184V,184,V,false
+Liegler14-South America,361754,RT,RT:K103N,103,N,false
+Liegler14-South America,361765,RT,RT:M41L,41,L,false
+Liegler14-South America,361780,RT,RT:M184I,184,I,false
+Liegler14-South America,361793,RT,RT:K103N,103,N,false
+Liegler14-South America,361793,RT,RT:M184V,184,V,false
+Liegler14-South America,361793,RT,RT:P225H,225,H,false
+Liegler14-South America,361793,RT,RT:T215Y,215,Y,false
+Liegler14-South America,361810,PR,PR:I85V,85,V,false

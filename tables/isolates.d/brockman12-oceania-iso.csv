@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Brockman12-Oceania,233195,233195,112240,IN,NULL,2004,B,Plasma,NULL,AUS,NULL,false,NULL
+Brockman12-Oceania,233196,233196,112241,IN,NULL,2004,B,Plasma,NULL,AUS,NULL,false,NULL
+Brockman12-Oceania,233197,233197,112242,IN,NULL,2004,B,Plasma,NULL,AUS,NULL,false,NULL

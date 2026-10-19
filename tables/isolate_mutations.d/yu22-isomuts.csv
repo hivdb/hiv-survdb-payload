@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Yu22,636972,IN,IN:E138A,138,A,false
+Yu22,637123,IN,IN:G149A,149,A,false
+Yu22,637282,IN,IN:A49G,49,G,false
+Yu22,637493,IN,IN:T66I,66,I,false
+Yu22,637642,IN,IN:S230R,230,R,false

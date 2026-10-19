@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Lebedev17,409245,RT,RT:M184I,184,I,false
+Lebedev17,409301,RT,RT:K219N,219,N,false

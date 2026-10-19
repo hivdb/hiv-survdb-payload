@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Abdoel Wahid16,331620,RT,RT:V75M,75,M,false
+Abdoel Wahid16,331690,RT,RT:H221Y,221,Y,false

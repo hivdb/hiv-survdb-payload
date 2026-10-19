@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Matsuda24,709349,IN,IN:E138K,138,K,false
+Matsuda24,709467,IN,IN:R263K,263,K,false
+Matsuda24,709471,IN,IN:E138K,138,K,false

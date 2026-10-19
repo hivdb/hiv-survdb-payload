@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Vazquez de Parga05-Asia,94602,94602,41757,PR,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94603,94603,41757,RT,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94604,94604,41758,PR,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94605,94605,41758,RT,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94606,94606,41759,PR,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94607,94607,41759,RT,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94608,94608,41760,PR,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94609,94609,41760,RT,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94610,94610,41761,PR,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL
+Vazquez de Parga05-Asia,94611,94611,41761,RT,NULL,1998,A,Plasma,NULL,KAZ,NULL,false,NULL

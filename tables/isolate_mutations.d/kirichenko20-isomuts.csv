@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kirichenko20,571047,IN,IN:R263K,263,K,false

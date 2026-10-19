@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+van de Klundert22-Asia,688302,PR,PR:N88S,88,S,false
+van de Klundert22-Asia,688475,RT,RT:T215I,215,I,false
+van de Klundert22-Asia,688502,PR,PR:M46I,46,I,false
+van de Klundert22-Asia,688583,RT,RT:M184I,184,I,false
+van de Klundert22-Asia,688620,PR,PR:M46I,46,I,false
+van de Klundert22-Asia,688627,RT,RT:K219R,219,R,false
+van de Klundert22-Asia,688630,PR,PR:M46I,46,I,false
+van de Klundert22-Asia,688639,RT,RT:K101E,101,E,false
+van de Klundert22-Asia,688644,PR,PR:M46I,46,I,false

@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Liegler14-North America,361581,361581,180065,RT,NULL,2009,CRF12_BF,Plasma,NULL,USA,NULL,false,NULL
+Liegler14-North America,361602,361602,180086,RT,NULL,2010,B,Plasma,NULL,USA,NULL,false,NULL
+Liegler14-North America,361608,361608,180092,PR,NULL,2009,B + F,Plasma,NULL,USA,NULL,false,NULL
+Liegler14-North America,361654,361654,180138,RT,NULL,2009,B,Plasma,NULL,USA,NULL,false,NULL
+Liegler14-North America,361700,361700,180184,PR,NULL,2009,B,Plasma,NULL,USA,NULL,false,NULL
+Liegler14-North America,361817,361817,180301,PR,NULL,2010,B,Plasma,NULL,USA,NULL,false,NULL

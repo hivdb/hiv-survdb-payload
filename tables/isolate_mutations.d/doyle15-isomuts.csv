@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Doyle15,518558,IN,IN:A49G,49,G,false
+Doyle15,518692,IN,IN:H51Y,51,Y,false
+Doyle15,518789,IN,IN:R263K,263,K,false
+Doyle15,518806,IN,IN:Y143S,143,S,false

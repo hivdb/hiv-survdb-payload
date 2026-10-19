@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Lunar19,507934,PR,PR:L90M,90,M,false

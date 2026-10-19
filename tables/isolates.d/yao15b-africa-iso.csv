@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Yao15b-Africa,666217,666217,334243,CA,NULL,2007,CRF02_AG,Plasma,NULL,GIN,NULL,false,NULL

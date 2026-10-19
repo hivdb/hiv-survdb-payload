@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Ndiaye13,501768,RT,RT:K70N,70,N,false
+Ndiaye13,501775,PR,PR:G73S,73,S,false
+Ndiaye13,501792,RT,RT:H221Y,221,Y,false
+Ndiaye13,501792,RT,RT:Y181C,181,C,false
+Ndiaye13,501800,RT,RT:K103N,103,N,false
+Ndiaye13,501800,RT,RT:M184V,184,V,false

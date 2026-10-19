@@ -1,0 +1,16 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Zhang25,795249,RT,RT:K70N,70,N,false
+Zhang25,795249,RT,RT:L74I,74,I,false
+Zhang25,795249,RT,RT:Y115F,115,F,false
+Zhang25,795259,RT,RT:K101E,101,E,false
+Zhang25,795287,RT,RT:K101E,101,E,false
+Zhang25,795356,RT,RT:K219Q,219,Q,false
+Zhang25,795398,RT,RT:K103N,103,N,false
+Zhang25,795404,RT,RT:G190S,190,S,false
+Zhang25,795432,RT,RT:K101E,101,E,false
+Zhang25,795458,RT,RT:K101E,101,E,false
+Zhang25,795459,PR,PR:M46L,46,L,false
+Zhang25,795476,RT,RT:T215S,215,S,false
+Zhang25,795526,RT,RT:M184I,184,I,false
+Zhang25,795535,PR,PR:M46L,46,L,false
+Zhang25,795703,PR,PR:M46I,46,I,false

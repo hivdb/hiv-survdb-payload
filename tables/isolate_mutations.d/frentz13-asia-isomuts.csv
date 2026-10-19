@@ -1,0 +1,13 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Frentz13-Asia,227474,RT,RT:G190A,190,A,false
+Frentz13-Asia,227554,RT,RT:K70N,70,N,false
+Frentz13-Asia,227635,RT,RT:K103N,103,N,false
+Frentz13-Asia,227635,RT,RT:T215S,215,S,false
+Frentz13-Asia,227895,RT,RT:F77L,77,L,false
+Frentz13-Asia,229142,RT,RT:T215S,215,S,false
+Frentz13-Asia,229482,RT,RT:M41L,41,L,false
+Frentz13-Asia,229543,PR,PR:L90M,90,M,false
+Frentz13-Asia,229544,RT,RT:K103N,103,N,false
+Frentz13-Asia,229753,RT,RT:K70N,70,N,false
+Frentz13-Asia,229821,RT,RT:K101E,101,E,false
+Frentz13-Asia,229921,RT,RT:K103N,103,N,false

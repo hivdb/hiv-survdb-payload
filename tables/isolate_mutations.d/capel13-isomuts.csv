@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Capel13,260834,IN,IN:Q148H,148,H,false

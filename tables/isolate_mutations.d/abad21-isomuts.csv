@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Abad21,640357,PR,PR:M46L,46,L,false
+Abad21,640403,PR,PR:M46L,46,L,false
+Abad21,640427,PR,PR:I84V,84,V,false
+Abad21,640441,IN,IN:E92Q,92,Q,false
+Abad21,640494,RT,RT:K103N,103,N,false
+Abad21,640494,RT,RT:K65R,65,R,false
+Abad21,640494,RT,RT:L74I,74,I,false
+Abad21,640494,RT,RT:M184I,184,I,false
+Abad21,640494,RT,RT:M230L,230,L,false

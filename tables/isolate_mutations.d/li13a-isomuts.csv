@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Li13a,220682,PR,PR:M46L,46,L,false
+Li13a,220715,PR,PR:M46L,46,L,false
+Li13a,220721,PR,PR:M46L,46,L,false
+Li13a,220727,PR,PR:M46L,46,L,false

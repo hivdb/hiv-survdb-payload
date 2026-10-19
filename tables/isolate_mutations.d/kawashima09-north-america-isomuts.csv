@@ -1,0 +1,15 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kawashima09-North America,780070,RT,RT:L210W,210,W,false
+Kawashima09-North America,780070,RT,RT:T215D,215,D,false
+Kawashima09-North America,780092,RT,RT:M184V,184,V,false
+Kawashima09-North America,780114,IN,IN:R263K,263,K,false
+Kawashima09-North America,780115,RT,RT:K103N,103,N,false
+Kawashima09-North America,780390,RT,RT:L210W,210,W,false
+Kawashima09-North America,780390,RT,RT:M184V,184,V,false
+Kawashima09-North America,780390,RT,RT:T215Y,215,Y,false
+Kawashima09-North America,780392,RT,RT:K219Q,219,Q,false
+Kawashima09-North America,780394,RT,RT:G190A,190,A,false
+Kawashima09-North America,780394,RT,RT:K101E,101,E,false
+Kawashima09-North America,780394,RT,RT:L210W,210,W,false
+Kawashima09-North America,780394,RT,RT:M184V,184,V,false
+Kawashima09-North America,780394,RT,RT:T215Y,215,Y,false

@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Avi10,156877,IN,IN:S153F,153,F,false
+Avi10,156923,IN,IN:E138K,138,K,false
+Avi10,156931,IN,IN:A49G,49,G,false

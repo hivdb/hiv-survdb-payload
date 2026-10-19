@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Garrido09,151105,IN,IN:S147G,147,G,false
+Garrido09,151116,IN,IN:T66A,66,A,false
+Garrido09,151223,IN,IN:R263K,263,K,false
+Garrido09,151225,IN,IN:S230R,230,R,false
+Garrido09,151270,IN,IN:R263K,263,K,false
+Garrido09,151281,IN,IN:T66I,66,I,false

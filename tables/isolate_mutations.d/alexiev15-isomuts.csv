@@ -1,0 +1,16 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Alexiev15,291239,PR,PR:D30N,30,N,false
+Alexiev15,291239,PR,PR:N88D,88,D,false
+Alexiev15,291240,RT,RT:M41L,41,L,false
+Alexiev15,291240,RT,RT:T215D,215,D,false
+Alexiev15,291308,RT,RT:V106M,106,M,false
+Alexiev15,291332,RT,RT:K103N,103,N,false
+Alexiev15,291346,RT,RT:K219Q,219,Q,false
+Alexiev15,291437,RT,RT:F77L,77,L,false
+Alexiev15,291437,RT,RT:T215C,215,C,false
+Alexiev15,291437,RT,RT:Y181C,181,C,false
+Alexiev15,291455,RT,RT:K70N,70,N,false
+Alexiev15,291489,RT,RT:T215D,215,D,false
+Alexiev15,291546,RT,RT:V75M,75,M,false
+Alexiev15,291637,PR,PR:M46L,46,L,false
+Alexiev15,291656,RT,RT:G190E,190,E,false

@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Farinre21,622614,PR,PR:M46I,46,I,false
+Farinre21,622880,PR,PR:F53Y,53,Y,false
+Farinre21,622888,PR,PR:I85V,85,V,false
+Farinre21,622942,PR,PR:D30N,30,N,false

@@ -1,0 +1,16 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Fabeni21,637898,RT,RT:G190A,190,A,false
+Fabeni21,637933,PR,PR:M46I,46,I,false
+Fabeni21,637950,RT,RT:G190A,190,A,false
+Fabeni21,638025,PR,PR:I85V,85,V,false
+Fabeni21,638040,RT,RT:K103N,103,N,false
+Fabeni21,638041,PR,PR:F53Y,53,Y,false
+Fabeni21,638045,PR,PR:I85V,85,V,false
+Fabeni21,638048,RT,RT:K103N,103,N,false
+Fabeni21,638112,RT,RT:M41L,41,L,false
+Fabeni21,638115,PR,PR:I85V,85,V,false
+Fabeni21,638120,RT,RT:K103N,103,N,false
+Fabeni21,638178,RT,RT:M184V,184,V,false
+Fabeni21,638187,PR,PR:I85V,85,V,false
+Fabeni21,638198,RT,RT:T215S,215,S,false
+Fabeni21,638233,PR,PR:I85V,85,V,false

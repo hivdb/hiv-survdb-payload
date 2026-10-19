@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Grant22,671727,RT,RT:M41L,41,L,false
+Grant22,671735,RT,RT:M41L,41,L,false
+Grant22,671844,IN,IN:E138K,138,K,false
+Grant22,671851,RT,RT:M41L,41,L,false

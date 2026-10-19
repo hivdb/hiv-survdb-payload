@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Song20,743241,RT,RT:P225H,225,H,false
+Song20,743307,RT,RT:M230L,230,L,false

@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Nzeyimana10,384055,RT,RT:K103N,103,N,false
+Nzeyimana10,384057,RT,RT:Y181C,181,C,false
+Nzeyimana10,384277,RT,RT:F227L,227,L,false
+Nzeyimana10,384352,PR,PR:I85V,85,V,false
+Nzeyimana10,384367,RT,RT:M184V,184,V,false

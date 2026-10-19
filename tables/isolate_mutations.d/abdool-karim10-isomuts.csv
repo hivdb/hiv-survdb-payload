@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Abdool Karim10,367076,RT,RT:K103N,103,N,false
+Abdool Karim10,367201,PR,PR:I54V,54,V,false
+Abdool Karim10,367214,RT,RT:K103N,103,N,false

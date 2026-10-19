@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Arimide22a,671421,RT,RT:K101E,101,E,false
+Arimide22a,671559,RT,RT:K101E,101,E,false
+Arimide22a,671597,RT,RT:K103N,103,N,false

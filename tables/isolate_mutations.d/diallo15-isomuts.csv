@@ -1,0 +1,12 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Diallo15,261497,PR,PR:I85V,85,V,false
+Diallo15,261501,PR,PR:F53Y,53,Y,false
+Diallo15,261540,RT,RT:V75M,75,M,false
+Diallo15,261542,RT,RT:K103N,103,N,false
+Diallo15,261622,RT,RT:G190A,190,A,false
+Diallo15,261699,PR,PR:M46L,46,L,false
+Diallo15,261810,RT,RT:M41L,41,L,false
+Diallo15,261830,RT,RT:K101E,101,E,false
+Diallo15,261860,RT,RT:G190A,190,A,false
+Diallo15,261860,RT,RT:K101E,101,E,false
+Diallo15,261956,RT,RT:M41L,41,L,false

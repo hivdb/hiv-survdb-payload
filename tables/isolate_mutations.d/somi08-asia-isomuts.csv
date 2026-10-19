@@ -1,0 +1,14 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Somi08-Asia,184951,PR,PR:F53Y,53,Y,false
+Somi08-Asia,184974,RT,RT:M184V,184,V,false
+Somi08-Asia,184992,RT,RT:G190A,190,A,false
+Somi08-Asia,184992,RT,RT:K70T,70,T,false
+Somi08-Asia,184992,RT,RT:Y181C,181,C,false
+Somi08-Asia,185006,RT,RT:K103N,103,N,false
+Somi08-Asia,185018,RT,RT:D67N,67,N,false
+Somi08-Asia,185018,RT,RT:G190S,190,S,false
+Somi08-Asia,185018,RT,RT:K101E,101,E,false
+Somi08-Asia,185018,RT,RT:K219Q,219,Q,false
+Somi08-Asia,185018,RT,RT:K70R,70,R,false
+Somi08-Asia,185018,RT,RT:M184V,184,V,false
+Somi08-Asia,185018,RT,RT:T215F,215,F,false

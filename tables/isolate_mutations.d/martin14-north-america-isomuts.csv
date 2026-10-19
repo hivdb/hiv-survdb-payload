@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Martin14-North America,330515,RT,RT:L210W,210,W,false
+Martin14-North America,330515,RT,RT:M41L,41,L,false
+Martin14-North America,330515,RT,RT:T215D,215,D,false
+Martin14-North America,330571,RT,RT:K103N,103,N,false
+Martin14-North America,330577,RT,RT:K103N,103,N,false

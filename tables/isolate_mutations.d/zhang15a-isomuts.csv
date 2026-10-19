@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Zhang15a,293383,RT,RT:M184V,184,V,false
+Zhang15a,293385,RT,RT:M184V,184,V,false
+Zhang15a,293546,PR,PR:G73S,73,S,false
+Zhang15a,293554,PR,PR:M46I,46,I,false
+Zhang15a,293651,RT,RT:K70E,70,E,false
+Zhang15a,293652,PR,PR:M46I,46,I,false
+Zhang15a,293657,RT,RT:G190A,190,A,false
+Zhang15a,293727,RT,RT:V106M,106,M,false

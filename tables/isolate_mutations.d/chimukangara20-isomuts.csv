@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Chimukangara20,594928,PR,PR:D30N,30,N,false
+Chimukangara20,594940,PR,PR:I85V,85,V,false
+Chimukangara20,594953,RT,RT:H221Y,221,Y,false
+Chimukangara20,595133,RT,RT:T215I,215,I,false
+Chimukangara20,595135,RT,RT:K103N,103,N,false
+Chimukangara20,595236,PR,PR:M46I,46,I,false
+Chimukangara20,595255,RT,RT:K103N,103,N,false
+Chimukangara20,595287,RT,RT:K103N,103,N,false
+Chimukangara20,595287,RT,RT:M184V,184,V,false
+Chimukangara20,595287,RT,RT:V106M,106,M,false

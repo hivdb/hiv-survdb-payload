@@ -1,0 +1,24 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Maia Teixeira06,67719,RT,RT:D67N,67,N,false
+Maia Teixeira06,67719,RT,RT:K219Q,219,Q,false
+Maia Teixeira06,67719,RT,RT:K70R,70,R,false
+Maia Teixeira06,67719,RT,RT:T215F,215,F,false
+Maia Teixeira06,67723,RT,RT:M41L,41,L,false
+Maia Teixeira06,67723,RT,RT:T215Y,215,Y,false
+Maia Teixeira06,67739,RT,RT:M41L,41,L,false
+Maia Teixeira06,67743,RT,RT:M41L,41,L,false
+Maia Teixeira06,67751,RT,RT:M41L,41,L,false
+Maia Teixeira06,67751,RT,RT:T215Y,215,Y,false
+Maia Teixeira06,67751,RT,RT:T69D,69,D,false
+Maia Teixeira06,67781,RT,RT:K219R,219,R,false
+Maia Teixeira06,67785,RT,RT:G190E,190,E,false
+Maia Teixeira06,67785,RT,RT:T215S,215,S,false
+Maia Teixeira06,67793,RT,RT:K219E,219,E,false
+Maia Teixeira06,67793,RT,RT:K70R,70,R,false
+Maia Teixeira06,67793,RT,RT:M184V,184,V,false
+Maia Teixeira06,67796,PR,PR:L90M,90,M,false
+Maia Teixeira06,67797,RT,RT:D67N,67,N,false
+Maia Teixeira06,67797,RT,RT:K219E,219,E,false
+Maia Teixeira06,67797,RT,RT:K70R,70,R,false
+Maia Teixeira06,67797,RT,RT:T215F,215,F,false
+Maia Teixeira06,67830,PR,PR:L90M,90,M,false

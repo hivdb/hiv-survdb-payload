@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Marjani20,557083,IN,IN:E138K,138,K,false
+Marjani20,557083,IN,IN:G140A,140,A,false
+Marjani20,557083,IN,IN:Q148R,148,R,false
+Marjani20,557083,IN,IN:S147G,147,G,false

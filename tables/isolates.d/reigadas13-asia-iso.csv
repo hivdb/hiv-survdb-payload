@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Reigadas13-Asia,235634,235634,113674,IN,NULL,2008,C,Plasma,NULL,IND,NULL,false,NULL
+Reigadas13-Asia,235635,235635,113675,IN,NULL,2008,C,Plasma,NULL,IND,NULL,false,NULL

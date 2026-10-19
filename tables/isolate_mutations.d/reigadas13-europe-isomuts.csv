@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Reigadas13-Europe,235287,IN,IN:G149A,149,A,false
+Reigadas13-Europe,235678,IN,IN:E92G,92,G,false
+Reigadas13-Europe,235716,IN,IN:F121Y,121,Y,false

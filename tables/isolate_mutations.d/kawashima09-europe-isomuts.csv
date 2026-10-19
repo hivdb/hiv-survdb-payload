@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kawashima09-Europe,780325,RT,RT:L210W,210,W,false
+Kawashima09-Europe,780325,RT,RT:T215Y,215,Y,false
+Kawashima09-Europe,780350,RT,RT:L74I,74,I,false
+Kawashima09-Europe,780350,RT,RT:V75S,75,S,false
+Kawashima09-Europe,780378,IN,IN:R263K,263,K,false
+Kawashima09-Europe,780382,IN,IN:A49G,49,G,false

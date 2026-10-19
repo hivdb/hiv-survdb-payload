@@ -1,0 +1,23 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Vaughan03-South America,44861,44861,19491,PR,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44862,44862,19491,RT,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44869,44869,19495,PR,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44870,44870,19495,RT,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44879,44879,19500,PR,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44880,44880,19500,RT,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44897,44897,19509,PR,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44898,44898,19509,RT,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44903,44903,19512,PR,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44904,44904,19512,RT,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44907,44907,19514,PR,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44908,44908,19514,RT,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44925,44925,19523,PR,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44926,44926,19523,RT,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44927,44927,19524,PR,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44928,44928,19524,RT,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44929,44929,19525,PR,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44930,44930,19525,RT,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44941,44941,19531,PR,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44942,44942,19531,RT,NULL,2001,B,Plasma,NULL,GUY,NULL,false,NULL
+Vaughan03-South America,44959,44959,19540,PR,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL
+Vaughan03-South America,44960,44960,19540,RT,NULL,2001,B,Plasma,NULL,SUR,NULL,false,NULL

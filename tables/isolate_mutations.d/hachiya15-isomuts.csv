@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Hachiya15,306144,IN,IN:T66I,66,I,false
+Hachiya15,306158,IN,IN:S153F,153,F,false
+Hachiya15,306166,IN,IN:G149A,149,A,false
+Hachiya15,306238,IN,IN:S153F,153,F,false
+Hachiya15,306418,IN,IN:E138K,138,K,false
+Hachiya15,306476,IN,IN:E138K,138,K,false
+Hachiya15,306561,IN,IN:E138K,138,K,false
+Hachiya15,306565,IN,IN:E138K,138,K,false
+Hachiya15,306608,IN,IN:S147G,147,G,false

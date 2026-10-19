@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Eshleman04-South America,49653,RT,RT:D67N,67,N,false
+Eshleman04-South America,49653,RT,RT:K219Q,219,Q,false
+Eshleman04-South America,49653,RT,RT:K70R,70,R,false
+Eshleman04-South America,49653,RT,RT:T215F,215,F,false
+Eshleman04-South America,49661,RT,RT:V75M,75,M,false

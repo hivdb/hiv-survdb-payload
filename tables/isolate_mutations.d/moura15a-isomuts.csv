@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Moura15a,293045,RT,RT:K70N,70,N,false
+Moura15a,293055,RT,RT:T215S,215,S,false
+Moura15a,293113,RT,RT:M184V,184,V,false
+Moura15a,293153,RT,RT:K103N,103,N,false
+Moura15a,293181,RT,RT:K103S,103,S,false

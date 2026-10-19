@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Chen18a,476744,RT,RT:M41L,41,L,false
+Chen18a,476873,PR,PR:I50V,50,V,false
+Chen18a,476949,PR,PR:I84V,84,V,false
+Chen18a,476996,RT,RT:K103N,103,N,false
+Chen18a,477128,RT,RT:K103N,103,N,false
+Chen18a,477242,RT,RT:G190A,190,A,false
+Chen18a,477242,RT,RT:K101E,101,E,false
+Chen18a,477242,RT,RT:Y181C,181,C,false

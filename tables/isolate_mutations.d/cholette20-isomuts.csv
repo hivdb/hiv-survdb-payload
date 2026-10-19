@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Cholette20,632449,RT,RT:K219R,219,R,false
+Cholette20,632459,RT,RT:K219R,219,R,false
+Cholette20,632472,PR,PR:M46I,46,I,false
+Cholette20,632655,RT,RT:K103N,103,N,false
+Cholette20,632723,RT,RT:K101E,101,E,false
+Cholette20,632741,RT,RT:K101E,101,E,false
+Cholette20,632759,RT,RT:K103N,103,N,false
+Cholette20,632803,RT,RT:Y188H,188,H,false
+Cholette20,632813,RT,RT:K103N,103,N,false

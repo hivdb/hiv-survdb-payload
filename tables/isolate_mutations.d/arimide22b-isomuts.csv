@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Arimide22b,640591,IN,IN:E92G,92,G,false
+Arimide22b,640656,IN,IN:G149A,149,A,false

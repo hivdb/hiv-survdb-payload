@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Somi08-Africa,122733,PR,PR:M46L,46,L,false
+Somi08-Africa,122741,PR,PR:F53Y,53,Y,false
+Somi08-Africa,184476,RT,RT:K103N,103,N,false
+Somi08-Africa,184570,RT,RT:F227L,227,L,false
+Somi08-Africa,184586,RT,RT:G190A,190,A,false
+Somi08-Africa,184586,RT,RT:K103N,103,N,false
+Somi08-Africa,184586,RT,RT:M184V,184,V,false
+Somi08-Africa,184586,RT,RT:T215F,215,F,false
+Somi08-Africa,184586,RT,RT:Y181C,181,C,false
+Somi08-Africa,184903,PR,PR:M46I,46,I,false

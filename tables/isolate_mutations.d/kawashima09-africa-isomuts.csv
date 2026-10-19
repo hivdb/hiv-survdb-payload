@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kawashima09-Africa,779592,PR,PR:M46L,46,L,false
+Kawashima09-Africa,779619,RT,RT:K103N,103,N,false
+Kawashima09-Africa,779673,RT,RT:K101E,101,E,false
+Kawashima09-Africa,779739,RT,RT:K103N,103,N,false
+Kawashima09-Africa,779846,PR,PR:M46L,46,L,false
+Kawashima09-Africa,780025,RT,RT:F77L,77,L,false
+Kawashima09-Africa,780027,RT,RT:K70Q,70,Q,false
+Kawashima09-Africa,780047,RT,RT:K101E,101,E,false

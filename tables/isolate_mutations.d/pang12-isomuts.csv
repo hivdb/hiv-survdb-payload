@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Pang12,596481,PR,PR:M46I,46,I,false

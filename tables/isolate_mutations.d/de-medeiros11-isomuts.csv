@@ -1,0 +1,8 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+de Medeiros11,176251,RT,RT:D67G,67,G,false
+de Medeiros11,176324,PR,PR:I54L,54,L,false
+de Medeiros11,176355,RT,RT:V106M,106,M,false
+de Medeiros11,176370,PR,PR:I54T,54,T,false
+de Medeiros11,176421,RT,RT:K103N,103,N,false
+de Medeiros11,176433,RT,RT:D67N,67,N,false
+de Medeiros11,176433,RT,RT:K70R,70,R,false

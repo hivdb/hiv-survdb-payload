@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Shi21,636147,PR,PR:M46I,46,I,false
+Shi21,636177,RT,RT:K101E,101,E,false
+Shi21,636185,RT,RT:K101E,101,E,false
+Shi21,636246,RT,RT:K101E,101,E,false
+Shi21,636350,PR,PR:M46L,46,L,false
+Shi21,636368,PR,PR:M46L,46,L,false

@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Vergne00-Africa,19513,RT,RT:Y181C,181,C,false
+Vergne00-Africa,19522,RT,RT:F227L,227,L,false
+Vergne00-Africa,19558,RT,RT:Y181C,181,C,false
+Vergne00-Africa,19560,RT,RT:Y181C,181,C,false
+Vergne00-Africa,19562,RT,RT:Y181C,181,C,false
+Vergne00-Africa,19564,RT,RT:H221Y,221,Y,false

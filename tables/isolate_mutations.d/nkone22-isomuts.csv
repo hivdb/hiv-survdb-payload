@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Nkone22,727267,RT,RT:K103N,103,N,false
+Nkone22,727291,RT,RT:K103N,103,N,false
+Nkone22,727300,RT,RT:K101E,101,E,false
+Nkone22,727338,PR,PR:I85V,85,V,false
+Nkone22,727339,RT,RT:V106M,106,M,false
+Nkone22,727366,RT,RT:G190A,190,A,false
+Nkone22,727366,RT,RT:K103N,103,N,false
+Nkone22,727396,RT,RT:K103N,103,N,false

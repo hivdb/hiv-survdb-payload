@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Nomura13,511493,PR,PR:M46L,46,L,false
+Nomura13,511496,PR,PR:M46L,46,L,false
+Nomura13,511511,PR,PR:M46L,46,L,false
+Nomura13,511540,PR,PR:I85V,85,V,false
+Nomura13,511541,PR,PR:I85V,85,V,false
+Nomura13,511626,PR,PR:M46L,46,L,false

@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Feng16,398624,PR,PR:V82L,82,L,false
+Feng16,398633,RT,RT:K103N,103,N,false
+Feng16,398643,RT,RT:T215D,215,D,false
+Feng16,398646,PR,PR:G73S,73,S,false
+Feng16,398648,PR,PR:G73S,73,S,false

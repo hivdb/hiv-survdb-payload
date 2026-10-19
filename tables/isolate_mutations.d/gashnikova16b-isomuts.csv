@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Gashnikova16b,373683,PR,PR:I85V,85,V,false
+Gashnikova16b,373722,IN,IN:T66I,66,I,false
+Gashnikova16b,373773,IN,IN:A49G,49,G,false
+Gashnikova16b,373798,RT,RT:Y181C,181,C,false
+Gashnikova16b,373822,RT,RT:G190E,190,E,false

@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Hebberecht19,556103,RT,RT:K103N,103,N,false
+Hebberecht19,556130,RT,RT:M184V,184,V,false
+Hebberecht19,556142,RT,RT:K103N,103,N,false
+Hebberecht19,556175,RT,RT:T215E,215,E,false
+Hebberecht19,556178,RT,RT:T215E,215,E,false
+Hebberecht19,556187,RT,RT:K103N,103,N,false
+Hebberecht19,556226,RT,RT:K219Q,219,Q,false
+Hebberecht19,556231,PR,PR:D30N,30,N,false
+Hebberecht19,556244,RT,RT:K103N,103,N,false
+Hebberecht19,556283,RT,RT:T215D,215,D,false

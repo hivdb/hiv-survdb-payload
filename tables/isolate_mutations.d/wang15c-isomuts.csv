@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Wang15c,365851,RT,RT:M184V,184,V,false
+Wang15c,365869,RT,RT:G190A,190,A,false
+Wang15c,365869,RT,RT:H221Y,221,Y,false
+Wang15c,365869,RT,RT:K101E,101,E,false
+Wang15c,365869,RT,RT:M184V,184,V,false
+Wang15c,365869,RT,RT:Y181C,181,C,false
+Wang15c,366075,RT,RT:D67E,67,E,false
+Wang15c,366189,RT,RT:K101E,101,E,false
+Wang15c,366189,RT,RT:K219Q,219,Q,false

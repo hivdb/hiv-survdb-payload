@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Wang15a,292190,PR,PR:V82L,82,L,false
+Wang15a,292199,RT,RT:F227L,227,L,false
+Wang15a,292220,PR,PR:L90M,90,M,false
+Wang15a,292330,PR,PR:N88D,88,D,false

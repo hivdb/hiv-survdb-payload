@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Margot19-North America,530211,IN,IN:S230R,230,R,false
+Margot19-North America,530879,IN,IN:S230R,230,R,false
+Margot19-North America,530929,IN,IN:R263K,263,K,false
+Margot19-North America,531203,IN,IN:H51Y,51,Y,false
+Margot19-North America,531270,IN,IN:H51Y,51,Y,false

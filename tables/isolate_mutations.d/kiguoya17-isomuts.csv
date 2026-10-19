@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kiguoya17,506927,PR,PR:I85V,85,V,false
+Kiguoya17,506935,PR,PR:M46I,46,I,false
+Kiguoya17,506955,PR,PR:N88S,88,S,false

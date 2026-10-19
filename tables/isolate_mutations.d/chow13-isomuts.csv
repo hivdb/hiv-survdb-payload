@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Chow13,245821,RT,RT:K103N,103,N,false
+Chow13,245894,RT,RT:K103N,103,N,false
+Chow13,245898,RT,RT:K103N,103,N,false
+Chow13,245918,RT,RT:L210W,210,W,false
+Chow13,245939,RT,RT:K103N,103,N,false
+Chow13,245956,PR,PR:M46I,46,I,false

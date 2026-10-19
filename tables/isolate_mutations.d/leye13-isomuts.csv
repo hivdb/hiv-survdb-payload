@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Leye13,252784,RT,RT:K219R,219,R,false
+Leye13,252796,RT,RT:L210W,210,W,false
+Leye13,252796,RT,RT:T215D,215,D,false

@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Margot19-Asia,530027,IN,IN:E138K,138,K,false
+Margot19-Asia,530282,IN,IN:E138K,138,K,false

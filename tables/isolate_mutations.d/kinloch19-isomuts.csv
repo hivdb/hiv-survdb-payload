@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kinloch19,493302,IN,IN:E138T,138,T,false
+Kinloch19,493377,IN,IN:E138T,138,T,false
+Kinloch19,493487,IN,IN:T66I,66,I,false
+Kinloch19,493561,IN,IN:E138K,138,K,false
+Kinloch19,493567,IN,IN:Q148R,148,R,false
+Kinloch19,493580,IN,IN:E138K,138,K,false

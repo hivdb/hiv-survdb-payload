@@ -1,0 +1,8 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Joao20-North America,600598,600598,301472,IN,NULL,2015,B,Plasma,NULL,USA,NULL,false,NULL
+Joao20-North America,600599,600599,301472,PR,NULL,2015,B,Plasma,NULL,USA,NULL,false,NULL
+Joao20-North America,600600,600600,301472,RT,NULL,2015,B,Plasma,NULL,USA,NULL,false,NULL
+Joao20-North America,600601,600601,301473,RT,NULL,2015,B,Plasma,NULL,USA,NULL,false,NULL
+Joao20-North America,600602,600602,301473,IN,NULL,2015,B,Plasma,NULL,USA,NULL,false,NULL
+Joao20-North America,600615,600615,301479,IN,NULL,2015,B,Plasma,NULL,USA,NULL,false,NULL
+Joao20-North America,600674,600674,301504,IN,NULL,2017,B,Plasma,NULL,USA,NULL,false,NULL

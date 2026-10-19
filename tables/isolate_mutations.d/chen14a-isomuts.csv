@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Chen14a,386300,PR,PR:D30N,30,N,false
+Chen14a,386309,RT,RT:T215S,215,S,false
+Chen14a,386367,RT,RT:K103N,103,N,false
+Chen14a,386419,RT,RT:M184I,184,I,false
+Chen14a,386460,PR,PR:M46I,46,I,false
+Chen14a,386488,RT,RT:M184V,184,V,false
+Chen14a,386495,PR,PR:M46I,46,I,false
+Chen14a,386545,PR,PR:M46L,46,L,false
+Chen14a,386546,RT,RT:K219N,219,N,false
+Chen14a,386584,RT,RT:H221Y,221,Y,false

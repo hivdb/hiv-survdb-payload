@@ -1,0 +1,12 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Loubet14,288991,RT,RT:K103N,103,N,false
+Loubet14,289043,RT,RT:K103N,103,N,false
+Loubet14,289093,PR,PR:I47V,47,V,false
+Loubet14,289093,PR,PR:I84V,84,V,false
+Loubet14,289100,PR,PR:G73A,73,A,false
+Loubet14,289104,RT,RT:M41L,41,L,false
+Loubet14,289122,RT,RT:M184V,184,V,false
+Loubet14,289122,RT,RT:M41L,41,L,false
+Loubet14,289122,RT,RT:T215F,215,F,false
+Loubet14,289122,RT,RT:Y188L,188,L,false
+Loubet14,289135,RT,RT:K101E,101,E,false

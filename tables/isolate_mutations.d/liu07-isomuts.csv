@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Liu07,103038,PR,PR:M46I,46,I,false
+Liu07,103100,PR,PR:L90M,90,M,false
+Liu07,103100,PR,PR:M46I,46,I,false

@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+van Zyl17,407384,RT,RT:K103N,103,N,false
+van Zyl17,407402,RT,RT:F227L,227,L,false
+van Zyl17,407422,RT,RT:K103N,103,N,false
+van Zyl17,407422,RT,RT:P225H,225,H,false
+van Zyl17,407434,RT,RT:T215E,215,E,false
+van Zyl17,407442,RT,RT:K103N,103,N,false
+van Zyl17,407458,RT,RT:K103N,103,N,false
+van Zyl17,407500,RT,RT:K103N,103,N,false

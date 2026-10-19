@@ -1,0 +1,21 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+El Annaz11,172731,RT,RT:P225H,225,H,false
+El Annaz11,172737,RT,RT:F227L,227,L,false
+El Annaz11,172739,RT,RT:D67N,67,N,false
+El Annaz11,172739,RT,RT:K219Q,219,Q,false
+El Annaz11,172743,RT,RT:M184V,184,V,false
+El Annaz11,172761,PR,PR:V82F,82,F,false
+El Annaz11,172763,RT,RT:F116Y,116,Y,false
+El Annaz11,172789,RT,RT:M41L,41,L,false
+El Annaz11,172789,RT,RT:T215S,215,S,false
+El Annaz11,172798,RT,RT:K70T,70,T,false
+El Annaz11,172812,RT,RT:K103N,103,N,false
+El Annaz11,172812,RT,RT:M184V,184,V,false
+El Annaz11,172813,PR,PR:V82A,82,A,false
+El Annaz11,172824,RT,RT:F77L,77,L,false
+El Annaz11,172824,RT,RT:T215S,215,S,false
+El Annaz11,172828,RT,RT:K103N,103,N,false
+El Annaz11,172828,RT,RT:M184V,184,V,false
+El Annaz11,172828,RT,RT:T215I,215,I,false
+El Annaz11,172870,RT,RT:D67N,67,N,false
+El Annaz11,172870,RT,RT:K219Q,219,Q,false

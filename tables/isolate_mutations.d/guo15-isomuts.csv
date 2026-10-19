@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Guo15,299015,RT,RT:K101E,101,E,false
+Guo15,299249,RT,RT:K101E,101,E,false

@@ -1,0 +1,8 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Huang09,355148,PR,PR:M46L,46,L,false
+Huang09,355150,PR,PR:N88S,88,S,false
+Huang09,355221,RT,RT:K219E,219,E,false
+Huang09,355221,RT,RT:Y181C,181,C,false
+Huang09,355476,RT,RT:K103N,103,N,false
+Huang09,355543,RT,RT:V106M,106,M,false
+Huang09,355543,RT,RT:Y188L,188,L,false

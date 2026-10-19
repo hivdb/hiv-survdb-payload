@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Mulu15,248992,RT,RT:K101E,101,E,false
+Mulu15,249045,RT,RT:K219E,219,E,false
+Mulu15,249085,PR,PR:M46I,46,I,false
+Mulu15,249086,RT,RT:L210W,210,W,false
+Mulu15,249118,RT,RT:L210W,210,W,false
+Mulu15,249143,PR,PR:F53L,53,L,false
+Mulu15,249171,RT,RT:G190A,190,A,false
+Mulu15,249196,RT,RT:D67E,67,E,false
+Mulu15,249217,RT,RT:G190A,190,A,false

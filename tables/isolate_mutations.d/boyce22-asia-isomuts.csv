@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Boyce22-Asia,600375,IN,IN:T66I,66,I,false

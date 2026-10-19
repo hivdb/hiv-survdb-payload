@@ -1,0 +1,14 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Appah22,672876,PR,PR:M46I,46,I,false
+Appah22,672883,RT,RT:K103N,103,N,false
+Appah22,672883,RT,RT:P225H,225,H,false
+Appah22,672889,RT,RT:K101E,101,E,false
+Appah22,672889,RT,RT:Y188L,188,L,false
+Appah22,672967,RT,RT:K103N,103,N,false
+Appah22,672967,RT,RT:M184V,184,V,false
+Appah22,672970,RT,RT:M41L,41,L,false
+Appah22,673032,RT,RT:Y188L,188,L,false
+Appah22,673035,RT,RT:K103N,103,N,false
+Appah22,673086,RT,RT:G190A,190,A,false
+Appah22,673090,RT,RT:M41L,41,L,false
+Appah22,673137,RT,RT:K219N,219,N,false

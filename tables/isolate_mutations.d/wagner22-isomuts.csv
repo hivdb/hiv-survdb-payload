@@ -1,0 +1,12 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Wagner22,642247,RT,RT:G190A,190,A,false
+Wagner22,642247,RT,RT:K103S,103,S,false
+Wagner22,642280,PR,PR:L90M,90,M,false
+Wagner22,642281,RT,RT:L74V,74,V,false
+Wagner22,642283,RT,RT:K103N,103,N,false
+Wagner22,642361,RT,RT:K219R,219,R,false
+Wagner22,642419,RT,RT:K103N,103,N,false
+Wagner22,642442,PR,PR:M46L,46,L,false
+Wagner22,642444,PR,PR:D30N,30,N,false
+Wagner22,642459,RT,RT:K103N,103,N,false
+Wagner22,642601,PR,PR:M46L,46,L,false

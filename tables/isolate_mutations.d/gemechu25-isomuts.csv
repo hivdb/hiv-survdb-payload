@@ -1,0 +1,15 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Gemechu25,752890,RT,RT:K103N,103,N,false
+Gemechu25,752895,RT,RT:F77L,77,L,false
+Gemechu25,752900,RT,RT:K65R,65,R,false
+Gemechu25,752913,RT,RT:K103N,103,N,false
+Gemechu25,752924,RT,RT:K103N,103,N,false
+Gemechu25,752928,PR,PR:L90M,90,M,false
+Gemechu25,752943,RT,RT:L210W,210,W,false
+Gemechu25,752953,RT,RT:G190A,190,A,false
+Gemechu25,752973,PR,PR:M46L,46,L,false
+Gemechu25,752999,RT,RT:G190A,190,A,false
+Gemechu25,753001,RT,RT:K103N,103,N,false
+Gemechu25,753013,RT,RT:K101E,101,E,false
+Gemechu25,753017,RT,RT:D67G,67,G,false
+Gemechu25,753020,PR,PR:I54S,54,S,false

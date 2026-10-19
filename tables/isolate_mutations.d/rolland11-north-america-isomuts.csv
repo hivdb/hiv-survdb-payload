@@ -1,0 +1,12 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Rolland11-North America,230979,PR,PR:I47V,47,V,false
+Rolland11-North America,230986,RT,RT:G190A,190,A,false
+Rolland11-North America,230986,RT,RT:M41L,41,L,false
+Rolland11-North America,230986,RT,RT:T215E,215,E,false
+Rolland11-North America,231022,RT,RT:D67N,67,N,false
+Rolland11-North America,231131,RT,RT:M41L,41,L,false
+Rolland11-North America,231131,RT,RT:T215E,215,E,false
+Rolland11-North America,231133,PR,PR:I85V,85,V,false
+Rolland11-North America,231140,RT,RT:K103N,103,N,false
+Rolland11-North America,231155,RT,RT:K103N,103,N,false
+Rolland11-North America,231161,RT,RT:Y181C,181,C,false

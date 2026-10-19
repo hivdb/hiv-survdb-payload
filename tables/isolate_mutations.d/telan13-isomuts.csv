@@ -1,0 +1,14 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Telan13,213536,PR,PR:M46L,46,L,false
+Telan13,213573,RT,RT:G190A,190,A,false
+Telan13,213573,RT,RT:K101E,101,E,false
+Telan13,213573,RT,RT:M184V,184,V,false
+Telan13,213573,RT,RT:T215Y,215,Y,false
+Telan13,213661,RT,RT:D67G,67,G,false
+Telan13,213727,RT,RT:G190S,190,S,false
+Telan13,213727,RT,RT:K101E,101,E,false
+Telan13,213727,RT,RT:K65R,65,R,false
+Telan13,213727,RT,RT:M184V,184,V,false
+Telan13,213727,RT,RT:M41L,41,L,false
+Telan13,213727,RT,RT:V75M,75,M,false
+Telan13,213727,RT,RT:Y181C,181,C,false

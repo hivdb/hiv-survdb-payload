@@ -1,0 +1,10 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Boyce22-South America,600407,RT,RT:G190A,190,A,false
+Boyce22-South America,600407,RT,RT:K103N,103,N,false
+Boyce22-South America,601328,RT,RT:K101E,101,E,false
+Boyce22-South America,601328,RT,RT:T215S,215,S,false
+Boyce22-South America,601328,RT,RT:Y181C,181,C,false
+Boyce22-South America,601357,RT,RT:K103N,103,N,false
+Boyce22-South America,601357,RT,RT:P225H,225,H,false
+Boyce22-South America,601387,RT,RT:M41L,41,L,false
+Boyce22-South America,601479,RT,RT:M41L,41,L,false

@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Joao20-Asia,600256,RT,RT:K103N,103,N,false
+Joao20-Asia,600262,RT,RT:D67N,67,N,false
+Joao20-Asia,600262,RT,RT:K219Q,219,Q,false
+Joao20-Asia,600262,RT,RT:T215V,215,V,false
+Joao20-Asia,600274,RT,RT:K103N,103,N,false
+Joao20-Asia,600301,RT,RT:K103N,103,N,false
+Joao20-Asia,600347,RT,RT:G190A,190,A,false
+Joao20-Asia,600364,RT,RT:G190A,190,A,false

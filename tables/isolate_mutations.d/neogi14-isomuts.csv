@@ -1,0 +1,14 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Neogi14,380931,RT,RT:T69D,69,D,false
+Neogi14,380955,RT,RT:K103N,103,N,false
+Neogi14,380995,RT,RT:K103N,103,N,false
+Neogi14,381011,RT,RT:F227L,227,L,false
+Neogi14,381033,RT,RT:D67N,67,N,false
+Neogi14,381107,RT,RT:Y181C,181,C,false
+Neogi14,381157,RT,RT:K101E,101,E,false
+Neogi14,381191,RT,RT:K219Q,219,Q,false
+Neogi14,381288,PR,PR:N88S,88,S,false
+Neogi14,381431,RT,RT:M41L,41,L,false
+Neogi14,381435,RT,RT:K101E,101,E,false
+Neogi14,381441,RT,RT:T215S,215,S,false
+Neogi14,381465,RT,RT:T215S,215,S,false

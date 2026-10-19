@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Vercauteren09-Asia,141506,PR,PR:V82F,82,F,false
+Vercauteren09-Asia,141828,RT,RT:K70Q,70,Q,false
+Vercauteren09-Asia,142006,RT,RT:K219R,219,R,false
+Vercauteren09-Asia,142674,RT,RT:D67G,67,G,false
+Vercauteren09-Asia,142674,RT,RT:F116Y,116,Y,false

@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+McCluskey21,638354,IN,IN:E138K,138,K,false
+McCluskey21,638374,IN,IN:S230R,230,R,false

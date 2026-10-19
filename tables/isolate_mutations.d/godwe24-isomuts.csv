@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Godwe24,795005,PR,PR:D30N,30,N,false
+Godwe24,795037,PR,PR:M46I,46,I,false
+Godwe24,795209,PR,PR:M46L,46,L,false

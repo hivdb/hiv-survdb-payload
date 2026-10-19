@@ -1,0 +1,22 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Eshleman09a-South America,127392,127392,57802,IN,NULL,1997,F,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127404,127404,57814,IN,NULL,1997,F,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127405,127405,57815,IN,NULL,1997,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127406,127406,57816,IN,NULL,1997,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127407,127407,57817,IN,NULL,1997,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127421,127421,57831,IN,NULL,1997,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127481,127481,57891,IN,NULL,1997,B,Plasma,NULL,ARG,NULL,false,NULL
+Eshleman09a-South America,127482,127482,57892,IN,NULL,1997,F,Plasma,NULL,ARG,NULL,false,NULL
+Eshleman09a-South America,127483,127483,57893,IN,NULL,1997,B,Plasma,NULL,ARG,NULL,false,NULL
+Eshleman09a-South America,127484,127484,57894,IN,NULL,1997,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127485,127485,57895,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127486,127486,57896,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127487,127487,57897,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127488,127488,57898,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127489,127489,57899,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127490,127490,57900,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127491,127491,57901,IN,NULL,1996,F,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127492,127492,57902,IN,NULL,1996,F,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127493,127493,57903,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127494,127494,57904,IN,NULL,1996,F,Plasma,NULL,BRA,NULL,false,NULL
+Eshleman09a-South America,127495,127495,57905,IN,NULL,1996,B,Plasma,NULL,BRA,NULL,false,NULL

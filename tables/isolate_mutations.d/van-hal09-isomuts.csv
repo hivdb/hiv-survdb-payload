@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+van Hal09,129256,IN,IN:G140S,140,S,false
+van Hal09,129261,IN,IN:G140S,140,S,false

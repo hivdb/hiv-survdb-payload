@@ -1,0 +1,2 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Yao15a,380530,RT,RT:Y181C,181,C,false

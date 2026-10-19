@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Ndembi08a,92821,PR,PR:M46L,46,L,false
+Ndembi08a,92847,PR,PR:M46L,46,L,false
+Ndembi08a,92854,RT,RT:Y181C,181,C,false

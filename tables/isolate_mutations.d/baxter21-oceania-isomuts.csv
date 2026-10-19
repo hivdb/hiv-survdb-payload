@@ -1,0 +1,13 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Baxter21-Oceania,604690,IN,IN:E92G,92,G,false
+Baxter21-Oceania,604693,IN,IN:E92G,92,G,false
+Baxter21-Oceania,604706,PR,PR:M46L,46,L,false
+Baxter21-Oceania,604711,IN,IN:E138K,138,K,false
+Baxter21-Oceania,604783,PR,PR:L90M,90,M,false
+Baxter21-Oceania,604784,RT,RT:H221Y,221,Y,false
+Baxter21-Oceania,604790,RT,RT:T215S,215,S,false
+Baxter21-Oceania,604797,IN,IN:E138K,138,K,false
+Baxter21-Oceania,604811,RT,RT:F77L,77,L,false
+Baxter21-Oceania,604859,RT,RT:K103N,103,N,false
+Baxter21-Oceania,604875,IN,IN:E138K,138,K,false
+Baxter21-Oceania,604877,RT,RT:K103N,103,N,false

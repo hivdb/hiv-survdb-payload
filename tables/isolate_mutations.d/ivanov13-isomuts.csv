@@ -1,0 +1,12 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Ivanov13,291180,RT,RT:F77L,77,L,false
+Ivanov13,291264,RT,RT:K70N,70,N,false
+Ivanov13,291276,RT,RT:T215S,215,S,false
+Ivanov13,291459,RT,RT:Y181C,181,C,false
+Ivanov13,291483,RT,RT:K219Q,219,Q,false
+Ivanov13,291531,PR,PR:D30N,30,N,false
+Ivanov13,291531,PR,PR:N88D,88,D,false
+Ivanov13,291532,RT,RT:M41L,41,L,false
+Ivanov13,291532,RT,RT:T215Y,215,Y,false
+Ivanov13,291682,RT,RT:M41L,41,L,false
+Ivanov13,291735,RT,RT:M41L,41,L,false

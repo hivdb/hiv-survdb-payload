@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Gashnikova16a,341696,RT,RT:M41L,41,L,false
+Gashnikova16a,341720,PR,PR:L24I,24,I,false
+Gashnikova16a,341742,RT,RT:G190A,190,A,false
+Gashnikova16a,341750,RT,RT:Y188L,188,L,false
+Gashnikova16a,341794,RT,RT:K103N,103,N,false

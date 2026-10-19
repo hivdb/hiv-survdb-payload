@@ -1,0 +1,21 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Van Tran16,304960,RT,RT:K103N,103,N,false
+Van Tran16,304984,RT,RT:M41L,41,L,false
+Van Tran16,305056,RT,RT:V75M,75,M,false
+Van Tran16,305100,PR,PR:M46I,46,I,false
+Van Tran16,305203,RT,RT:Y181C,181,C,false
+Van Tran16,305217,PR,PR:M46I,46,I,false
+Van Tran16,305224,RT,RT:K101E,101,E,false
+Van Tran16,305238,PR,PR:I85V,85,V,false
+Van Tran16,305308,RT,RT:H221Y,221,Y,false
+Van Tran16,305308,RT,RT:Y181C,181,C,false
+Van Tran16,305392,RT,RT:Y181C,181,C,false
+Van Tran16,305464,RT,RT:K103N,103,N,false
+Van Tran16,305467,RT,RT:G190E,190,E,false
+Van Tran16,305560,RT,RT:T215S,215,S,false
+Van Tran16,305686,RT,RT:K103N,103,N,false
+Van Tran16,305724,PR,PR:M46L,46,L,false
+Van Tran16,305769,PR,PR:N83D,83,D,false
+Van Tran16,305809,RT,RT:Y181C,181,C,false
+Van Tran16,305824,RT,RT:T215F,215,F,false
+Van Tran16,305869,RT,RT:V75M,75,M,false

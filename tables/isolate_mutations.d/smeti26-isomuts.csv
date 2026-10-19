@@ -1,0 +1,16 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Smeti26,795710,RT,RT:K103N,103,N,false
+Smeti26,795713,PR,PR:M46L,46,L,false
+Smeti26,795746,RT,RT:K103N,103,N,false
+Smeti26,795771,PR,PR:I85V,85,V,false
+Smeti26,795774,RT,RT:K103N,103,N,false
+Smeti26,795774,RT,RT:V106M,106,M,false
+Smeti26,795816,RT,RT:K103N,103,N,false
+Smeti26,795821,PR,PR:I85V,85,V,false
+Smeti26,795830,RT,RT:D67N,67,N,false
+Smeti26,795830,RT,RT:K219E,219,E,false
+Smeti26,795830,RT,RT:K65R,65,R,false
+Smeti26,795830,RT,RT:M184V,184,V,false
+Smeti26,795830,RT,RT:V75M,75,M,false
+Smeti26,795845,PR,PR:M46I,46,I,false
+Smeti26,795854,RT,RT:K103N,103,N,false

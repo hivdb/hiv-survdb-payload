@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Rodgers18-Africa,462759,IN,IN:R263K,263,K,false
+Rodgers18-Africa,462814,IN,IN:T66A,66,A,false

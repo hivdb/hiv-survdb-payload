@@ -1,0 +1,7 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Maruapula21,577859,RT,RT:K103N,103,N,false
+Maruapula21,577884,RT,RT:K103N,103,N,false
+Maruapula21,577914,RT,RT:G190A,190,A,false
+Maruapula21,577939,RT,RT:K103N,103,N,false
+Maruapula21,577939,RT,RT:M41L,41,L,false
+Maruapula21,577955,PR,PR:M46L,46,L,false

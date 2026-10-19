@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Lin07,168277,PR,PR:F53L,53,L,false
+Lin07,168420,PR,PR:L90M,90,M,false
+Lin07,168420,PR,PR:M46L,46,L,false
+Lin07,168420,PR,PR:N83D,83,D,false
+Lin07,168426,PR,PR:L90M,90,M,false
+Lin07,168434,PR,PR:I85V,85,V,false
+Lin07,168478,PR,PR:F53L,53,L,false
+Lin07,168478,PR,PR:L90M,90,M,false

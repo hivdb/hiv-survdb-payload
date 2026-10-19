@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Fan22,670589,IN,IN:H51Y,51,Y,false
+Fan22,670600,IN,IN:E138A,138,A,false
+Fan22,670617,IN,IN:S153F,153,F,false
+Fan22,670626,IN,IN:A49G,49,G,false
+Fan22,670627,IN,IN:R263K,263,K,false

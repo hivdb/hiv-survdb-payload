@@ -1,0 +1,13 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Weinstock04,794674,RT,RT:T215D,215,D,false
+Weinstock04,794686,RT,RT:L210W,210,W,false
+Weinstock04,794686,RT,RT:M41L,41,L,false
+Weinstock04,794686,RT,RT:T215C,215,C,false
+Weinstock04,794703,PR,PR:M46I,46,I,false
+Weinstock04,794790,RT,RT:K103N,103,N,false
+Weinstock04,794796,RT,RT:M184I,184,I,false
+Weinstock04,794820,RT,RT:D67G,67,G,false
+Weinstock04,794832,RT,RT:L210W,210,W,false
+Weinstock04,794832,RT,RT:M41L,41,L,false
+Weinstock04,794832,RT,RT:T215D,215,D,false
+Weinstock04,794847,PR,PR:M46I,46,I,false

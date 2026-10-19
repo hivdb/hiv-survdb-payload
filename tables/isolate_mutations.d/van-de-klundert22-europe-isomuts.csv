@@ -1,0 +1,26 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+van de Klundert22-Europe,687558,RT,RT:H221Y,221,Y,false
+van de Klundert22-Europe,687558,RT,RT:K103N,103,N,false
+van de Klundert22-Europe,687558,RT,RT:Y181C,181,C,false
+van de Klundert22-Europe,687568,RT,RT:K103N,103,N,false
+van de Klundert22-Europe,687620,RT,RT:K101E,101,E,false
+van de Klundert22-Europe,687635,PR,PR:L24I,24,I,false
+van de Klundert22-Europe,687636,RT,RT:K103N,103,N,false
+van de Klundert22-Europe,687716,RT,RT:G190S,190,S,false
+van de Klundert22-Europe,687716,RT,RT:K65R,65,R,false
+van de Klundert22-Europe,687716,RT,RT:M184V,184,V,false
+van de Klundert22-Europe,687716,RT,RT:Y115F,115,F,false
+van de Klundert22-Europe,687716,RT,RT:Y181C,181,C,false
+van de Klundert22-Europe,687777,PR,PR:M46I,46,I,false
+van de Klundert22-Europe,687784,RT,RT:K103N,103,N,false
+van de Klundert22-Europe,687938,RT,RT:K103N,103,N,false
+van de Klundert22-Europe,688008,RT,RT:Y188L,188,L,false
+van de Klundert22-Europe,688014,RT,RT:V106M,106,M,false
+van de Klundert22-Europe,688242,PR,PR:D30N,30,N,false
+van de Klundert22-Europe,688671,RT,RT:K103N,103,N,false
+van de Klundert22-Europe,688685,RT,RT:Y188C,188,C,false
+van de Klundert22-Europe,688952,PR,PR:M46L,46,L,false
+van de Klundert22-Europe,688964,PR,PR:M46L,46,L,false
+van de Klundert22-Europe,689095,RT,RT:K101E,101,E,false
+van de Klundert22-Europe,689137,RT,RT:M41L,41,L,false
+van de Klundert22-Europe,689258,PR,PR:M46I,46,I,false

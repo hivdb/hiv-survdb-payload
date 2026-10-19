@@ -1,0 +1,3 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Palumbo18-Asia,462538,RT,RT:K103N,103,N,false
+Palumbo18-Asia,462538,RT,RT:Y181C,181,C,false

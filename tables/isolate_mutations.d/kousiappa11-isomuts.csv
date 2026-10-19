@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Kousiappa11,235812,RT,RT:D67N,67,N,false
+Kousiappa11,235812,RT,RT:K219E,219,E,false
+Kousiappa11,235812,RT,RT:K70R,70,R,false
+Kousiappa11,235812,RT,RT:M184V,184,V,false
+Kousiappa11,235812,RT,RT:T215Y,215,Y,false
+Kousiappa11,235812,RT,RT:Y181C,181,C,false
+Kousiappa11,235974,RT,RT:K103N,103,N,false
+Kousiappa11,235974,RT,RT:K219E,219,E,false
+Kousiappa11,235974,RT,RT:T215I,215,I,false
+Kousiappa11,235986,RT,RT:K103N,103,N,false

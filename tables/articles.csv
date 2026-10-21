@@ -173,7 +173,6 @@ Fujisaki09,1673,NULL,19182917,NULL,"Fujisaki, S","An 11-year surveillance of HIV
 Galluzzo07,1726,NULL,18184089,NULL,"Galluzzo, CM",Antiretroviral resistance mutations in untreated pregnant women with HIV infection in Uganda and Rwanda.,ARHR,2007,TRUE
 Gare22,3088,NULL,35305571,NULL,"Gare, J",High prevalence of pre-treatment HIV drug resistance in Papua New Guinea: findings from the first nationally representative pre-treatment HIV drug resistance study.,BMC Infect Dis,2022,TRUE
 Garrido09,1747,NULL,20007331,NULL,"Garrido, C","Integrase variability and susceptibility to HIV integrase inhibitors: Impact of subtypes, antiretroviral experience and duration of HIV infection.",J Antimicrob Chemother,2009,TRUE
-Gashnikova16a,2386,NULL,27761744,NULL,"Gashnikova, NM","Predominance of CRF63_02A1 and multiple patterns of unique recombinant forms of CRF63_A1 among individuals with newly diagnosed HIV-1 infection in Kemerovo Oblast, Russia.",Arch Virol,2016,TRUE
 Gashnikova16b,2458,NULL,27957489,NULL,"Gashnikova, NM","HIV-1 epidemiology, genetic diversity, and primary drug resistance in the Tyumen Oblast, Russia.",Biomed Res Int,2016,TRUE
 Gatanaga07,1768,NULL,17194486,NULL,"Gatanaga, H",Drug-resistant HIV-1 prevalence in patients newly diagnosed with HIV/AIDS in Japan,Antiviral Res,2007,TRUE
 Gemechu25,3542,NULL,40242261,NULL,"Gemechu, A",Pretreatment HIV-1 Drug Resistance Among Newly Diagnosed People in Eastern Ethiopia.,Health Sci Rep,2025,TRUE
@@ -194,6 +193,7 @@ Guimaraes15a,2238,NULL,25826640,NULL,"Guimaraes, PM","Transmitted Drug Resistanc
 Guimaraes15b,2305,NULL,26536040,NULL,"Guimaraes, ML",Assessing the HIV-1 epidemic in Brazilian drug users: a molecular epidemiology approach.,PLoS ONE,2015,TRUE
 Gulick04,1908,NULL,15115831,NULL,"Gulick, RM",Triple-nucleoside regimens versus efavirenz-containing regimens for the initial treatment of HIV-1 infection.,N Engl J Med,2004,TRUE
 Guo15,2260,NULL,25879488,NULL,"Guo, H","Low prevalence of the transmitted HIV-1 drug resistance among newly diagnosed HIV-1 individuals in Jiangsu Province, China during 2009-2011.",BMC Public Health,2015,TRUE
+Gupta-Wright20,3061,NULL,32890497,NULL,"Gupta-Wright, A","Virological failure, HIV-1 drug resistance, and early mortality in adults admitted to hospital in Malawi: an observational cohort study.",Lancet HIV,2020,TRUE
 Hachiya15,2304,NULL,25956162,NULL,"Hachiya, A",Natural polymorphism S119R of HIV-1 integrase enhances primary INSTI resistance.,Antiviral Res,2015,TRUE
 Hachiya17,2576,NULL,NULL,NULL,"Hachiya, A",Trends in transmitted drug-resistant HIV-1 and demographic characteristics of newly diagnosed patients: Nationwide surveillance from 2013 to 2015 in Japan.,Direct Genbank Submission,2017,TRUE
 Hachiya22,3064,NULL,NULL,NULL,"Hachiya, A",Anti-HBV monotherapy caused M184V/I mutation prior to initiation of antiretroviral therapy in recent years in Japan,Direct Genbank Submission,2022,FALSE
@@ -220,6 +220,7 @@ Holguin07,1695,NULL,17451342,NULL,"Holguin, A",Introduction of non-B subtypes am
 Holguin08,2061,NULL,18691031,NULL,"Holguin, A",Increase of non-B subtypes and recombinants among newly diagnosed HIV-1 native Spaniards and immigrants in Spain.,Curr HIV Res,2008,TRUE
 Holguin13,2076,NULL,23782115,NULL,"Holguin, A","Transmitted drug-resistance in human immunodeficiency virus-infected adult population in El Salvador, Central America.",Clin Microbiol Infect.,2013,TRUE
 Hong23,3422,NULL,37833806,NULL,"Hong, H","HIV-1 drug resistance and genetic transmission network among newly diagnosed people living with HIV/AIDS in Ningbo, China between 2018 and 2021.",Virol J,2023,TRUE
+Hora15,2363,NULL,27314585,NULL,"Hora, B",Genetic characterization of a panel of diverse HIV-1 isolates at seven international sites.,PLoS ONE,2015,TRUE
 Huang09,2416,NULL,19918101,NULL,"Huang, KH","Prevalence of HIV type-1 drug-associated mutations in pre-therapy patients in the Free State, South Africa.",Antivir Ther,2009,TRUE
 Huik19,2826,NULL,31125356,NULL,"Huik, K",The concordance of the limiting antigen and the Bio-Rad avidity assays in persons from Estonia infected mainly with HIV-1 CRF06_cpx.,PLoS ONE,2019,TRUE
 Hunt12,2145,NULL,22544199,NULL,"Hunt, GM","Surveillance of transmitted HIV-1 drug resistance in Gauteng and KwaZulu-Natal Provinces, South Africa, 2005-2009.",Clin Infect Dis,2012,TRUE
@@ -271,6 +272,7 @@ Lahuerta08,1598,NULL,18271719,NULL,"Lahuerta, M",Rapid spread and genetic divers
 Lama06,1493,NULL,16773026,NULL,"Lama, JR",Linking HIV and antiretroviral drug resistance surveillance in Peru: A model for a third-generation HIV sentinel surveillance.,JAIDS,2006,TRUE
 Lan03,1082,NULL,14601592,NULL,"Lan, NT",HIV type 1 isolates from 200 untreated individuals in Ho Chi Minh city(Vietnam): ANRS 1257 study. Large predominance of CRF01_AE and presence of major resistance mutations to antiretroviral drugs.,ARHR,2003,TRUE
 Lan21,3458,NULL,33309773,NULL,"Lan, Y","Complicated genotypes circulating among treatment naive HIV-1 patients in Guangzhou, China.",Infect Genet Evol,2021,TRUE
+Lapovok17,2867,NULL,28814231,NULL,"Lapovok, I",HIV Type 1 Integrase Natural Polymorphisms in Viral Variants Circulating in FSU Countries.,Curr HIV Res,2017,TRUE
 Lataillade07,1523,NULL,17668566,NULL,"Lataillade, M",Natural polymorphism of the HIV-1 integrase gene and mutations associated with integrase inhibitor resistance.,Antivir Ther,2007,TRUE
 Lavu17,2501,NULL,28146591,NULL,"Lavu, E",High levels of transmitted HIV drug resistance in a study in Papua New Guinea.,PLoS ONE,2017,TRUE
 Lazaro11,1992,NULL,22039450,NULL,"Lazaro, E","Molecular characterization of HIV-1 CRF01_AE in Mekong Delta, Vietnam, and impact of T-cell epitope mutations on HLA recognition (ANRS 12159).",PLoS ONE,2011,TRUE
@@ -290,6 +292,7 @@ Li15b,2259,NULL,25560398,NULL,"Li, L","CRF07_BC strain dominates the HIV-1 epide
 Li15c,2300,NULL,26577039,NULL,"Li, Z","Trends of HIV subtypes and phylogenetic dynamics among young men who have sex with men in China, 2009-2014.",Sci Rep,2015,TRUE
 Li16a,2365,NULL,26381060,NULL,"Li, L","HIV-1 Thai B strain has spread out of former plasma donors into general population through sexual contact in Henan, China.",J Med Virol,2016,TRUE
 Li16b,2411,NULL,27782811,NULL,"Li, H",The prevalence of drug resistance among treatment-naive HIV-1-infected individuals in China during pre- and post- 2004.,BMC Infect Dis,2016,TRUE
+Li17,2677,NULL,28795354,NULL,"Li, T","Drug resistance mutation profiles of the drug-naive and first-line regimen-treated HIV-1-infected population of Suzhou, China",Virol Sin,2017,TRUE
 Li18,2647,NULL,30150680,NULL,"Li, J",HIV-1 Transmissions Among Recently Infected Individuals in Southwest China are Predominantly Derived from Circulating Local Strains.,Sci Rep,2018,TRUE
 Li22,3247,NULL,36117159,NULL,"Li, D",HIV-1 pretreatment drug resistance and genetic transmission network in the southwest border region of China.,BMC Infect Dis,2022,TRUE
 Liang20,3004,NULL,33347449,NULL,"Liang, S","The genotype distribution, infection stage and drug resistance mutation profile of human immunodeficiency virus-1 among the infected blood donors from five Chinese blood centers, 2014-2017.",PLoS One,2020,TRUE
@@ -314,7 +317,6 @@ Lunar18,2762,NULL,29698470,NULL,"Lunar, MM",HIV-1 transmitted drug resistance in
 Lunar19,2763,NULL,30682549,NULL,"Lunar, MM",Sequence ambiguity determined from routine pol sequencing is a reliable tool for real-time surveillance of HIV incidence trends.,Infect Genet Evol,2019,TRUE
 Luu12,2096,NULL,22264071,NULL,"Luu, QP","HIV type 1 coreceptor tropism, CCR5 genotype, and integrase inhibitor resistance profiles in Vietnam: Implications for the introduction of new antiretroviral regimens.",ARHR,2012,TRUE
 Ly05,1238,NULL,16386116,NULL,"Ly, N",Characterization of mutations in HIV type 1 isolates from 144 Cambodian recently infected patients and pregnant women naive to antiretroviral drugs.,ARHR,2005,TRUE
-Machado09,1823,NULL,19795985,NULL,"Machado, LF",Molecular epidemiology of HIV type 1 in northern Brazil: Identification of subtypes C and D and the introduction of CRF02_AG in the amazon region of Brazil.,ARHR,2009,TRUE
 Machado12,2028,NULL,22985307,NULL,"Machado, LY",Transmitted HIV yype 1 drug resistance in newly diagnosed Cuban patients.,ARHR,2012,TRUE
 Machado19,2857,NULL,31479466,NULL,"Machado, LY",National survey of pre-treatment HIV drug resistance in Cuban patients.,PLoS ONE,2019,TRUE
 Machnowska19,2702,NULL,30650082,NULL,"Machnowska, P",Prevalence and persistence of transmitted drug resistance mutations in the German HIV-1 Seroconverter Study Cohort.,PLoS ONE,2019,TRUE
@@ -328,7 +330,6 @@ Martin14,2336,NULL,25212686,NULL,"Martin, E",Early immune adaptation in HIV-1 re
 Maruapula21,3656,NULL,34036243,NULL,"Maruapula, D",Use of a mutation-specific genotyping method to assess for HIV-1 drug resistance in antiretroviral-naive HIV-1 Subtype C-infected patients in Botswana.,AAS Open Res,2021,TRUE
 Maruapula22,3090,NULL,35838991,NULL,"Maruapula, D",Low-frequency HIV-1 drug resistance mutations in antiretroviral naive individuals in Botswana.,Medicine (Baltimore),2022,TRUE
 Masimba13,2121,NULL,23806135,NULL,"Masimba, PJ",Prevalence of drug-resistance mutations and HIV-1 subtypes in a HIV-1 infected cohort in rural Tanzania.,ARHR,2013,TRUE
-Masoud20a,2947,NULL,NULL,NULL,"Masoud, S","Pre-treatment and acquired HIV drug resistance in Dar es Salaam, Tanzania in the era of tenofovir and routine viral load monitoring.",Direct Genbank Submission,2020,TRUE
 Masoud20b,3024,NULL,32126792,NULL,"Masoud, S",Circulating HIV-1 Integrase Genotypes in Tanzania: Implication on the Introduction of Integrase Inhibitors-Based Antiretroviral Therapy Regimen.,AIDS Res Hum Retroviruses,2020,TRUE
 Matsuda24,3434,NULL,39041595,NULL,"Matsuda, EM","Transmitted Antiretroviral Drug Resistance to Integrase Strand Transfer Inhibitors Class in Sao Paulo Metropolitan Area, Brazil.",AIDS Res Hum Retroviruses,2024,TRUE
 Matthews08,1954,NULL,18596105,NULL,"Matthews, PC",Central role of reverting mutations in HLA associations with human immunodeficiency virus set point.,J Virol,2008,TRUE
@@ -338,7 +339,6 @@ Mbisa20,2965,NULL,32728703,NULL,"Mbisa, JL",Surveillance of HIV-1 transmitted in
 McCluskey21,3099,NULL,33635845,NULL,"McCluskey, SM",Pre-treatment integrase inhibitor resistance is uncommon in antiretroviral therapy-naive individuals with HIV-1 subtype A1 and D infections in Uganda.,AIDS,2021,TRUE
 McConnell08,1717,NULL,18572440,NULL,"McConnell, MJ",Molecular epidemiology of HIV type 1 in newly diagnosed patients in southern Spain.,ARHR,2008,TRUE
 Meixenberger14a,2210,NULL,24920768,NULL,"Meixenberger, K",Assessment of ambiguous base calls in HIV-1 pol population sequences as a biomarker for identification of recent infections in HIV-1 incidence studies.,J Clin Microbiol,2014,TRUE
-Meixenberger14b,3627,NULL,25397491,NULL,"Meixenberger, K",Characterization of natural polymorphic sites of the HIV-1 integrase before the introduction of HIV-1 integrase inhibitors in Germany.,J Int AIDS Soc,2014,TRUE
 Meixenberger17,2538,NULL,29137637,NULL,"Meixenberger, K",Molecular evolution of HIV-1 integrase during the 20,Virol J,2017,TRUE
 MIkasi20,2997,NULL,NULL,https://scholar.sun.ac.za/handle/10019.1/101375,"MIkasi, SG",Investigation of the HIV-1 diversity in the Cape Wine-lands district of the Western Cape Province of South Africa.,Direct Genbank Submission,2020,TRUE
 Milne19,2717,NULL,30946148,NULL,"Milne, RS",Minority and majority pre-treatment HIV-1 drug resistance associated with failure of 1st-line NNRTI ART in Kenyan women.,AIDS,2019,TRUE
@@ -365,7 +365,6 @@ Ngo-Giang-Huong19,2719,NULL,30418575,NULL,"Ngo-Giang-Huong, N",Prevalence of pre
 Nkone22,3465,NULL,35346259,NULL,"Nkone, P",Deep sequencing of the HIV-1 polymerase gene for characterisation of cytotoxic T-lymphocyte epitopes during early and chronic disease stages.,Virol J,2022,TRUE
 Nomura13,2776,NULL,23152532,NULL,"Nomura, S",Significant reductions in Gag-protease-mediated HIV-1 replication capacity during the course of the epidemic in Japan.,J Virol,2013,TRUE
 Nouhin09,1663,NULL,19388823,NULL,"Nouhin, J",Low prevalence of drug resistance transmitted virus in HIV Type 1-infected ARV-naive patients in Cambodia.,ARHR,2009,TRUE
-Nouhin11,1771,NULL,21094281,NULL,"Nouhin, J","Natural polymorphisms of HIV-1 CRF01_AE integrase coding region in ARV-naive individuals in Cambodia, Thailand and Vietnam: an ANRS AC12 working group study.",Infect Genet Evol,2011,TRUE
 Novitsky15,2322,NULL,26041893,NULL,"Novitsky, V",Long-range HIV genotyping using viral RNA and proviral DNA for analysis of HIV drug resistance and HIV clustering.,J Clin Microbiol,2015,TRUE
 Nwobegahay11a,1775,NULL,21837878,NULL,"Nwobegahay, JM","Prevalence of drug-resistant mutations in newly diagnosed drug-naive HIV-1-infected individuals in a treatment site in the Waterberg district, Limpopo province.",S Afr Med J,2011,TRUE
 Nwobegahay11b,1982,NULL,21957668,NULL,"Nwobegahay, JM",Prevalence of antiretroviral drug resistance mutations and HIV-I subtypes among newly-diagnosed drug-naive persons visiting a voluntary testing and counselling centre in northeastern South Africa.,J Health Popul Nutr,2011,TRUE
@@ -423,7 +422,6 @@ Rodgers20,2966,NULL,32350342,NULL,"Rodgers, MA",Diverse HCV Strains And HIV URFS
 Rodrigues06,1248,NULL,16332398,NULL,"Rodrigues, R",Low prevalence of primary antiretroviral resistance mutations and predominance of HIV-1 clade C at polymerase gene in newly diagnosed individuals from south Brazil.,Virus Res,2006,TRUE
 Rolland11,2075,NULL,21358627,NULL,"Rolland, M",Genetic impact of vaccination on breakthrough HIV-1 sequences from the STEP trial,Nat Med,2011,TRUE
 Rolland12,2051,NULL,22960785,NULL,"Rolland, M",Increased HIV-1 vaccine efficacy against viruses with genetic signatures in Env V2,Nature,2012,TRUE
-Rolland20,3641,NULL,32027734,NULL,"Rolland, M",Molecular dating and viral load growth rates suggested that the eclipse phase lasted about a week in HIV-1 infected adults in East Africa and Thailand.,PLoS Pathog,2020,TRUE
 Romano00,1258,NULL,11061664,NULL,"Romano, L",Detection of genotypically drug-resistant HIV-1 variants and non-B subtypes in recently infected antiretroviral-naive adults in Italy.,AIDS,2000,TRUE
 Ross14,2432,NULL,24586911,NULL,"Ross, LL","HIV-1 transmission patterns in antiretroviral therapy-naive, HIV-infected North Americans based on phylogenetic analysis by population level and ultra-deep DNA sequencing.",PLoS ONE,2014,TRUE
 Rousseau06,1280,NULL,16701907,NULL,"Rousseau, CM","Large-scale amplification, cloning and sequencing of near full-length HIV-1 subtype C genomes.",J Virol Methods,2006,TRUE
@@ -476,6 +474,7 @@ Thao12,2459,NULL,22473024,NULL,"Thao, VP",HIV-1 drug resistance in antiretrovira
 Toni02,1252,NULL,11834964,NULL,"Toni, TD",Primary HIV-1 drug resistance in Abidjan (Cote d'Ivoire) a genotypic and phenotypic study.,AIDS,2002,TRUE
 Toni03,1085,NULL,14506786,NULL,"Toni, TD","Presence of key drug resistance mutations in isolates from untreated patients of Abidjan, Cote d'Ivoire: ANRS 1257 study.",ARHR,2003,TRUE
 Toni07,1571,NULL,17919113,NULL,"Toni, TD","HIV-1 antiretroviral drug resistance in recently infected patients in Abidjan, Cote d'Ivoire: a 4-year survey, 2002-2006.",ARHR,2007,TRUE
+Topcu22,3221,NULL,36298841,NULL,"Topcu, C","Comparative HIV-1 Phylogenies Characterized by PR/RT, Pol and Near-Full-Length Genome Sequences.",Viruses,2022,TRUE
 Topcu24,3495,NULL,39339925,NULL,"Topcu, C",Mapping Transmission Dynamics and Drug Resistance Surveillance in the Cyprus HIV-1 Epidemic (2017-2021).,Viruses,2024,TRUE
 Totmenin19,2960,NULL,NULL,NULL,"Totmenin, AV",Natural polymorphisms of HIV-1 integrase coding region in ARV-naive individuals in Tajikistan.,Direct Genbank Submission,2019,TRUE
 Tran12,1999,NULL,22264087,NULL,"Tran, VT",No increase of drug-resistant HIV type 1 prevalence among drug-naive individuals in northern Vietnam.,ARHR,2012,TRUE

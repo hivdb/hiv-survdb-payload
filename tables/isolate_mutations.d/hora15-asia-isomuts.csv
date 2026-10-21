@@ -1,0 +1,6 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Hora15-Asia,333074,IN,IN:E138K,138,K,false
+Hora15-Asia,333253,PR,PR:I85V,85,V,false
+Hora15-Asia,333289,PR,PR:L90M,90,M,false
+Hora15-Asia,333290,RT,RT:T215C,215,C,false
+Hora15-Asia,333290,RT,RT:Y188L,188,L,false

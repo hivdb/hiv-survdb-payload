@@ -1,0 +1,11 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Hora15-Africa,332920,RT,RT:K103N,103,N,false
+Hora15-Africa,332920,RT,RT:M184V,184,V,false
+Hora15-Africa,332961,PR,PR:L90M,90,M,false
+Hora15-Africa,332995,RT,RT:K103N,103,N,false
+Hora15-Africa,333076,RT,RT:K103N,103,N,false
+Hora15-Africa,333275,RT,RT:H221Y,221,Y,false
+Hora15-Africa,333296,RT,RT:D67N,67,N,false
+Hora15-Africa,333296,RT,RT:K103N,103,N,false
+Hora15-Africa,333296,RT,RT:K219Q,219,Q,false
+Hora15-Africa,333314,RT,RT:K103N,103,N,false

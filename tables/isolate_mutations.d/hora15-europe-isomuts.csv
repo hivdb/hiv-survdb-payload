@@ -1,0 +1,12 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Hora15-Europe,332977,RT,RT:D67N,67,N,false
+Hora15-Europe,332977,RT,RT:K219Q,219,Q,false
+Hora15-Europe,332981,IN,IN:R263K,263,K,false
+Hora15-Europe,333096,PR,PR:L90M,90,M,false
+Hora15-Europe,333141,PR,PR:I54V,54,V,false
+Hora15-Europe,333141,PR,PR:L76V,76,V,false
+Hora15-Europe,333141,PR,PR:M46I,46,I,false
+Hora15-Europe,333141,PR,PR:V82A,82,A,false
+Hora15-Europe,333142,RT,RT:K103S,103,S,false
+Hora15-Europe,333215,RT,RT:D67N,67,N,false
+Hora15-Europe,333215,RT,RT:K219Q,219,Q,false

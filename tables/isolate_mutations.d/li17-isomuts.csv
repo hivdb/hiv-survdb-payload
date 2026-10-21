@@ -1,0 +1,5 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Li17,466146,RT,RT:V106M,106,M,false
+Li17,466193,RT,RT:K70E,70,E,false
+Li17,466347,RT,RT:K70N,70,N,false
+Li17,466445,PR,PR:L76V,76,V,false

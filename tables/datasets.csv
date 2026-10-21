@@ -188,7 +188,6 @@ Fujisaki09,Fujisaki09,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report
 Galluzzo07,Galluzzo07,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/galluzzo07
 Gare22,Gare22,Oceania,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gare22
 Garrido09,Garrido09,Europe,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/garrido09
-Gashnikova16a,Gashnikova16a,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gashnikova16a
 Gashnikova16b,Gashnikova16b,Europe,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gashnikova16b
 Gatanaga07,Gatanaga07,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gatanaga07
 Gemechu25,Gemechu25,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gemechu25
@@ -210,6 +209,7 @@ Guimaraes15b-Oceania,Guimaraes15b,Oceania,ART-naive,,NULL,https://hivdb.stanford
 Guimaraes15b-South America,Guimaraes15b,South America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/guimaraes15b
 Gulick04,Gulick04,North America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gulick04
 Guo15,Guo15,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/guo15
+Gupta-Wright20,Gupta-Wright20,Africa,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/gupta-wright20
 Hachiya15,Hachiya15,Asia,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hachiya15
 Hachiya17,Hachiya17,Asia,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hachiya17
 Hachiya22,Hachiya22,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hachiya22
@@ -236,6 +236,11 @@ Holguin07,Holguin07,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report
 Holguin08,Holguin08,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin08
 Holguin13,Holguin13,North America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/holguin13
 Hong23,Hong23,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hong23
+Hora15-Africa,Hora15,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hora15
+Hora15-Asia,Hora15,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hora15
+Hora15-Europe,Hora15,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hora15
+Hora15-North America,Hora15,North America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hora15
+Hora15-South America,Hora15,South America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hora15
 Huang09,Huang09,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/huang09
 Huik19,Huik19,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/huik19
 Hunt12,Hunt12,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/hunt12
@@ -293,6 +298,8 @@ Lahuerta08,Lahuerta08,Africa,PI-naive,,NULL,https://hivdb.stanford.edu/cpr/repor
 Lama06,Lama06,South America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lama06
 Lan03,Lan03,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lan03
 Lan21,Lan21,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lan21
+Lapovok17-Asia,Lapovok17,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lapovok17
+Lapovok17-Europe,Lapovok17,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lapovok17
 Lataillade07,Lataillade07,North America,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lataillade07
 Lavu17,Lavu17,Oceania,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lavu17
 Lazaro11,Lazaro11,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lazaro11
@@ -312,6 +319,7 @@ Li15b,Li15b,Asia,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/repo
 Li15c,Li15c,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li15c
 Li16a,Li16a,Asia,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li16a
 Li16b,Li16b,Asia,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li16b
+Li17,Li17,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li17
 Li18,Li18,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li18
 Li22,Li22,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/li22
 Liang20,Liang20,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/liang20
@@ -339,7 +347,6 @@ Lunar18,Lunar18,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?lo
 Lunar19,Lunar19,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/lunar19
 Luu12,Luu12,Asia,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/luu12
 Ly05,Ly05,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ly05
-Machado09,Machado09,South America,PI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machado09
 Machado12,Machado12,North America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machado12
 Machado19,Machado19,North America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machado19
 Machnowska19,Machnowska19,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/machnowska19
@@ -359,7 +366,6 @@ Martin14-Oceania,Martin14,Oceania,ART-naive;INSTI-naive,,NULL,https://hivdb.stan
 Maruapula21,Maruapula21,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/maruapula21
 Maruapula22,Maruapula22,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/maruapula22
 Masimba13,Masimba13,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/masimba13
-Masoud20a,Masoud20a,Africa,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/masoud20a
 Masoud20b,Masoud20b,Africa,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/masoud20b
 Matsuda24,Matsuda24,South America,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/matsuda24
 Matthews08,Matthews08,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/matthews08
@@ -369,7 +375,6 @@ Mbisa20,Mbisa20,Europe,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cp
 McCluskey21,McCluskey21,Africa,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mccluskey21
 McConnell08,McConnell08,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mcconnell08
 Meixenberger14a,Meixenberger14a,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/meixenberger14a
-Meixenberger14b,Meixenberger14b,Europe,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/meixenberger14b
 Meixenberger17,Meixenberger17,Europe,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/meixenberger17
 MIkasi20,MIkasi20,Africa,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/mikasi20
 Milne19,Milne19,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/milne19
@@ -397,7 +402,6 @@ Ngo-Giang-Huong19-Asia,Ngo-Giang-Huong19,Asia,ART-naive,,NULL,https://hivdb.stan
 Nkone22,Nkone22,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nkone22
 Nomura13,Nomura13,Asia,PI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nomura13
 Nouhin09,Nouhin09,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nouhin09
-Nouhin11,Nouhin11,Asia,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nouhin11
 Novitsky15,Novitsky15,Africa,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/novitsky15
 Nwobegahay11a,Nwobegahay11a,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nwobegahay11a
 Nwobegahay11b,Nwobegahay11b,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/nwobegahay11b
@@ -460,7 +464,6 @@ Rodrigues06,Rodrigues06,South America,ART-naive,,NULL,https://hivdb.stanford.edu
 Rolland11-North America,Rolland11,North America,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rolland11
 Rolland11-South America,Rolland11,South America,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rolland11
 Rolland12,Rolland12,Asia,ART-naive;INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rolland12
-Rolland20,Rolland20,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rolland20
 Romano00,Romano00,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/romano00
 Ross14,Ross14,North America,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/ross14
 Rousseau06,Rousseau06,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/rousseau06
@@ -514,6 +517,7 @@ Thao12,Thao12,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=h
 Toni02,Toni02,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/toni02
 Toni03,Toni03,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/toni03
 Toni07,Toni07,Africa,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/toni07
+Topcu22,Topcu22,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/topcu22
 Topcu24,Topcu24,Europe,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/topcu24
 Totmenin19,Totmenin19,Asia,INSTI-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/totmenin19
 Tran12,Tran12,Asia,ART-naive,,NULL,https://hivdb.stanford.edu/cpr/report/?load=hiv-survdb/tran12

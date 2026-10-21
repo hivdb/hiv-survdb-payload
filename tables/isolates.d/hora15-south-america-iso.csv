@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,hivdb_isolate_id,patient_id,gene,isolate_date,isolate_year,subtype,source,seq_method,country_code,genbank_accn,cpr_excluded,date_entered
+Hora15-South America,332928,332928,167062,PR,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,332929,332929,167062,RT,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,332930,332930,167062,IN,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,333325,333325,167195,PR,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,333326,333326,167195,RT,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,333327,333327,167195,IN,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,652765,652765,167062,CA,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL
+Hora15-South America,652777,652777,167195,CA,NULL,2007,C,Plasma,NULL,BRA,NULL,false,NULL

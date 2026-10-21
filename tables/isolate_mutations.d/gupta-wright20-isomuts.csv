@@ -1,0 +1,9 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Gupta-Wright20,615563,RT,RT:K103N,103,N,false
+Gupta-Wright20,615590,RT,RT:K103N,103,N,false
+Gupta-Wright20,615716,RT,RT:K103N,103,N,false
+Gupta-Wright20,615752,RT,RT:V106M,106,M,false
+Gupta-Wright20,615785,RT,RT:K103N,103,N,false
+Gupta-Wright20,616154,RT,RT:Y181C,181,C,false
+Gupta-Wright20,616175,IN,IN:Q148H,148,H,false
+Gupta-Wright20,616222,RT,RT:Y181C,181,C,false

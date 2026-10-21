@@ -1,0 +1,4 @@
+﻿dataset_name,isolate_name,gene,mutation,position,amino_acid,is_mixture
+Lapovok17-Europe,373722,IN,IN:T66I,66,I,false
+Lapovok17-Europe,373773,IN,IN:A49G,49,G,false
+Lapovok17-Europe,533658,IN,IN:E138K,138,K,false
